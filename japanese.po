@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-01-12 20:36\n"
-"PO-Revision-Date: 2020-01-17 00:43+0900\n"
+"PO-Revision-Date: 2020-01-17 01:01+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -632,7 +632,7 @@ msgstr ""
 #: Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
-msgstr "高価: 価値が35%上昇する。"
+msgstr "高価: Valueが35%上昇する。"
 
 #. Key:	193F948E4333F3741026EABB87402DD3
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(2).LinesToFuta
