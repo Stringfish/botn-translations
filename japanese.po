@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-01-12 20:36\n"
-"PO-Revision-Date: 2020-01-25 00:36+0900\n"
+"PO-Revision-Date: 2020-01-25 20:29+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -800,7 +800,7 @@ msgstr ""
 #: Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
-msgstr ""
+msgstr "おもいやり: 交尾相手に2倍のXPを与えるが、自分は半分しか受け取らない。"
 
 #. Key:	20149E5046FF32B65667FBA243C9BED4
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -841,9 +841,10 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
 #: Value).TraitIcons.HelpText
+#, fuzzy
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
-msgstr ""
+msgstr "どスケベ: 交配時に消費するLustが35%減少する。"
 
 #. Key:	21A08FF347BC7DE708B258BAD0F4BEF3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
@@ -2686,7 +2687,7 @@ msgstr "フォクセンとヴァルワーグは、色欲森の木陰と木立が
 #: Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
-msgstr ""
+msgstr "潤沢: 採取時に生産する体液が、50%増える。"
 
 #. Key:	6D4E481742B09428791263B3A820281E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(4).Lines
@@ -2813,7 +2814,7 @@ msgstr ""
 #: Value).TraitIcons.DisplayName
 msgctxt ",6FED048C4BF38E565F2ADC90DC3F4390"
 msgid "Kindhearted"
-msgstr ""
+msgstr "おもいやり"
 
 #. Key:	705BCA1D4ACA54FF178C9DA094C9DBA1
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(1).Lines
@@ -3020,7 +3021,7 @@ msgstr "正直なところ、ワタシたちはそれがどう働くのか、完
 #: Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
-msgstr ""
+msgstr "非標準体型: 遺伝的に、その派生種の標準と異なるサイズ。"
 
 #. Key:	76DD724248BA7178346EC59171F3BDF4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(5).LinesGrungy
@@ -3128,7 +3129,7 @@ msgstr "通りたいです、あなたのプッシー……ポータルを。"
 #: Value).TraitIcons.DisplayName
 msgctxt ",7B5F72194EE494B66BEC5CAD05253722"
 msgid "Juicy"
-msgstr "みずみずしい"
+msgstr "潤沢"
 
 #. Key:	7C4054234127D8843978CD80C4B540B7
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(1).LinesToMale
@@ -3576,7 +3577,7 @@ msgstr ""
 #: Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
-msgstr ""
+msgstr "多産: 多産性が、繰り返しの交配による妊娠チャンスを2倍にする。"
 
 #. Key:	8B4E1ACB4F89392773B344A3BE6A4E57
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(5).Lines
@@ -3768,7 +3769,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
-msgstr ""
+msgstr "快楽主義者: 本来なら交尾相手に与えられる分のXPを得る。"
 
 #. Key:	90CF176E415EE7CEA27716868800482A
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(4).Lines
@@ -3838,9 +3839,10 @@ msgstr "精液飲んでいいよ！"
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
 #: Value).TraitIcons.HelpText
+#, fuzzy
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
-msgstr ""
+msgstr "色情狂: セックス時に獲得するLoyaltyが2倍に増加する。"
 
 #. Key:	9458CFDE4690A312D5CC8F94BF4AE00A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
@@ -4290,7 +4292,7 @@ msgstr ""
 #: Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
-msgstr "育成"
+msgstr "養育家"
 
 #. Key:	A4E670824F11C45EC16FA29BAF6EB6E1
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(3).Lines
@@ -5201,7 +5203,7 @@ msgstr ""
 #: Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
-msgstr ""
+msgstr "養育家: 子が20%高い能力値になる。"
 
 #. Key:	CEC4092D45D0DBE6546A729EE34F0267
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
@@ -5372,9 +5374,10 @@ msgstr ""
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
 #: Value).TraitIcons.HelpText
+#, fuzzy
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
-msgstr ""
+msgstr "筋肉質: Strengthによって、交尾相手が交配時に与えられるXPが一定の割合で増加する。"
 
 #. Key:	D57D76E842FCC75ECC756BA13E9E8C9B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -5934,7 +5937,7 @@ msgstr "エキゾチック: 遺伝的に、よりモンスターの特徴をも�
 #: Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
-msgstr "肉々しい"
+msgstr "筋肉質"
 
 #. Key:	E89B660E4DCD6EDBFE7FBDB73A354FD0
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(2).Lines
@@ -6082,9 +6085,10 @@ msgstr ""
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
 #: Value).TraitIcons.HelpText
+#, fuzzy
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
-msgstr "誘惑者: Allureによって、交配時に獲得するXPが一定の割合で増加する。"
+msgstr "誘惑者: Allureによって、交配時のXPが一定の割合で増加する。"
 
 #. Key:	F010E1B74164FC7DBBA07E8F73124FEF
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -6340,7 +6344,7 @@ msgstr "巨尻"
 #: Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
-msgstr ""
+msgstr "不潔: 交尾相手が20%の確率で汚れ、Allureが50%低下する。"
 
 #. Key:	FA2C70284FBA2B074235FD87FF6B8D64
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(1).Lines
