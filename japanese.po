@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-01-26 18:54\n"
-"PO-Revision-Date: 2020-01-30 23:50+0900\n"
+"PO-Revision-Date: 2020-02-01 23:18+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -126,7 +126,7 @@ msgstr "あぁぁ、アナタのおいしい精子、ワタシのちっちゃな
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",03BD054E4D9907C2DF497EA4DCC0D8C3"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr "ワタシの名前はFalene、全@WORLD_NAME@で一番の@MONSTER_RACE@の専門家よ。"
+msgstr "ワタシの名前はファリーン、全@WORLD_NAME@で一番の@MONSTER_RACE@の専門家よ。"
 
 #. Key:	03C3FCAE4B8424BCF5F580BC933E08E8
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -161,7 +161,7 @@ msgstr "そろそろアナタの牧場から失礼するね！ でも心配し�
 #: /Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",04809803498EAC7920E3F09D8A29F0BF"
 msgid "Timeeee for the fluidsssss?"
-msgstr ""
+msgstr "えきたいぃぃの、じかんんんん？"
 
 #. Key:	0500B4944007820F3A7BB096A4E699AB
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
@@ -175,7 +175,7 @@ msgstr "遠慮なく言えばいいじゃん、アンタの野生の@MONSTER_RAC
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "アナタの背が高くて美しい身体をワタシでムダにしないでください。Faleneが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
+msgstr "アナタの背が高くて美しい身体をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -217,7 +217,7 @@ msgstr "さて、@WORLD_NAME@には私が這ったことのない場所はあり
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",06DCC78B4F1DECA217645DA58B3BB2A4"
 msgid "Fern help mastah! Fern harvest fluidssss for you!"
-msgstr ""
+msgstr "ファーン、ごすじんをたすける！ ファーン、えきたいぃぃぃをとる、ごすじんのため！"
 
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
@@ -238,7 +238,7 @@ msgstr "この世界は@MONSTER_RACE@――謎に満ちた半人半獣の混合�
 #: /Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",07F233504BDA1232640FB1846CBFE868"
 msgid "Mastah! Fern love you."
-msgstr ""
+msgstr "ごすじん！ ファーン、あいしてる。"
 
 #. Key:	07F5EE754EC13715610F3E8746D2A3D2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(0).Lines
@@ -357,7 +357,7 @@ msgstr "よろしければ、入浴しますか？ それとも、そなたの�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",0D9D20584BA7B523EE2834B29064B88E"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr ""
+msgstr "ううううう、ごすじん！ とうとう、ファーンえきたい、もらえる？！"
 
 #. Key:	0DB9C395441D2A229D61EE963260C09C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.TitanCave.ManageActionMessage
@@ -485,7 +485,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1187860A495AEE8B52286F8DA6A1DF53"
 msgid "What a lovely talking fern..."
-msgstr ""
+msgstr "なんてカワイイしゃべるファーン（シダ植物）……"
 
 #. Key:	119BE39146D97EAD68AF26B063950DFD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(6).Lines
@@ -513,7 +513,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",123F93684828FFF522F86B84110A5712"
 msgid "Why did you call me master?"
-msgstr "なんでマスターって呼ぶの？"
+msgstr "なんでご主人って呼んだの？"
 
 #. Key:	1240C441425085EA27ECBDBABB3C00AF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(14).Lines
@@ -576,7 +576,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
 msgctxt ",14597A3447ACFD81E4E72CB43D419E39"
 msgid "If I have to spend the rest of eternity in one spot, I wouldn't want it to be with anyone else..."
-msgstr ""
+msgstr "わたしが一箇所で永遠を過ごさねばならないとしたら、あなた以外のだれかと一緒になることは望みません……"
 
 #. Key:	146C8ABB4CFE56E192BE198657474339
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(0).Lines
@@ -696,7 +696,7 @@ msgstr "（愉悦する喘ぎ声）"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",1A04D48D493996FF8EDD59A9DDB7C1A6"
 msgid "You are the lord of this soil--or owner of Homestead in the common tongue."
-msgstr ""
+msgstr "あなたは、この土の主――共通語で言えば、牧場屋敷の所有者ですから。"
 
 #. Key:	1A66A5974B5893066D25B7A93AD8BA38
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(4).Lines
@@ -780,7 +780,7 @@ msgstr "ニャ！"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",1D53B4634A50A322CFC243AF9F5C48DC"
 msgid "My tiny little adorable assistant Camilla can help you as well."
-msgstr "ワタシのちっちゃなちっちゃな愛しい助手のCamillaも、アナタを助けてくれるわ。"
+msgstr "ワタシのちっちゃなちっちゃな愛しい助手のカミラも、アナタを助けてくれるわ。"
 
 #. Key:	1D81ECE4468C6B5A5BE467964A7CFE43
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(0).Lines
@@ -843,7 +843,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",1FA8B3E8448F66CB1045EAB3F54ADE2B"
 msgid "Would you... meow... help poor Cassie with this problem?"
-msgstr "アンタ……にゃあ……かわいそうなCassieのこの手に負えないモノ、なんとかしてくれんの？"
+msgstr "アンタ……にゃあ……かわいそうなキャシーのこの手に負えないモノ、なんとかしてくれんの？"
 
 #. Key:	1FC53FEF4A2414ADEC40FA84C1B8848D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
@@ -865,7 +865,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(6).Lines
 msgctxt ",2087D4A34628AB4B8A51C4827BDC8AA0"
 msgid "Fern hope this pleases mastah greatly..."
-msgstr ""
+msgstr "ファーンはこれで、ごすじんがすごくよろこぶと、いいなっておもう……"
 
 #. Key:	20A752DD41AFEBDD2A4852BD029B894E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -950,14 +950,14 @@ msgstr "ボヴァウルを管理する"
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
 msgctxt ",236BBFF14A62BA287C86179E8ACDDCA9"
 msgid "Mastah... your dick so big! Many fluids will it give me."
-msgstr ""
+msgstr "ごすじん……おちんちんでっかい！ これなら、えきたいをたくさん、くれるね。"
 
 #. Key:	2373050C45C9AA9783D038B170402B88
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(2).Lines
 msgctxt ",2373050C45C9AA9783D038B170402B88"
 msgid "You could... always keep giving me your fluids. I will reward you with intense pleasure and that shiny stuff you like so much."
-msgstr ""
+msgstr "いつまでも……わたしにあなたの液体をくださいますよね。わたしは激しい快楽と、あなたが大好きなあのピカピカなもので報います。"
 
 #. Key:	239678F6481C22C297A01BAF6A94E397
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -971,7 +971,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",23E7B88A464A51712A11B1A07FE361A3"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr ""
+msgstr "わたしは成長するアルラウネ、ひょっとすると、液体を持て余していませんか？"
 
 #. Key:	240A4A634DB7018141BD60B5A94B716C
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(0).Lines
@@ -985,7 +985,7 @@ msgstr "しまったわ！ ちゃんと通じてたらいいんだけども。"
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(6).Lines
 msgctxt ",244693F347E948FB69765A8A6CFF9E08"
 msgid "Ohhh... mastah... ahhh... taste your fluids please. Fern feels them coming..."
-msgstr ""
+msgstr "うううう……ごすじん……ああああ……ごすじんのえきたい、おいしいってしりたいです。ファーン、えきたい出るの、かんじる……"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
@@ -1171,7 +1171,7 @@ msgstr "ワタシは日に何度もはいてるモノを取り替えなきゃな
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(4).Lines
 msgctxt ",2DC7EABB434FE7136DE3498D19A6B8B9"
 msgid "Give Fern all milky... hiss! Grow faster with more milky."
-msgstr ""
+msgstr "ファーンに、みるきぃ、ぜんぶちょうだい……しゅー！ もっとみるきぃのんで、もっとはやく、おっきくなる。"
 
 #. Key:	2DF7474B4ED132A075973ABFA667399C
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -1213,7 +1213,7 @@ msgstr "うわっ！ ウソでしょ！"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",2E926B8847D675F1C4CAAFAC2732930B"
 msgid "Fern need human milk to grow into big Alraune! Hissss, Fern suck nipples now!"
-msgstr ""
+msgstr "ファーン、にんげんのおっぱい、ひつよう。おっきなアルラウネになるため！ しゅー、ファーン、ちくびしゃぶる。すぐ！"
 
 #. Key:	2EF454D94FCEA805F55F20A94627C808
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -1234,7 +1234,7 @@ msgstr "もし売りたい@MONSTER_RACE@のミルクがあるか、買いたい�
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(2).Lines
 msgctxt ",3002153B48BD52898AEAE78030617CF7"
 msgid "Once an Alraune has consumed enough reproductive fluid, she will grow into a massive stationary flower."
-msgstr ""
+msgstr "アルラウネは充分な生殖液を摂取すると、巨大な固着型の花へと成長します。"
 
 #. Key:	3033B03F4617AF302335059B87E769FB
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(1).Lines
@@ -1262,7 +1262,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",3101A3934639560426484AA6C6AAE3A1"
 msgid "Fern!"
-msgstr ""
+msgstr "ファーン！"
 
 #. Key:	3169578649A185428A32E78395F9C48E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -1325,7 +1325,7 @@ msgstr "会えてうれしかったわ、@BREEDER_NAME@……"
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",335AC6B54A917B8EBB17218E2A338F3C"
 msgid "Name's Cassie, I'm the architect in town."
-msgstr "Cassieって名前だよ、アタシは街の建築家。"
+msgstr "キャシーって名前だよ、アタシは街の建築家。"
 
 #. Key:	341E99EA4A6DE606AFFC6D8A11C1B7D5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -1339,7 +1339,7 @@ msgstr "あのデカパイはワタシの身体よりもデカイ！ なぜこ�
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow_ButterStick.Default__CassieDefault01_Meow_ButterStick_C.SessionData.Lines(0).Lines
 msgctxt ",34C104D84D1D1734B9408FA6B2BDA125"
 msgid "Awww... meow... Cassie is sad now."
-msgstr "うぅぅぅ……ニャ……今Cassieは悲しい。"
+msgstr "うぅぅぅ……ニャ……今キャシーは悲しい。"
 
 #. Key:	3526724A47197988348500AADC4A0504
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -1360,7 +1360,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(2).Lines
 msgctxt ",3587D87D4538714F62271FBFA1D17FFF"
 msgid "If I have to spend the rest of eternity in one spot, I wouldn't want it to be with anyone else..."
-msgstr ""
+msgstr "わたしが一箇所で永遠を過ごさねばならないとしたら、あなた以外のだれかと一緒になることは望みません……"
 
 #. Key:	35B0312145CDC987463545B35DBCF219
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(0).Lines
@@ -1500,14 +1500,14 @@ msgstr "交配すること！"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(7).Lines
 msgctxt ",3A5C7D5342118BA87B8C6595C9B5D200"
 msgid "The massive set of tits called Amber sells milk. You can find Amber across the way, but be warned: the only thing thicker than her accent is her body. Good luck with that."
-msgstr "Amberという名のデカパイがミルクを売っています。Amberはそこの通りの向こうにいますが、気をつけて。彼女の訛りより強烈なのは、あの身体だけですから。まぁ、がんばってください。"
+msgstr "アンバーという名のデカパイがミルクを売っています。アンバーはそこの通りの向こうにいますが、気をつけて。彼女の訛りより強烈なのは、あの身体だけですから。まぁ、がんばってください。"
 
 #. Key:	3AB82ACD4DE402E534B94C83E44F5A2C
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",3AB82ACD4DE402E534B94C83E44F5A2C"
 msgid "Neela, warden of the Void, keybearer of pussy portals, at your service."
-msgstr "虚空の管理者、プッシー・ポータルの鍵の担い手、Neelaです。なんなりとお申しつけを。"
+msgstr "虚空の管理者、プッシー・ポータルの鍵の担い手、ニーラです。なんなりとお申しつけを。"
 
 #. Key:	3AD149F249D46CC8CCB146B464F0C53D
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TastyHuman.Default__NeelaDefault01_TastyHuman_C.SessionData.Lines(0).Lines
@@ -1586,7 +1586,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",3EDC6D7644348135F915AD8CFA2438CE"
 msgid "Why did you call me master?"
-msgstr "なんでマスターって呼ぶの？"
+msgstr "なんでご主人様って呼んだの？"
 
 #. Key:	3EEDCB0B41A901791EE10990EB7EBF6A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(6).Lines
@@ -1650,7 +1650,7 @@ msgstr "もしそんな気分じゃないのなら、@MONSTER_RACE@の精液を�
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",4052D6DF434789A177EAA1A32665DC40"
 msgid "Why did you call me master?"
-msgstr "なんでマスターって呼ぶの？"
+msgstr "なんでご主人様って呼んだの？"
 
 #. Key:	410012DF43FE2AB2B4B74FA7EE1CB85E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01.Default__AmberMaeDefault01_C.SessionData.Lines(1).Lines
@@ -1727,7 +1727,7 @@ msgstr "そう、そのまま、人間ちゃん！ 濃厚でクリーミーっ�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(7).Lines
 msgctxt ",42E4526948669BCD5AFBD29DC9583D3C"
 msgid "Meh, I am an alchemist... I don't believe in this stuff! Go talk to high priestess Leylanna or that creepy Seraphim if you want to learn more about this myth!"
-msgstr "まー、ワタシは錬金術師なので……こういうモノは信じません！ 女大祭司のLeylannaか、あの気味の悪いセラフィムに話を聞きに行って、この神話についてもっと知りたいなら！"
+msgstr "まー、ワタシは錬金術師なので……こういうモノは信じません！ 女大祭司のレイラナか、あの気味の悪いセラフィムに話を聞きに行って、この神話についてもっと知りたいなら！"
 
 #. Key:	437DBE7940749A6838FDA39FD90FF637
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1755,7 +1755,7 @@ msgstr "私のラミア・ボディはお気に召しましたか？"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",43F7A9D34F081E2EA25537A60B42DBA3"
 msgid "Don't waste your delicious body fluid on me. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "アナタのおいしい体液をワタシでムダにしないでください。Faleneが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
+msgstr "アナタのおいしい体液をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
@@ -1812,7 +1812,7 @@ msgstr "ネコを管理する"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(6).LinesToMale
 msgctxt ",464B0F3B450345A0F3EA8E98C67A5248"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr "ワタシの名前はFalene、全@WORLD_NAME@で一番の@MONSTER_RACE@の専門家よ。"
+msgstr "ワタシの名前はファリーン、全@WORLD_NAME@で一番の@MONSTER_RACE@の専門家よ。"
 
 #. Key:	4673804842CCE448A5F016907F5651DD
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(1).Lines
@@ -1840,7 +1840,7 @@ msgstr "（ぺろっ）"
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",47621D134EBA27E9FF0A6888F1D9CF3D"
 msgid "*Sigh*"
-msgstr "（ため息）"
+msgstr "（吐息を漏らす）"
 
 #. Key:	47744FD540FDC8F7DFF41B8338EA076E
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1941,7 +1941,7 @@ msgstr "……"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",4A786E0642F65E2541EAB4BB64AD2628"
 msgid "You've changed."
-msgstr ""
+msgstr "変わったね。"
 
 #. Key:	4A8BADCE4B9CDED5FAF83F9E2C212E8C
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(0).LinesToMale
@@ -1983,7 +1983,7 @@ msgstr "おっぱい飲んでいいよ！"
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",4B96D56447562EBC8748929A5D3B51FD"
 msgid "Let me wrap my lips around that fat cock of yours, my body longs for your warm cum."
-msgstr ""
+msgstr "そのはち切れそうなご主人様のチンポを、わたしの唇で包ませてください。わたしの身体は、あなたの温かな精液を待ちわびています。"
 
 #. Key:	4B9F497F40EDDFFEA5F6DCB0FB8B4675
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2081,7 +2081,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",4F17407F4C735CA48643138A59606A3C"
 msgid "Timeeee for the fluidsssss?"
-msgstr ""
+msgstr "えきたいぃぃの、じかんんんん？"
 
 #. Key:	4F22AF88435E097FF70CB6A004C9072F
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(5).LinesToMale
@@ -2190,7 +2190,7 @@ msgstr "巨根"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",52570DF44A9EF55907B4EBBCCC8EFB52"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr ""
+msgstr "ううううう、ごすじん！ とうとう、ファーンえきたい、もらえる？！"
 
 #. Key:	52642BC9475ED06B0EBBA4AA6032CE9D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(18).LinesToMale
@@ -2232,7 +2232,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(10).Lines
 msgctxt ",544F5F944F9E5D60454A39A741792497"
 msgid "Fern hope this pleases mastah greatly..."
-msgstr ""
+msgstr "ファーンはこれで、ごすじんがすごくよろこぶと、いいなっておもう……"
 
 #. Key:	5477799C4F9B5398BECB918C51B6CC44
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Cancel.Default__AmberMaeSuckJugs_Cancel_C.SessionData.Lines(0).Lines
@@ -2253,7 +2253,7 @@ msgstr "もどかしいわ。どうやってここに来たのかすら思い出
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(0).Lines
 msgctxt ",554D996445578E57126935A57AEBB8F3"
 msgid "Oh Master... you are too good to me."
-msgstr ""
+msgstr "あぁ、ご主人様……あなたは、わたしにはもったいないぐらいです。"
 
 #. Key:	554F10F14C2C753407F470A787D584FB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(16).LinesToMale
@@ -2417,7 +2417,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(2).Lines
 msgctxt ",5C55705949989D3944ACDD8DE6CAEB1E"
 msgid "Human milky taste so good... ahhhh!"
-msgstr ""
+msgstr "にんげんの、みるきぃ、すっごくおいしい……あああああ！"
 
 #. Key:	5C9673D0476DF1FF65CB63B5F142C7FE
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -2530,14 +2530,14 @@ msgstr "精子と卵子は懐胎が始まる異次元へと入る。そして@MO
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",6266DCAA4BE349E65FF6D89994B5E9C6"
 msgid "Why did you call me master?"
-msgstr "なんでマスターって呼ぶの？"
+msgstr "なんでご主人様って呼んだの？"
 
 #. Key:	62DABAA04453893D6FCD5390D28CB19A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
 msgctxt ",62DABAA04453893D6FCD5390D28CB19A"
 msgid "Soon, I will fully bloom and not be able to move. We can have a lot of fun with my flower body!"
-msgstr ""
+msgstr "もうすぐわたしは満開となり、移動が不可能になります。わたしたち、わたしのフラワー・ボディでとことん楽しめますよ！"
 
 #. Key:	62FF5D604699246B05ECEDA19F98F1BA
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -2621,7 +2621,7 @@ msgstr ""
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",64DDB04B426866024F9EFC98D34E99E5"
 msgid "Why did you call me master?"
-msgstr "なんでマスターって呼ぶの？"
+msgstr "なんでご主人って呼んだの？"
 
 #. Key:	64E952FE4B46D2DBE99FAD9370462318
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -2642,7 +2642,7 @@ msgstr "ワタシが、@WORLD_NAME@のあらゆる生き物の精液と愛液に
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(0).Lines
 msgctxt ",659F65A5454F216DBCA2DE943F3D816D"
 msgid "Oh Master... you are too good to me."
-msgstr ""
+msgstr "あぁ、ご主人様……あなたは、わたしにはもったいないぐらいです。"
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
@@ -2664,7 +2664,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",6658580C407404A28C6BD1875A2920D2"
 msgid "What a lovely talking fern..."
-msgstr ""
+msgstr "なんてカワイイしゃべるファーン（シダ植物）……"
 
 #. Key:	668D13F146AB0A33AF196F814E2CAA98
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2692,7 +2692,7 @@ msgstr "おぉぉぅ、いいよぉ……にゃあ……あぁぁぁ……"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",6779B6F54EA9811CDA01BB899D8E10A4"
 msgid "I'm Amber-Mae, yer Bovaur dairy lass!"
-msgstr "アタシはAmber-Mae、アンタの頼れるボヴァウルの酪農娘さ！"
+msgstr "アタシはアンバー＝メイ、アンタの頼れるボヴァウルの酪農娘さ！"
 
 #. Key:	679174774B8AE81A6C98AE933C6D1BF3
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(5).Lines
@@ -2911,7 +2911,7 @@ msgstr "アナタは@WORLD_NAME@の一番新しい住人になったわ！"
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",6F2AF65D40C18E8FE71555825585AB6A"
 msgid "Fern need human milk to grow into big Alraune! Hissss, Fern suck nipples now!"
-msgstr ""
+msgstr "ファーン、にんげんのおっぱい、ひつよう。おっきなアルラウネになるため！ しゅー、ファーン、ちくびしゃぶる。すぐ！"
 
 #. Key:	6F4E36894BE6D32AB2BF92B2FB1F5697
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(1).Lines
@@ -2932,7 +2932,7 @@ msgstr "あぁぁぁぁ！ 激しく吸って、アタシのミルク全部ア�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",6FB79F1B4245887D7C56A197959DA2A1"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr ""
+msgstr "わたしの美しい花を見てください、咲きましたよ！ いやぁ、なんか咲くときヘンな感じがしましたけど……"
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
@@ -2947,7 +2947,7 @@ msgstr "おもいやり"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",705BCA1D4ACA54FF178C9DA094C9DBA1"
 msgid "I grew in your soil, and soon it will be my permanent home!"
-msgstr ""
+msgstr "わたしはあなたの土で育ちました。そしてまもなく、この土がわたしの永住の地となります！"
 
 #. Key:	7063E832426D1615683CF5A75DC53A4E
 #. SourceLocation:	/Game/Dialogue/Leylanna/SexScenes/LeylannaLeyCov.Default__LeylannaLeyCov_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -2975,7 +2975,7 @@ msgstr "ワタシたちがこの@WORLD_NAME@で言うみたいにね。「甘い
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",70D390BA48724A55513FB282118180B9"
 msgid "Falene makes me stand on it. She says it's supposed to improve my self-esteem and compensate for my short stature."
-msgstr "Faleneが立たせたんです。こうすればワタシの自己評価が高くなるし、背の低さもカバーできるだろう、って言って。"
+msgstr "ファリーンが立たせたんです。こうすればワタシの自己評価が高くなるし、背の低さもカバーできるだろう、って言って。"
 
 #. Key:	715058EB4BEB5B309FE658A485A718AA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(9).Lines
@@ -3060,7 +3060,7 @@ msgstr "感じなさい、ワタシの滑らかな舌がその肉茎を撫でる
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",73B59191487A1B6CCB6E58B4159D8060"
 msgid "Oh Master, you have fed me well."
-msgstr ""
+msgstr "あぁ、ご主人様。わたしにたくさん飲ませてくださいましたね。"
 
 #. Key:	73F68F1D4C449AE1E1ECBCB61358B27E
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(2).Lines
@@ -3095,7 +3095,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",74E667E542A1B2DD54B1A4852E0B5BDE"
 msgid "You've changed!"
-msgstr ""
+msgstr "変わったね！"
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
@@ -3547,7 +3547,7 @@ msgstr "ほら見ろ、アタシ発情しちゃったし。"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",85F4F7D540B5915CFE03BCB33A1C34E7"
 msgid "Let me wrap my lips around that fat cock of yours, my body longs for your warm cum."
-msgstr ""
+msgstr "そのはち切れそうなご主人様のチンポを、わたしの唇で包ませてください。わたしの身体は、あなたの温かな精液を待ちわびています。"
 
 #. Key:	85F88762464249CF2ADFD0AFB3D92DB4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(3).Lines
@@ -3624,7 +3624,7 @@ msgstr "化身像の周りを歩いてみて、あてどなくふらつく野生
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",8702885F4AD8627AC254029214EED99B"
 msgid "Sure, it can be tempting to drink all of the fluids, but I love you Master and know you need them."
-msgstr ""
+msgstr "たしかに、採取した液体をすべて飲みたいという誘惑はあるかもしれません。ですが、私はあなたを愛していますし、あなたに@MONSTER_RACE@の液体が必要なのもわかっています、ご主人様。"
 
 #. Key:	870E3E9A4756B06E4D8C9FB1967261E9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(0).Lines
@@ -3850,7 +3850,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(3).Lines
 msgctxt ",8D3E28104D0EAE4C533EE39A8D65B6DB"
 msgid "It's going to be sad to lose the ability to move, but at least I have you Master!"
-msgstr ""
+msgstr "移動する能力を失うのは悲しいですが、それでも、わたしにはあなたが居ますから、ご主人様！"
 
 #. Key:	8D4C9C144C33EE6A19B08696ABFFB5DA
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(7).Lines
@@ -3942,7 +3942,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",902A41DB403EFA60B99E8CB596EFE0BF"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "わたしの身体は、あなたの滋味あふれる母乳を待ちわびています。"
 
 #. Key:	907E7C35462D4EC3BC72C5B05C7ABDB9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(2).LinesGrungy
@@ -3971,7 +3971,7 @@ msgstr "快楽主義者: 本来なら交尾相手に与えられる分のXPを�
 #: /Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",90CF176E415EE7CEA27716868800482A"
 msgid "Timeeee for the fluidsssss?"
-msgstr ""
+msgstr "えきたいぃぃの、じかんんんん？"
 
 #. Key:	90DA01BE4F6814F010ECF99D4730B696
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Dragon/Harvest/DragonHarvest.Default__DragonHarvest_C.Harvest.RaceName
@@ -3985,7 +3985,7 @@ msgstr "ドラゴン"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(1).Lines
 msgctxt ",91C04C0641057656CC61A48472D8954C"
 msgid "I need human cum to grow into my final form. Your dick will slide all the way down my throat as I suck every drop."
-msgstr ""
+msgstr "わたしは、最終形態に成長するために人間の精液が必要です。ひとしずくも残さず舐めつくしますから、あなたのチンポを、わたしののどの奥まで突き入れてくださいませんか。"
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
@@ -4057,7 +4057,7 @@ msgstr "色情狂: セックス時に獲得するLoyaltyが2倍に増加する�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",9458CFDE4690A312D5CC8F94BF4AE00A"
 msgid "Who is the pink Alraune?"
-msgstr "ピンクのアルラウネはだれ？"
+msgstr "そのピンクのアルラウネはだれ？"
 
 #. Key:	945CB3304860CBDF1DCD348F2BE3E32B
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(1).Lines
@@ -4071,7 +4071,7 @@ msgstr "野生のは祝福された個体よりも一般的で、本能に従っ
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(0).Lines
 msgctxt ",9471D48E445DF08463FDFC8291100E4E"
 msgid "Indeed! Your delicious fluid has done wonders."
-msgstr ""
+msgstr "まったくです！ あなたのおいしい液体には、すばらしい作用があります。"
 
 #. Key:	94861BA24AA560F31BB02F9A4AC431F9
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(2).Lines
@@ -4107,7 +4107,7 @@ msgstr "林間の秘所"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",9589965546B48748E41BA7942844189B"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr ""
+msgstr "わたしは成長するアルラウネ、ひょっとすると、液体を持て余していませんか？"
 
 #. Key:	960E85EF4CA91DAAA4DCFF93B84D183E
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -4121,7 +4121,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(30).LinesToMale
 msgctxt ",96824C894B9B4241DBDFEEB68C760057"
 msgid "If you want to learn about how to catch @MONSTER_RACE@, head to the town located up the plateau ahead and speak to my assistant Camilla. You can't miss her... actually wait you might, she's so tiny and cute hehehe."
-msgstr "どうやって@MONSTER_RACE@を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のCamillaと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
+msgstr "どうやって@MONSTER_RACE@を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のカミラと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
 
 #. Key:	96BF4241443E0334BA81569BD0CAB916
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(1).Lines
@@ -4192,7 +4192,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(1).Lines
 msgctxt ",97DE1E2D44F75CDC8B07A3ACE527EFC4"
 msgid "I need human cum to grow into my final form. Your dick will slide all the way down my throat as I suck every drop."
-msgstr ""
+msgstr "わたしは、最終形態に成長するために人間の精液が必要です。ひとしずくも残さず舐めつくしますから、あなたのチンポを、わたしののどの奥まで突き入れてくださいませんか。"
 
 #. Key:	9823997B4369C9710C0858A44B670A9D
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -4234,7 +4234,7 @@ msgstr "フォクセンを管理する"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(3).Lines
 msgctxt ",9935EBCD498F8B600AAED699613B52E9"
 msgid "Many shiny does Fern find in soil. Fern try to eat shiny, too hard."
-msgstr ""
+msgstr "たくさんのピカピカ、土のなかでファーンみつける。ファーン、ピカピカたべようとする。かたすぎ。"
 
 #. Key:	9948725645B6492AE76EDB8B38DB1C7F
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.HarpyAviary.ManageActionMessage
@@ -4255,7 +4255,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_R03.Default__FernDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",9A0EF6A841D0C76A871BD39DB09AEFD4"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr ""
+msgstr "ううううう、ごすじん！ とうとう、ファーンえきたい、もらえる？！"
 
 #. Key:	9A9EDF3448107C0855BB35BBD9D849F5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
@@ -4283,7 +4283,7 @@ msgstr "そのすべてが心地よく、また甘美でした……ですが、
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(4).Lines
 msgctxt ",9B2F56474FA9D82EE9F76EBEB5723F74"
 msgid "Hiss... Fern like this... much pleasure, taste is good."
-msgstr ""
+msgstr "しゅー……ファーン、これスキ……とってもうれしい、おいしいあじ。"
 
 #. Key:	9B3D729A40A0E93316F524B863B2BAED
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Neko/Harvest/NekoHarvest.Default__NekoHarvest_C.Harvest.RaceName
@@ -4398,7 +4398,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(1).Lines
 msgctxt ",9FAD5CA34B7A4B192E688C9C72A825B3"
 msgid "According to the high priestess Leylana at the temple, the Goddess and her angels descended from the heavens."
-msgstr "神殿の女大祭司Leylannaによれば、女神とその天使たちが天上から降り立った。"
+msgstr "神殿の女大祭司レイラナによれば、女神とその天使たちが天上から降り立った。"
 
 #. Key:	9FE7AADC4372F0B32E971C838E6554EA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(20).LinesToFemale
@@ -4489,7 +4489,7 @@ msgstr "うぅぅぅ……やわらか人間まんこ、すっごいよぅ！"
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(0).Lines
 msgctxt ",A3D34227454452C74EC9BEBE9D5B4A17"
 msgid "Mastah's breast so soft! Fern like it."
-msgstr ""
+msgstr "ごすじんのおっぱい、とってもやわらか！ ファーン、スキ。"
 
 #. Key:	A40264BD4BB3E658212ECE987CC24B4A
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
@@ -4616,7 +4616,7 @@ msgstr "うわっ！ ウソでしょ！"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",A9B242A6410BF5830F30419F32801AC2"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr ""
+msgstr "わたしの美しい花を見てください、咲きましたよ！ いやぁ、なんか咲くときヘンな感じがしましたけど……"
 
 #. Key:	AA16BE3B4732F407329ED6B450557C71
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
@@ -4630,7 +4630,7 @@ msgstr "不思議な唄が、私に語りかける。この地では聴かれぬ
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",AA3F14D64D5670190F05DD83A37D1AC9"
 msgid "You've changed!"
-msgstr ""
+msgstr "変わったね！"
 
 #. Key:	AAD8CEA34AE6DE13A8683089046598D3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(6).Lines
@@ -4721,7 +4721,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",ADF357A1447CC164A3CF54A274E1EECF"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr ""
+msgstr "わたしは成長するアルラウネ、ひょっとすると、液体を持て余していませんか？"
 
 #. Key:	AE10903F4F5306C2AF3432A0D40AD89F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(14).Lines
@@ -4756,7 +4756,7 @@ msgstr "そんな目でワタシを見ないで！！"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(0).Lines
 msgctxt ",AF56D3A1427EFDD2D086F09E5534EC68"
 msgid "You are the lord of this soil--or owner of Homestead in the common tongue."
-msgstr ""
+msgstr "あなたは、この土の主――共通語で言えば、牧場屋敷の所有者ですから。"
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
@@ -4857,7 +4857,7 @@ msgstr "人間！ すっごくカワイイ人間……今日はワタシの幸�
 #: /Game/Dialogue/Fern/Default/FernDefault01_R03.Default__FernDefault01_R03_C.SessionData.Lines(1).Lines
 msgctxt ",B36EC36B46E4D040A92BF09236F605F9"
 msgid "Fern need human cum to grow into big Alraune! Hissss, Fern suck dick now!"
-msgstr ""
+msgstr "ファーン、にんげんのせーえき、ひつよう。おっきなアルラウネになるため！ しゅー、ファーン、おちんちんしゃぶる。すぐ！"
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
@@ -4900,7 +4900,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B48E37AC4977FA95BA4EB3B39018F087"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "わたしの身体は、あなたの滋味あふれる母乳を待ちわびています。"
 
 #. Key:	B49B5FD64432ADC45593F3B4F50455B6
 #. SourceLocation:	/Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
@@ -4935,7 +4935,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",B685468D40290FF6E84B0D812D2A7F2F"
 msgid "Everyone wants Falene. She's so beautiful, and no one cares about the short girthy lump in the corner!"
-msgstr "みんなFaleneを呼びます。彼女はあんなにキレイで、そしてだれも、すみっこにいる丸々とした小さいおデブちゃんなんて気に留めないんです！"
+msgstr "みんなファリーンを呼びます。彼女はあんなにキレイで、そしてだれも、すみっこにいる丸々とした小さいおデブちゃんなんて気に留めないんです！"
 
 #. Key:	B69447294A19D4E4338E36BBB1C2DADE
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -5000,14 +5000,14 @@ msgstr "ぽっちゃり: この個体は、体脂肪をより多くたくわえ�
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",B82A33C04616825E1FC07F99415D421D"
 msgid "What a lovely talking fern..."
-msgstr ""
+msgstr "なんてカワイイしゃべるファーン（シダ植物）……"
 
 #. Key:	B832AA994DBADAA17A15049B206652C5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(9).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(9).Lines
 msgctxt ",B832AA994DBADAA17A15049B206652C5"
 msgid "Well I've answered your question so you probably want to leave now. If you have any more questions you should feel free to ask me. Although I'm sure Falene could answer your questions too."
-msgstr "さて、質問には答えたと思います、アナタはきっと今すぐここを出発したいことでしょう。もしまた聞きたいことができたら、どうぞ遠慮なくワタシにおたずねください。Faleneもアナタの疑問に答えられるでしょうけど。"
+msgstr "さて、質問には答えたと思います、アナタはきっと今すぐここを出発したいことでしょう。もしまた聞きたいことができたら、どうぞ遠慮なくワタシにおたずねください。ファリーンもアナタの疑問に答えられるでしょうけど。"
 
 #. Key:	B841784842366C72B99D7BABC88D97E6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -5084,7 +5084,7 @@ msgstr "おもしろい冗談ですね！"
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",BBBCA38B49D367A566E07BA607FA7359"
 msgid "Oh Master, you have fed me well."
-msgstr ""
+msgstr "あぁ、ご主人様。わたしにたくさん飲ませてくださいましたね。"
 
 #. Key:	BC25BCBE4F9535F47E145F8384E62BA5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(2).Lines
@@ -5154,21 +5154,21 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",BE946F0645DD9D40528D2A9DB1FB48B4"
 msgid "Sometimes Falene makes me ride on her back around town."
-msgstr "Faleneはときどき、ワタシを背中におぶって街の中を回るんです。"
+msgstr "ファリーンはときどき、ワタシを背中におぶって街の中を回るんです。"
 
 #. Key:	BE9F677046DE7F9AE5246FB18D7F8FFB
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",BE9F677046DE7F9AE5246FB18D7F8FFB"
 msgid "Once she threw me into that pussy portal when Neela wasn't looking!"
-msgstr "Neelaが見ていないときに、ワタシをあのプッシー・ポータルに投げ入れたこともありました！"
+msgstr "ニーラが見ていないときに、ワタシをあのプッシー・ポータルに投げ入れたこともありました！"
 
 #. Key:	BEDA7D94498AC1A3091C29BABE2C94F7
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",BEDA7D94498AC1A3091C29BABE2C94F7"
 msgid "Um... Falene said you could tell me how to catch @MONSTER_RACE@?"
-msgstr "えっと……あなたが@MONSTER_RACE@の捕まえ方を教えてくれるって、Faleneが言ってたんだけど？"
+msgstr "えっと……あなたが@MONSTER_RACE@の捕まえ方を教えてくれるって、ファリーンが言ってたんだけど？"
 
 #. Key:	BF4DCF6B4CBF1E3FAE0D139E494C7673
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.RaceName
@@ -5323,7 +5323,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",C5E724D9440EB6AC1E01458A6325FC39"
 msgid "Me like this name Fern. Hiss!"
-msgstr ""
+msgstr "わたし、スキ。このファーンって、なまえ。しゅー！"
 
 #. Key:	C5F9CCA94803FF5DA8A42E947B60C68D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(12).LinesToMale
@@ -5501,7 +5501,7 @@ msgstr "我らの声は、耳に心地よい音高に達します。そして、
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",CEC660F240FC0F1941C19ABA02D18068"
 msgid "Let me wrap my lips around that fat cock of yours, my body longs for your warm cum."
-msgstr ""
+msgstr "そのはち切れそうなご主人様のチンポを、わたしの唇で包ませてください。わたしの身体は、あなたの温かな精液を待ちわびています。"
 
 #. Key:	CEE2CED74492461582B4EB8D5D2CB4B6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(11).Lines
@@ -5553,7 +5553,7 @@ msgstr "ハイブリッド: この個体は、2つの種族の交雑種です。
 #: /Game/Dialogue/Fern/Default/FernDefault01_R01.Default__FernDefault01_R01_C.SessionData.Lines(0).Lines
 msgctxt ",D168672B4C5B79B56A15E097C9217EBC"
 msgid "You are... lord of this soil... yesss?"
-msgstr ""
+msgstr "あなたは……この土のあるじ……でしょぉぉ？"
 
 #. Key:	D18F5F504013858974D982AA49D9035F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(13).Lines
@@ -5588,14 +5588,14 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",D209ED1D49C6A4C6106AC69A3100D415"
 msgid "When mastah not want harvest... Fern do it."
-msgstr ""
+msgstr "ごすじん、とりたくないとき……ファーンがとる。"
 
 #. Key:	D2DF40244F8B96F91F4101A5AD5F08AA
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",D2DF40244F8B96F91F4101A5AD5F08AA"
 msgid "I'm Camilla! Falene's little goblin assistant! You probably won't need to talk to me much because she's the smart one around here."
-msgstr "ワタシはCamillaです！ Faleneの小さなゴブリンの助手！ おそらくワタシと多くを話す必要はないでしょう、Faleneはこのあたりで一番賢いですから。"
+msgstr "ワタシはカミラです！ ファリーンの小さなゴブリンの助手！ おそらくワタシと多くを話す必要はないでしょう、ファリーンはこのあたりで一番賢いですから。"
 
 #. Key:	D395A99C4C2FAC4029FBE0A0AACFDE16
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
@@ -5630,14 +5630,14 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(1).Lines
 msgctxt ",D456D54240773E6C7DA921A0B4BDBA16"
 msgid "I need human milk to grow into my final form. Your soft breasts will be emptied as I suck every drop."
-msgstr ""
+msgstr "わたしは、最終形態に成長するために人間の母乳が必要です。ひとしずくも残さず舐めつくしますから、あなたの柔らかい乳房を、からっぽにしてもかまいませんか。"
 
 #. Key:	D48D138B4D55F9A604E2E0AFFACE1674
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D48D138B4D55F9A604E2E0AFFACE1674"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr ""
+msgstr "わたしの美しい花を見てください、咲きましたよ！ いやぁ、なんか咲くときヘンな感じがしましたけど……"
 
 #. Key:	D4B876E04002BC56FF720D829DA04785
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -5736,7 +5736,7 @@ msgstr "そのすべてが心地よく、また甘美でした……ですが、
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",D7B87B2D4E7F9B733C981C804A0914C8"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "わたしの身体は、あなたの滋味あふれる母乳を待ちわびています。"
 
 #. Key:	D7CBF3A849F90F40A1E899A00B974FBA
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5757,7 +5757,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D7F8B9C2431BFB6ED28ECAAF83BAE062"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr ""
+msgstr "わたしの美しい花を見てください、咲きましたよ！ いやぁ、なんか咲くときヘンな感じがしましたけど……"
 
 #. Key:	D8A6098049B17D17442735B4FDBAB323
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(2).Lines
@@ -5771,7 +5771,7 @@ msgstr "考えてみると、非常にすぐれたデザインだわ――進化
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(1).Lines
 msgctxt ",D8D64A6444112501D1C4728A0BB65EB7"
 msgid "I grow more voluptuous and beautiful everyday, and it feels so good..."
-msgstr ""
+msgstr "わたしは日ごとに、より妖艶に美しく成長しますし、それにとても気持ちがいいんです……"
 
 #. Key:	D8F23CE1423B47137E2603AC9C522535
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(4).Lines
@@ -5793,7 +5793,7 @@ msgstr "蜜溜まりの地"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(0).Lines
 msgctxt ",D942BF8C4B6164B1D4F7569E55FC349E"
 msgid "Oh Master... you are too good to me."
-msgstr ""
+msgstr "あぁ、ご主人様……あなたは、わたしにはもったいないぐらいです。"
 
 #. Key:	D9AEE8B346F04D85CD643FA456C20645
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(1).Lines
@@ -5835,7 +5835,7 @@ msgstr "ワタシから精液を買うんです！ ワタシは一級の精液�
 #: /Game/Dialogue/Fern/Default/FernDefault01_R01.Default__FernDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",DA8A389840F92C11D80A20A1593273B7"
 msgid "Me grow in thisss soil... hiss. Still sapling... need mastah to grow into big Alraune!"
-msgstr ""
+msgstr "わたし、この土ぃぃでそだつ……しゅー。まだ苗……ごすじん、ひつよう。おっきなアルラウネに、なるため！"
 
 #. Key:	DA9BB43342773BD3A51CEC9C5A48CA82
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(3).ResponseData.BreederPrompt
@@ -5856,7 +5856,7 @@ msgstr "一方で@MONSTER_RACE@は、ほとんどあっという間に生殖す�
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",DB00D91D4420A5D9D4F3FBB7DD1AC099"
 msgid "I can help you harvest fluids from wild @MONSTER_RACE@."
-msgstr ""
+msgstr "わたしは、あなたが野生の@MONSTER_RACE@から液体を採取するのを、支援できます。"
 
 #. Key:	DB15AC1342DDCD7D060351944CB369E4
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(2).Lines
@@ -5898,14 +5898,14 @@ msgstr ""
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",DC0025004492CEEAE0F8D1A26E169F34"
 msgid "Me like this name Blossom. Hiss!"
-msgstr ""
+msgstr "あたし スキ この ブロッサムって なまえ。しゅー！"
 
 #. Key:	DC23BE8C475FA9FCC7F22596C3D47F3F
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",DC23BE8C475FA9FCC7F22596C3D47F3F"
 msgid "Fern needsss fluidsss!"
-msgstr ""
+msgstr "ファーン、ひつようぅぅ、えきたいぃぃ！"
 
 #. Key:	DC843E8A4828B0881624D494C080BC2B
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(1).Lines
@@ -5962,7 +5962,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",DD7ECB9E437DDF8975868AA3934E909D"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr ""
+msgstr "わたしの美しい花を見てください、咲きましたよ！ いやぁ、なんか咲くときヘンな感じがしましたけど……"
 
 #. Key:	DD90913F4C544CDB2D79CDAE67287C68
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(0).Lines
@@ -6032,7 +6032,7 @@ msgstr "その訛りはどうしたの？"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(0).Lines
 msgctxt ",E01ADC7A41DCC8C65CA87E9C9561359D"
 msgid "Indeed! Your delicious fluid has done wonders."
-msgstr ""
+msgstr "まったくです！ あなたのおいしい液体には、すばらしい作用があります。"
 
 #. Key:	E043108D41291B6169E3579CE41F44B3
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -6131,14 +6131,14 @@ msgstr "……"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(0).Lines
 msgctxt ",E267B04149B1C5C63B246BB9B347927F"
 msgid "Oh she did, did she? Hmph. Well then. The first thing you need to do is find Cassie and contract her to build enclosures for @MONSTER_RACE@. She should be pretty easy to find - she's the Neko that wears a 'tool belt' and not much else."
-msgstr "あっ、彼女が言ったんですか、言ったんですね？ ふむ。それでは。アナタが最初にすべきなのは、Cassieを探して@MONSTER_RACE@の小屋を注文することです。Cassieは簡単に見つかるはずです――彼女はネコで、“道具ベルト”を付けていますが、あとはほとんど何も着てません。"
+msgstr "あっ、彼女が言ったんですか、言ったんですね？ ふむ。それでは。アナタが最初にすべきなのは、キャシーを探して@MONSTER_RACE@の小屋を注文することです。キャシーは簡単に見つかるはずです――彼女はネコで、“道具ベルト”を付けていますが、あとはほとんど何も着てません。"
 
 #. Key:	E27A479A496E7D5504357E85E45466FC
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",E27A479A496E7D5504357E85E45466FC"
 msgid "Hiss..."
-msgstr ""
+msgstr "しゅー……"
 
 #. Key:	E29F5BAA40F6C8758245C58555D4F73E
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -6173,7 +6173,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",E460226A4FF1B186BCA5DE85158B49AF"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr ""
+msgstr "わたしは成長するアルラウネ、ひょっとすると、液体を持て余していませんか？"
 
 #. Key:	E499F0E4452FBC3AAE82E18BCF77B28B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(2).Lines
@@ -6260,7 +6260,7 @@ msgstr "筋肉質"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(2).Lines
 msgctxt ",E89B660E4DCD6EDBFE7FBDB73A354FD0"
 msgid "If mastah let Fern drink mastah's fluids, Fern give shiny. Hiss!"
-msgstr ""
+msgstr "ごすじんが、ごすじんのえきたい、のませてくれたら、ファーンがピカピカあげる。しゅー！"
 
 #. Key:	E91EF4164FCD12832A52B095A8557B4A
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DragonHoard.ManageActionMessage
@@ -6324,7 +6324,7 @@ msgstr "タイタンは、絶頂峰の山岳洞。"
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(5).Lines
 msgctxt ",EB9CEE7C492834A71E0684923E36AB86"
 msgid "*Lick* *Suck*"
-msgstr ""
+msgstr "（ぺろっ） （ちゅぱっ）"
 
 #. Key:	EBE827C94A2D86F5892666AE1E82AF18
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6346,7 +6346,7 @@ msgstr "巨根: 遺伝的に、大きな男性器を持つ。"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",EC6BFF394580DB5B2B148096C2994439"
 msgid "Why did you call me master?"
-msgstr "なんでマスターって呼ぶの？"
+msgstr "なんでご主人様って呼んだの？"
 
 #. Key:	EC9757E141CD427BCC7326B974A16B82
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(4).Lines
@@ -6388,7 +6388,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(2).Lines
 msgctxt ",EDFEC0864067F06F1A5A1C9F3501DE00"
 msgid "Fern mouth too... ahhh... small."
-msgstr ""
+msgstr "ファーンのお口、ちっちゃ……ああああ……ちっちゃすぎ。"
 
 #. Key:	EE11DC6C4F3DE85807004E93DB73A0B2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -6402,7 +6402,7 @@ msgstr "ああああ……この年を経た管理者を満足させてくれま
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",EE8FDFD64822DC7BFDD6C9A70419163D"
 msgid "Oh Master, you have fed me well."
-msgstr ""
+msgstr "あぁ、ご主人様。わたしにたくさん飲ませてくださいましたね。"
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
@@ -6459,7 +6459,7 @@ msgstr "様々な@MONSTER_RACE@が各地で見つけられますが、彼らは�
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",F13E7CAC4E86FD0C4B9F639D0F536883"
 msgid "Don't waste your delicious body fluid on me. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "アナタのおいしい体液をワタシでムダにしないでください。Faleneが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
+msgstr "アナタのおいしい体液をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
 
 #. Key:	F15CA5AC442824FB00747A8771A80403
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(4).Lines
@@ -6481,7 +6481,7 @@ msgstr "スモール: 身長およそ1.5m。"
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",F1EF1BEA4E4AF008C65539ADC6740F61"
 msgid "Why did you call me master?"
-msgstr "なんでマスターって呼ぶの？"
+msgstr "なんでご主人って呼んだの？"
 
 #. Key:	F20F724C47A982D41C8EE29F4756992A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -6495,7 +6495,7 @@ msgstr "じゃあ@MONSTER_RACE@ってすごくいやらしいんだ……"
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(8).Lines
 msgctxt ",F267FA90451165F036048A9D768C4718"
 msgid "Please give Fern all drops. Fern grow faster with more drops... no more drops for purple elf."
-msgstr ""
+msgstr "おねがい、ファーンにのこさず、しずくください。もっとしずくのんで、もっとはやく、おっきくなる……むらさきエルフには、もうしずく、あげない。"
 
 #. Key:	F37DF7694328A3895D54B3BC4DB0147D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(0).Lines
@@ -6628,14 +6628,14 @@ msgstr "ああああ……この年を経た管理者を満足させてくれま
 #: /Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",F8E720D345661A45019656BB02DC9809"
 msgid "Mastah?"
-msgstr ""
+msgstr "ごすじん？"
 
 #. Key:	F91CB0D5406C6A0CEF265AACB268DDE0
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",F91CB0D5406C6A0CEF265AACB268DDE0"
 msgid "Mastah?"
-msgstr ""
+msgstr "ごすじん？"
 
 #. Key:	F9C66FA74BAA102FE1238A952823D3D9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(17).Lines
@@ -6649,7 +6649,7 @@ msgstr "ワタシが生まれたときのこと、子供のころのことを思
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartButterButt.Default__CassieDefault01_Meow_StartButterButt_C.SessionData.Lines(0).Lines
 msgctxt ",F9EF68BC4CE831DD669546BF6213C846"
 msgid "MEOW!!! Cassie is going to fill you with kitty seed!"
-msgstr "にゃああ！！！ Cassieはアンタをネコ精子でいっぱいにしちゃうよ！"
+msgstr "にゃああ！！！ キャシーはアンタをネコ精子でいっぱいにしちゃうよ！"
 
 #. Key:	FA099D00490628CE02692F98F8341539
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
@@ -6693,7 +6693,7 @@ msgstr "思う存分、アタシのミルク飲めばいいさ！"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",FAA922F744CCD015043333AD26B1B5AF"
 msgid "You've changed!"
-msgstr ""
+msgstr "変わったね！"
 
 #. Key:	FAC3B1AA48B55AC22C81BABA4025A329
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(3).Lines
@@ -6749,14 +6749,14 @@ msgstr "4,000年以上にわたる虚空についての考察にもかかわら�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",FC2E4BC244CE7A4471B402A207DCB5C4"
 msgid "Oh Master, you have fed me well."
-msgstr ""
+msgstr "あぁ、ご主人様。わたしにたくさん飲ませてくださいましたね。"
 
 #. Key:	FC6A48C641C7797ED1492DB62B0AC386
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07_RL.Default__CamillaDefault01_R07_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07_RL.Default__CamillaDefault01_R07_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",FC6A48C641C7797ED1492DB62B0AC386"
 msgid "Mmm Amber's tits..."
-msgstr "むむむ、Amberのデカパイ……"
+msgstr "むむむ、アンバーのデカパイ……"
 
 #. Key:	FCA66F654F21F79586D7899A9C2CADC5
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -6814,7 +6814,7 @@ msgstr "このおいしい人間のモノを味わうがいい！"
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",FD996BF544296A6A4A54CE82ABF12183"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr ""
+msgstr "わたしは成長するアルラウネ、ひょっとすると、液体を持て余していませんか？"
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
