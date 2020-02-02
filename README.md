@@ -13,10 +13,10 @@ DerelictHelmsman氏が制作中のゲーム「Breeders of the Nephelym」の日�
 精査後問題がなければプッシュし、そのままLeylannaのダイアログ翻訳に移行する予定です。
 
 ## 固有名詞・頻出単語 訳例
-* Nephelym：ネフェリム（@マクロ使用指定のため、ファイル中は @MONSTER_RACE@ として表記）
-* wild Nephelym：野性のネフェリム（@マクロ使用指定のため、ファイル中は 野性の@MONSTER_RACE@ として表記）
-* blessed Nephelym：祝福されたネフェリム（@マクロ使用指定のため、ファイル中は 祝福された@MONSTER_RACE@ として表記）
-* Lyrcea：リルセア（@マクロ使用指定のため、ファイル中は @WORLD_NAME として表記）
+* Nephelym：ネフェリム（ファイル中は @MONSTER_RACE@ 表記）
+* wild Nephelym：野性のネフェリム（ファイル中は 野性の@MONSTER_RACE@ 表記）
+* blessed Nephelym：祝福されたネフェリム（ファイル中は 祝福された@MONSTER_RACE@ 表記）
+* Lyrcea：リルセア（ファイル中は @WORLD_NAME 表記）
 * the Goddess：女神
 * the Avatars of the Goddess：女神の化身像
 * breed：交配（特にシステムUI等で）

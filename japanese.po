@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-01-26 18:54\n"
-"PO-Revision-Date: 2020-02-01 23:18+0900\n"
+"PO-Revision-Date: 2020-02-03 00:17+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -168,7 +168,7 @@ msgstr "えきたいぃぃの、じかんんんん？"
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",0500B4944007820F3A7BB096A4E699AB"
 msgid "Lemme know if y'all want new buildings for your wild @MONSTER_RACE@..."
-msgstr "遠慮なく言えばいいじゃん、アンタの野生の@MONSTER_RACE@用に新しい建物が欲しくなったときと……"
+msgstr "遠慮なく言えばいいじゃん、アンタの野性の@MONSTER_RACE@用に新しい建物が欲しくなったときと……"
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -350,7 +350,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",0D3C4D8D4F6C01DE00A1B88BD745C860"
 msgid "A bath perhaps? Or maybe one of your wild ones took a dirt nap. I will wash them all."
-msgstr "よろしければ、入浴しますか？ それとも、そなたの野生のネフェリムが、土に埋もれましたか。私が皆洗いましょう。"
+msgstr "よろしければ、入浴しますか？ それとも、そなたの野性のネフェリムが、土に埋もれましたか。私が皆洗いましょう。"
 
 #. Key:	0D9D20584BA7B523EE2834B29064B88E
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(0).Lines
@@ -485,7 +485,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1187860A495AEE8B52286F8DA6A1DF53"
 msgid "What a lovely talking fern..."
-msgstr "なんてカワイイしゃべるファーン（シダ植物）……"
+msgstr "なんてカワイイしゃべるシダ（fern）……"
 
 #. Key:	119BE39146D97EAD68AF26B063950DFD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(6).Lines
@@ -569,14 +569,14 @@ msgstr "アナタがタイタンじゃなくても構わない！ あぁぁぁ�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",13F822424D7968B826D8E79C10C52DBC"
 msgid "But we can make love now! Let's do that. Maybe something magical will happen."
-msgstr ""
+msgstr "でも、わたしたち愛を育めます、今なら！ さぁ、いたしましょう。 もしかしたら、魔法みたいなことが起こるかもしれませんよ。"
 
 #. Key:	14597A3447ACFD81E4E72CB43D419E39
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
 msgctxt ",14597A3447ACFD81E4E72CB43D419E39"
 msgid "If I have to spend the rest of eternity in one spot, I wouldn't want it to be with anyone else..."
-msgstr "わたしが一箇所で永遠を過ごさねばならないとしたら、あなた以外のだれかと一緒になることは望みません……"
+msgstr "わたしがひとつの場所で永遠を過ごさねばならないとしたら、あなた以外のだれかと一緒になることは望みません……"
 
 #. Key:	146C8ABB4CFE56E192BE198657474339
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(0).Lines
@@ -901,7 +901,7 @@ msgstr "どスケベ: 交配時に消費するLustが35%減少する。"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
 msgctxt ",21A08FF347BC7DE708B258BAD0F4BEF3"
 msgid "You will only catch wild @MONSTER_RACE@, which have roughly the intelligence of animals."
-msgstr "アナタは野生の@MONSTER_RACE@だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
+msgstr "アナタは野性の@MONSTER_RACE@だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
 
 #. Key:	21D4E1714A491D7CAA40E99AA6D354E8
 #. SourceLocation:	/Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.PositionName
@@ -1360,7 +1360,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(2).Lines
 msgctxt ",3587D87D4538714F62271FBFA1D17FFF"
 msgid "If I have to spend the rest of eternity in one spot, I wouldn't want it to be with anyone else..."
-msgstr "わたしが一箇所で永遠を過ごさねばならないとしたら、あなた以外のだれかと一緒になることは望みません……"
+msgstr "わたしがひとつの場所で永遠を過ごさねばならないとしたら、あなた以外のだれかと一緒になることは望みません……"
 
 #. Key:	35B0312145CDC987463545B35DBCF219
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(0).Lines
@@ -2382,7 +2382,7 @@ msgstr ""
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",5ACEB47B4DC474437836D1BE5DF53CC7"
 msgid "Fern, your blossom is talking!"
-msgstr ""
+msgstr "ファーン、あなたの花（blossom）がしゃべってる！"
 
 #. Key:	5AEA5C7F4EB5E13F37FC0C9552530212
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -2495,7 +2495,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(2).Lines
 msgctxt ",60B6EB594571EB46AAF53EAF5A1EF34C"
 msgid "That instinct draws them to what the temple calls \"Avatars of the Goddess\"."
-msgstr "その本能によって野生の個体は、神殿が「女神の化身像」と呼ぶものに引き寄せられる。"
+msgstr "その本能によって野性の個体は、神殿が「女神の化身像」と呼ぶものに引き寄せられる。"
 
 #. Key:	610937E54B5168894FBCF992E5728C73
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(0).Lines
@@ -2664,7 +2664,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",6658580C407404A28C6BD1875A2920D2"
 msgid "What a lovely talking fern..."
-msgstr "なんてカワイイしゃべるファーン（シダ植物）……"
+msgstr "なんてカワイイしゃべるシダ（fern）……"
 
 #. Key:	668D13F146AB0A33AF196F814E2CAA98
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3425,7 +3425,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(3).Lines
 msgctxt ",8362C8D747AF6B672FEF0CB58B2B5B0C"
 msgid "Why some @MONSTER_RACE@ are blessed and others aren't is a problem I've been trying to solve for ages. It's possible to see both a wild and blessed variant from the same race! Why?!!"
-msgstr "なぜ祝福された@MONSTER_RACE@とそうじゃない@MONSTER_RACE@がいるのかは、ワタシが長年解き明かそうとしている難題よ。野生の個体と祝福個体が同じ種族で見られることもあるの！ なぜなの？！！"
+msgstr "なぜ祝福された@MONSTER_RACE@とそうじゃない@MONSTER_RACE@がいるのかは、ワタシが長年解き明かそうとしている難題よ。野性の個体と祝福個体が同じ種族で見られることもあるの！ なぜなの？！！"
 
 #. Key:	83C8B41F462880323A7E26B8AE678AA1
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(6).Lines
@@ -3617,7 +3617,7 @@ msgstr "デーモンを管理する"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(8).Lines
 msgctxt ",86F7401346D43F3587BFEFAB87819829"
 msgid "Go wander around an Avatar, you will find wild @MONSTER_RACE@ roaming about aimlessly."
-msgstr "化身像の周りを歩いてみて、あてどなくふらつく野生の@MONSTER_RACE@が見つかるわ。"
+msgstr "化身像の周りを歩いてみて、あてどなくふらつく野性の@MONSTER_RACE@が見つかるわ。"
 
 #. Key:	8702885F4AD8627AC254029214EED99B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(1).Lines
@@ -3757,7 +3757,7 @@ msgstr "ワタシのやわらかエルフ・リップ、気持ちいい？ そ�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",8AF6FC6641A12C2B4A5B90B25313D5E2"
 msgid "I am a full grown Alraune now!"
-msgstr ""
+msgstr "わたしは今や、成熟したアルラウネです！"
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
@@ -4064,7 +4064,7 @@ msgstr "そのピンクのアルラウネはだれ？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(1).Lines
 msgctxt ",945CB3304860CBDF1DCD348F2BE3E32B"
 msgid "They're more common than blessed ones and act on instinct."
-msgstr "野生のは祝福された個体よりも一般的で、本能に従って行動するの。"
+msgstr "野性のは祝福された個体よりも一般的で、本能に従って行動するの。"
 
 #. Key:	9471D48E445DF08463FDFC8291100E4E
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(0).Lines
@@ -4269,7 +4269,7 @@ msgstr "ワタシのような祝福された@MONSTER_RACE@は、人間並みの�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",9AF5988A4B6D8F174F3241B67F4033C8"
 msgid "Blossom!"
-msgstr ""
+msgstr "ブロッサム！"
 
 #. Key:	9B115CE5485736847F748591F0C8FB2A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(3).LinesToMale
@@ -4700,14 +4700,14 @@ msgstr "ニャ！ なかなかのモンじゃん、そっから見えるアン�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",AD224A514AC35938B00457BC8B2C7422"
 msgid "Blossom needsss fluidsss!"
-msgstr ""
+msgstr "ブロッサム、ひつようぅぅ、えきたいぃぃ！"
 
 #. Key:	AD4B293B4D8F1432446C92924F59456E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(22).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(22).LinesToFemale
 msgctxt ",AD4B293B4D8F1432446C92924F59456E"
 msgid "You will only catch wild @MONSTER_RACE@, which have roughly the intelligence of animals."
-msgstr "アナタは野生の@MONSTER_RACE@だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
+msgstr "アナタは野性の@MONSTER_RACE@だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
 
 #. Key:	ADECACEF405669C45FAC77AB2A48E637
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -4771,7 +4771,7 @@ msgstr "多様化: 子が一定の確率で、召喚時にランダムな特性�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",B071E1E04B9EA4D9C227C2935955161A"
 msgid "Wild @MONSTER_RACE@ are what you will be catching and breeding."
-msgstr "野生の@MONSTER_RACE@は、アナタが捕まえて交配させることになる@MONSTER_RACE@。"
+msgstr "野性の@MONSTER_RACE@は、アナタが捕まえて交配させることになる@MONSTER_RACE@。"
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
@@ -4836,7 +4836,7 @@ msgstr "アタシを@MONSTER_RACE@のミルク・ソムリエだと思ってく�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03_R01.Default__BlossomDefault01_R03_R01_C.SessionData.Lines(0).Lines
 msgctxt ",B27218744AEBAD507E1037B620EC16DA"
 msgid "Hiss! Blossom love you mastah!"
-msgstr ""
+msgstr "しゅー！ ブロッサム、ごすじん、あいしてる！"
 
 #. Key:	B2DF6AC642DDC3C552F43290DCBE4EA7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -5000,7 +5000,7 @@ msgstr "ぽっちゃり: この個体は、体脂肪をより多くたくわえ�
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",B82A33C04616825E1FC07F99415D421D"
 msgid "What a lovely talking fern..."
-msgstr "なんてカワイイしゃべるファーン（シダ植物）……"
+msgstr "なんてカワイイしゃべるシダ（fern）……"
 
 #. Key:	B832AA994DBADAA17A15049B206652C5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(9).Lines
@@ -5807,7 +5807,7 @@ msgstr "それ、本当にそっちの意味で言ってたりしますか？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(5).Lines
 msgctxt ",D9E7689541319CEB860F4A99964E97FE"
 msgid "Wild @MONSTER_RACE@ may be dumb, but they need love too!"
-msgstr "野生の@MONSTER_RACE@は言葉を知らないかもしれない、でも彼らも愛を欲しがってる！"
+msgstr "野性の@MONSTER_RACE@は言葉を知らないかもしれない、でも彼らも愛を欲しがってる！"
 
 #. Key:	D9F77A0E43A8B000912D6AB5C30FD924
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -5856,7 +5856,7 @@ msgstr "一方で@MONSTER_RACE@は、ほとんどあっという間に生殖す�
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",DB00D91D4420A5D9D4F3FBB7DD1AC099"
 msgid "I can help you harvest fluids from wild @MONSTER_RACE@."
-msgstr "わたしは、あなたが野生の@MONSTER_RACE@から液体を採取するのを、支援できます。"
+msgstr "わたしは、あなたが野性の@MONSTER_RACE@から液体を採取するのを、支援できます。"
 
 #. Key:	DB15AC1342DDCD7D060351944CB369E4
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(2).Lines
@@ -5891,7 +5891,7 @@ msgstr "しゅー……"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(1).Lines
 msgctxt ",DB7D31B143C7D61531D61790BE87667B"
 msgid "I grew in your soil, and now it is my permanent home. Hopefully you like your new decoration!"
-msgstr ""
+msgstr "わたしはあなたの土で育ちました。そして今、この土がわたしの永住の地です。あなたの土の新しい飾りを、気に入ってくださればよいのですが！"
 
 #. Key:	DC0025004492CEEAE0F8D1A26E169F34
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(1).Lines
@@ -5948,7 +5948,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(13).Lines
 msgctxt ",DCFCF2FF45351BEF9BAEACA9BE408F9A"
 msgid "If the wild @MONSTER_RACE@ loses interest in you, its low attention span will kick in and it will wander off."
-msgstr "追いかけてきた野生の@MONSTER_RACE@がアナタへの興味をなくすと、彼らの飽きっぽさが作用してどこかへ行ってしまうわ。"
+msgstr "追いかけてきた野性の@MONSTER_RACE@がアナタへの興味をなくすと、彼らの飽きっぽさが作用してどこかへ行ってしまうわ。"
 
 #. Key:	DD3959194243B910FF07BC8D7CA651AB
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(0).Lines
@@ -5976,7 +5976,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",DDC7B99042CEA89C790895990EB876BE"
 msgid "Most @MONSTER_RACE@ are wild, that is they roam by instict and are as animals."
-msgstr "ほとんどの@MONSTER_RACE@は野生、つまり本能によってうろついて、動物のよう。"
+msgstr "ほとんどの@MONSTER_RACE@は野性、つまり本能によってうろついて、動物のよう。"
 
 #. Key:	DDC88AD7412D1B9E7696ED8213C21E27
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(3).Lines
@@ -6088,7 +6088,7 @@ msgstr "……"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",E1AA64794D412D85279E1C928CB75EFF"
 msgid "What are wild @MONSTER_RACE@?"
-msgstr "野生の@MONSTER_RACE@って？"
+msgstr "野性の@MONSTER_RACE@って？"
 
 #. Key:	E1E308E24203BE20934F4FBC8BEC61C7
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -6230,7 +6230,7 @@ msgstr "非標準体型"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(2).Lines
 msgctxt ",E6AE999D442B37DD898ED3B14ADA261A"
 msgid "Wild elves aren't as common as other @MONSTER_RACE@, Painted Elves even less so."
-msgstr "野生のエルフは他の@MONSTER_RACE@ほどありふれてはいない、ペインテッド・エルフはさらに少ないの。"
+msgstr "野性のエルフは他の@MONSTER_RACE@ほどありふれてはいない、ペインテッド・エルフはさらに少ないの。"
 
 #. Key:	E771BFFB4897C621A00726862D211233
 #. SourceLocation:	/Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.Description
@@ -6367,7 +6367,7 @@ msgstr "感じなさい、ワタシの舌を。アナタのヒダを撫でるの
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",ED31F33C43B35F55174029803CC7A311"
 msgid "I am a full grown Alraune now!"
-msgstr ""
+msgstr "わたしは今や、成熟したアルラウネです！"
 
 #. Key:	ED550A2148D3A000A85A3888AF7B31B1
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(3).Lines
@@ -6502,14 +6502,14 @@ msgstr "おねがい、ファーンにのこさず、しずくください。も
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",F37DF7694328A3895D54B3BC4DB0147D"
 msgid "Blossom help mastah! Blossom harvest fluidssss for you!"
-msgstr ""
+msgstr "ブロッサム、ごすじんをたすける！ ブロッサム、えきたいぃぃぃをとる、ごすじんのため！"
 
 #. Key:	F39F0EAF49B80BDC208978900604CC74
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(10).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(10).Lines
 msgctxt ",F39F0EAF49B80BDC208978900604CC74"
 msgid "But be warned, wild @MONSTER_RACE@ have no control over their desires and will surprise you with sex!"
-msgstr "けど注意すること。野生の@MONSTER_RACE@はその欲望を制御することができないから、アナタにいきなり手を出してセックスするわ！"
+msgstr "けど注意すること。野性の@MONSTER_RACE@はその欲望を制御することができないから、アナタにいきなり手を出してセックスするわ！"
 
 #. Key:	F3F4124041D97034B836478BD7FE0BF9
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.Description
@@ -6551,7 +6551,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",F685E190400D71BAA030AE8630162626"
 msgid "I suppose there is no need to feed me anymore, but there is another place your fluids can go!"
-msgstr ""
+msgstr "わたしに養分を与える必要は、もうないでしょう。ですが、あなたの液体を出せる別の場所があります！"
 
 #. Key:	F6A2BD8D4CBE73666D030B83D56908E8
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(2).Lines
