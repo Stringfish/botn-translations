@@ -23,7 +23,7 @@ DerelictHelmsman氏が制作中のゲーム「Breeders of the Nephelym」の日�
 ### 地名
 * Homestead：牧場屋敷
 * Hedon Township：ヘドンの街
-** the temple：神殿
+  * the temple：神殿
 * Lustwood：色欲森
 * Pleasure Pastures：快楽の牧野
 * Virgin Breaks：破瓜の崩落地
