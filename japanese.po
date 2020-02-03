@@ -343,7 +343,7 @@ msgstr "あなたはきっと足の向くままに歩き、次の性的体験を
 #: /Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.PositionName
 msgctxt ",0D1B932340DB033C3F3173ABCEAE7E01"
 msgid "Butterfly"
-msgstr ""
+msgstr "バタフライ"
 
 #. Key:	0D3C4D8D4F6C01DE00A1B88BD745C860
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
@@ -371,7 +371,7 @@ msgstr "タイタンを管理する"
 #: /Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.PositionName
 msgctxt ",0DFBAC884A0E11B073E5269E92E6DC30"
 msgid "Doggy"
-msgstr ""
+msgstr "後背位"
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
@@ -908,7 +908,7 @@ msgstr "アナタは野性の@MONSTER_RACE@だけを捕まえる。かれらは�
 #: /Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.PositionName
 msgctxt ",21D4E1714A491D7CAA40E99AA6D354E8"
 msgid "Reverse Cowgirl"
-msgstr ""
+msgstr "背面騎乗位"
 
 #. Key:	2232F66F4BB565CC2A75538123292067
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
@@ -2572,7 +2572,7 @@ msgstr "神話に謳われたもの……禁じられたもの……そう……
 #: /Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.PositionName
 msgctxt ",63F3737B48B4C916545D1D8159EB762C"
 msgid "Cowgirl"
-msgstr ""
+msgstr "騎乗位"
 
 #. Key:	644065F84B0F2E772BE21695810A2F0F
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.Description
@@ -3411,7 +3411,7 @@ msgstr "牧場屋敷"
 #: /Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
 msgctxt ",827D026847F470B33C9BA5B6E24201F5"
 msgid "Lifted"
-msgstr ""
+msgstr "背面駅弁"
 
 #. Key:	8323A0B240DA89AE9385A6970E54FC26
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(3).Lines
@@ -4021,7 +4021,7 @@ msgstr ""
 #: /Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
 msgctxt ",93ACD44B44EFF7C20AF15E9D718C3166"
 msgid "Missionary"
-msgstr ""
+msgstr "正常位"
 
 #. Key:	93B6CD7C4E7ECCBA8FD7F38BD9A11025
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -4907,7 +4907,7 @@ msgstr "わたしの身体は、あなたの滋味あふれる母乳を待ちわ
 #: /Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
 msgctxt ",B49B5FD64432ADC45593F3B4F50455B6"
 msgid "Waterfall"
-msgstr ""
+msgstr "ウォーターフォール"
 
 #. Key:	B4EFBB67424526E49554149C5ADDE508
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(0).LinesToFuta
