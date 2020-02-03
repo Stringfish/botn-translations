@@ -4907,7 +4907,7 @@ msgstr "わたしの身体は、あなたの滋味あふれる母乳を待ちわ
 #: /Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
 msgctxt ",B49B5FD64432ADC45593F3B4F50455B6"
 msgid "Waterfall"
-msgstr "ブリッジ騎乗位"
+msgstr "ウォーターフォール"
 
 #. Key:	B4EFBB67424526E49554149C5ADDE508
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(0).LinesToFuta
