@@ -5,6 +5,10 @@ DerelictHelmsman氏が制作中のゲーム「Breeders of the Nephelym」翻訳�
 当リポジトリ管理者Stringfishは、GitHub初心者です。
 お気付きの点等ありましたら、ご連絡ください。
 
+# Join the Discord
+There is a channel dedicated for discussing translations. Let me know in Discord, and I will assign you the roll.
+https://discord.gg/6DpR6sb
+
 ### Stringfishの翻訳進行状況・予定
 （2020/02/05）  
 Leylannaのダイアログを翻訳しましたが、spirit formとそれに関連する文章に改善の余地があるかもしれません。  
