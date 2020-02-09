@@ -1,13 +1,13 @@
-﻿# japanese Japanese (Japan) translation.
+# japanese Japanese (Japan) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-02-07 21:37\n"
-"PO-Revision-Date: 2020-02-07 21:37\n"
+"PO-Revision-Date: 2020-02-09 23:04+0900\n"
 "Language-Team: \n"
-"Language: ja-JP\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -172,7 +172,7 @@ msgstr "遠慮なく言えばいいじゃん、アンタの野性の@MONSTER_RAC
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "アナタの背が高くて美しい身体をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
+msgstr "アナタの背が高くて美しい身体をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、アンバーのデカパイをしゃぶってきたらいかがですか。"
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -291,7 +291,7 @@ msgstr "ヴァルワーグを管理する"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(0).Lines
 msgctxt ",0BD52B434C91C8F5172BC0BB8C1B00BA"
 msgid "Behold, she is a loving servant of the Goddess, praise be Her name."
-msgstr ""
+msgstr "見よ、彼女は愛深き、女神のしもべなり。女神の御名に感謝せねば。"
 
 #. Key:	0C1F84244DE410EF33BD2B924829370C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.ThriaeHive.ManageActionMessage
@@ -389,7 +389,7 @@ msgstr "不妊: 子を作ることができない。"
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0EA2FCF24AF05A8FBEF98C9F2C767D3A"
 msgid "Decline"
-msgstr ""
+msgstr "拒否"
 
 #. Key:	0F0B2E364C42C3D6BACC018A46DB5BE4
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -459,7 +459,7 @@ msgstr "愛とともにこの胸に抱き留められ、私の音楽を感じま
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_R01.Default__EmissaryBlessedInquiry02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",11020A854E2D02F780F8BEA52E1E313C"
 msgid "If it pleases you, do as you will."
-msgstr ""
+msgstr "もしそれがあなたを歓ばせるのなら、あなたの望むように。"
 
 #. Key:	1150B97A4723F9592EB22D9FDDA5B4AE
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(15).LinesToMale
@@ -816,7 +816,7 @@ msgstr "めっちゃ気持ちいいし！ あぁぁぁ……"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",1E80A3A048E90BE3C26622BC4F2230F7"
 msgid "Bring them to me so that the Goddess can be reunited with her children. You shall be rewarded with the crystalized cum of the Goddess Herself."
-msgstr ""
+msgstr "@MONSTER_RACE@を私の元へ連れてくれば、女神は子孫たちと再び相まみえることができます。あなたは、結晶化した女神御自身の性液を褒美に賜わるでしょう。"
 
 #. Key:	1E9E8C004AF398F32ECD97B66BFC3438
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(2).ResponseData.BreederPrompt
@@ -830,7 +830,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",1EC1BDF8474319018DE2CBA3602448F1"
 msgid "I have overcome all desire and emotion. Such is a requirement to become an archangel of the Goddess, for she wants nothing to distract me from my task."
-msgstr ""
+msgstr "私はあらゆる欲望と感情に打ち勝っています。これは女神のアークエンジェルとなるための条件。というのは、私が任務で心を乱すようなことを、女神は望まないからです。"
 
 #. Key:	1FA8B3E8448F66CB1045EAB3F54ADE2B
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -1012,7 +1012,7 @@ msgstr "マッシブサイズ"
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",26BF34E64E91FAF8BA6ACF94AB76AB90"
 msgid "Does my soft golden skin please you @BREEDER_NAME@?"
-msgstr ""
+msgstr "私の黄金色の肌は御意に叶いましたか、@BREEDER_NAME@？"
 
 #. Key:	26D2F9824AAF8A08377F478BB7C771AB
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1026,7 +1026,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R02.Default__EmissaryBlessedInquiry01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",26DCB9EA476437386094CA87FFE3E422"
 msgid "How may I further assist you human?"
-msgstr ""
+msgstr "他に私がお力添えできることはございますか？ 人間よ。"
 
 #. Key:	276B525843A991FAE2D5FAAE9243EFC9
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(0).Lines
@@ -1047,7 +1047,7 @@ msgstr "セックスと冒険の世界が待ってるわ！"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(1).Lines
 msgctxt ",27AA07F64D837ABACCDEF6902D0199A2"
 msgid "When I first arrived, she embraced me, and made great attempts to please my vessel."
-msgstr ""
+msgstr "私が到着したとき、彼女は私を抱擁し、私の器を悦ばせようと大いに努力しました。"
 
 #. Key:	27CC628A41235ABEF7B863AD06577CD3
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1075,7 +1075,7 @@ msgstr "巨尻: 遺伝的に、非常に大きな尻を持つ。"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",29D016C340DC8B3F658D1A81BD0D7C54"
 msgid "Are you a Blessed @MONSTER_RACE@?"
-msgstr ""
+msgstr "あなたは祝福された@MONSTER_RACE@なの？"
 
 #. Key:	2AA4EC89483BB63996FEBE9BC4E4055A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_T.Default__CassieDefault01_Meow_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1110,7 +1110,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
 msgctxt ",2BA86FB140866995E4F323B86DA72C9A"
 msgid "The Goddess is pleased and will grant you Her favor."
-msgstr ""
+msgstr "女神は喜ばれ、あなたに恩恵を授けるでしょう。"
 
 #. Key:	2BCA631C4BEC509E1B1DAC824001A31A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1243,7 +1243,7 @@ msgstr "彼らを責めることはできないと思うわ！"
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",30B0262C40D2D8527E2C8EA23D4D4B6D"
 msgid "My labia are holy and magical. May your tongue be graced by their presence."
-msgstr ""
+msgstr "私の陰唇は、神聖で魔法を帯びます。我が唇の存在が、あなたの舌に光輝を与えんことを。"
 
 #. Key:	3101A3934639560426484AA6C6AAE3A1
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(0).Lines
@@ -1390,7 +1390,7 @@ msgstr "それから1匹かそこらがかならず興味を持って、アナ�
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",3713C92543DDBF9AF3C3209EE018350C"
 msgid "Does my soft golden skin please you @BREEDER_NAME@?"
-msgstr ""
+msgstr "私の黄金色の肌は御意に叶いましたか、@BREEDER_NAME@？"
 
 #. Key:	371A297549D5D30EA8E2A9A04A208FC8
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(4).Lines
@@ -1544,7 +1544,7 @@ msgstr "まだ捕まえておらぬのなら、オスのヴァルワーグを捕
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(7).Lines
 msgctxt ",3C944B624D25292479528987C3078CBF"
 msgid "For from Her and through Her and to Her are all things. To Her be glory forever."
-msgstr ""
+msgstr "総ての物は女神より出で、女神によって成り、女神に帰るからである。女神に永遠に栄光あれ。"
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
@@ -1621,7 +1621,7 @@ msgstr "わらわは絶えず彼女を悦ばせ、愛そうとしたのだが、
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",4019AADD47513B243D987E8810645FAD"
 msgid "Before you is an emissary of the Goddess, and your archangel servant. Let these words pierce your heart, for I speak on Her behalf."
-msgstr ""
+msgstr "あなたの前にいるのは女神の使い、そしてあなたのアークエンジェル、あなたのしもべ。これらの言葉を、あなたの胸に留め置いてください、私は女神の代行者として話すからです。"
 
 #. Key:	4021F6674834D5C495A7E59231DB4FA4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(12).Lines
@@ -1719,7 +1719,7 @@ msgstr "まー、ワタシは錬金術師なので……こういうモノは信
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",437DBE7940749A6838FDA39FD90FF637"
 msgid "Accept"
-msgstr ""
+msgstr "承諾"
 
 #. Key:	43D16A4C487E8E717D3AF2A72A1F2C56
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(1).Lines
@@ -1740,7 +1740,7 @@ msgstr "私のラミア・ボディはお気に召しましたか？"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",43F7A9D34F081E2EA25537A60B42DBA3"
 msgid "Don't waste your delicious body fluid on me. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "アナタのおいしい体液をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
+msgstr "アナタのおいしい体液をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、アンバーのデカパイをしゃぶってきたらいかがですか。"
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
@@ -1754,7 +1754,7 @@ msgstr "ぽっちゃり"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_WhatGoddessDoes.Default__EmissaryDefault01_WhatGoddessDoes_C.SessionData.Lines(0).Lines
 msgctxt ",44F952984F6E2F20583500AA72B0067A"
 msgid "Such is for Her to decide. Rest, for She is all-powerful and all-loving. Their care and wellness could not be in better hands."
-msgstr ""
+msgstr "それは女神がお決めになることです。案ずるにおよびません、女神は全能であり、博愛であられますから。彼らはこの上ない愛護を受け、この上なく健やかとなるでしょう。"
 
 #. Key:	44FB7A2943203A7912B1F5B22C5B6DCA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(19).LinesToFemale
@@ -1873,7 +1873,7 @@ msgstr "ワタシたちが交配の間に経験する快感は……強烈。本
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",48A773D34A077935AE7A2FAD14F4A978"
 msgid "The more powerful the soul thou entrusts to me, the greater shall be thy bounty."
-msgstr ""
+msgstr "汝が我に託せし魂強大なれば、汝の賜り大ならん。"
 
 #. Key:	48CC4FFE4554B0228CDDB7A68DA380FB
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Foxen/Harvest/FoxenHarvest.Default__FoxenHarvest_C.Harvest.RaceName
@@ -1887,7 +1887,7 @@ msgstr "フォクセン"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",48ECD1FC4E34FAB69B41249F46A1CAB8"
 msgid "@BREEDER_NAME@. Long have I waited for your arrival."
-msgstr ""
+msgstr "@BREEDER_NAME@よ。ずっと、あなたの到着を待っていました。"
 
 #. Key:	48F333E347A7091F18F946AADDC3C69D
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(6).Lines
@@ -2034,7 +2034,7 @@ msgstr "身体を預け、楽にするのだ、@BREEDER_NAME@……"
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",4E7910C949370E1A22F20886B7F19689"
 msgid "Huh... that means you're just as horny then."
-msgstr ""
+msgstr "ふーん……ってことは、やっぱりあなたもいやらしいんだ。"
 
 #. Key:	4E7998DA4738ECC33C9E7DA9B98FC68B
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(2).Lines
@@ -2188,7 +2188,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",53133AE5461CD4363425BC8B9E8327F4"
 msgid "Indulge yourself human, for I am thy servant."
-msgstr ""
+msgstr "存分に愉しむのです、人間よ。我、汝のしもべであるゆえ。"
 
 #. Key:	537B245D4CBB8BD28882D3AB47480EA4
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(1).Lines
@@ -2202,7 +2202,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",5408EE8A4C4CAFF4A2B2F9B2F1F0B779"
 msgid "I have wild @MONSTER_RACE@ to ascend."
-msgstr ""
+msgstr "交換したい野性の@MONSTER_RACE@がいます。"
 
 #. Key:	544F5F944F9E5D60454A39A741792497
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(10).Lines
@@ -2307,7 +2307,7 @@ msgstr "それはねぇ人間くん、ふたなりはタマを必要としない
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",59AE8221430C7DB9A85B7BB2B4663795"
 msgid "@BREEDER_NAME@, I am yours, through the Goddess."
-msgstr ""
+msgstr "@BREEDER_NAME@、私はあなたのものです、女神の名の下に。"
 
 #. Key:	59BDE65E43216BA7D5472BBCEE4B2E25
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(0).Lines
@@ -2888,7 +2888,7 @@ msgstr "ファーン、にんげんのおっぱい、ひつよう。おっきな
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(1).Lines
 msgctxt ",6F4E36894BE6D32AB2BF92B2FB1F5697"
 msgid "But first, a donation to the Goddess most high. Praise be Her name."
-msgstr ""
+msgstr "ただしまず、いと高き女神に供物を。女神の御名に感謝せねば。"
 
 #. Key:	6F5E6DAB49A4FDFA3CF6ADB4F98239E5
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(0).Lines
@@ -2923,7 +2923,7 @@ msgstr "わたしはあなたの土で育ちました。そしてまもなく、
 #: /Game/Dialogue/Leylanna/SexScenes/LeylannaLeyCov.Default__LeylannaLeyCov_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",7063E832426D1615683CF5A75DC53A4E"
 msgid "Yes, please me with your cock and the spirits shall grant you favor."
-msgstr ""
+msgstr "そうだ、わらわをその陽物で楽しませろ。さすれば、精霊たちがそなたに恩恵を与えるのだ。"
 
 #. Key:	70B4299E404BAC657357D7AD12E3DF68
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(16).LinesToFuta
@@ -3000,7 +3000,7 @@ msgstr "あぅぅ！ だれかさんが、おちんちんをしゃぶられた�
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_RL.Default__EmissaryBlessedInquiry02_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",72B372C34FD32D2D5F30B7854FF7D95B"
 msgid "In that case, I am going to lick every corner of your vagina!"
-msgstr ""
+msgstr "それならば、あなたのおまんこを隅々まで舐めるからね！"
 
 #. Key:	737ACFDE44717F24FCFA89B1A6780AA2
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(4).Lines
@@ -3217,7 +3217,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",7AE87BF645B6A4B1D35071A966CCF13E"
 msgid "Raise the trait level."
-msgstr ""
+msgstr "Traitレベルを上げて。"
 
 #. Key:	7B46D37346081D01CB0C9B8C6CAEE2DF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -3378,7 +3378,7 @@ msgstr "背面駅弁"
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(3).Lines
 msgctxt ",8323A0B240DA89AE9385A6970E54FC26"
 msgid "As your servant, my body is yours. Please thyself, for it matters not to me."
-msgstr ""
+msgstr "私はあなたのしもべ、私の身体はあなたのものです。汝の欲するままに、私は構いませぬゆえ。"
 
 #. Key:	8362C8D747AF6B672FEF0CB58B2B5B0C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(3).Lines
@@ -3686,7 +3686,7 @@ msgstr "であるから、そなたは捕まえている派生種にしか変身
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",8A20FAFA493E277B6F0278A65210863E"
 msgid "My labia are holy and magical. May your tongue be graced by their presence."
-msgstr ""
+msgstr "私の陰唇は、神聖で魔法を帯びます。我が唇の存在が、あなたの舌に光輝を与えんことを。"
 
 #. Key:	8A2E92A74C7DDAAAFC792FA98B65DD60
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(0).Lines
@@ -3889,7 +3889,7 @@ msgstr "多産"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",900A82D44250A3392806469644B7B93B"
 msgid "However, roaming this land are lesser @MONSTER_RACE@, to which many brand as \"wild\"."
-msgstr ""
+msgstr "しかし、この地を徘徊するのは、劣った@MONSTER_RACE@。多くの者は、彼らを「野性」呼ばわりです。"
 
 #. Key:	902A41DB403EFA60B99E8CB596EFE0BF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -3966,7 +3966,7 @@ msgstr "アタシの毛むくじゃらの手でも元に戻せるけどさ、ど
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",93200BC643D32038D21FA9A6972CB59F"
 msgid "Amazing!"
-msgstr ""
+msgstr "すごいね！"
 
 #. Key:	93ACD44B44EFF7C20AF15E9D718C3166
 #. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
@@ -4281,7 +4281,7 @@ msgstr "これに深く悲しんだ女神は、死んだものたちの種から
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",9E15F19C4964C11243C2BE906C8DB6C9"
 msgid "What do you think of Leylanna?"
-msgstr ""
+msgstr "レイラナのことをどう思う？"
 
 #. Key:	9E44475F4EB585010826CC9A936D628F
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_RL.Default__AmberMaeDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -4589,7 +4589,7 @@ msgstr "といっても、捕まえられっこないけどね、どっちみち
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",AB9D2C374B19A9E1B3E16E8EF742C9C8"
 msgid "Cometh thy to offer @MONSTER_RACE@?"
-msgstr ""
+msgstr "汝、@MONSTER_RACE@を差し出さんが為来たれりや？"
 
 #. Key:	ABAD7A244F5B11BC403296A9DDE29AFE
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.RaceName
@@ -4659,7 +4659,7 @@ msgstr "アナタは野性の@MONSTER_RACE@だけを捕まえる。かれらは�
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",ADECACEF405669C45FAC77AB2A48E637"
 msgid "My labia are holy and magical. May your tongue be graced by their presence."
-msgstr ""
+msgstr "私の陰唇は、神聖で魔法を帯びます。我が唇の存在が、あなたの舌に光輝を与えんことを。"
 
 #. Key:	ADF357A1447CC164A3CF54A274E1EECF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -4736,7 +4736,7 @@ msgstr "えぅぅぅ、もうガマンできない、アナタがカラッカラ
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_AreYouBlessed.Default__EmissaryDefault01_AreYouBlessed_C.SessionData.Lines(0).Lines
 msgctxt ",B12A342547F0295A52457D814E45C485"
 msgid "Yes @BREEDER_NAME@."
-msgstr ""
+msgstr "そのとおりです、@BREEDER_NAME@。"
 
 #. Key:	B1A4C4984540058620CA09A3FC603DBE
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(1).Lines
@@ -4869,7 +4869,7 @@ msgstr "アンタをアタシのミルク入れに挟みたいって言ったの
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Decline.Default__EmissaryRaiseTraitLvl_Decline_C.SessionData.Lines(0).Lines
 msgctxt ",B601DE914360E4E4962B9BAE17334C67"
 msgid "A pity indeed human... I suppose such low standards are fitting."
-msgstr ""
+msgstr "非常に残念です、人間よ……どうやら、あまり高望みしないのがちょうどよいのでしょうね。"
 
 #. Key:	B685468D40290FF6E84B0D812D2A7F2F
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(2).Lines
@@ -4981,7 +4981,7 @@ msgstr "その美しい人間チンポを、このラミアの肢体に突き刺
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",B98DBFC944D984D0B00D708EE1B9AB94"
 msgid "Indulge yourself human, for I am thy servant."
-msgstr ""
+msgstr "存分に愉しむのです、人間よ。我、汝のしもべであるゆえ。"
 
 #. Key:	B9F630DD484439D0C2B6EFBC3D01D2C5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(1).Lines
@@ -5065,7 +5065,7 @@ msgstr "それと……@MONSTER_RACE@を誘惑するモノも必要です、彼�
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",BD2871634CBCB94F889B2FA98F0BF8DA"
 msgid "Lost are these souls, and you alone can help them. As we speak, they wander aimlessly, enslaved by their desires."
-msgstr ""
+msgstr "迷える彼らの魂を、あなただけが救い出せます。私たちが話す間にも、彼らはあてもなく彷徨うのです、自らの欲望にとらわれながら。"
 
 #. Key:	BD61F6BE4278688EEA2B878F6E8C6994
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(14).LinesToFemale
@@ -5086,7 +5086,7 @@ msgstr "アナタは@WORLD_NAME@の一番新しい住人になったわ！"
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_RL.Default__EmissaryBlessedInquiry02_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",BE3E92FA4D0B5FE720EA038B6A6FF27C"
 msgid "Good to know."
-msgstr ""
+msgstr "教えてくれてありがとう。"
 
 #. Key:	BE946F0645DD9D40528D2A9DB1FB48B4
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(0).Lines
@@ -5170,7 +5170,7 @@ msgstr "これはもっとも誤解されていて、観測が難しい領域に
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",C156402F4738F87B9C9392A5443BE29F"
 msgid "You are unique in this world, for all other living things, myself included, are @MONSTER_RACE@. We are merely half human, crossed with... something else."
-msgstr ""
+msgstr "あなたは、この世界で特別な存在です。他のあらゆる生き物、私をふくむ、@MONSTER_RACE@にとって。私たちは半分人間、そして交ざり合った……別の何かと。"
 
 #. Key:	C18558714C7A7B697778D68CFD03FAF0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(4).Lines
@@ -5240,7 +5240,7 @@ msgstr "あぅぅ！ だれかさんが、おちんちんをしゃぶられた�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",C4F4ECA34FB62457AF54C48B18A75686"
 msgid "Or, hath desire brought you abreast my holy golden bosom?"
-msgstr ""
+msgstr "あるいは情欲が、我が聖なりし黄金の胸元まで、あなたを導きしや？"
 
 #. Key:	C4F8D7B9479B1BE8B5FA0AB326EEEF3A
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Formurian/Harvest/FormurianHarvest.Default__FormurianHarvest_C.Harvest.RaceName
@@ -5387,7 +5387,7 @@ msgstr "エルフはシルヴァンの一種。シルヴァンは多くの種を
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",CD24CE384C0548CF493A43A0F88CB7A2"
 msgid "Indulge yourself human, for I am thy servant."
-msgstr ""
+msgstr "存分に愉しむのです、人間よ。我、汝のしもべであるゆえ。"
 
 #. Key:	CD8C53FE4EAFB9508679088ACC31A4CD
 #. SourceLocation:	/Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.Description
@@ -5534,7 +5534,7 @@ msgstr "ワタシはカミラです！ ファリーンの小さなゴブリン�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
 msgctxt ",D395A99C4C2FAC4029FBE0A0AACFDE16"
 msgid "The Goddess smiles upon her, and she will remain as high priestess."
-msgstr ""
+msgstr "女神は彼女に微笑みかけ、彼女は女大祭司としてあり続けるでしょう。"
 
 #. Key:	D3E9009E43E0327FC24371950104BD21
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(18).LinesToFemale
@@ -5968,7 +5968,7 @@ msgstr "まったくです！ あなたのおいしい液体には、すばら�
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",E043108D41291B6169E3579CE41F44B3"
 msgid "Does my soft golden skin please you @BREEDER_NAME@?"
-msgstr ""
+msgstr "私の黄金色の肌は御意に叶いましたか、@BREEDER_NAME@？"
 
 #. Key:	E0699FC749A0DDDF3E385CA8D6F3E80E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
@@ -5982,7 +5982,7 @@ msgstr "えぅぅぅ、もうガマンできない、アナタがカラッカラ
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(2).Lines
 msgctxt ",E082A93948F5919CEB7D19BF935DA14E"
 msgid "All were in vain, for I am an archangel, but her kindess and loyatly to the Goddess are unquestionable."
-msgstr ""
+msgstr "すべては徒労に終わりました、私がアークエンジェルであるがゆえに。しかし、彼女の親切さと女神への忠誠心は、疑いようのないものです。"
 
 #. Key:	E0B9E9894DD5921A03759097168DF006
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(4).ResponseData.BreederPrompt
@@ -6108,7 +6108,7 @@ msgstr "わたしは成長するアルラウネ、ひょっとすると、液体
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(2).Lines
 msgctxt ",E499F0E4452FBC3AAE82E18BCF77B28B"
 msgid "My senses detect your desires @BREEDER_NAME@. You see my exposed body before you, and you wish to please yourself with it."
-msgstr ""
+msgstr "私の感覚は、あなたの欲望を見抜きます、@BREEDER_NAME@。あなたは、あなたの眼前にある私の晒された身体を見ている。そしてそれを使って、自らを慰めたいとお思いですね。"
 
 #. Key:	E5058E9246E1827F928D6681023A71A0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(10).LinesToFemale
@@ -6143,7 +6143,7 @@ msgstr "我らの愛によってのみ、そなたは女神の寵愛を受け、
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Accept.Default__EmissaryRaiseTraitLvl_Accept_C.SessionData.Lines(0).Lines
 msgctxt ",E63E125C4A07D646D1BFD48E816B5B37"
 msgid "A wise choice human, for the Goddess has further endowed wild @MONSTER_RACE@."
-msgstr ""
+msgstr "賢き選択なり、人間よ。女神は更に多くのものを、野性のネフェリムに授けました。"
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
@@ -6339,7 +6339,7 @@ msgstr "誘惑者: Allureによって、交配時のXPが一定の割合で増�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",F010E1B74164FC7DBBA07E8F73124FEF"
 msgid "What does the Goddess do with my @MONSTER_RACE@?"
-msgstr ""
+msgstr "女神は@MONSTER_RACE@をどうするの？"
 
 #. Key:	F018F7BF46C60F9708C3828E74D271BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(10).Lines
@@ -6381,7 +6381,7 @@ msgstr "様々な@MONSTER_RACE@が各地で見つけられますが、彼らは�
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",F13E7CAC4E86FD0C4B9F639D0F536883"
 msgid "Don't waste your delicious body fluid on me. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "アナタのおいしい体液をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、Amberのデカパイをしゃぶってきたらいかがですか。"
+msgstr "アナタのおいしい体液をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、アンバーのデカパイをしゃぶってきたらいかがですか。"
 
 #. Key:	F15CA5AC442824FB00747A8771A80403
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(4).Lines
@@ -6479,7 +6479,7 @@ msgstr "わたしに養分を与える必要は、もうないでしょう。で
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(2).Lines
 msgctxt ",F6A2BD8D4CBE73666D030B83D56908E8"
 msgid "@TRAIT_LVL_COST@ shall suffice."
-msgstr ""
+msgstr "@TRAIT_LVL_COST@で足りるでしょう。"
 
 #. Key:	F74061254D2D2A0904956FA983C624F3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(0).LinesToMale
@@ -6773,7 +6773,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(0).Lines
 msgctxt ",FF0D5A0E4AD29A5B9CCF59942CB94FFA"
 msgid "Seeketh thou a higher quality breeding stock I sense."
-msgstr ""
+msgstr "汝、更に優れたる種畜を求めんと思えり。"
 
 #. Key:	FF56CAFF482C5F43FF4C419DCB359C8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R06.Default__CamillaDefault01_R06_C.SessionData.Lines(0).Lines
