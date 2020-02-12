@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-02-07 21:37\n"
-"PO-Revision-Date: 2020-02-09 23:04+0900\n"
+"PO-Revision-Date: 2020-02-12 23:13+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -753,7 +753,7 @@ msgstr "それから女神たちは、この世界の多くの自然界の生き
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(2).Lines
 msgctxt ",1C9CDC1147105A3D3F0A43BB6C94695C"
 msgid "Alternatively, you can recharge your spirit form partially by engaging in sex with blessed ones."
-msgstr "あるいは、祝福された者たちと性交に及んでも、精霊態をある程度は回復できるのだ。"
+msgstr "あるいは、祝福された者たちと性交に及んでも、精霊体をある程度は回復できるのだ。"
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -844,7 +844,7 @@ msgstr "アンタ……にゃあ……かわいそうなキャシーのこの手
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
-msgstr "おもいやり: 交尾相手に2倍のXPを与えるが、自分は半分しか受け取らない。"
+msgstr "おもいやり: 交配相手に2倍のXPを与えるが、自分は半分しか受け取らない。"
 
 #. Key:	20149E5046FF32B65667FBA243C9BED4
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -991,7 +991,7 @@ msgstr "禁欲的: Lustの最大値が20%上昇する。"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",25085F2F407D8D979CA1B39E030426E5"
 msgid "Change my spirit form."
-msgstr "精霊態を変えたい。"
+msgstr "スピリット・フォームを変える。"
 
 #. Key:	25D626114231ECB08961C6AB69737AE1
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(1).Lines
@@ -1110,7 +1110,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
 msgctxt ",2BA86FB140866995E4F323B86DA72C9A"
 msgid "The Goddess is pleased and will grant you Her favor."
-msgstr "女神は喜ばれ、あなたに恩恵を授けるでしょう。"
+msgstr "女神は喜ばれ、あなたに御恵みを授けるでしょう。"
 
 #. Key:	2BCA631C4BEC509E1B1DAC824001A31A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1873,7 +1873,7 @@ msgstr "ワタシたちが交配の間に経験する快感は……強烈。本
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",48A773D34A077935AE7A2FAD14F4A978"
 msgid "The more powerful the soul thou entrusts to me, the greater shall be thy bounty."
-msgstr "汝が我に託せし魂強大なれば、汝の賜り大ならん。"
+msgstr "汝が我に託せし魂強大なる程、汝の賜り大ならん。"
 
 #. Key:	48CC4FFE4554B0228CDDB7A68DA380FB
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Foxen/Harvest/FoxenHarvest.Default__FoxenHarvest_C.Harvest.RaceName
@@ -2314,7 +2314,7 @@ msgstr "@BREEDER_NAME@、私はあなたのものです、女神の名の下に�
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(0).Lines
 msgctxt ",59BDE65E43216BA7D5472BBCEE4B2E25"
 msgid "Now that you have have formed a covenant with the Goddess, you may return to me to recharge your spirit form."
-msgstr "今のそなたは女神との契りを結んでおる。わらわの元へ戻ってきて、精霊態を回復してもよいぞ。"
+msgstr "今のそなたは女神との契りを結んでおる。わらわの元へ戻ってきて、精霊体を回復してもよいぞ。"
 
 #. Key:	59C80FA04F36092A693B1DB800804177
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -3077,7 +3077,7 @@ msgstr "肉欲の砂漠"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",7531D7CC4B4C50FC4972DB878B5DEDCA"
 msgid "How do I obtain spirit form?"
-msgstr "どうすれば精霊態を会得できる？"
+msgstr "どうすればスピリット・フォームを会得できる？"
 
 #. Key:	7553E8614616B738728FC0BCAFAFD4D2
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -3420,7 +3420,7 @@ msgstr "（ぺろっ） （ぺろっ）"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",8466D57D4CB68BF73561ECBC20AE8C25"
 msgid "What is spirit form?"
-msgstr "精霊態って？"
+msgstr "スピリット・フォームって？"
 
 #. Key:	84B9634D4CF62651B1D08F9FBD40F8DD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(2).Lines
@@ -3917,7 +3917,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
-msgstr "快楽主義者: 本来なら交尾相手に与えられる分のXPを得る。"
+msgstr "快楽主義者: 本来なら交配相手に与えられる分のXPを得る。"
 
 #. Key:	90CF176E415EE7CEA27716868800482A
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(4).Lines
@@ -4351,7 +4351,7 @@ msgstr "神殿の女大祭司レイラナによれば、女神とその天使た
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(20).LinesToFemale
 msgctxt ",9FE7AADC4372F0B32E971C838E6554EA"
 msgid "Since you're a breeder, it's your job to catch and mate as many @MONSTER_RACE@ as possible!"
-msgstr "なぜならアナタはブリーダーで、アナタのお仕事は@MONSTER_RACE@を可能な限り捕まえて交配させることだから！"
+msgstr "なぜならアナタはブリーダーで、アナタのお仕事は@MONSTER_RACE@を可能な限り捕まえて交尾させることだから！"
 
 #. Key:	9FF8B7CE43E6A9321DDB60919962BBB7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(17).LinesToMale
@@ -4400,7 +4400,7 @@ msgstr "アナタの柔らかいおっぱいを感じたい……ワタシの胸
 #: /Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",A208709240369AEC212F70B1CEFE7BE8"
 msgid "Let us make love to form a covenant in Her holy temple, and you can meet your spirit form."
-msgstr "女神の聖なる神殿の中、わらわたちで愛を交わし、契りを結ぼうぞ。さすれば、そなたは自らの精霊態と相まみえるであろう。"
+msgstr "女神の聖なる神殿の中、わらわたちで愛を交わし、契りを結ぼうぞ。さすれば、そなたは自らの精霊体――スピリット・フォームと巡り会うであろう。"
 
 #. Key:	A2DA50B44D0A24E096AF488F787D4928
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(28).LinesToFemale
@@ -5170,7 +5170,7 @@ msgstr "これはもっとも誤解されていて、観測が難しい領域に
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",C156402F4738F87B9C9392A5443BE29F"
 msgid "You are unique in this world, for all other living things, myself included, are @MONSTER_RACE@. We are merely half human, crossed with... something else."
-msgstr "あなたは、この世界で特別な存在です。他のあらゆる生き物、私をふくむ、@MONSTER_RACE@にとって。私たちは半分人間、そして交ざり合った……別の何かと。"
+msgstr "あなたは、この世界で特別な存在です。他の生きとし生けるもの、私をふくむ、@MONSTER_RACE@にとって。私たちは半分人間、そして交ざり合った……別の何かと。"
 
 #. Key:	C18558714C7A7B697778D68CFD03FAF0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(4).Lines
@@ -5310,7 +5310,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",C77FA616486308414031F29069272188"
 msgid "Let's recharge my spirit form."
-msgstr "精霊態を回復させて。"
+msgstr "スピリット・フォームを回復させて。"
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
@@ -5359,7 +5359,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",CB6197724E6737AA23A5DD991AD65537"
 msgid "With my delicate fingers, I shall play your vagina like an instrument"
-msgstr "我が繊細な指先をもって、その女陰を楽器のごとく奏でましょう"
+msgstr "我が繊細な指先をもって、その女陰を楽器のごとく奏でましょう。"
 
 #. Key:	CBCA7A624672A12A721B83B16D8F5A02
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(4).LinesToMale
@@ -5597,7 +5597,7 @@ msgstr "愛を交わそう！"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
-msgstr "筋肉質: Strengthによって、交尾相手が交配時に与えられるXPが一定の割合で増加する。"
+msgstr "筋肉質: Strengthによって、交配相手が交配時に与えられるXPが一定の割合で増加する。"
 
 #. Key:	D57D76E842FCC75ECC756BA13E9E8C9B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -5919,7 +5919,7 @@ msgstr "柵の線引いたやつは頭おかしいと思うけどさ！ どん�
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(2).Lines
 msgctxt ",DE7B484C4224680737F160881A189942"
 msgid "She only spoke one phrase to me: \"I must speak with the human.\""
-msgstr "彼女は発したのは一言、「私は、ある人間と話さねばならない」とだけ。"
+msgstr "彼女は発したのは一言、「私は、ある人間と話さねばなりません」とだけ。"
 
 #. Key:	DED16C92469A536D38021EBB9437E929
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(2).Lines
@@ -6024,7 +6024,7 @@ msgstr "野性の@MONSTER_RACE@って？"
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",E1E308E24203BE20934F4FBC8BEC61C7"
 msgid "With my voluptuous mermaid body, I shall play your dick like an instrument"
-msgstr "我が妖艶なマーメイドの身体をもって、その肉笛を楽器のごとく奏でましょう"
+msgstr "我が妖艶なマーメイドの身体をもって、その肉笛を楽器のごとく奏でましょう。"
 
 #. Key:	E1E5995441F81E5B6E79E8A5481789F0
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(1).Lines
@@ -6136,7 +6136,7 @@ msgstr "交配の快楽だけじゃなく、ワタシたちは生きることが
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",E60B504F4E0F613CDC4974B7C3F19AC1"
 msgid "Only through our love can you find favor with the Goddess and meet your spirit form."
-msgstr "我らの愛によってのみ、そなたは女神の寵愛を受け、そしてそなたの精霊態に出会うことができるのだ。"
+msgstr "我らの愛によってのみ、そなたは女神の寵愛を受け、そしてそなたの精霊体に出会うことができるのだ。"
 
 #. Key:	E63E125C4A07D646D1BFD48E816B5B37
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Accept.Default__EmissaryRaiseTraitLvl_Accept_C.SessionData.Lines(0).Lines
@@ -6507,7 +6507,7 @@ msgstr "（喘ぎ声）"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(20).LinesToMale
 msgctxt ",F75595714B06DF676D20B5B79FB8C222"
 msgid "Since you're a breeder, it's your job to catch and mate as many @MONSTER_RACE@ as possible!"
-msgstr "なぜならアナタはブリーダーで、アナタのお仕事は@MONSTER_RACE@を可能な限り捕まえて交配させることだから！"
+msgstr "なぜならアナタはブリーダーで、アナタのお仕事は@MONSTER_RACE@を可能な限り捕まえて交尾させることだから！"
 
 #. Key:	F79308E4449E12AB211CF78CC8200DA9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(21).LinesToMale
@@ -6584,7 +6584,7 @@ msgstr "巨尻"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
-msgstr "不潔: 交尾相手が20%の確率で汚れ、Allureが50%低下する。"
+msgstr "不潔: 交配相手が20%の確率で汚れ、Allureが50%低下する。"
 
 #. Key:	FA2C70284FBA2B074235FD87FF6B8D64
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(1).Lines
