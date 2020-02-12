@@ -10,9 +10,9 @@ There is a channel dedicated for discussing translations. Let me know in Discord
 https://discord.gg/6DpR6sb
 
 ### Stringfishの翻訳進行状況・予定
-（2020/02/09）  
-Emissaryのダイアログを翻訳しました。  
-Leylannaのダイアログを、spirit formとそれに関連する部分を中心に修正中です。
+（2020/02/13）  
+Leylannaのダイアログの見直しを完了しました。  
+Mirruのダイアログを翻訳中です。
 
 ## 固有名詞・頻出単語 訳例
 
