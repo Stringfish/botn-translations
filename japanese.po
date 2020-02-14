@@ -816,7 +816,7 @@ msgstr "めっちゃ気持ちいいし！ あぁぁぁ……"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",1E80A3A048E90BE3C26622BC4F2230F7"
 msgid "Bring them to me so that the Goddess can be reunited with her children. You shall be rewarded with the crystalized cum of the Goddess Herself."
-msgstr "@MONSTER_RACE@を私の元へ連れてくれば、女神は子孫たちと再び相まみえることができます。あなたは、結晶化した女神御自身の性液を褒美に賜わるでしょう。"
+msgstr "@MONSTER_RACE@を私の元へ連れてくれば、女神は子孫たちと再び相まみえることができます。あなたは、結晶化した女神御自身の精液を褒美に賜わるでしょう。"
 
 #. Key:	1E9E8C004AF398F32ECD97B66BFC3438
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(2).ResponseData.BreederPrompt
