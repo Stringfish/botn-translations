@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-02-07 21:37\n"
-"PO-Revision-Date: 2020-02-12 23:13+0900\n"
+"PO-Revision-Date: 2020-02-13 22:44+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -753,7 +753,7 @@ msgstr "それから女神たちは、この世界の多くの自然界の生き
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(2).Lines
 msgctxt ",1C9CDC1147105A3D3F0A43BB6C94695C"
 msgid "Alternatively, you can recharge your spirit form partially by engaging in sex with blessed ones."
-msgstr "あるいは、祝福された者たちと性交に及んでも、精霊体をある程度は回復できるのだ。"
+msgstr "あるいは、祝福された者たちと性交に及んでも、精霊態をある程度は回復できるのだ。"
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -2314,7 +2314,7 @@ msgstr "@BREEDER_NAME@、私はあなたのものです、女神の名の下に�
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(0).Lines
 msgctxt ",59BDE65E43216BA7D5472BBCEE4B2E25"
 msgid "Now that you have have formed a covenant with the Goddess, you may return to me to recharge your spirit form."
-msgstr "今のそなたは女神との契りを結んでおる。わらわの元へ戻ってきて、精霊体を回復してもよいぞ。"
+msgstr "今のそなたは女神との契りを結んでおる。わらわの元へ戻ってきて、精霊態を回復してもよいぞ。"
 
 #. Key:	59C80FA04F36092A693B1DB800804177
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -4400,7 +4400,7 @@ msgstr "アナタの柔らかいおっぱいを感じたい……ワタシの胸
 #: /Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",A208709240369AEC212F70B1CEFE7BE8"
 msgid "Let us make love to form a covenant in Her holy temple, and you can meet your spirit form."
-msgstr "女神の聖なる神殿の中、わらわたちで愛を交わし、契りを結ぼうぞ。さすれば、そなたは自らの精霊体――スピリット・フォームと巡り会うであろう。"
+msgstr "女神の聖なる神殿の中、わらわたちで愛を交わし、契りを結ぼうぞ。さすれば、そなたは自らの精霊態――スピリット・フォームと出会うであろう。"
 
 #. Key:	A2DA50B44D0A24E096AF488F787D4928
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(28).LinesToFemale
@@ -6136,7 +6136,7 @@ msgstr "交配の快楽だけじゃなく、ワタシたちは生きることが
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",E60B504F4E0F613CDC4974B7C3F19AC1"
 msgid "Only through our love can you find favor with the Goddess and meet your spirit form."
-msgstr "我らの愛によってのみ、そなたは女神の寵愛を受け、そしてそなたの精霊体に出会うことができるのだ。"
+msgstr "我らの愛によってのみ、そなたは女神の寵愛を受け、そしてそなたの精霊態に巡り会うことができるのだ。"
 
 #. Key:	E63E125C4A07D646D1BFD48E816B5B37
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Accept.Default__EmissaryRaiseTraitLvl_Accept_C.SessionData.Lines(0).Lines
