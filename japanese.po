@@ -2202,7 +2202,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",5408EE8A4C4CAFF4A2B2F9B2F1F0B779"
 msgid "I have wild @MONSTER_RACE@ to ascend."
-msgstr "交換したい野性の@MONSTER_RACE@がいます。"
+msgstr "回帰させたい野性の@MONSTER_RACE@がいます。"
 
 #. Key:	544F5F944F9E5D60454A39A741792497
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(10).Lines
