@@ -214,7 +214,7 @@ msgstr "さて、@WORLD_NAME@には私が這ったことのない場所はあり
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",06DCC78B4F1DECA217645DA58B3BB2A4"
 msgid "Fern help mastah! Fern harvest fluidssss for you!"
-msgstr "ファーン、ごすじんをたすける！ ファーン、えきたいぃぃぃをとる、ごすじんのため！"
+msgstr "ファーン、ごしゅずんをたしゅける！ ファーン、えきたいぃぃぃをとる、ごしゅずんのため！"
 
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
@@ -235,7 +235,7 @@ msgstr "この世界は@MONSTER_RACE@――謎に満ちた半人半獣の混合�
 #: /Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",07F233504BDA1232640FB1846CBFE868"
 msgid "Mastah! Fern love you."
-msgstr "ごすじん！ ファーン、あいしてる。"
+msgstr "ごしゅずん！ ファーン、あいしてる。"
 
 #. Key:	07F5EE754EC13715610F3E8746D2A3D2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(0).Lines
@@ -354,7 +354,7 @@ msgstr "よろしければ、入浴しますか？ それとも、そなたの�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",0D9D20584BA7B523EE2834B29064B88E"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr "ううううう、ごすじん！ とうとう、ファーンえきたい、もらえる？！"
+msgstr "ううううう、ごしゅずん！ とうとう、ファーンえきたい、もらえる？！"
 
 #. Key:	0DB9C395441D2A229D61EE963260C09C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.TitanCave.ManageActionMessage
@@ -858,7 +858,7 @@ msgstr "まだ捕まえておらぬのなら、メスのフォクセンを捕ま
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(6).Lines
 msgctxt ",2087D4A34628AB4B8A51C4827BDC8AA0"
 msgid "Fern hope this pleases mastah greatly..."
-msgstr "ファーンはこれで、ごすじんがすごくよろこぶと、いいなっておもう……"
+msgstr "ファーンはこれで、ごしゅずんがすごくよろこぶと、いいなっておもう……"
 
 #. Key:	20A752DD41AFEBDD2A4852BD029B894E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -872,7 +872,7 @@ msgstr "アナタは@WORLD_NAME@の一番新しい住人になったわ！"
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",210B50F94F9FCF3416F33C880389C277"
 msgid "With Mastah's body fluid... mother made me. Still sapling... want fluidsss!"
-msgstr "ごすじんのたいえきで……かあさん、わたしをうんだ。まだ苗……ほしい、えきたいぃぃ！"
+msgstr "ごしゅずんのたいえきで……かあさん、わたしをうんだ。まだ苗……ほしい、えきたいぃぃ！"
 
 #. Key:	2126F09F4B710631419B5DABA6528521
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(5).Lines
@@ -942,7 +942,7 @@ msgstr "ボヴァウルを管理する"
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
 msgctxt ",236BBFF14A62BA287C86179E8ACDDCA9"
 msgid "Mastah... your dick so big! Many fluids will it give me."
-msgstr "ごすじん……おちんちんでっかい！ これなら、えきたいをたくさん、くれるね。"
+msgstr "ごしゅずん……おちんちんでっかい！ これなら、えきたいをたくさん、くれるね。"
 
 #. Key:	2373050C45C9AA9783D038B170402B88
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(2).Lines
@@ -977,7 +977,7 @@ msgstr "しまったわ！ ちゃんと通じてたらいいんだけども。"
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(6).Lines
 msgctxt ",244693F347E948FB69765A8A6CFF9E08"
 msgid "Ohhh... mastah... ahhh... taste your fluids please. Fern feels them coming..."
-msgstr "うううう……ごすじん……ああああ……ごすじんのえきたい、おいしいってしりたいです。ファーン、えきたい出るの、かんじる……"
+msgstr "うううう……ごしゅずん……ああああ……ごしゅずんのえきたい、おいしいってしりたいでしゅ。ファーン、えきたい出るの、かんじる……"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
@@ -1033,7 +1033,7 @@ msgstr "他に私がお力添えできることはございますか？ 人間�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",276B525843A991FAE2D5FAAE9243EFC9"
 msgid "Mastah! Blossom love you."
-msgstr "ごすじん！ ブロッサム、あいしてる。"
+msgstr "ごしゅずん！ ブロッサム、あいしてる。"
 
 #. Key:	2792356C47CF43619493DA8F71F0D9A0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(29).LinesToMale
@@ -2167,7 +2167,7 @@ msgstr "巨根"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",52570DF44A9EF55907B4EBBCCC8EFB52"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr "ううううう、ごすじん！ とうとう、ファーンえきたい、もらえる？！"
+msgstr "ううううう、ごしゅずん！ とうとう、ファーンえきたい、もらえる？！"
 
 #. Key:	52642BC9475ED06B0EBBA4AA6032CE9D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(18).LinesToMale
@@ -2209,7 +2209,7 @@ msgstr "回帰させたい野性の@MONSTER_RACE@がいます。"
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(10).Lines
 msgctxt ",544F5F944F9E5D60454A39A741792497"
 msgid "Fern hope this pleases mastah greatly..."
-msgstr "ファーンはこれで、ごすじんがすごくよろこぶと、いいなっておもう……"
+msgstr "ファーンはこれで、ごしゅずんがしゅごくよろこぶと、いいなっておもう……"
 
 #. Key:	5477799C4F9B5398BECB918C51B6CC44
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Cancel.Default__AmberMaeSuckJugs_Cancel_C.SessionData.Lines(0).Lines
@@ -3301,7 +3301,7 @@ msgstr "あぁぁ……おぉぉぉぉ……いい！"
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(1).Lines
 msgctxt ",7ED8B0A7419F30B18D98B1BF4842D4A5"
 msgid "When mastah not want harvest... Blossom do it."
-msgstr "ごすじん、とりたくないとき……ブロッサムがとる。"
+msgstr "ごしゅずん、とりたくないとき……ブロッサムがとる。"
 
 #. Key:	7EF1ACD74571884FC8F3A9B17EC12FEC
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.SylvanTreehouse.ManageActionMessage
@@ -4183,7 +4183,7 @@ msgstr "フォクセンを管理する"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(3).Lines
 msgctxt ",9935EBCD498F8B600AAED699613B52E9"
 msgid "Many shiny does Fern find in soil. Fern try to eat shiny, too hard."
-msgstr "たくさんのピカピカ、土のなかでファーンみつける。ファーン、ピカピカたべようとする。かたすぎ。"
+msgstr "たくさんのピカピカ、土のなかでファーンみつける。ファーン、ピカピカたべようとする。かたしゅぎ。"
 
 #. Key:	9948725645B6492AE76EDB8B38DB1C7F
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.HarpyAviary.ManageActionMessage
@@ -4204,7 +4204,7 @@ msgstr "例の人間がとうとう、わらわの知恵を頼りに来たか。
 #: /Game/Dialogue/Fern/Default/FernDefault01_R03.Default__FernDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",9A0EF6A841D0C76A871BD39DB09AEFD4"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr "ううううう、ごすじん！ とうとう、ファーンえきたい、もらえる？！"
+msgstr "ううううう、ごしゅずん！ とうとう、ファーンえきたい、もらえる？！"
 
 #. Key:	9A9EDF3448107C0855BB35BBD9D849F5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
@@ -4435,7 +4435,7 @@ msgstr "うぅぅぅ……やわらか人間まんこ、すっごいよぅ！"
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(0).Lines
 msgctxt ",A3D34227454452C74EC9BEBE9D5B4A17"
 msgid "Mastah's breast so soft! Fern like it."
-msgstr "ごすじんのおっぱい、とってもやわらか！ ファーン、スキ。"
+msgstr "ごしゅずんのおっぱい、とってもやわらか！ ファーン、スキ。"
 
 #. Key:	A40264BD4BB3E658212ECE987CC24B4A
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
@@ -4778,7 +4778,7 @@ msgstr "アタシを@MONSTER_RACE@のミルク・ソムリエだと思ってく�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03_R01.Default__BlossomDefault01_R03_R01_C.SessionData.Lines(0).Lines
 msgctxt ",B27218744AEBAD507E1037B620EC16DA"
 msgid "Hiss! Blossom love you mastah!"
-msgstr "しゅー！ ブロッサム、ごすじん、あいしてる！"
+msgstr "しゅー！ ブロッサム、ごしゅずん、あいしてる！"
 
 #. Key:	B2DF6AC642DDC3C552F43290DCBE4EA7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -5170,7 +5170,7 @@ msgstr "これはもっとも誤解されていて、観測が難しい領域に
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",C156402F4738F87B9C9392A5443BE29F"
 msgid "You are unique in this world, for all other living things, myself included, are @MONSTER_RACE@. We are merely half human, crossed with... something else."
-msgstr "あなたは、この世界で特別な存在です。他の生きとし生けるもの、私をふくむ、@MONSTER_RACE@にとって。私たちは半分人間、そして交ざり合った……別の何かと。"
+msgstr "あなたは、この世界で特別な存在。他の生きとし生けるものは、私もふくめ、@MONSTER_RACE@ですから。私たちは半分人間、そして交ざり合った……別の何かと。"
 
 #. Key:	C18558714C7A7B697778D68CFD03FAF0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(4).Lines
@@ -5520,7 +5520,7 @@ msgstr "あぁ、ご主人様……わたしはこれを待ち望んでいまし
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",D209ED1D49C6A4C6106AC69A3100D415"
 msgid "When mastah not want harvest... Fern do it."
-msgstr "ごすじん、とりたくないとき……ファーンがとる。"
+msgstr "ごしゅずん、とりたくないとき……ファーンがとる。"
 
 #. Key:	D2DF40244F8B96F91F4101A5AD5F08AA
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
@@ -5765,7 +5765,7 @@ msgstr "ワタシから精液を買うんです！ ワタシは一級の精液�
 #: /Game/Dialogue/Fern/Default/FernDefault01_R01.Default__FernDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",DA8A389840F92C11D80A20A1593273B7"
 msgid "Me grow in thisss soil... hiss. Still sapling... need mastah to grow into big Alraune!"
-msgstr "わたし、この土ぃぃでそだつ……しゅー。まだ苗……ごすじん、ひつよう。おっきなアルラウネに、なるため！"
+msgstr "わたし、この土ぃぃでそだつ……しゅー。まだ苗……ごしゅずんが、ひつよう。おっきなアルラウネに、なるため！"
 
 #. Key:	DA9BB43342773BD3A51CEC9C5A48CA82
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(3).ResponseData.BreederPrompt
@@ -6185,7 +6185,7 @@ msgstr "筋肉質"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(2).Lines
 msgctxt ",E89B660E4DCD6EDBFE7FBDB73A354FD0"
 msgid "If mastah let Fern drink mastah's fluids, Fern give shiny. Hiss!"
-msgstr "ごすじんが、ごすじんのえきたい、のませてくれたら、ファーンがピカピカあげる。しゅー！"
+msgstr "ごしゅずんが、ごしゅずんのえきたい、のませてくれたら、ファーンがピカピカあげる。しゅー！"
 
 #. Key:	E91EF4164FCD12832A52B095A8557B4A
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DragonHoard.ManageActionMessage
@@ -6311,7 +6311,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(2).Lines
 msgctxt ",EDFEC0864067F06F1A5A1C9F3501DE00"
 msgid "Fern mouth too... ahhh... small."
-msgstr "ファーンのお口、ちっちゃ……ああああ……ちっちゃすぎ。"
+msgstr "ファーンのお口、ちっちゃ……ああああ……ちっちゃしゅぎ。"
 
 #. Key:	EE11DC6C4F3DE85807004E93DB73A0B2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -6423,7 +6423,7 @@ msgstr "おねがい、ファーンにのこさず、しずくください。も
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",F37DF7694328A3895D54B3BC4DB0147D"
 msgid "Blossom help mastah! Blossom harvest fluidssss for you!"
-msgstr "ブロッサム、ごすじんをたすける！ ブロッサム、えきたいぃぃぃをとる、ごすじんのため！"
+msgstr "ブロッサム、ごしゅずんをたしゅける！ ブロッサム、えきたいぃぃぃをとる、ごしゅずんのため！"
 
 #. Key:	F39F0EAF49B80BDC208978900604CC74
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(10).Lines
@@ -6549,14 +6549,14 @@ msgstr "ああああ……この年を経た管理者を満足させてくれま
 #: /Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",F8E720D345661A45019656BB02DC9809"
 msgid "Mastah?"
-msgstr "ごすじん？"
+msgstr "ごしゅずん？"
 
 #. Key:	F91CB0D5406C6A0CEF265AACB268DDE0
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",F91CB0D5406C6A0CEF265AACB268DDE0"
 msgid "Mastah?"
-msgstr "ごすじん？"
+msgstr "ごしゅずん？"
 
 #. Key:	F9C66FA74BAA102FE1238A952823D3D9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(17).Lines
