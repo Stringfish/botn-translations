@@ -347,7 +347,7 @@ msgstr "バタフライ"
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",0D3C4D8D4F6C01DE00A1B88BD745C860"
 msgid "A bath perhaps? Or maybe one of your wild ones took a dirt nap. I will wash them all."
-msgstr "よろしければ、入浴しますか？ それとも、そなたの野性のネフェリムが、土に埋もれましたか。私が皆洗いましょう。"
+msgstr "よろしければ、入浴しますか？ それとも、そなたの野性のネフェリムが、土に埋もれて眠りましたか。私が皆洗いましょう。"
 
 #. Key:	0D9D20584BA7B523EE2834B29064B88E
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(0).Lines
