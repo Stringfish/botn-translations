@@ -13,7 +13,7 @@ https://discord.gg/6DpR6sb
 （2020/03/15）  
 Ver.0.734Aの翻訳用POファイルをフォークしました。  
 実装された翻訳をチェックしつつ、追加されたUI用テキストを翻訳する予定です。  
-翻訳優先度は、SSexySettingsMenu→CharacterEditor→その他…です。  
+翻訳優先度は、CharacterDetails→SSexySettingsMenu→CharacterEditor→その他…です。  
 並行して、Pawsmaati（旧Parvati）のダイアログの調整も行います。（パブリックビルド0.734Aに間に合わず申し訳ありません。）
 
 ## 固有名詞・頻出単語 訳例
