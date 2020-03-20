@@ -9005,7 +9005,7 @@ msgstr "ゲームを読み込む"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 msgctxt "MainMenu,Message"
-msgid "This game is built and maintained by one guy: DerelictHelmsman.No censorship nor DRM will ever be implemented; respect this if you enjoy the game.Special thanks to all of my patrons, your support is sincerely appreciated."
+msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
 msgstr "このゲームは DerelictHelmsman 個人 によって制作・管理されています。\n検閲およびデジタル著作権管理（DRM）が履行されることは決してありません。あなたがこのゲームを楽しむなら、これを尊重してください。\nすべての私の支援者に、心からお礼申し上げます。あなたがたのサポートには、深く感謝致します。"
 
 #. Key:	NewGameButton
