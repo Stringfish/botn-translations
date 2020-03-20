@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-03-12 18:15\n"
-"PO-Revision-Date: 2020-03-18 22:52+0900\n"
+"PO-Revision-Date: 2020-03-21 00:27+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgstr "ふふ、最後の一滴を飲むまで、帰れないんだからさ！
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
 msgid "This allows you to catch and store all variants of Harpies."
-msgstr ""
+msgstr "すべてのハーピィ派生を捕獲・飼育できるようになる。"
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -403,7 +403,7 @@ msgstr "不妊: 子を作ることができない。"
 #: /Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.TypeDisplay
 msgctxt ",0EA04A8B485AD7C29BE98E893200A8E3"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	0EA2FCF24AF05A8FBEF98C9F2C767D3A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -417,7 +417,7 @@ msgstr "拒否"
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.TypeDisplay
 msgctxt ",0EEEC9A34AD6162338FCA699384590D4"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	0F0B2E364C42C3D6BACC018A46DB5BE4
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -564,7 +564,7 @@ msgstr "アナタの美しくそろった豊かなおしりとおっぱい……
 #: /Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.Description
 msgctxt ",12AF2DD443EFD1CDF7E19291D7E49384"
 msgid "This allows you to catch and store all variants of Thriae."
-msgstr ""
+msgstr "すべてのトリーアイ派生を捕獲・飼育できるようになる。"
 
 #. Key:	12D3C80246AEABBC7C78CD8D7A2FD415
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
@@ -711,7 +711,7 @@ msgstr "@MONSTER_RACE@の精液が強力な物質なのは事実なの――た�
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
-msgstr "高価: Valueが35%上昇する。"
+msgstr "高価: 価値が35%上昇する。"
 
 #. Key:	193F948E4333F3741026EABB87402DD3
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -893,7 +893,7 @@ msgstr "アンタ……にゃあ……かわいそうなキャシーのこの手
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
-msgstr "おもいやり: 交配相手に2倍のXPを与えるが、自分は半分しか受け取らない。"
+msgstr "おもいやり: 交配相手に2倍の経験値を与えるが、自分は半分しか受け取らない。"
 
 #. Key:	20149E5046FF32B65667FBA243C9BED4
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -949,7 +949,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
-msgstr "どスケベ: 交配時に消費するLustが35%減少する。"
+msgstr "どスケベ: 交配時に消費する性欲が35%減少する。"
 
 #. Key:	21A08FF347BC7DE708B258BAD0F4BEF3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
@@ -1005,14 +1005,14 @@ msgstr "ボヴァウルを管理する"
 #: /Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.Description
 msgctxt ",2341F9304FDFA81B77486F840A0E749C"
 msgid "This allows you to breed and store all hybrids."
-msgstr ""
+msgstr "すべてのハイブリッドを交配・飼育できるようになる。"
 
 #. Key:	235E743740D1DB78A77472BFB5D5C1A8
 #. SourceLocation:	/Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 msgctxt ",235E743740D1DB78A77472BFB5D5C1A8"
 msgid "This allows you to catch and store all variants of Sylvan."
-msgstr ""
+msgstr "すべてのシルヴァン派生を捕獲・飼育できるようになる。"
 
 #. Key:	236BBFF14A62BA287C86179E8ACDDCA9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
@@ -1068,7 +1068,7 @@ msgstr "ネコ・タワー"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
 msgctxt ",249E987842C35A9986491A967E86BEC3"
 msgid "Stoic: Increases maximum lust by 20%."
-msgstr "禁欲的: Lustの最大値が20%上昇する。"
+msgstr "禁欲的: 性欲の最大値が20%上昇する。"
 
 #. Key:	25085F2F407D8D979CA1B39E030426E5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -2244,7 +2244,7 @@ msgstr "忌み子: この個体は近親相姦の産物です。"
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.Description
 msgctxt ",51B5762D4545FEE2F7E8D895B66B031B"
 msgid "This allows you to catch and store all variants of Bovaur."
-msgstr ""
+msgstr "すべてのボヴァウル派生を捕獲・飼育できるようになる。"
 
 #. Key:	51CEBDA94681ACB09279C2A598681796
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(1).Lines
@@ -2356,7 +2356,7 @@ msgstr "ヴァルワーグ"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
 msgctxt ",55894A674E5C647D1DC14EB1951CE50D"
 msgid "Sadistic: Reduces the loyalty of breeding partners, but gains twice as much XP."
-msgstr "サドっ気: 交配相手のLoyaltyを下げるが、2倍のXPを得る。"
+msgstr "サドっ気: 交配相手の忠誠心を下げるが、2倍の経験値を得る。"
 
 #. Key:	55DE769C4C259F81CB55299E36998DA3
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(4).LinesGrungy
@@ -2601,7 +2601,7 @@ msgstr "そなたを大いに崇め敬うものもいる。そのものたちは
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
 msgctxt ",61DD0F8342D2EFAE9232248215EADFB4"
 msgid "This allows you to catch and store all variants of Nekos."
-msgstr ""
+msgstr "すべてのネコ派生を捕獲・飼育できるようになる。"
 
 #. Key:	61DEC1574FD90C69A68E04B4E3BD4DDB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2853,7 +2853,7 @@ msgstr "もしそれが、我らのつがいを何時間もぐるぐる巻きに
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.TypeDisplay
 msgctxt ",6A26D99744982C7F05898A800D9AB807"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	6A4F7C15487175679D62FFA469639D1A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_F.Default__CassieDefault01_Meow_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3343,7 +3343,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",7AE87BF645B6A4B1D35071A966CCF13E"
 msgid "Raise the trait level."
-msgstr "Traitレベルを上げて。"
+msgstr "特性レベルを上げて。"
 
 #. Key:	7B46D37346081D01CB0C9B8C6CAEE2DF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -3595,7 +3595,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.Description
 msgctxt ",850118264E28125C1BEFE4B4C33B1F6D"
 msgid "This allows you to catch and store all variants of Seraphim."
-msgstr ""
+msgstr "すべてのセラフィム派生を捕獲・飼育できるようになる。"
 
 #. Key:	852A10F045E59BFFF8DD789EE5504277
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(6).Lines
@@ -3854,7 +3854,7 @@ msgstr "わたしは今や、成熟したアルラウネです！"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
-msgstr "多産: 繁殖力が、繰り返しの交配による妊娠チャンスを2倍にする。"
+msgstr "多産: 繁殖力によって、繰り返しの交配による妊娠チャンスが2倍になる。"
 
 #. Key:	8B4E1ACB4F89392773B344A3BE6A4E57
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(5).Lines
@@ -3882,7 +3882,7 @@ msgstr "あなたの液体は、わたしをこんなに立派に育てました
 #: /Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.TypeDisplay
 msgctxt ",8B99E6244548DDC5BAF8798C9395ED84"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	8BF8D9C84BBFA034861E1CA3B675AE2F
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(2).Lines
@@ -4057,7 +4057,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
-msgstr "快楽主義者: 本来なら交配相手に与えられる分のXPを得る。"
+msgstr "快楽主義者: 本来なら交配相手に与えられる分の経験値を得る。"
 
 #. Key:	90CF176E415EE7CEA27716868800482A
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(4).Lines
@@ -4113,7 +4113,7 @@ msgstr "すごいね！"
 #: /Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.TypeDisplay
 msgctxt ",93965A5D468FD50976A359A6DC4ABD45"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	93ACD44B44EFF7C20AF15E9D718C3166
 #. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
@@ -4134,7 +4134,7 @@ msgstr "うーん……ニャ！"
 #: /Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.Description
 msgctxt ",93BFA77B4203C927F888AA9756403DB1"
 msgid "This allows you to catch and store all variants of Dragon."
-msgstr ""
+msgstr "すべてのドラゴン派生を捕獲・飼育できるようになる。"
 
 #. Key:	941010544E6432D137832FA1B37E0C10
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
@@ -4155,7 +4155,7 @@ msgstr "精液飲んでいいよ！"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
-msgstr "色情狂: セックス時に獲得するLoyaltyが2倍に増加する。"
+msgstr "色情狂: セックス時に獲得する忠誠心が2倍に増加する。"
 
 #. Key:	9458CFDE4690A312D5CC8F94BF4AE00A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
@@ -4260,7 +4260,7 @@ msgstr "（のどを鳴らす音）"
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.Description
 msgctxt ",9717FEC243A7CD17EDAAD89765F8E2A8"
 msgid "This allows you to catch and store all variants of Foxen."
-msgstr ""
+msgstr "すべてのフォクセン派生を捕獲・飼育できるようになる。"
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
@@ -4491,7 +4491,7 @@ msgstr "フォーミュリアンを管理する"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
-msgstr "すばしっこい: Dexterityによって、行動時のLust消費が一定の割合で減少する。"
+msgstr "すばしっこい: 機敏性によって、行動時の性欲消費が一定の割合で減少する。"
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
@@ -4582,7 +4582,7 @@ msgstr "女神の聖なる神殿の中、わらわたちで愛を交わし、契
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.TypeDisplay
 msgctxt ",A257204E40613ED62BA7D982059BC6E7"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	A2DA50B44D0A24E096AF488F787D4928
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(28).LinesToFemale
@@ -4876,7 +4876,7 @@ msgstr "遠慮なく私のおまんこに入れなよ！"
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.Description
 msgctxt ",AF04F5A4417DBB7D20BC64B4B66C34DD"
 msgid "This allows you to catch and store all variants of Titan."
-msgstr ""
+msgstr "すべてのタイタン派生を捕獲・飼育できるようになる。"
 
 #. Key:	AF4962AA4EF7962370DC5D869BFFA992
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(8).Lines
@@ -5387,7 +5387,7 @@ msgstr "これらのポータルは、女神の女性器そのものの正確な
 #: /Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.Description
 msgctxt ",C2409B0E43C4FECF37A9A4AEC03EA9E7"
 msgid "This allows you to catch and store all Formurian variants."
-msgstr ""
+msgstr "すべてのフォーミュリアン派生を捕獲・飼育できるようになる。"
 
 #. Key:	C29993C74D67F8AE960E44826013B47C
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(1).Lines
@@ -5548,7 +5548,7 @@ msgstr "ノーマルサイズ"
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.TypeDisplay
 msgctxt ",CA7FAE6645EB660782FB59BB2F359378"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	CA8A7F834A44AD0FFD7433BCE63D2DF7
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.RaceName
@@ -5569,7 +5569,7 @@ msgstr "気をつけるのだぞ、人間。クラーケンの性欲は、過小
 #: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.Description
 msgctxt ",CB4B328646049F44CA1AF5B3E7454C29"
 msgid "This allows you to catch and store all variants of Vulwarg."
-msgstr ""
+msgstr "すべてのヴァルワーグ派生を捕獲・飼育できるようになる。"
 
 #. Key:	CB6197724E6737AA23A5DD991AD65537
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5821,7 +5821,7 @@ msgstr "愛を交わそう！"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
-msgstr "筋肉質: Strengthによって、交配相手が交配時に与えられるXPが一定の割合で増加する。"
+msgstr "筋肉質: 力強さによって、交配相手が交配時に与えられる経験値が一定の割合で増加する。"
 
 #. Key:	D57D76E842FCC75ECC756BA13E9E8C9B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -6185,7 +6185,7 @@ msgstr "その訛りはどうしたの？"
 #: /Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.TypeDisplay
 msgctxt ",DFC4AEBB489C5D9B74E6F79CC91F1DB0"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの小屋"
+msgstr "ネフェリムの厩舎"
 
 #. Key:	E01ADC7A41DCC8C65CA87E9C9561359D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(0).Lines
@@ -6465,7 +6465,7 @@ msgstr "そして、我こそがミルル、次期女王位継承者となる身
 #: /Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.Description
 msgctxt ",EAE306A64EE7F2719CB1719962D3F107"
 msgid "This allows you to catch and store all variants of Demon."
-msgstr ""
+msgstr "すべてのデーモン派生を捕獲・飼育できるようになる。"
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6577,7 +6577,7 @@ msgstr "あぁ、ご主人様。わたしにたくさん飲ませてください
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
-msgstr "誘惑者: Allureによって、交配時のXPが一定の割合で増加する。"
+msgstr "誘惑者: 魅力によって、交配時の経験値が一定の割合で増加する。"
 
 #. Key:	F010E1B74164FC7DBBA07E8F73124FEF
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -6703,7 +6703,7 @@ msgstr "オスのヴァルワーグを捕まえたら、わらわのところに
 #: /Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.Description
 msgctxt ",F5276F72433DAADC3348C9937061AB06"
 msgid "This allows you to catch and store all variants of Starfallen."
-msgstr ""
+msgstr "すべてのスターフォールン派生を捕獲・飼育できるようになる。"
 
 #. Key:	F5D89EF24DD4E97F5789B4AF367D8E47
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(4).Lines
@@ -6731,7 +6731,7 @@ msgstr "わたしに養分を与える必要は、もうないでしょう。で
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(2).Lines
 msgctxt ",F6A2BD8D4CBE73666D030B83D56908E8"
 msgid "@TRAIT_LVL_COST@ shall suffice."
-msgstr "@TRAIT_LVL_COST@で足りるでしょう。"
+msgstr "@TRAIT_LVL_COST@ で足りるでしょう。"
 
 #. Key:	F74061254D2D2A0904956FA983C624F3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(0).LinesToMale
@@ -6836,7 +6836,7 @@ msgstr "巨尻"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
-msgstr "不潔: 交配相手が20%の確率で汚れ、Allureが50%低下する。"
+msgstr "不潔: 交配相手が20%の確率で汚れ、魅力が50%低下する。"
 
 #. Key:	FA2C70284FBA2B074235FD87FF6B8D64
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(1).Lines
@@ -7060,14 +7060,14 @@ msgstr "巨乳: 遺伝的に、非常に大きな乳房を持つ。"
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:194
 msgctxt "ASexyBreederCharacter,SpiritFormActivate"
 msgid "A Nephelym spirit has merged with you."
-msgstr ""
+msgstr "ネフェリムの精霊が、あなたとひとつになった。"
 
 #. Key:	SpiritFormDeactivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:200
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:200
 msgctxt "ASexyBreederCharacter,SpiritFormDeactivate"
 msgid "The spirit has departed."
-msgstr ""
+msgstr "精霊は去っていった。"
 
 #. Key:	SpiritFormNotEnough
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:189
@@ -7095,7 +7095,7 @@ msgstr ""
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:1225
 msgctxt "ASexyCharacterSystem,BadSettingsMessage"
 msgid "Both female hominal and exotic variants are disabled, default will be used."
-msgstr ""
+msgstr "メスの人間的及びエキゾチックな派生種の両方が無効になっているため、既定の設定が使用されます。"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2042
@@ -7109,7 +7109,7 @@ msgstr ""
 #: Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
 msgctxt "ASexyDialogueSystem,NoFuta"
 msgid "Futa is disabled."
-msgstr ""
+msgstr "ふたなりが無効になりました。"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Game/SexyGameMode.cpp:329
@@ -7137,7 +7137,7 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:972
 msgctxt "ASexyMonsterSystem,FernThanks"
 msgid "Fern gave you 150 shiny."
-msgstr "ファーンがピカピカを150くれた。"
+msgstr "ファーンがピカピカを 150 くれた。"
 
 #. Key:	LearnedPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1005
@@ -7249,7 +7249,7 @@ msgstr "肉欲の砂漠"
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:649
 msgctxt "ASexyRoamingSystem,BoringCum"
 msgid "She wanted more..."
-msgstr ""
+msgstr "彼女はもっと欲しがっている……"
 
 #. Key:	CatchSuccess
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:823
@@ -7270,7 +7270,7 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:591
 msgctxt "ASexyRoamingSystem,RBJStart"
 msgid "Spontaneous Blow Job!"
-msgstr ""
+msgstr "いきなりフェラチオ！"
 
 #. Key:	SurpriseSexStart
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:591
@@ -7312,7 +7312,7 @@ msgstr "刻まれた名前を見る"
 #: Source/Radiant/Public/UI/Components/SexyBarnActionDetails.cpp:21
 msgctxt "BarnActionDetails,Description"
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #. Key:	HarvestDesc
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyBarnActionDetails.cpp:33
@@ -7326,7 +7326,7 @@ msgstr ""
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:134
 msgctxt "BreederController,NewOffspring"
 msgid "Congratulations, you have summoned a new offspring!"
-msgstr "おめでとう、あなたは新たな子を召喚しました！"
+msgstr "おめでとう、あなたは新たな子を召喚した！"
 
 #. Key:	AdvanceButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
@@ -7347,7 +7347,7 @@ msgstr "スキップ"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:101
 msgctxt "BreedingSession,BreedButtonTooltip"
 msgid "Skip the rest of the scene, offspring may still be produced."
-msgstr "残りのシーンをスキップします。その場合でも、子供が産まれる可能性はあります。"
+msgstr "残りのシーンをスキップする。その場合も、子供が産まれる可能性はある。"
 
 #. Key:	DebugTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:186
@@ -7501,14 +7501,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:31
 msgctxt "BreedingSession,SpeedTitle"
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #. Key:	BreedButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:63
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:63
 msgctxt "BreedingSetup,BreedButtonTitle"
 msgid "Start"
-msgstr ""
+msgstr "開始"
 
 #. Key:	BreedButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:64
@@ -7522,14 +7522,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:72
 msgctxt "BreedingSetup,GiverWindowTitle"
 msgid "Select Giver"
-msgstr ""
+msgstr "攻め手の選択"
 
 #. Key:	QuickButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:55
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:55
 msgctxt "BreedingSetup,QuickButtonTitle"
 msgid "Quick"
-msgstr ""
+msgstr "クイック"
 
 #. Key:	QuickButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:56
@@ -7543,7 +7543,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:128
 msgctxt "BreedingSetup,ReceiverWindowTitle"
 msgid "Select Receiver"
-msgstr ""
+msgstr "受け手の選択"
 
 #. Key:	ImpossibleCombo
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:175
@@ -7557,21 +7557,21 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:171
 msgctxt "BreedingSystem,NoFemaleGiver"
 msgid "Giver must be futa or male."
-msgstr ""
+msgstr "攻め手はふたなりか男性である必要があります。"
 
 #. Key:	NoGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
 msgctxt "BreedingSystem,NoGiver"
 msgid "Giver must be selected."
-msgstr ""
+msgstr "攻め手を選択してください。"
 
 #. Key:	NoMaleReceiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:167
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:167
 msgctxt "BreedingSystem,NoMaleReceiver"
 msgid "Receiver must be female or futa."
-msgstr ""
+msgstr "受け手は女性かふたなりである必要があります。"
 
 #. Key:	NoOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
@@ -7585,7 +7585,7 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:163
 msgctxt "BreedingSystem,NoReceiver"
 msgid "Receiver must be selected."
-msgstr ""
+msgstr "受け手を選択してください。"
 
 #. Key:	NoRoomOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:591
@@ -7599,7 +7599,7 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
 msgctxt "BreedingSystem,NoSexPosition"
 msgid "Sex position must be selected."
-msgstr ""
+msgstr "性交体位を選択してください。"
 
 #. Key:	Allure
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:149
@@ -7746,7 +7746,7 @@ msgstr "妊娠"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
 msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "子の召喚までの進捗度。\n妊娠中、ミルクの生産量は2倍になる。"
+msgstr "子の召喚までの進行度。\n妊娠中、ミルクの生産量は2倍になる。"
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -7865,7 +7865,7 @@ msgstr "経験値"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:51
 msgctxt "CharacterDetails,XPTooltip"
 msgid "Progress toward the next level."
-msgstr ""
+msgstr "次のレベルまでの進行度。"
 
 #. Key:	AdditionalMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
@@ -7879,21 +7879,21 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:487
 msgctxt "CharacterEditor,AmbientEffects"
 msgid "Ambient Effects"
-msgstr ""
+msgstr "環境光（アンビエント）効果"
 
 #. Key:	AnusMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:419
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:419
 msgctxt "CharacterEditor,AnusMaterial"
 msgid "Anus"
-msgstr ""
+msgstr "肛門"
 
 #. Key:	BackButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:73
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:73
 msgctxt "CharacterEditor,BackButton"
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 #. Key:	BackButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:74
@@ -7907,35 +7907,35 @@ msgstr "前の画面に戻る。"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:361
 msgctxt "CharacterEditor,BellyShape"
 msgid "Belly"
-msgstr ""
+msgstr "腹部"
 
 #. Key:	BodyAttachments
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:482
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:482
 msgctxt "CharacterEditor,BodyAttachments"
 msgid "Attachments"
-msgstr ""
+msgstr "付属物"
 
 #. Key:	BodyAttachmentsMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:449
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:449
 msgctxt "CharacterEditor,BodyAttachmentsMaterial"
 msgid "Body Attachments"
-msgstr ""
+msgstr "身体付属物"
 
 #. Key:	BodyMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:424
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:424
 msgctxt "CharacterEditor,BodyMaterial"
 msgid "Body"
-msgstr ""
+msgstr "身体"
 
 #. Key:	BodyPhysics
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:492
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:492
 msgctxt "CharacterEditor,BodyPhysics"
 msgid "Bounce Physics"
-msgstr ""
+msgstr "揺れ演算"
 
 #. Key:	BootsGroup
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:469
@@ -7956,7 +7956,7 @@ msgstr "胸"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:497
 msgctxt "CharacterEditor,BreedingTags"
 msgid "Breeding Tags"
-msgstr ""
+msgstr "交配タグ"
 
 #. Key:	ButtShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:376
@@ -7984,7 +7984,7 @@ msgstr "このキャラクターの性別を変更する。\n警告: 現在の�
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
 msgctxt "CharacterEditor,ChooseAnimationTooltip"
 msgid "Change the current animation."
-msgstr ""
+msgstr "現在のポーズを変更する。"
 
 #. Key:	ChooseTraitTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:311
@@ -8005,7 +8005,7 @@ msgstr "クリップボードにコピーする。"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:477
 msgctxt "CharacterEditor,DetailsWindowTitle"
 msgid "Details"
-msgstr ""
+msgstr "細部"
 
 #. Key:	ExoticTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
@@ -8019,7 +8019,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:404
 msgctxt "CharacterEditor,EyebrowMaterial"
 msgid "Eyebrows"
-msgstr ""
+msgstr "眉"
 
 #. Key:	EyeMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:399
@@ -8047,7 +8047,7 @@ msgstr "顔"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:346
 msgctxt "CharacterEditor,FullBodyShape"
 msgid "Full Body"
-msgstr ""
+msgstr "全身"
 
 #. Key:	FurMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:439
@@ -8061,35 +8061,35 @@ msgstr "毛皮"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:90
 msgctxt "CharacterEditor,GalleryButton"
 msgid "Gallery"
-msgstr ""
+msgstr "ギャラリー"
 
 #. Key:	GalleryButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:91
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:91
 msgctxt "CharacterEditor,GalleryButtonTooltip"
 msgid "Switch to the breeding scene gallery."
-msgstr ""
+msgstr "交配シーンのギャラリーに切り替える。"
 
 #. Key:	GenitaliaMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:414
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:414
 msgctxt "CharacterEditor,GenitaliaMaterial"
 msgid "Genitals"
-msgstr ""
+msgstr "性器"
 
 #. Key:	GenitalsShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:371
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:371
 msgctxt "CharacterEditor,GenitalsShape"
 msgid "Genitals"
-msgstr ""
+msgstr "性器"
 
 #. Key:	HairMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:434
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:434
 msgctxt "CharacterEditor,HairMaterial"
 msgid "Hair"
-msgstr ""
+msgstr "髪"
 
 #. Key:	HominalTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
@@ -8117,7 +8117,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
 msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
-msgstr ""
+msgstr "セーブしたプリセットをロードする。\n警告: 現在のキャラクターの外観を上書きします。"
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:366
@@ -8131,7 +8131,7 @@ msgstr "下半身"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:459
 msgctxt "CharacterEditor,LowerClothing"
 msgid "Lower Clothing"
-msgstr ""
+msgstr "ボトムス"
 
 #. Key:	MaterialWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:384
@@ -8173,7 +8173,7 @@ msgstr "乳首"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
 msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
-msgstr ""
+msgstr "クリップボードから貼り付ける。\n警告: 現在のキャラクターの外観を上書きします。また、派生種が違う場合、ひどい見た目になるかもしれません。"
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
@@ -8194,7 +8194,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:325
 msgctxt "CharacterEditor,RenameTooltip"
 msgid "Rename this character."
-msgstr ""
+msgstr "キャラクターの名前を変える。"
 
 #. Key:	SaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:529
@@ -8222,7 +8222,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:336
 msgctxt "CharacterEditor,ShapeWindowTitle"
 msgid "Shape"
-msgstr ""
+msgstr "体形"
 
 #. Key:	SkinMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:389
@@ -8236,7 +8236,7 @@ msgstr "肌"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:278
 msgctxt "CharacterEditor,ToggleClothesTooltip"
 msgid "Toggle all clothing except underwear."
-msgstr ""
+msgstr "下着以外のすべての衣服のオン/オフを切り替える。"
 
 #. Key:	ToggleLinkedMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:165
@@ -8250,7 +8250,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:285
 msgctxt "CharacterEditor,ToggleUnderwearTooltip"
 msgid "Toggle only underwear."
-msgstr ""
+msgstr "下着のオン/オフのみを切り替える。"
 
 #. Key:	UnderwearGroup
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:464
@@ -8271,7 +8271,7 @@ msgstr "上半身"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:454
 msgctxt "CharacterEditor,UpperClothing"
 msgid "Upper Clothing"
-msgstr ""
+msgstr "トップス"
 
 #. Key:	VariantTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
@@ -8285,14 +8285,14 @@ msgstr ""
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2428
 msgctxt "CharacterSystem,ErrorSavingPreset"
 msgid "Error while trying to save preset."
-msgstr ""
+msgstr "プリセットのセーブ中にエラーが発生しました。"
 
 #. Key:	SavedPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2425
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2425
 msgctxt "CharacterSystem,SavedPreset"
 msgid "Successfully saved preset."
-msgstr ""
+msgstr "プリセットは正常にセーブされました。"
 
 #. Key:	DecrementTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:31
@@ -8313,7 +8313,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:100
 msgctxt "ComponentModifier,None"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:56
@@ -8334,7 +8334,7 @@ msgstr "はい"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:98
 msgctxt "ConfirmationBox,ExitConfirmTitle"
 msgid "Exit to Desktop?"
-msgstr ""
+msgstr "ゲームを終了しますか？"
 
 #. Key:	FulfillConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:107
@@ -8355,14 +8355,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:83
 msgctxt "ConfirmationBox,NewGameConfirm"
 msgid "Begin a new adventure with a clean slate."
-msgstr ""
+msgstr "まっさらな状態から新たな冒険を始めます。"
 
 #. Key:	NewGameConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:82
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:82
 msgctxt "ConfirmationBox,NewGameConfirmTitle"
 msgid "Start a New Game?"
-msgstr ""
+msgstr "新しいゲームを始めますか？"
 
 #. Key:	OverwriteGameConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:87
@@ -8376,7 +8376,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:86
 msgctxt "ConfirmationBox,OverwriteGameConfirmTitle"
 msgid "Overwrite Saved Game?"
-msgstr ""
+msgstr "セーブデータを上書きしますか？"
 
 #. Key:	ReleaseConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:103
@@ -8397,7 +8397,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:95
 msgctxt "ConfirmationBox,ReturnMainConfirm"
 msgid "All progress since the last save will be lost."
-msgstr ""
+msgstr "最後にセーブした時点からの、すべてのゲーム進行は失われます。"
 
 #. Key:	ReturnMainConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:94
@@ -8411,21 +8411,21 @@ msgstr "メインメニューに戻りますか？"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:91
 msgctxt "ConfirmationBox,SleepConfirm"
 msgid "Sleep for the rest of the day and awake with new-found lust."
-msgstr ""
+msgstr "今日の残りは寝て過ごし、新たに滾った性欲とともに起きます。"
 
 #. Key:	SleepConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:90
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:90
 msgctxt "ConfirmationBox,SleepConfirmTitle"
 msgid "Go to Sleep?"
-msgstr ""
+msgstr "眠りますか？"
 
 #. Key:	WindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:27
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:27
 msgctxt "ConfirmationBox,WindowTitle"
 msgid "Confirm"
-msgstr ""
+msgstr "確認"
 
 #. Key:	BatheMonsterMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:899
@@ -8439,21 +8439,21 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:890
 msgctxt "ConfirmTradeBox,BuyUpgradeMessage"
 msgid "This upgrade will permanently be added to your ranch."
-msgstr ""
+msgstr "このアップグレードは、あなたの牧場に恒久的に追加されます。"
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:454
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:454
 msgctxt "ConfirmTradeBox,CancelButton"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #. Key:	ConfirmButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:448
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:448
 msgctxt "ConfirmTradeBox,ConfirmButton"
 msgid "Confirm"
-msgstr ""
+msgstr "決定"
 
 #. Key:	FinalPrice
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:556
@@ -8467,14 +8467,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyDialogueMenu.cpp:62
 msgctxt "DialogueMenu,LeaveButton"
 msgid "Goodbye"
-msgstr ""
+msgstr "さよなら"
 
 #. Key:	SkipButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyDialogueMenu.cpp:55
 #: Source/Radiant/Public/UI/Menus/SexyDialogueMenu.cpp:55
 msgctxt "DialogueMenu,SkipButton"
 msgid "Skip"
-msgstr ""
+msgstr "スキップ"
 
 #. Key:	ExitButton
 #. SourceLocation:	Source/Radiant/Public/UI/SexyGameOverlay.cpp:116
@@ -8488,28 +8488,28 @@ msgstr ""
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:95
 msgctxt "GameOverlay,LoadButton"
 msgid "Load Game"
-msgstr ""
+msgstr "ゲームのロード"
 
 #. Key:	MainMenuButton
 #. SourceLocation:	Source/Radiant/Public/UI/SexyGameOverlay.cpp:109
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:109
 msgctxt "GameOverlay,MainMenuButton"
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #. Key:	OptionsButton
 #. SourceLocation:	Source/Radiant/Public/UI/SexyGameOverlay.cpp:102
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:102
 msgctxt "GameOverlay,OptionsButton"
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #. Key:	SaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/SexyGameOverlay.cpp:88
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:88
 msgctxt "GameOverlay,SaveButton"
 msgid "Save Game"
-msgstr ""
+msgstr "ゲームのセーブ"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyGridItem.cpp:58
@@ -8544,14 +8544,14 @@ msgstr "精液を買う。"
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:247
 msgctxt "HarvestWidget,MaxMilk"
 msgid "4000 ml"
-msgstr "4000ml"
+msgstr "4000 ml"
 
 #. Key:	MaxSemen
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:152
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:152
 msgctxt "HarvestWidget,MaxSemen"
 msgid "1500 ml"
-msgstr "1500ml"
+msgstr "1500 ml"
 
 #. Key:	Milk
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:217
@@ -8565,7 +8565,7 @@ msgstr "ミルク"
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:235
 msgctxt "HarvestWidget,MilkML"
 msgid "355 ml"
-msgstr "355ml"
+msgstr "355 ml"
 
 #. Key:	PriceML
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:167
@@ -8600,7 +8600,7 @@ msgstr "精液"
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:140
 msgctxt "HarvestWidget,SemenML"
 msgid "118 ml"
-msgstr "118ml"
+msgstr "118 ml"
 
 #. Key:	UseMilkTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:417
@@ -8656,140 +8656,140 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:77
 msgctxt "ItemDetails,Allure"
 msgid "Allure"
-msgstr ""
+msgstr "魅力"
 
 #. Key:	AllureTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:78
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:78
 msgctxt "ItemDetails,AllureTooltip"
 msgid "Allure will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、魅力はこの修正値で変化する。"
 
 #. Key:	Description
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:105
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:105
 msgctxt "ItemDetails,Description"
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #. Key:	Dexterity
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:91
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:91
 msgctxt "ItemDetails,Dexterity"
 msgid "Dexterity"
-msgstr ""
+msgstr "機敏性"
 
 #. Key:	DexterityTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:92
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:92
 msgctxt "ItemDetails,DexterityTooltip"
 msgid "Dexterity will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、機敏性はこの修正値で変化する。"
 
 #. Key:	Fertility
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:70
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:70
 msgctxt "ItemDetails,Fertility"
 msgid "Fertility"
-msgstr ""
+msgstr "繁殖力"
 
 #. Key:	FertilityTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:71
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:71
 msgctxt "ItemDetails,FertilityTooltip"
 msgid "Fertility will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、繁殖力はこの修正値で変化する。"
 
 #. Key:	Level
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:49
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:49
 msgctxt "ItemDetails,Level"
 msgid "Level"
-msgstr ""
+msgstr "レベル"
 
 #. Key:	LevelTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:50
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:50
 msgctxt "ItemDetails,LevelTooltip"
 msgid "Level will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、レベルはこの修正値で変化する。"
 
 #. Key:	Loyalty
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:56
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:56
 msgctxt "ItemDetails,Loyalty"
 msgid "Loyalty"
-msgstr ""
+msgstr "忠誠心"
 
 #. Key:	LoyaltyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:57
 msgctxt "ItemDetails,LoyaltyTooltip"
 msgid "Loyalty will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、忠誠心はこの修正値で変化する。"
 
 #. Key:	Modifiers
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:39
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:39
 msgctxt "ItemDetails,Modifiers"
 msgid "Modifiers"
-msgstr ""
+msgstr "修正値"
 
 #. Key:	Name
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:27
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:27
 msgctxt "ItemDetails,Name"
 msgid "Item"
-msgstr ""
+msgstr "アイテム"
 
 #. Key:	Strength
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:63
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:63
 msgctxt "ItemDetails,Strength"
 msgid "Strength"
-msgstr ""
+msgstr "力強さ"
 
 #. Key:	StrengthTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:64
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:64
 msgctxt "ItemDetails,StrengthTooltip"
 msgid "Strength will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、力強さはこの修正値で変化する。"
 
 #. Key:	Type
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:33
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:33
 msgctxt "ItemDetails,Type"
 msgid "Type"
-msgstr ""
+msgstr "タイプ"
 
 #. Key:	Value
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:98
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:98
 msgctxt "ItemDetails,Value"
 msgid "Value"
-msgstr ""
+msgstr "価値"
 
 #. Key:	ValueTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:99
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:99
 msgctxt "ItemDetails,ValueTooltip"
 msgid "Value will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、価値はこの修正値で変化する。"
 
 #. Key:	Willpower
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:84
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:84
 msgctxt "ItemDetails,Willpower"
 msgid "Willpower"
-msgstr ""
+msgstr "意志力"
 
 #. Key:	WillpowerTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:85
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:85
 msgctxt "ItemDetails,WillpowerTooltip"
 msgid "Willpower will change by this modifier when this item is used."
-msgstr ""
+msgstr "このアイテムを使用した場合、意志力はこの修正値で変化する。"
 
 #. Key:	NotEnoughFluid
 #. SourceLocation:	Source/Radiant/Public/Items/SexyItemSystem.cpp:161
@@ -8803,28 +8803,28 @@ msgstr ""
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:175
 msgctxt "Keybinds,Action"
 msgid "Action"
-msgstr ""
+msgstr "アクション"
 
 #. Key:	Back
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:180
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:180
 msgctxt "Keybinds,Back"
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 #. Key:	Crouch
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:140
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:140
 msgctxt "Keybinds,Crouch"
 msgid "Crouch"
-msgstr ""
+msgstr "しゃがむ"
 
 #. Key:	GalleryMenu
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:196
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:196
 msgctxt "Keybinds,GalleryMenu"
 msgid "Toggle Gallery"
-msgstr ""
+msgstr "ギャラリーに切り替え"
 
 #. Key:	Jump
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:136
@@ -8845,42 +8845,42 @@ msgstr ""
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
 msgctxt "Keybinds,MoveBackward"
 msgid "Move Backwards"
-msgstr "後ろへ移動する"
+msgstr "後ろへ移動"
 
 #. Key:	MoveForward
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:120
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:120
 msgctxt "Keybinds,MoveForward"
 msgid "Move Forward"
-msgstr "前へ移動する"
+msgstr "前へ移動"
 
 #. Key:	MoveLeft
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:132
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:132
 msgctxt "Keybinds,MoveLeft"
 msgid "Move Left"
-msgstr "左へ移動する"
+msgstr "左へ移動"
 
 #. Key:	MoveRight
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:128
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:128
 msgctxt "Keybinds,MoveRight"
 msgid "Move Right"
-msgstr "右へ移動する"
+msgstr "右へ移動"
 
 #. Key:	Pan
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:168
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:168
 msgctxt "Keybinds,Pan"
 msgid "Pan"
-msgstr ""
+msgstr "パン"
 
 #. Key:	Rotate
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:171
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:171
 msgctxt "Keybinds,Rotate"
 msgid "Rotate"
-msgstr ""
+msgstr "回転"
 
 #. Key:	SingleTapDodge
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:147
@@ -8915,35 +8915,35 @@ msgstr "走る"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
 msgctxt "Keybinds,ToggleBoots"
 msgid "Toggle Boots"
-msgstr ""
+msgstr "靴のオン/オフ"
 
 #. Key:	ToggleClothing
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:200
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:200
 msgctxt "Keybinds,ToggleClothing"
 msgid "Toggle Clothing"
-msgstr ""
+msgstr "衣服のオン/オフ"
 
 #. Key:	TogglePants
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:206
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:206
 msgctxt "Keybinds,TogglePants"
 msgid "Toggle Pants"
-msgstr ""
+msgstr "ボトムスのオン/オフ"
 
 #. Key:	ToggleShirt
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:203
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:203
 msgctxt "Keybinds,ToggleShirt"
 msgid "Toggle Shirt"
-msgstr ""
+msgstr "トップスのオン/オフ"
 
 #. Key:	ToggleUnderwear
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:209
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:209
 msgctxt "Keybinds,ToggleUnderwear"
 msgid "Toggle Underwear"
-msgstr ""
+msgstr "下着のオン/オフ"
 
 #. Key:	Turn
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:157
@@ -8957,7 +8957,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
 msgctxt "Keybinds,UtilityMenu"
 msgid "Toggle Utility Menu"
-msgstr ""
+msgstr "ユーティリティメニューのオン/オフ"
 
 #. Key:	Walk
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
@@ -8978,7 +8978,7 @@ msgstr "カメラをズームする"
 #: Source/Radiant/Public/UI/Components/SexyListedResource.cpp:171
 msgctxt "ListedResources,EmptySave"
 msgid "Empty Save Slot"
-msgstr ""
+msgstr "空きセーブスロット"
 
 #. Key:	DiscordButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:57
@@ -9005,8 +9005,8 @@ msgstr "ゲームを読み込む"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 msgctxt "MainMenu,Message"
-msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
-msgstr ""
+msgid "This game is built and maintained by one guy: DerelictHelmsman.No censorship nor DRM will ever be implemented; respect this if you enjoy the game.Special thanks to all of my patrons, your support is sincerely appreciated."
+msgstr "このゲームは DerelictHelmsman 個人 によって制作・管理されています。\n検閲およびデジタル著作権管理（DRM）が履行されることは決してありません。あなたがこのゲームを楽しむなら、これを尊重してください。\nすべての私の支援者に、心からお礼申し上げます。あなたがたのサポートには、深く感謝致します。"
 
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
@@ -9020,14 +9020,14 @@ msgstr "新しいゲーム"
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:50
 msgctxt "MainMenu,SettingsButton"
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #. Key:	ActionButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:51
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:51
 msgctxt "ManageMonster,ActionButton"
 msgid "Start"
-msgstr ""
+msgstr "開始"
 
 #. Key:	ActionTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:52
@@ -9062,56 +9062,56 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:44
 msgctxt "ManageMonster,QuickActionButton"
 msgid "Quick"
-msgstr ""
+msgstr "クイック"
 
 #. Key:	QuickActionTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:45
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:45
 msgctxt "ManageMonster,QuickActionTooltip"
 msgid "Perform the selected action without starting a scene."
-msgstr ""
+msgstr "選択した行動を、採取シーンなしで行う。"
 
 #. Key:	Giver
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:33
 #: Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:33
 msgctxt "MateSizeChart,Giver"
 msgid "Giver"
-msgstr ""
+msgstr "攻め手"
 
 #. Key:	Receiver
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:22
 #: Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:22
 msgctxt "MateSizeChart,Receiver"
 msgid "Receiver"
-msgstr ""
+msgstr "受け手"
 
 #. Key:	MerchantNoRoomMilk
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:271
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:271
 msgctxt "MerchantSystem,MerchantNoRoomMilk"
 msgid "This merchant cannot carry more of this race's milk."
-msgstr ""
+msgstr "店主はこの種族のミルクをこれ以上持てない。"
 
 #. Key:	MerchantNoRoomSemen
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
 msgctxt "MerchantSystem,MerchantNoRoomSemen"
 msgid "This merchant cannot carry more of this race's semen."
-msgstr ""
+msgstr "店主はこれ以上、この種族の精液を持てない。"
 
 #. Key:	NoRoomMilk
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
 msgctxt "MerchantSystem,NoRoomMilk"
 msgid "You cannot carry more of this race's milk."
-msgstr ""
+msgstr "あなたはこれ以上、この種族のミルクを持てない。"
 
 #. Key:	NoRoomSemen
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
 msgctxt "MerchantSystem,NoRoomSemen"
 msgid "You cannot carry more of this race's semen."
-msgstr ""
+msgstr "あなたはこれ以上、この種族の精液を持てない。"
 
 #. Key:	NewOffspringMessage
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:298
@@ -9125,7 +9125,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:41
 msgctxt "Offspring,AcceptButtonTitle"
 msgid "Accept"
-msgstr ""
+msgstr "承諾"
 
 #. Key:	AcceptButtonTitleTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:42
@@ -9146,182 +9146,182 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:27
 msgctxt "Offspring,ReleaseButtonTitle"
 msgid "Release"
-msgstr ""
+msgstr "放す"
 
 #. Key:	ReleaseButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:28
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:28
 msgctxt "Offspring,ReleaseButtonTooltip"
 msgid "Release this offspring into the wild."
-msgstr ""
+msgstr "この子を野に放つ。"
 
 #. Key:	RenameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:34
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:34
 msgctxt "Offspring,RenameButton"
 msgid "Rename"
-msgstr ""
+msgstr "名前変更"
 
 #. Key:	RenameButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:35
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:35
 msgctxt "Offspring,RenameButtonTooltip"
 msgid "Rename this offspring before adding it to your ranch."
-msgstr ""
+msgstr "子を牧場に加える前に、名前を変更する。"
 
 #. Key:	NullText
 #. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2356
 #: Source/Radiant/Public/Data/SexyData.h:2356
 msgctxt "Radiant,NullText"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. Key:	AcceptButton
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:60
 #: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:60
 msgctxt "RenameBox,AcceptButton"
 msgid "Accept"
-msgstr ""
+msgstr "承諾"
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:66
 #: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:66
 msgctxt "RenameBox,CancelButton"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #. Key:	RandomNameTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:48
 #: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:48
 msgctxt "RenameBox,RandomNameTooltip"
 msgid "Generate a random name."
-msgstr ""
+msgstr "ランダムに名前を生成する。"
 
 #. Key:	WindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:28
 #: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:28
 msgctxt "RenameBox,WindowTitle"
 msgid "Rename"
-msgstr ""
+msgstr "名前の変更"
 
 #. Key:	ActionGiveFavorite
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:876
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:876
 msgctxt "ResourceList,ActionGiveFavorite"
 msgid "Give Fluid"
-msgstr ""
+msgstr "液体を与える"
 
 #. Key:	ActionHarvestMilk
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:858
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:858
 msgctxt "ResourceList,ActionHarvestMilk"
 msgid "Harvest Milk"
-msgstr ""
+msgstr "ミルクを搾る"
 
 #. Key:	ActionHarvestMilkAssist
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:862
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:862
 msgctxt "ResourceList,ActionHarvestMilkAssist"
 msgid "Harvest Milk (Fern)"
-msgstr ""
+msgstr "ミルクを搾る（ファーン）"
 
 #. Key:	ActionHarvestMilkAssist2
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:867
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:867
 msgctxt "ResourceList,ActionHarvestMilkAssist2"
 msgid "Harvest Milk (Blossom)"
-msgstr ""
+msgstr "ミルクを搾る（ブロッサム）"
 
 #. Key:	ActionHarvestSemen
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:855
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:855
 msgctxt "ResourceList,ActionHarvestSemen"
 msgid "Harvest Semen"
-msgstr ""
+msgstr "精液を搾る"
 
 #. Key:	ActionHarvestSemen2
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:856
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:856
 msgctxt "ResourceList,ActionHarvestSemen2"
 msgid "Capture Semen"
-msgstr ""
+msgstr "精液を採取"
 
 #. Key:	ActionHarvestSemenAssist
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:860
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:860
 msgctxt "ResourceList,ActionHarvestSemenAssist"
 msgid "Harvest Semen (Fern)"
-msgstr ""
+msgstr "精液を搾る（ファーン）"
 
 #. Key:	ActionHarvestSemenAssist2
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:861
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:861
 msgctxt "ResourceList,ActionHarvestSemenAssist2"
 msgid "Capture Semen (Fern)"
-msgstr ""
+msgstr "精液を採取（ファーン）"
 
 #. Key:	ActionHarvestSemenAssist3
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:865
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:865
 msgctxt "ResourceList,ActionHarvestSemenAssist3"
 msgid "Harvest Semen (Blossom)"
-msgstr ""
+msgstr "精液を搾る（ブロッサム）"
 
 #. Key:	ActionHarvestSemenAssist4
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:866
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:866
 msgctxt "ResourceList,ActionHarvestSemenAssist4"
 msgid "Capture Semen (Blossom)"
-msgstr ""
+msgstr "精液を採取（ブロッサム）"
 
 #. Key:	ActionRelease
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:869
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:869
 msgctxt "ResourceList,ActionRelease"
 msgid "Release into the Wild"
-msgstr ""
+msgstr "野に放つ"
 
 #. Key:	ActionRename
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:853
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:853
 msgctxt "ResourceList,ActionRename"
 msgid "Rename"
-msgstr ""
+msgstr "名前の変更"
 
 #. Key:	ActionSeduce
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:889
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:889
 msgctxt "ResourceList,ActionSeduce"
 msgid "Seduce"
-msgstr ""
+msgstr "誘惑する"
 
 #. Key:	ActionSleep
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:846
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:846
 msgctxt "ResourceList,ActionSleep"
 msgid "Sleep"
-msgstr ""
+msgstr "眠る"
 
 #. Key:	ActionSurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:912
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:912
 msgctxt "ResourceList,ActionSurpriseSex"
 msgid "Surprise Sex"
-msgstr ""
+msgstr "サプライズ・セックス"
 
 #. Key:	SaveWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:19
 #: Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:19
 msgctxt "SaveMenu,SaveWindowTitle"
 msgid "Saved Games"
-msgstr ""
+msgstr "セーブデータ"
 
 #. Key:	SlotPath
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:29
 #: Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:29
 msgctxt "SaveMenu,SlotPath"
 msgid "Save Location"
-msgstr ""
+msgstr "セーブの場所"
 
 #. Key:	ErrorSavingGame
 #. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:276
@@ -9363,42 +9363,42 @@ msgstr "音声"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
 msgctxt "SettingsMenu,AutoplayDialogue"
 msgid "Autoplay Dialogue"
-msgstr "メッセージの自動送り"
+msgstr "会話メッセージの自動送り"
 
 #. Key:	AutoplayDialogueHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
 msgctxt "SettingsMenu,AutoplayDialogueHelp"
 msgid "Automatically cycle through lines of dialogue without having to press next."
-msgstr ""
+msgstr "クリックしなくても、会話メッセージの文章が自動送りになる。"
 
 #. Key:	AutoskipDialogue
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 msgctxt "SettingsMenu,AutoskipDialogue"
 msgid "Autoskip Dialogue"
-msgstr "メッセージの自動スキップ"
+msgstr "会話メッセージの自動スキップ"
 
 #. Key:	AutoskipDialogueHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 msgctxt "SettingsMenu,AutoskipDialogueHelp"
 msgid "Automatically skip to the last line of dialogue."
-msgstr ""
+msgstr "会話メッセージの最後の文章まで自動スキップする。"
 
 #. Key:	BodyComposition
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyComposition"
 msgid "Body Composition"
-msgstr ""
+msgstr "身体の混成"
 
 #. Key:	BodyCompositionHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyCompositionHelp"
 msgid "Makes all wild Nephelym bodies random, and allows you to change them via items."
-msgstr ""
+msgstr "すべての野性のネフェリムの身体をランダム生成にし、アイテムによって身体を変化させることを可能にする。"
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
@@ -9447,7 +9447,7 @@ msgstr "カメラの揺れ"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
 msgctxt "SettingsMenu,CIHelp"
 msgid "Female body will swell in proportion to the amount of cum received."
-msgstr ""
+msgstr "メスの身体が、体内に出された精液の量に比例して膨らむ。"
 
 #. Key:	ControlsTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:74
@@ -9608,7 +9608,7 @@ msgstr "設定"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,PhysHelp"
 msgid "Simulate Breeder's jiggly bits, disable for performance gain. Restart required for full effect."
-msgstr ""
+msgstr "ブリーダーの各部位の揺れをシミュレートする。効果の完全な反映には再起動が必要。"
 
 #. Key:	PhysicsTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:355
@@ -9636,21 +9636,21 @@ msgstr "妊娠"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
 msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr ""
+msgstr "メスのネフェリムが子を召喚するのに4日間必要となり、腹部はそれを反映して変化する。\n警告: この項目をゲームプレイ中にオフにした場合、現在適用されている妊娠状態は失われます。"
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
 msgctxt "SettingsMenu,Quality"
 msgid "Overall Quality"
-msgstr ""
+msgstr "全体のクオリティ"
 
 #. Key:	RenderingFeatures
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
 msgctxt "SettingsMenu,RenderingFeatures"
 msgid "Rendering Features"
-msgstr ""
+msgstr "描画機能"
 
 #. Key:	Resolution
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:301
@@ -9671,7 +9671,7 @@ msgstr "画面"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
 msgctxt "SettingsMenu,SurpriseHelp"
 msgid "Allow consensual surprise sex."
-msgstr ""
+msgstr "合意の上でのサプライズ・セックスを許可する。"
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
@@ -9734,28 +9734,28 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:121
 msgctxt "SSexyBreedingSetupMenu,CollapseGStats"
 msgid "Hide detailed stats for selected giver."
-msgstr ""
+msgstr "選択した攻め手の能力値詳細を隠す。"
 
 #. Key:	CollapseRStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
 msgctxt "SSexyBreedingSetupMenu,CollapseRStats"
 msgid "Hide detailed stats for selected receiver."
-msgstr ""
+msgstr "選択した受け手の能力値詳細を隠す。"
 
 #. Key:	ExpandGStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
 msgctxt "SSexyBreedingSetupMenu,ExpandGStats"
 msgid "View detailed stats for selected giver."
-msgstr ""
+msgstr "選択した攻め手の能力値詳細を見る。"
 
 #. Key:	ExpandRStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
 msgctxt "SSexyBreedingSetupMenu,ExpandRStats"
 msgid "View detailed stats for selected receiver."
-msgstr ""
+msgstr "選択した受け手の能力値詳細を見る。"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:239
@@ -9790,7 +9790,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyDropList.cpp:82
 msgctxt "SSexyDropList,None"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. Key:	BackButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:56
@@ -9881,7 +9881,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:55
 msgctxt "SSexyGenericMenu,TravelWindowTitle"
 msgid "Select Destination"
-msgstr ""
+msgstr "目的地の選択"
 
 #. Key:	BindButton
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:33
@@ -9902,28 +9902,28 @@ msgstr "キーを押してください"
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:126
 msgctxt "SSexyMonsterMenu,CollapseStats"
 msgid "Hide detailed stats for selected Nephelym."
-msgstr ""
+msgstr "選択したネフェリムの能力値詳細を隠す。"
 
 #. Key:	ExpandStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
 msgctxt "SSexyMonsterMenu,ExpandStats"
 msgid "View detailed stats for selected Nephelym."
-msgstr ""
+msgstr "選択したネフェリムの能力値詳細を見る。"
 
 #. Key:	ManageWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
 msgctxt "SSexyRanchMenu,ManageWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "行動"
 
 #. Key:	ClearFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:144
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:144
 msgctxt "SSexyResourceList,ClearFilterTooltip"
 msgid "Clear all current filters."
-msgstr ""
+msgstr "現在の絞り込みをリセットする。"
 
 #. Key:	HarvestFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:117
@@ -9951,98 +9951,98 @@ msgstr "性別で絞り込む。"
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:103
 msgctxt "SSexyResourceList,SizeFilterTooltip"
 msgid "Filter by body size trait."
-msgstr ""
+msgstr "体格の特徴で絞り込む。"
 
 #. Key:	StatsFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:131
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:131
 msgctxt "SSexyResourceList,StatsFilterTooltip"
 msgid "Filter by stats."
-msgstr ""
+msgstr "状態で絞り込む。"
 
 #. Key:	Breeder
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:189
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:189
 msgctxt "SSexyRoamerMenu,Breeder"
 msgid "Breeder:"
-msgstr ""
+msgstr "ブリーダー:"
 
 #. Key:	CatchButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:98
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:98
 msgctxt "SSexyRoamerMenu,CatchButton"
 msgid "Catch"
-msgstr ""
+msgstr "捕獲する"
 
 #. Key:	CatchButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
 msgctxt "SSexyRoamerMenu,CatchButtonTooltip"
 msgid "Add this wild Nephelym to your collection."
-msgstr ""
+msgstr "この野性のネフェリムをコレクションに加える。"
 
 #. Key:	CollapseStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 msgctxt "SSexyRoamerMenu,CollapseStats"
 msgid "Hide detailed stats for this wild Nephelym."
-msgstr ""
+msgstr "この野性のネフェリムの能力値詳細を隠す。"
 
 #. Key:	ExpandStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 msgctxt "SSexyRoamerMenu,ExpandStats"
 msgid "View detailed stats for this wild Nephelym."
-msgstr ""
+msgstr "この野性のネフェリムの能力値詳細を見る。"
 
 #. Key:	ItemWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
 msgctxt "SSexyRoamerMenu,ItemWindowTitle"
 msgid "Give Fluid"
-msgstr ""
+msgstr "体液を与える"
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
 msgctxt "SSexyRoamerMenu,LeaveButton"
 msgid "Leave"
-msgstr ""
+msgstr "立ち去る"
 
 #. Key:	LeaveButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
 msgctxt "SSexyRoamerMenu,LeaveButtonTooltip"
 msgid "Leave this wild Nephelym alone."
-msgstr ""
+msgstr "この野性のネフェリムを放っておく。"
 
 #. Key:	Nephelym
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 msgctxt "SSexyRoamerMenu,Nephelym"
 msgid "Nephelym:"
-msgstr ""
+msgstr "ネフェリム:"
 
 #. Key:	RBJ
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 msgctxt "SSexyRoamerMenu,RBJ"
 msgid "Spontaneous Blow Job!"
-msgstr ""
+msgstr "いきなりフェラチオ！"
 
 #. Key:	ResistMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
-msgstr ""
+msgstr "絶頂しないように素早くクリック。"
 
 #. Key:	RoamerWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
 msgctxt "SSexyRoamerMenu,RoamerWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "行動"
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
@@ -10056,35 +10056,35 @@ msgstr "サプライズ・セックス！"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,TaskRBJ"
 msgid "Let her work her wonder."
-msgstr ""
+msgstr "彼女に任せましょう、ステキなことをしています。"
 
 #. Key:	CheatFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
 msgctxt "SSexySettingsMenu,CheatFavor"
 msgid "Added 1,000 favor."
-msgstr ""
+msgstr "御恵みが 1,000 追加された。"
 
 #. Key:	CheatFluids
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
 msgctxt "SSexySettingsMenu,CheatFluids"
 msgid "All fluids maxed."
-msgstr ""
+msgstr "すべての液体が満タンになった。"
 
 #. Key:	CheatLust
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
 msgctxt "SSexySettingsMenu,CheatLust"
 msgid "Everyone has infinite lust."
-msgstr ""
+msgstr "あらゆる者の性欲が無限になった。"
 
 #. Key:	CheatMoney
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
 msgctxt "SSexySettingsMenu,CheatMoney"
 msgid "Added 1,000,000 orgasium."
-msgstr ""
+msgstr "1,000,000 オーガシウム追加された。"
 
 #. Key:	CheatPortals
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
@@ -10098,28 +10098,28 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
 msgctxt "SSexySettingsMenu,CheatRanch"
 msgid "All barns added to ranch."
-msgstr ""
+msgstr "すべての厩舎が牧場に追加された。"
 
 #. Key:	CheatRemove
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
 msgctxt "SSexySettingsMenu,CheatRemove"
 msgid "All cheats removed."
-msgstr ""
+msgstr "すべてのチートが解除された。"
 
 #. Key:	CheatSpirit
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
 msgctxt "SSexySettingsMenu,CheatSpirit"
 msgid "You now have infinite spirit."
-msgstr ""
+msgstr "あなたのスピリットは今、無限となった。"
 
 #. Key:	CheatSurprise
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
 msgctxt "SSexySettingsMenu,CheatSurprise"
 msgid "You will always win surprise sex."
-msgstr ""
+msgstr "あなたはサプライズ・セックスで常に勝利する。"
 
 #. Key:	CheatTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:142
@@ -10133,7 +10133,7 @@ msgstr "チート"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:781
 msgctxt "SSexySettingsMenu,CheatTraitLvl"
 msgid "Trait level is maxed."
-msgstr ""
+msgstr "特性レベルが最大になった。"
 
 #. Key:	CreatorMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:825
@@ -10147,7 +10147,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
 msgctxt "SSexySettingsMenu,DefaultKeyBinds"
 msgid "Reset Defaults"
-msgstr ""
+msgstr "初期設定に戻す"
 
 #. Key:	DialogueTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:134
@@ -10175,7 +10175,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
 msgctxt "SSexySettingsMenu,FetishTitle"
 msgid "Fetish"
-msgstr ""
+msgstr "性的嗜好"
 
 #. Key:	NFemG
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:845
@@ -10189,7 +10189,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 msgctxt "SSexySexPositionDetails,SizePairs"
 msgid "Pairs with Scene"
-msgstr ""
+msgstr "セックスシーンがある組み合わせ"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
@@ -10224,14 +10224,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 msgctxt "SSexyTradeMenu,PurchaseTitle"
 msgid "Confirm Purchase"
-msgstr ""
+msgstr "購入の確認"
 
 #. Key:	SaleTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 msgctxt "SSexyTradeMenu,SaleTitle"
 msgid "Confirm Sale"
-msgstr ""
+msgstr "売却の確認"
 
 #. Key:	SellMonsterMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
@@ -10266,7 +10266,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
 msgctxt "TradeMenu,ItemsButton"
 msgid "Items"
-msgstr ""
+msgstr "アイテム"
 
 #. Key:	SellFunds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
@@ -10287,14 +10287,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
 msgctxt "UtilityMenu,HarvestButton"
 msgid "Harvest"
-msgstr ""
+msgstr "採取物"
 
 #. Key:	InventoryWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
 msgctxt "UtilityMenu,InventoryWindowTitle"
 msgid "Ranch Inventory"
-msgstr ""
+msgstr "牧場の在庫"
 
 #. Key:	ActivateAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:327
@@ -10308,21 +10308,21 @@ msgstr ""
 #: Source/Radiant/Public/UI/SexyInterface.cpp:321
 msgctxt "WorldAction,BreedingSetupAction"
 msgid "Setup Breeding Session"
-msgstr ""
+msgstr "交配セッションを組む"
 
 #. Key:	InteractAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:333
 #: Source/Radiant/Public/UI/SexyInterface.cpp:333
 msgctxt "WorldAction,InteractAction"
 msgid "Interact"
-msgstr ""
+msgstr "ふれあう"
 
 #. Key:	ManageRanch
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:318
 #: Source/Radiant/Public/UI/SexyInterface.cpp:318
 msgctxt "WorldAction,ManageRanch"
 msgid "Manage Ranch"
-msgstr ""
+msgstr "牧場の管理"
 
 #. Key:	TalkAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:324
