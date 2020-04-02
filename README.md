@@ -1,21 +1,23 @@
 Breeders of the Nephelym 日本語翻訳用 POファイル
 ====
 
-DerelictHelmsman氏が制作中のゲーム「Breeders of the Nephelym」翻訳プロジェクトの日本語版用リポジトリです。  
-当リポジトリ管理者Stringfishは、GitHub初心者です。
+DerelictHelmsman 氏が制作中のゲーム「Breeders of the Nephelym」翻訳プロジェクトの日本語版用リポジトリです。  
+当リポジトリ管理者 Stringfish は、GitHub 初心者です。
 お気付きの点等ありましたら、ご連絡ください。
 
 # Join the Discord
 There is a channel dedicated for discussing translations. Let me know in Discord, and I will assign you the roll.
 https://discord.gg/6DpR6sb
 
-### Stringfishの翻訳進行状況・予定
-（2020/03/19）  
-Ver.0.734AからUIのCharacterDetailsを中心に暫定的に訳しました。  
-UI部分の文体は今のところ、基本的に常体を使い、警告の要素が強い部分のみ丁寧語で表記する方針です。  
-今後の翻訳優先度は、SSexySettingsMenu→CharacterEditor→その他…です。  
-追加UI用テキストを翻訳しつつ、並行して実装された翻訳をチェック、Pawsmaati（旧Parvati）のダイアログの調整も行います。  
-（パブリックビルド0.734Aに間に合わず申し訳ありません。）
+### Stringfish の翻訳進行状況・予定
+（2020/04/03）  
+Ver.0.734A 追加分の UI のうち、使用箇所不明部分（ComponentModifier 系統）、DerelictHelmsman 氏指定の翻訳不要箇所（BreedingSession,IK 系統、SSexySettingsMenu の一部など）を除くほぼすべてを訳しました。  
+UI 部分の文体は今のところ、基本的に常体を使い、ConfirmationBox 内の確認など所持金やアイテム・編集中データに影響を与える警告要素が強い部分のみ丁寧語で表記する方針です。  
+また可読性を確保するため、数字やアルファベット表記部分（現状では @ マクロが中心）の前後に半角スペースを挿入しました。  
+ただし、句読点や括弧などいわゆるヤクモノに隣接している場合、半角スペースは省略されます。  
+その他、sugar walls before balls や ascend の訳出を変更しました。  
+
+今後は実装された翻訳をチェック、Pawsmaati（旧 Parvati）のダイアログの調整を行う予定です。
 
 ## 固有名詞・頻出単語 訳例
 
