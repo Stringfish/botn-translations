@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-03-12 18:15\n"
-"PO-Revision-Date: 2020-03-21 00:27+0900\n"
+"PO-Revision-Date: 2020-04-02 23:58+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -60,14 +60,14 @@ msgstr "すべてのハーピィ派生を捕獲・飼育できるようになる
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",017CCB4443E3658AEA961E9EDC5B53BF"
 msgid "And I'm one of them! A blessed female Painted Elf to be exact!"
-msgstr "そしてワタシもその1人！ 厳密にいえば、祝福された女ペインテッド・エルフ！"
+msgstr "そしてワタシもそのひとり！ 厳密にいえば、祝福された女ペインテッド・エルフ！"
 
 #. Key:	0180484249AE71470005A78484607A18
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 msgctxt ",0180484249AE71470005A78484607A18"
 msgid "Ah I suppose you are like most @MONSTER_RACE@ then."
-msgstr "あぁ、それならば、そなたは多くの@MONSTER_RACE@と同じなのかもしれません。"
+msgstr "あぁ、それならば、そなたは多くの @MONSTER_RACE@ と同じなのかもしれません。"
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
@@ -95,7 +95,7 @@ msgstr "スターフォールンを管理する"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(26).LinesToMale
 msgctxt ",02A5F6F34ADE67C0A32ECE8E542DCC88"
 msgid "Gently of course, to date there has never been an instance where a @MONSTER_RACE@ has intentionally harmed a human."
-msgstr "もちろん、やさしくよ。今までに、@MONSTER_RACE@がわざと人間を傷つけた前例はひとつもないわ。"
+msgstr "もちろん、やさしくよ。今までに、@MONSTER_RACE@ がわざと人間を傷つけた前例はひとつもないわ。"
 
 #. Key:	02FA062A4ABF915F50D8B38C08105557
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
@@ -137,7 +137,7 @@ msgstr "あぁぁ、アナタのおいしい精子、ワタシのちっちゃな
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",03BD054E4D9907C2DF497EA4DCC0D8C3"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr "ワタシの名前はファリーン、全@WORLD_NAME@で一番の@MONSTER_RACE@の専門家よ。"
+msgstr "ワタシの名前はファリーン、全 @WORLD_NAME@ で一番の @MONSTER_RACE@ の専門家よ。"
 
 #. Key:	03C3FCAE4B8424BCF5F580BC933E08E8
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -179,7 +179,7 @@ msgstr "えきたいぃぃの、じかんんんん？"
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",0500B4944007820F3A7BB096A4E699AB"
 msgid "Lemme know if y'all want new buildings for your wild @MONSTER_RACE@..."
-msgstr "遠慮なく言えばいいじゃん、アンタの野性の@MONSTER_RACE@用に新しい建物が欲しくなったときと……"
+msgstr "遠慮なく言えばいいじゃん、アンタの野性の @MONSTER_RACE@ 用に新しい建物が欲しくなったときと……"
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -200,14 +200,14 @@ msgstr "ラミアについて教えて。"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_FutaBalls.Default__CamillaDefault01_FutaBalls_C.SessionData.Lines(0).Lines
 msgctxt ",0559493D46F48B86A2683FB3AC087112"
 msgid "Sugar walls before balls!"
-msgstr "甘い花ビラ、タマより先！"
+msgstr "甘い花ビラ、タマより大事！"
 
 #. Key:	0629816F428092E0C5B0169DD3E8F968
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 msgctxt ",0629816F428092E0C5B0169DD3E8F968"
 msgid "Blessed ones can be found everywhere in @WORLD_NAME@, and for reasons I'm trying to solve, the vast majority are female."
-msgstr "祝福された@MONSTER_RACE@は@WORLD_NAME@のあちこちで見かけることができて、そしてワタシが解明中のなんらかの理由によって、その多くが女よ。"
+msgstr "祝福された @MONSTER_RACE@ は @WORLD_NAME@ のあちこちで見かけることができて、そしてワタシが解明中のなんらかの理由によって、その多くが女よ。"
 
 #. Key:	063FE1B64CA363E1B1CB09BFE7E6043C
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
@@ -221,7 +221,7 @@ msgstr "へへっ……ちょっと止まんなくなることがあんの。"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",0685B494422BDD14CE725297CA6A02B0"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "さて、@WORLD_NAME@には私が這ったことのない場所はありません。"
+msgstr "さて、@WORLD_NAME@ には私が這ったことのない場所はありません。"
 
 #. Key:	06DCC78B4F1DECA217645DA58B3BB2A4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
@@ -242,7 +242,7 @@ msgstr "だもんで、アンタも味わってみればいいんでないかい
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",070169104C3375DAB052E18982B50AE4"
 msgid "This world is home to the @MONSTER_RACE@, an enigmatic race of human-monster hybrids."
-msgstr "この世界は@MONSTER_RACE@――謎に満ちた半人半獣の混合種族が棲む地。"
+msgstr "この世界は @MONSTER_RACE@――謎に満ちた半人半獣の混合種族が棲む地。"
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
@@ -277,7 +277,7 @@ msgstr "ムラムラしてもうガマンできない！ そこ開きなさい�
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
 msgctxt ",0A1E776A4877D11A8A4716A6FEE789C1"
 msgid "@MONSTER_RACE@ origins are ancient and unknown, but we desire one thing above all else..."
-msgstr "@MONSTER_RACE@の起源はとても古くて解明されていない、でもワタシたちが欲するのはただひとつ、なによりも……"
+msgstr "@MONSTER_RACE @の起源はとても古くて解明されていない、でもワタシたちが欲するのはただひとつ、なによりも……"
 
 #. Key:	0AA608164C47369E28D0C6BFDB27289A
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
@@ -340,7 +340,7 @@ msgstr "あなたは心臓がいくつもあるの？！"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",0CF85A94478ED7F4CC8BA58C2B66D95C"
 msgid "Where can I find @MONSTER_RACE@?"
-msgstr "どこで@MONSTER_RACE@を見つけられる？"
+msgstr "どこで @MONSTER_RACE@ を見つけられる？"
 
 #. Key:	0D1AA721421DF16BA8A3CB90943223E5
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(1).Lines
@@ -410,7 +410,7 @@ msgstr "ネフェリムの厩舎"
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0EA2FCF24AF05A8FBEF98C9F2C767D3A"
 msgid "Decline"
-msgstr "拒否"
+msgstr "拒否する"
 
 #. Key:	0EEEC9A34AD6162338FCA699384590D4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.TypeDisplay
@@ -438,7 +438,7 @@ msgstr "そなたには入浴が必要です。 その身を我が乳房のあ�
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(2).Lines
 msgctxt ",0F5F4BBA4C14BF84662CB09F0D97B147"
 msgid "While we have destructive past, most Krakens today are peaceful and seek only love and pleasure as other @MONSTER_RACE@."
-msgstr "我らには破壊的な過去もあったが、今日のクラーケンはほとんどが温和で、愛と快楽だけを探し求めている。他の@MONSTER_RACE@と同じようにな。"
+msgstr "我らには破壊的な過去もあったが、今日のクラーケンはほとんどが温和で、愛と快楽だけを探し求めている。他の @MONSTER_RACE@ と同じようにな。"
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
@@ -452,7 +452,7 @@ msgstr "わたしたちが一緒に、あの娘を産み出したんですよ。
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(30).LinesToFuta
 msgctxt ",1019EEE14B67704DE6DE0B9FD7D0D596"
 msgid "If you want to learn about how to catch @MONSTER_RACE@, head to the town located up the plateau ahead and speak to my assistant Camilla. You can't miss her... actually wait you might, she's so tiny and cute hehehe."
-msgstr "どうやって@MONSTER_RACE@を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のカミラと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
+msgstr "どうやって @MONSTER_RACE@ を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のカミラと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
 
 #. Key:	106EA6A747A0901892BD12A925DA79A5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_F.Default__MirruDefault01_BodySexToy_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -704,14 +704,14 @@ msgstr "わらわを通じて精霊たちと交感し、そなたの姿を変え
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(10).Lines
 msgctxt ",18F557C243E97F6A690B608405D897DF"
 msgid "It's a fact that @MONSTER_RACE@ semen is a powerful substance--just applying it to your skin has all sorts of effects."
-msgstr "@MONSTER_RACE@の精液が強力な物質なのは事実なの――ただ肌に塗るだけで、あらゆる効果がある。"
+msgstr "@MONSTER_RACE@ の精液が強力な物質なのは事実なの――ただ肌に塗るだけで、あらゆる効果がある。"
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
-msgstr "高価: 価値が35%上昇する。"
+msgstr "高価: 価値が 35% 上昇する。"
 
 #. Key:	193F948E4333F3741026EABB87402DD3
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -774,7 +774,7 @@ msgstr "未来の女王の慣わしなのだ。乾いた地を巡礼すること
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(30).LinesToFemale
 msgctxt ",1B5A3D3E4B34533CC5E7E599C01B1A38"
 msgid "If you want to learn about how to catch @MONSTER_RACE@, head to the town located up the plateau ahead and speak to my assistant Camilla. You can't miss her... actually wait you might, she's so tiny and cute hehehe."
-msgstr "どうやって@MONSTER_RACE@を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
+msgstr "どうやって @MONSTER_RACE@ を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のカミラと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
 
 #. Key:	1BD44FF4429194137A0C4CAF227F2CA1
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
@@ -830,7 +830,7 @@ msgstr "ワタシのちっちゃなちっちゃな愛しい助手のカミラも
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",1D81ECE4468C6B5A5BE467964A7CFE43"
 msgid "Sadly I can no longer help you harvest fluids from wild @MONSTER_RACE@."
-msgstr "残念ながら、わたしはもう、あなたが野性の@MONSTER_RACE@から液体を採取するのを支援できません。"
+msgstr "残念ながら、わたしはもう、あなたが野性の @MONSTER_RACE@ から液体を採取するのを支援できません。"
 
 #. Key:	1DA742CA40AC6A3A7EC5B6834EEA93B8
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(2).Lines
@@ -865,7 +865,7 @@ msgstr "めっちゃ気持ちいいし！ あぁぁぁ……"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",1E80A3A048E90BE3C26622BC4F2230F7"
 msgid "Bring them to me so that the Goddess can be reunited with her children. You shall be rewarded with the crystalized cum of the Goddess Herself."
-msgstr "@MONSTER_RACE@を私の元へ連れてくれば、女神は子孫たちと再び相まみえることができます。あなたは、結晶化した女神御自身の精液を褒美に賜わるでしょう。"
+msgstr "@MONSTER_RACE@ を私の元へ連れてくれば、女神は子孫たちと再び相まみえることができます。あなたは、結晶化した女神御自身の精液を褒美に賜わるでしょう。"
 
 #. Key:	1E9E8C004AF398F32ECD97B66BFC3438
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(2).ResponseData.BreederPrompt
@@ -893,7 +893,7 @@ msgstr "アンタ……にゃあ……かわいそうなキャシーのこの手
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
-msgstr "おもいやり: 交配相手に2倍の経験値を与えるが、自分は半分しか受け取らない。"
+msgstr "おもいやり: 交配相手に 2 倍の経験値を与えるが、自分は半分しか受け取らない。"
 
 #. Key:	20149E5046FF32B65667FBA243C9BED4
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -921,7 +921,7 @@ msgstr "ファーンはこれで、ごしゅずんがすごくよろこぶと、
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",20A752DD41AFEBDD2A4852BD029B894E"
 msgid "You have just become @WORLD_NAME@'s newest resident!"
-msgstr "アナタは@WORLD_NAME@の一番新しい住人になったわ！"
+msgstr "アナタは @WORLD_NAME@ の一番新しい住人になったわ！"
 
 #. Key:	20FEDBA24B5C623E162B85A3D6ACF514
 #. SourceLocation:	/Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.DisplayName
@@ -949,14 +949,14 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
-msgstr "どスケベ: 交配時に消費する性欲が35%減少する。"
+msgstr "どスケベ: 交配時に消費する性欲が 35% 減少する。"
 
 #. Key:	21A08FF347BC7DE708B258BAD0F4BEF3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
 msgctxt ",21A08FF347BC7DE708B258BAD0F4BEF3"
 msgid "You will only catch wild @MONSTER_RACE@, which have roughly the intelligence of animals."
-msgstr "アナタは野性の@MONSTER_RACE@だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
+msgstr "アナタは野性の @MONSTER_RACE@ だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
 
 #. Key:	21D4E1714A491D7CAA40E99AA6D354E8
 #. SourceLocation:	/Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.PositionName
@@ -1159,7 +1159,7 @@ msgstr "巨尻: 遺伝的に、非常に大きな尻を持つ。"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",29D016C340DC8B3F658D1A81BD0D7C54"
 msgid "Are you a Blessed @MONSTER_RACE@?"
-msgstr "あなたは祝福された@MONSTER_RACE@なの？"
+msgstr "あなたは祝福された @MONSTER_RACE@ なの？"
 
 #. Key:	2AA4EC89483BB63996FEBE9BC4E4055A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_T.Default__CassieDefault01_Meow_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1173,7 +1173,7 @@ msgstr "バター棒？ 本気で言ってるの？"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
 msgctxt ",2ABC84814DE5DC3039A61BBA0723AF73"
 msgid "Tiny: Roughly 4ft in height."
-msgstr "タイニー: 身長およそ1.2m。"
+msgstr "タイニー（T）: 身長およそ 1.2 m。"
 
 #. Key:	2B2323B74BC7F2E6E2CF40A3E50FEFC2
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1187,7 +1187,7 @@ msgstr "精液飲んでいいよ！"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(3).Lines
 msgctxt ",2B4CCE054929809171D1D88C30341FB2"
 msgid "Mother has reigned for 788 years human, and it is law that rulers stepdown at 800."
-msgstr "母上の在位は788年になるのだ、人間よ。そして統治者は800年で退位するのが定めだ。"
+msgstr "母上の在位は 788 年になるのだ、人間よ。そして統治者は 800 年で退位するのが定めだ。"
 
 #. Key:	2BA86FB140866995E4F323B86DA72C9A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
@@ -1243,7 +1243,7 @@ msgstr "わたしに養分を与える必要は、もうないでしょう。で
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
 msgctxt ",2DBE58DB4B0AEBCB9FDD04BC94C039BD"
 msgid "I frequently must change my lower garments since my vagina is always very wet--it's a common problem for blessed @MONSTER_RACE@ that wear clothes."
-msgstr "ワタシは日に何度もはいてるモノを取り替えなきゃならない、おまんこがいつもびしょ濡れで――これは服を着てる祝福された@MONSTER_RACE@の共通の悩み。"
+msgstr "ワタシは日に何度もはいてるモノを取り替えなきゃならない、おまんこがいつもびしょ濡れで――これは服を着てる祝福された @MONSTER_RACE@ の共通の悩み。"
 
 #. Key:	2DC7EABB434FE7136DE3498D19A6B8B9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(4).Lines
@@ -1278,7 +1278,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",2E354C3547A22A28F21C20ABC438099D"
 msgid "Blessed @MONSTER_RACE@ are like you humans--we are self aware and intelligent."
-msgstr "祝福された@MONSTER_RACE@はアナタたち人間みたいで――ワタシたちには自我があり、知性がある。"
+msgstr "祝福された @MONSTER_RACE@ はアナタたち人間みたいで――ワタシたちには自我があり、知性がある。"
 
 #. Key:	2E7BB9B84F5D0CB4DA2DF986BEFCB857
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -1306,7 +1306,7 @@ msgstr ""
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",2F5513164D00080A441C1292E501C786"
 msgid "If ye have @MONSTER_RACE@ milk to sell, or if ye want te buy some then I'm yer gal!"
-msgstr "もし売りたい@MONSTER_RACE@のミルクがあるか、買いたいんなら、アタシに任せたらいいしょや！"
+msgstr "もし売りたい @MONSTER_RACE@ のミルクがあるか、買いたいんなら、アタシに任せたらいいしょや！"
 
 #. Key:	3002153B48BD52898AEAE78030617CF7
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(2).Lines
@@ -1320,7 +1320,7 @@ msgstr "アルラウネは充分な生殖液を摂取すると、巨大な固着
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(1).Lines
 msgctxt ",3033B03F4617AF302335059B87E769FB"
 msgid "Space and time are different there, but this you already know as a breeder. The Void is where @MONSTER_RACE@ come from."
-msgstr "そこでは空間と時間が異なります。しかし、これをあなたはすでに知っています、ひとりのブリーダーとして。虚空は@MONSTER_RACE@が生じる場所なのです。"
+msgstr "そこでは空間と時間が異なります。しかし、これをあなたはすでに知っています、ひとりのブリーダーとして。虚空は @MONSTER_RACE@ が生じる場所なのです。"
 
 #. Key:	30642B1B484E9B1A506A4C8AA641CE01
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(3).Lines
@@ -1348,7 +1348,7 @@ msgstr "ファーン！"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",3169578649A185428A32E78395F9C48E"
 msgid "This world is home to the @MONSTER_RACE@, an enigmatic race of human-monster hybrids."
-msgstr "この世界は@MONSTER_RACE@――謎に満ちた半人半獣の混合種族が棲む地。"
+msgstr "この世界は @MONSTER_RACE@――謎に満ちた半人半獣の混合種族が棲む地。"
 
 #. Key:	31774B0844F7A12FF85DC5AE10CA3013
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(3).Lines
@@ -1460,7 +1460,7 @@ msgstr "わらわの腕に抱かれるがよい。"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(15).LinesToFemale
 msgctxt ",35E72C7041E32B269ECDA081BF9906C0"
 msgid "I'm getting wetter by the second..."
-msgstr "1秒ごとにどんどん濡れていく……"
+msgstr "1 秒ごとにどんどん濡れていく……"
 
 #. Key:	3688842F4859D54E5DEE7C9284F1966A
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(8).LinesToFuta
@@ -1474,7 +1474,7 @@ msgstr "甘くておいしい人間のタネ、ぜんぶ解き放って！ あ�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(9).Lines
 msgctxt ",36E3E99D4C836714C7292D93FA860BA5"
 msgid "One or more will certainly take interest and follow you."
-msgstr "それから1匹かそこらがかならず興味を持って、アナタについてくるはず。"
+msgstr "それから 1 匹かそこらがかならず興味を持って、アナタについてくるはず。"
 
 #. Key:	3713C92543DDBF9AF3C3209EE018350C
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -1600,7 +1600,7 @@ msgstr "ああぁぁぁぁ……ついに！"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(21).LinesToFemale
 msgctxt ",3AD376874C56281EC3CDA2BCD39AC51E"
 msgid "@MONSTER_RACE@ you catch won't be blessed like me!"
-msgstr "アナタが捕まえる@MONSTER_RACE@は、ワタシのように祝福されてはいないわ！"
+msgstr "アナタが捕まえる @MONSTER_RACE@ は、ワタシのように祝福されてはいないわ！"
 
 #. Key:	3B3FB5184F1E276BF9EE46AB7835441D
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.Description
@@ -1726,7 +1726,7 @@ msgstr "あなたの前にいるのは女神の使い、そしてあなたのア
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(12).Lines
 msgctxt ",4021F6674834D5C495A7E59231DB4FA4"
 msgid "If you aren't in the mood, you can also catch them by rubbing @MONSTER_RACE@ semen on their skin, or feeding them @MONSTER_RACE@ milk."
-msgstr "もしそんな気分じゃないのなら、@MONSTER_RACE@の精液を彼らの肌に擦りつけたり、@MONSTER_RACE@の母乳を与えても捕まえられる。"
+msgstr "もしそんな気分じゃないのなら、@MONSTER_RACE@ の精液を彼らの肌に擦りつけたり、@MONSTER_RACE@ の母乳を与えても捕まえられる。"
 
 #. Key:	4052D6DF434789A177EAA1A32665DC40
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1761,7 +1761,7 @@ msgstr "ほとんどのクラーケンはふたなり、我らの悦びと潜在
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(2).Lines
 msgctxt ",4190CA08434458A4DA0C58AFFD9BDDC9"
 msgid "According to my theories, I estimate @MONSTER_RACE@ are about 18 times as lustful as what we think humans to be."
-msgstr "ワタシの学説にしたがうと@MONSTER_RACE@は、ワタシたちが想定する人間の18倍もスケベな計算になる。"
+msgstr "ワタシの学説にしたがうと @MONSTER_RACE@ は、ワタシたちが想定する人間の 18 倍もスケベな計算になる。"
 
 #. Key:	41D4E33A4F278EEAC8E03DBD1A9618E5
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Start.Default__AmberMaeSuckJugs_Start_C.SessionData.Lines(1).Lines
@@ -1789,14 +1789,14 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(21).LinesToFuta
 msgctxt ",421A6EEB4894FA5513454B9A113B5D73"
 msgid "@MONSTER_RACE@ you catch won't be blessed like me!"
-msgstr "アナタが捕まえる@MONSTER_RACE@は、ワタシのように祝福されてはいないわ！"
+msgstr "アナタが捕まえる @MONSTER_RACE@ は、ワタシのように祝福されてはいないわ！"
 
 #. Key:	424BF25644C67138FF6800BD56A2F0CF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(9).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(9).LinesToMale
 msgctxt ",424BF25644C67138FF6800BD56A2F0CF"
 msgid "We love to breed with all other @MONSTER_RACE@."
-msgstr "ワタシたちはあらゆる@MONSTER_RACE@と交配するのが大好き。"
+msgstr "ワタシたちはあらゆる @MONSTER_RACE@ と交配するのが大好き。"
 
 #. Key:	42666B4E478FE544AD7A4B91FD65DE82
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(3).Lines
@@ -1817,7 +1817,7 @@ msgstr "まー、ワタシは錬金術師なので……こういうモノは信
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",437DBE7940749A6838FDA39FD90FF637"
 msgid "Accept"
-msgstr "承諾"
+msgstr "承諾する"
 
 #. Key:	43D16A4C487E8E717D3AF2A72A1F2C56
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(1).Lines
@@ -1894,7 +1894,7 @@ msgstr "ネコを管理する"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(6).LinesToMale
 msgctxt ",464B0F3B450345A0F3EA8E98C67A5248"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr "ワタシの名前はファリーン、全@WORLD_NAME@で一番の@MONSTER_RACE@の専門家よ。"
+msgstr "ワタシの名前はファリーン、全 @WORLD_NAME@ で一番の @MONSTER_RACE@ の専門家よ。"
 
 #. Key:	4673804842CCE448A5F016907F5651DD
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(1).Lines
@@ -1985,7 +1985,7 @@ msgstr "フォクセン"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",48ECD1FC4E34FAB69B41249F46A1CAB8"
 msgid "@BREEDER_NAME@. Long have I waited for your arrival."
-msgstr "@BREEDER_NAME@よ。ずっと、あなたの到着を待っていました。"
+msgstr "@BREEDER_NAME@ よ。ずっと、あなたの到着を待っていました。"
 
 #. Key:	48F333E347A7091F18F946AADDC3C69D
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(6).Lines
@@ -1999,7 +1999,7 @@ msgstr "おぉ……貴方はこのクラーケンの姫を、大いに満足さ
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",4941188D4EE43A48ECE99F9361838C0C"
 msgid "And I'm one of them! A blessed female Painted Elf to be exact!"
-msgstr "そしてワタシもその1人！ 厳密にいえば、祝福された女ペインテッド・エルフ！"
+msgstr "そしてワタシもそのひとり！ 厳密にいえば、祝福された女ペインテッド・エルフ！"
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
@@ -2097,7 +2097,7 @@ msgstr "おそらく女神のみが、そなたに答えをもたらすでしょ
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(12).Lines
 msgctxt ",4DA62EBE4FE5CCF8694322AA22E38C1D"
 msgid "We love creating new @MONSTER_RACE@, so that they too may experience the pleasures of this world."
-msgstr "ワタシたちは新しい@MONSTER_RACE@を生むことが好き、そうすれば、彼らもこの世界の快感を経験できるから。"
+msgstr "ワタシたちは新しい @MONSTER_RACE@ を生むことが好き、そうすれば、彼らもこの世界の快感を経験できるから。"
 
 #. Key:	4DE4EDAD457F0C2715629B82E07D5D91
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07_RL.Default__CamillaDefault01_R07_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2111,7 +2111,7 @@ msgstr "ほら、こっちにおいでムチムチおチビちゃん！"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(8).Lines
 msgctxt ",4E12D93143928EAE2221E7A3621657C0"
 msgid "My theory is when @MONSTER_RACE@ semen and ovum unite, they fracture time and space itself."
-msgstr "ワタシの学説では、@MONSTER_RACE@の精子と卵子が結合するとき、時空間そのものを破壊する。"
+msgstr "ワタシの学説では、@MONSTER_RACE@ の精子と卵子が結合するとき、時空間そのものを破壊する。"
 
 #. Key:	4E27E33747B868644B436C9F77707525
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_RL.Default__AmberMaeDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2174,7 +2174,7 @@ msgstr "（ちゅぱっ） （ぺろっ）"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",4F601DAA48F980A712CFA1A4888DDCBC"
 msgid "I have experienced @MONSTER_RACE@ dick and vagina beyond comprehension."
-msgstr "これまで、理解を超えた@MONSTER_RACE@の肉棒、肉壷を経験してきました。"
+msgstr "これまで、理解を超えた @MONSTER_RACE@ の肉棒、肉壷を経験してきました。"
 
 #. Key:	4F926E9345E810F3C912438E56312AC9
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(2).Lines
@@ -2223,7 +2223,7 @@ msgstr "があぁ！ 海の姫ミルルは、そんなことをバラしたり�
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
 msgctxt ",50B849704DFA728D7330279E30E472A8"
 msgid "Large: Roughly 8ft in height."
-msgstr "ラージ: 身長およそ2.4m。"
+msgstr "ラージ（L）: 身長およそ 2.4 m。"
 
 #. Key:	50BBFEDE44CEF2DA10124AAE7DBF17B9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
@@ -2279,7 +2279,7 @@ msgstr "ううううう、ごしゅずん！ とうとう、ファーンえき�
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(18).LinesToMale
 msgctxt ",52642BC9475ED06B0EBBA4AA6032CE9D"
 msgid "*Sigh* As you can tell, we @MONSTER_RACE@ have extremely intense sexual desires."
-msgstr "（ため息）見てのとおり、ワタシたち@MONSTER_RACE@は、極めて激しい性的欲望を持ってるの。"
+msgstr "（ため息）見てのとおり、ワタシたち @MONSTER_RACE@ は、極めて激しい性的欲望を持ってるの。"
 
 #. Key:	52AF81564974B34FF6A257A0B0BDA77F
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(9).Lines
@@ -2307,7 +2307,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",5408EE8A4C4CAFF4A2B2F9B2F1F0B779"
 msgid "I have wild @MONSTER_RACE@ to ascend."
-msgstr "回帰させたい野性の@MONSTER_RACE@がいます。"
+msgstr "天に還したい野性の @MONSTER_RACE@ がいます。"
 
 #. Key:	544F5F944F9E5D60454A39A741792497
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(10).Lines
@@ -2489,7 +2489,7 @@ msgstr "なんでふたなりにタマがないの？"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(8).Lines
 msgctxt ",5C17953A4E43CD3EE715BC8BE3D80889"
 msgid "Also, keep your eyes peeled for Blessed @MONSTER_RACE@. We can be found in all corners of the land and we would love to... make your aquaintance. "
-msgstr "そして、祝福された@MONSTER_RACE@のことを気に留めておいてください。ワタシたちは、この地のあらゆるすみっこで見つけられて、アナタと……知り合いたいんです。"
+msgstr "そして、祝福された @MONSTER_RACE@ のことを気に留めておいてください。ワタシたちは、この地のあらゆるすみっこで見つけられて、アナタと……知り合いたいんです。"
 
 #. Key:	5C2066884278BFCE28A098B5E6AE70AE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2510,7 +2510,7 @@ msgstr "にんげんの、みるきぃ、すっごくおいしい……あああ
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(7).LinesToFemale
 msgctxt ",5C9673D0476DF1FF65CB63B5F142C7FE"
 msgid "@MONSTER_RACE@ origins are ancient and unknown, but we desire one thing above all else..."
-msgstr "@MONSTER_RACE@の起源はとても古くて解明されていない、でもワタシたちが欲するのはただひとつ、なによりも……"
+msgstr "@MONSTER_RACE@ の起源はとても古くて解明されていない、でもワタシたちが欲するのはただひとつ、なによりも……"
 
 #. Key:	5E27E8A74A30D389BBB939B5142249BB
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -2538,7 +2538,7 @@ msgstr "感じたいのです、温かな人間の精液が私の中を駆け巡
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(6).Lines
 msgctxt ",5F41B5A04451E1F4E959DA86D6846CB4"
 msgid "Unlike human females, @MONSTER_RACE@ females' breasts are always producing milk... and lots of it."
-msgstr "人間のメスとは違って、@MONSTER_RACE@のメスの乳房は常に母乳を出すの……それも大量に。"
+msgstr "人間のメスとは違って、@MONSTER_RACE@ のメスの乳房は常に母乳を出すの……それも大量に。"
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
@@ -2608,14 +2608,14 @@ msgstr "すべてのネコ派生を捕獲・飼育できるようになる。"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",61DEC1574FD90C69A68E04B4E3BD4DDB"
 msgid "Tell me about @MONSTER_RACE@ reproduction."
-msgstr "@MONSTER_RACE@の生殖について教えて。"
+msgstr "@MONSTER_RACE@ の生殖について教えて。"
 
 #. Key:	620C1C684C2E93329AEAD78099B4E620
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(9).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(9).Lines
 msgctxt ",620C1C684C2E93329AEAD78099B4E620"
 msgid "Both enter another dimension where gestation begins, and what is years for the @MONSTER_RACE@ offspring is but seconds for us."
-msgstr "精子と卵子は懐胎が始まる異次元へと入る。そして@MONSTER_RACE@の子にとっての数年間は、ワタシたちにとってのたった数秒。"
+msgstr "精子と卵子は懐胎が始まる異次元へと入る。そして @MONSTER_RACE@ の子にとっての数年間は、ワタシたちにとってのたった数秒。"
 
 #. Key:	6266DCAA4BE349E65FF6D89994B5E9C6
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2727,7 +2727,7 @@ msgstr "いつもそのタルの上に乗ってるの？"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",650E3F124AAD112733D65B9F0D095FA8"
 msgid "When I came back covered in cum from every creature in @WORLD_NAME@, she laughed for hours."
-msgstr "ワタシが、@WORLD_NAME@のあらゆる生き物の精液と愛液にまみれて帰ってくると、彼女は何時間も笑いっぱなしでした。"
+msgstr "ワタシが、@WORLD_NAME@ のあらゆる生き物の精液と愛液にまみれて帰ってくると、彼女は何時間も笑いっぱなしでした。"
 
 #. Key:	659F65A5454F216DBCA2DE943F3D816D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(0).Lines
@@ -2888,14 +2888,14 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(4).Lines
 msgctxt ",6B7696AA4F7FC59BCCFABC996AED1F8B"
 msgid "I envy my lesser siblings in a way, they are not required to embark on a 30 year pilgrimage like me."
-msgstr "ある意味では、序列が下のきょうだいたちが、うらやましい。彼らは、30年にもわたる巡礼の旅を求められたりしないからな、私のように。"
+msgstr "ある意味では、序列が下のきょうだいたちが、うらやましい。彼らは、30 年にもわたる巡礼の旅を求められたりしないからな、私のように。"
 
 #. Key:	6C9735694D5FA2594461AF9E28110F5C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(26).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(26).LinesToFemale
 msgctxt ",6C9735694D5FA2594461AF9E28110F5C"
 msgid "Gently of course. To date there has never been an instance where a @MONSTER_RACE@ has intentionally harmed a human."
-msgstr "もちろん、やさしくよ。今までに、@MONSTER_RACE@がわざと人間を傷つけた前例はひとつもないわ。"
+msgstr "もちろん、やさしくよ。今までに、@MONSTER_RACE@ がわざと人間を傷つけた前例はひとつもないわ。"
 
 #. Key:	6D0C594D4C4F236FB6A4E28627184737
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(1).Lines
@@ -2909,7 +2909,7 @@ msgstr "フォクセンとヴァルワーグは、色欲森の木陰と木立が
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
-msgstr "潤沢: 採取時に生産する体液が、50%増える。"
+msgstr "潤沢: 採取時に生産する体液が、50% 増える。"
 
 #. Key:	6D4E481742B09428791263B3A820281E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(4).Lines
@@ -2951,7 +2951,7 @@ msgstr "貴方には見当もつかないだろう。私がこの瞬間にも、
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(23).LinesToMale
 msgctxt ",6E5A40D849715A40BDC9ECBCE9E3F1C1"
 msgid "Blessed @MONSTER_RACE@ like me have human-level intelligence. Sometimes even greater!"
-msgstr "ワタシのような祝福された@MONSTER_RACE@は、人間並みの知能を持っている。もっと賢いこともあるの！"
+msgstr "ワタシのような祝福された @MONSTER_RACE@ は、人間並みの知能を持っている。もっと賢いこともあるの！"
 
 #. Key:	6E673F5644EA7EA6CE684F9AD751AAA9
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(5).Lines
@@ -2972,7 +2972,7 @@ msgstr "うふふふ……アナタにはもう見えてるようなもんかな
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(24).LinesToFuta
 msgctxt ",6E9F24A04A1B818667C201B33366EB1B"
 msgid "You will no doubt encounter blessed ones in this world who simply want their desires fulfilled."
-msgstr "アナタはこの世界で、単純に欲求を満たされたがってる祝福された@MONSTER_RACE@たちに出会うと思う。"
+msgstr "アナタはこの世界で、単純に欲求を満たされたがってる祝福された @MONSTER_RACE@ たちに出会うと思う。"
 
 #. Key:	6EA72B844C05F4F77473C38011839AB4
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R08.Default__CamillaDefault01_R08_C.SessionData.Lines(0).Lines
@@ -3000,7 +3000,7 @@ msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",6F1DCF64442949FA9CD221911F8540AD"
 msgid "You have just become @WORLD_NAME@'s newest resident!"
-msgstr "アナタは@WORLD_NAME@の一番新しい住人になったわ！"
+msgstr "アナタは @WORLD_NAME@ の一番新しい住人になったわ！"
 
 #. Key:	6F2AF65D40C18E8FE71555825585AB6A
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(1).Lines
@@ -3063,7 +3063,7 @@ msgstr "そのおいしそうなふたなりちんぽが欲しい、ワタシの
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(3).Lines
 msgctxt ",70CF21944D42682E43C6EBB4A8757DB0"
 msgid "Like we say here in @WORLD_NAME@: SUGAR WALLS BEFORE BALLS!!"
-msgstr "ワタシたちがこの@WORLD_NAME@で言うみたいにね。「甘い花ビラ、タマより先！」！！"
+msgstr "ワタシたちがこの @WORLD_NAME@ で言うみたいにね。「甘い花ビラ、タマより大事」！！"
 
 #. Key:	70D390BA48724A55513FB282118180B9
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(1).Lines
@@ -3091,7 +3091,7 @@ msgstr "心の準備しなよ、子猫ちゃん！"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(2).Lines
 msgctxt ",71AEDBFC4C75BF861690DB96D8D3E7D4"
 msgid "@MONSTER_RACE@ genitalia functions mostly the same as human genitalia--albeit much more... robust."
-msgstr "@MONSTER_RACE@の生殖器は、人間の生殖器とほぼ同様に機能する――といっても、もっとずっと……頑強、だけれど。"
+msgstr "@MONSTER_RACE@ の生殖器は、人間の生殖器とほぼ同様に機能する――といっても、もっとずっと……頑強、だけれど。"
 
 #. Key:	7216159047B371957AA4BBB677FF8B34
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R04.Default__FernDefault03_R04_C.SessionData.Lines(1).Lines
@@ -3273,14 +3273,14 @@ msgstr "ワタシのを味見してみたい？ ふふふ！ したいならい�
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(24).LinesToMale
 msgctxt ",77DDFABE4F632A4183C2FE891D6AC9EA"
 msgid "You will no doubt encounter blessed ones in this world who simply want their desires fulfilled."
-msgstr "アナタはこの世界で、単純に欲求を満たされたがってる祝福された@MONSTER_RACE@たちに出会うと思う。"
+msgstr "アナタはこの世界で、単純に欲求を満たされたがってる祝福された @MONSTER_RACE@ たちに出会うと思う。"
 
 #. Key:	77E7C4FC4287147D1A10F5BD3D5F5081
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(5).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(5).Lines
 msgctxt ",77E7C4FC4287147D1A10F5BD3D5F5081"
 msgid "Bathe them of course, if they're dirty. Fortunately, @MONSTER_RACE@ are very clean naturally."
-msgstr "もちろん彼らを入浴させます、汚れていれば。幸い、@MONSTER_RACE@は本来とても清潔です。"
+msgstr "もちろん彼らを入浴させます、汚れていれば。幸い、@MONSTER_RACE@ は本来とても清潔です。"
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
@@ -3322,7 +3322,7 @@ msgstr "それって、ちょっと幻想的で愛おしいことじゃない？
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(2).Lines
 msgctxt ",7A37639548189268575986A48C480863"
 msgid "No @MONSTER_RACE@ remembers their infancy in the Void, not even me."
-msgstr "どの@MONSTER_RACE@も虚空での幼児期を憶えていません、私でさえも。"
+msgstr "どの @MONSTER_RACE@ も虚空での幼児期を憶えていません、私でさえも。"
 
 #. Key:	7A60BC8D497743BB08B8F9AF812EDCC7
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(2).Lines
@@ -3511,7 +3511,7 @@ msgstr "私はあなたのしもべ、私の身体はあなたのものです。
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(3).Lines
 msgctxt ",8362C8D747AF6B672FEF0CB58B2B5B0C"
 msgid "Why some @MONSTER_RACE@ are blessed and others aren't is a problem I've been trying to solve for ages. It's possible to see both a wild and blessed variant from the same race! Why?!!"
-msgstr "なぜ祝福された@MONSTER_RACE@とそうじゃない@MONSTER_RACE@がいるのかは、ワタシが長年解き明かそうとしている難題よ。野性の個体と祝福個体が同じ種族で見られることもあるの！ なぜなの？！！"
+msgstr "なぜ祝福された @MONSTER_RACE@ とそうじゃない @MONSTER_RACE@ がいるのかは、ワタシが長年解き明かそうとしている難題よ。野性の個体と祝福個体が同じ種族で見られることもあるの！ なぜなの？！！"
 
 #. Key:	83C8B41F462880323A7E26B8AE678AA1
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(6).Lines
@@ -3532,7 +3532,7 @@ msgstr "色欲森"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",844B2E20423E6D2A12D638A2DC6596BE"
 msgid "What are blessed @MONSTER_RACE@?"
-msgstr "祝福された@MONSTER_RACE@って？"
+msgstr "祝福された @MONSTER_RACE@ って？"
 
 #. Key:	8454BE804490F6C78727A5972F42BB8F
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(7).Lines
@@ -3665,7 +3665,7 @@ msgstr "おぉ……あぁ……そう！ 人間さん……おぉぉぉぉ。"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(15).Lines
 msgctxt ",86705CF240B11C01C39F05BA7F02F512"
 msgid "Be sure to look out for needy blessed @MONSTER_RACE@, just be vigilant as you venture around the world, you can't miss them!"
-msgstr "愛に飢えてる祝福された@MONSTER_RACE@にはかならず用心して。しっかりと油断せず、この世界を探検する。彼らは見たらすぐわかるから！"
+msgstr "愛に飢えてる祝福された @MONSTER_RACE@ にはかならず用心して。しっかりと油断せず、この世界を探検する。彼らは見たらすぐわかるから！"
 
 #. Key:	86818D694AB04782DD1A299E28AC5BAF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(11).Lines
@@ -3707,14 +3707,14 @@ msgstr "デーモンを管理する"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(8).Lines
 msgctxt ",86F7401346D43F3587BFEFAB87819829"
 msgid "Go wander around an Avatar, you will find wild @MONSTER_RACE@ roaming about aimlessly."
-msgstr "化身像の周りを歩いてみて、あてどなくふらつく野性の@MONSTER_RACE@が見つかるわ。"
+msgstr "化身像の周りを歩いてみて、あてどなくふらつく野性の @MONSTER_RACE@ が見つかるわ。"
 
 #. Key:	8702885F4AD8627AC254029214EED99B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",8702885F4AD8627AC254029214EED99B"
 msgid "Sure, it can be tempting to drink all of the fluids, but I love you Master and know you need them."
-msgstr "たしかに、採取した液体をすべて飲みたいという誘惑はあるかもしれません。ですが、私はあなたを愛していますし、あなたに@MONSTER_RACE@の液体が必要なのもわかっています、ご主人様。"
+msgstr "たしかに、採取した液体をすべて飲みたいという誘惑はあるかもしれません。ですが、私はあなたを愛していますし、あなたに @MONSTER_RACE@ の液体が必要なのもわかっています、ご主人様。"
 
 #. Key:	870E3E9A4756B06E4D8C9FB1967261E9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(0).Lines
@@ -3742,7 +3742,7 @@ msgstr "出産も、胎児も、そして関連するいっさいの苦痛もな
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(13).Lines
 msgctxt ",887E11C1414E35B9B9420BA80FD5A411"
 msgid "@MONSTER_RACE@ are half human, we know this for a fact. To be honest we've never had a human here to... experiment with... until now."
-msgstr "@MONSTER_RACE@は半分人間、ワタシたちはこれを事実だと認識してる。正直に言うと、ワタシたちはここに人間を……実験する人間を迎えたことはなかったの……今まではね。"
+msgstr "@MONSTER_RACE@ は半分人間、ワタシたちはこれを事実だと認識してる。正直に言うと、ワタシたちはここに人間を……実験する人間を迎えたことはなかったの……今まではね。"
 
 #. Key:	889D5D974E2DA932F5EAC7B50EC85E50
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(5).Lines
@@ -3903,7 +3903,7 @@ msgstr "ニャ！ すっごいいいじゃん！ ネコ精子そろそろ出す�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(16).Lines
 msgctxt ",8C3EC08A4B6E0CBD02C0D9A1DF7CF43E"
 msgid "But, the dominant @MONSTER_RACE@ half ensures that the offspring is always @MONSTER_RACE@ and reproduction works the @MONSTER_RACE@ way."
-msgstr "けど、優勢な@MONSTER_RACE@の部分によって、子は常に@MONSTER_RACE@となり、生殖の仕組みも@MONSTER_RACE@方式になるの。"
+msgstr "けど、優勢な @MONSTER_RACE@ の部分によって、子は常に @MONSTER_RACE@ となり、生殖の仕組みも @MONSTER_RACE@ 方式になるの。"
 
 #. Key:	8C95D2A04A969135BDEC06A780BBC656
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Hybrid/Harvest/HybridHarvest.Default__HybridHarvest_C.Harvest.Description
@@ -3931,14 +3931,14 @@ msgstr "ヴァルワーグの体液。"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",8D19606C4C2EC6C25E3CF1A4F53B952A"
 msgid "One cannot take on a @MONSTER_RACE@ form without first becoming intimately familiar with it."
-msgstr "まず、その@MONSTER_RACE@について精通しておらぬのなら、@MONSTER_RACE@の姿をとることはできぬ。"
+msgstr "まず、その @MONSTER_RACE@ について精通しておらぬのなら、@MONSTER_RACE@ の姿をとることはできぬ。"
 
 #. Key:	8D3533C24DF82A263421E5AD13FC2CE1
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(0).Lines
 msgctxt ",8D3533C24DF82A263421E5AD13FC2CE1"
 msgid "What? Yes... hearts... Krakens require two."
-msgstr "なんだと？ たしかに……心臓か……クラーケンには2つ必要なのだ。"
+msgstr "なんだと？ たしかに……心臓か……クラーケンには 2 つ必要なのだ。"
 
 #. Key:	8D3E28104D0EAE4C533EE39A8D65B6DB
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(3).Lines
@@ -4029,7 +4029,7 @@ msgstr "多産"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",900A82D44250A3392806469644B7B93B"
 msgid "However, roaming this land are lesser @MONSTER_RACE@, to which many brand as \"wild\"."
-msgstr "しかし、この地を徘徊するのは、劣った@MONSTER_RACE@。多くの者は、彼らを「野性」呼ばわりです。"
+msgstr "しかし、この地を徘徊するのは、劣った @MONSTER_RACE@。多くの者は、彼らを「野性」呼ばわりです。"
 
 #. Key:	902A41DB403EFA60B99E8CB596EFE0BF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -4155,7 +4155,7 @@ msgstr "精液飲んでいいよ！"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
-msgstr "色情狂: セックス時に獲得する忠誠心が2倍に増加する。"
+msgstr "色情狂: セックス時に獲得する忠誠心が 2 倍に増加する。"
 
 #. Key:	9458CFDE4690A312D5CC8F94BF4AE00A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
@@ -4190,7 +4190,7 @@ msgstr "ほとんどのクラーケンとは違い、母上は純粋な女、ふ
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(4).Lines
 msgctxt ",94FAC38648F37068EA98D4BEB220AA61"
 msgid "Apparently, the males and futas had two dicks."
-msgstr "どうやら、リアシスの男とふたなりは2本のチンポを持つようです。"
+msgstr "どうやら、リアシスの男とふたなりは 2 本のチンポを持つようです。"
 
 #. Key:	9575F3C94F07BC8A511E8D85F3737E68
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Harpy/Harvest/HarpyHarvest.Default__HarpyHarvest_C.Harvest.Description
@@ -4225,7 +4225,7 @@ msgstr "想像してみるがいい、人の子よ。その陰茎を滑り込ま
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(30).LinesToMale
 msgctxt ",96824C894B9B4241DBDFEEB68C760057"
 msgid "If you want to learn about how to catch @MONSTER_RACE@, head to the town located up the plateau ahead and speak to my assistant Camilla. You can't miss her... actually wait you might, she's so tiny and cute hehehe."
-msgstr "どうやって@MONSTER_RACE@を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のカミラと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
+msgstr "どうやって @MONSTER_RACE@ を捕まえるのか知りたいなら、この先の高台にある街へ行って、ワタシの助手のカミラと話すといいわ。アナタは彼女を見落としっこないわ……いや待って、見落とすかも。だって彼女はとてもちっちゃくてカワイイんだもの、ふふふ。"
 
 #. Key:	96BF4241443E0334BA81569BD0CAB916
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(1).Lines
@@ -4246,7 +4246,7 @@ msgstr "あぁぁぁ……来るのだ、人の子よ！"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",96D35D8C41748461CFD8F9A9404E42B5"
 msgid "I have experienced @MONSTER_RACE@ dick and vagina beyond comprehension."
-msgstr "これまで、理解を超えた@MONSTER_RACE@の肉棒、肉壷を経験してきました。"
+msgstr "これまで、理解を超えた @MONSTER_RACE@ の肉棒、肉壷を経験してきました。"
 
 #. Key:	97086CA946BFA31C6199599097E76015
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(4).Lines
@@ -4323,7 +4323,7 @@ msgstr "なんでふたなりにタマがないの？"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(24).LinesToFemale
 msgctxt ",9826413940251A15497827A9930F74C3"
 msgid "You will no doubt encounter blessed ones in this world who simply want their desires fulfilled."
-msgstr "アナタはこの世界で、単純に欲求を満たされたがってる祝福された@MONSTER_RACE@たちに出会うと思う。"
+msgstr "アナタはこの世界で、単純に欲求を満たされたがってる祝福された @MONSTER_RACE@ たちに出会うと思う。"
 
 #. Key:	9828516944EAF3071BF52881396D2B01
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(2).Lines
@@ -4337,7 +4337,7 @@ msgstr "えきたいぃぃをとる、じかんんんん？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(6).Lines
 msgctxt ",985E4BA14797DC7FF94FF4974E66471A"
 msgid "These new offspring, both natural creature and divine, are referred to as @MONSTER_RACE@ in the ancient manuscripts."
-msgstr "この新たな子ら――自然界の生き物でもあり神性を備えてもいる――は、古代の写本の中で@MONSTER_RACE@と呼ばれている。"
+msgstr "この新たな子ら――自然界の生き物でもあり神性を備えてもいる――は、古代の写本の中で @MONSTER_RACE@ と呼ばれている。"
 
 #. Key:	9884BCFB41767F163392F78AC097E388
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.FoxenHouse.ManageActionMessage
@@ -4379,7 +4379,7 @@ msgstr "ううううう、ごしゅずん！ とうとう、ファーンえき�
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
 msgctxt ",9A9EDF3448107C0855BB35BBD9D849F5"
 msgid "Blessed @MONSTER_RACE@ like me have human-level intelligence. Sometimes even greater!"
-msgstr "ワタシのような祝福された@MONSTER_RACE@は、人間並みの知能を持っている。もっと賢いこともあるの！"
+msgstr "ワタシのような祝福された @MONSTER_RACE@ は、人間並みの知能を持っている。もっと賢いこともあるの！"
 
 #. Key:	9AF5988A4B6D8F174F3241B67F4033C8
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(0).Lines
@@ -4428,14 +4428,14 @@ msgstr "あぁぁぁぁ、アナタのチンポ！ とうとう！"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(3).Lines
 msgctxt ",9C3FDDD5490B3180DDD3329C692C0B4D"
 msgid "The fastest way is to sex them into submission, just use what's between your legs human!"
-msgstr "一番早い手段は、@MONSTER_RACE@を押し倒してセックスすることです。さぁ、その脚のあいだにあるモノを使ってください、人間さん！"
+msgstr "一番早い手段は、@MONSTER_RACE@ を押し倒してセックスすることです。さぁ、その脚のあいだにあるモノを使ってください、人間さん！"
 
 #. Key:	9D593DC94FAA9CCF2CB35CBA7EA06A73
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(2).LinesToMale
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",9D593DC94FAA9CCF2CB35CBA7EA06A73"
 msgid "I have experienced @MONSTER_RACE@ dick and vagina beyond comprehension."
-msgstr "これまで、理解を超えた@MONSTER_RACE@の肉棒、肉壷を経験してきました。"
+msgstr "これまで、理解を超えた @MONSTER_RACE@ の肉棒、肉壷を経験してきました。"
 
 #. Key:	9DE705ED4BD5D59C986C0DA2BDD7CFF5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(5).Lines
@@ -4470,7 +4470,7 @@ msgstr "うぅぅぅ！ どんなに待ちわびたか、ワタシの柔らか�
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
-msgstr "ヒュージ: 身長およそ3m。"
+msgstr "ヒュージ（H）: 身長およそ 3 m。"
 
 #. Key:	9EEBDB0446F2AAFA8F605E8A3DE83534
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -4498,7 +4498,7 @@ msgstr "すばしっこい: 機敏性によって、行動時の性欲消費が�
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
-msgstr "マッシブ: 身長およそ4.5m。"
+msgstr "マッシブ（M）: 身長およそ 4.5 m。"
 
 #. Key:	9F9D5BEE4F26E405A81EB09066622552
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(4).Lines
@@ -4519,7 +4519,7 @@ msgstr "神殿の女大祭司レイラナによれば、女神とその天使た
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(20).LinesToFemale
 msgctxt ",9FE7AADC4372F0B32E971C838E6554EA"
 msgid "Since you're a breeder, it's your job to catch and mate as many @MONSTER_RACE@ as possible!"
-msgstr "なぜならアナタはブリーダーで、アナタのお仕事は@MONSTER_RACE@を可能な限り捕まえて交尾させることだから！"
+msgstr "なぜならアナタはブリーダーで、アナタのお仕事は @MONSTER_RACE@ を可能な限り捕まえて交尾させることだから！"
 
 #. Key:	9FF8B7CE43E6A9321DDB60919962BBB7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(17).LinesToMale
@@ -4680,7 +4680,7 @@ msgstr "（ぺろっ）"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",A6F150C044603E1020AC1BB1DA82BAF4"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "さて、@WORLD_NAME@には私が這ったことのない場所はありません。"
+msgstr "さて、@WORLD_NAME@ には私が這ったことのない場所はありません。"
 
 #. Key:	A709A6A94647E3F1218D6BB7BF74686D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault_R03_RL.Default__BlossomDefault_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -4701,7 +4701,7 @@ msgstr "あなたはどうやってここに上ってきたの？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(14).Lines
 msgctxt ",A7C8404E4B6C68006478148076380602"
 msgid "My guess is that when one of the mates is human, the @MONSTER_RACE@ half dominates and takes control."
-msgstr "ワタシの推測では、つがいの片方が人間の場合、子の@MONSTER_RACE@の部分が優勢となって支配的になる。"
+msgstr "ワタシの推測では、つがいの片方が人間の場合、子の @MONSTER_RACE@ の部分が優勢となって支配的になる。"
 
 #. Key:	A83161F4465E00C6CE9D718D3E76EDC6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
@@ -4771,7 +4771,7 @@ msgstr "といっても、捕まえられっこないけどね、どっちみち
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",AB9D2C374B19A9E1B3E16E8EF742C9C8"
 msgid "Cometh thy to offer @MONSTER_RACE@?"
-msgstr "汝、@MONSTER_RACE@を差し出さんが為来たれりや？"
+msgstr "汝、@MONSTER_RACE@ を差し出さんが為来たれりや？"
 
 #. Key:	ABAD7A244F5B11BC403296A9DDE29AFE
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.RaceName
@@ -4834,7 +4834,7 @@ msgstr "ブロッサム、ひつようぅぅ、えきたいぃぃ！"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(22).LinesToFemale
 msgctxt ",AD4B293B4D8F1432446C92924F59456E"
 msgid "You will only catch wild @MONSTER_RACE@, which have roughly the intelligence of animals."
-msgstr "アナタは野性の@MONSTER_RACE@だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
+msgstr "アナタは野性の @MONSTER_RACE@ だけを捕まえる。かれらはだいたい動物ぐらいの知能があるわ。"
 
 #. Key:	ADECACEF405669C45FAC77AB2A48E637
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -4904,7 +4904,7 @@ msgstr "多様化: 子が一定の確率で、召喚時にランダムな特性�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",B071E1E04B9EA4D9C227C2935955161A"
 msgid "Wild @MONSTER_RACE@ are what you will be catching and breeding."
-msgstr "野性の@MONSTER_RACE@は、アナタが捕まえて交配させることになる@MONSTER_RACE@。"
+msgstr "野性の @MONSTER_RACE@ は、アナタが捕まえて交配させることになる @MONSTER_RACE@。"
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
@@ -4960,7 +4960,7 @@ msgstr "ケバケバしい"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(7).Lines
 msgctxt ",B2323665415F7EE8A74204A9FD52D914"
 msgid "Ye can consider me a connoisseur of @MONSTER_RACE@ milk. Each race's milk has a distinct and delicious flavor, so it is."
-msgstr "アタシを@MONSTER_RACE@のミルク・ソムリエだと思ってくれていいからさ。どの種族のミルクも違ってて、おいしい味なのさ。うん、そうなんだわ。"
+msgstr "アタシを @MONSTER_RACE@ のミルク・ソムリエだと思ってくれていいからさ。どの種族のミルクも違ってて、おいしい味なのさ。うん、そうなんだわ。"
 
 #. Key:	B27218744AEBAD507E1037B620EC16DA
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03_R01.Default__BlossomDefault01_R03_R01_C.SessionData.Lines(0).Lines
@@ -5023,7 +5023,7 @@ msgstr "この話、あやしい感じがしてきたな……"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(7).Lines
 msgctxt ",B3B9D4DE46AC98F7EC5432A2F06C92D6"
 msgid "Also, you will be making more cute little @MONSTER_RACE@ for me to \"play\" with!"
-msgstr "あと、アナタは「プレイ」の相手になるもっともっと愛らしい@MONSTER_RACE@を、ワタシのために産み出してくれるの！"
+msgstr "あと、アナタは「プレイ」の相手になるもっともっと愛らしい @MONSTER_RACE@ を、ワタシのために産み出してくれるの！"
 
 #. Key:	B41CF0334A59DC837984179B995A16B2
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(0).Lines
@@ -5121,7 +5121,7 @@ msgstr "ハイブリッド"
 #: /Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.Description
 msgctxt ",B7ABB23A457CC2E34BB616933364E7F3"
 msgid "A larger giver uses its strength to lift the receiver while penetrating from behind."
-msgstr "大柄な攻め手が、筋力で受け手を持ち上げ、背後から突く。"
+msgstr "大柄な攻め手が、筋力で受け手を持ち上げて背後から突く。"
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
@@ -5254,7 +5254,7 @@ msgstr "熟考なさい。そなたは牧場に、紫エルフの目の前に、
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(2).Lines
 msgctxt ",BCCE27C44B7552836451CAB377E5AE75"
 msgid "You also need to have something to... entice @MONSTER_RACE@ before you can bind them."
-msgstr "それと……@MONSTER_RACE@を誘惑するモノも必要です、彼らを捕獲できるように。"
+msgstr "それと……@MONSTER_RACE@ を誘惑するモノも必要です、彼らを捕獲できるように。"
 
 #. Key:	BD2871634CBCB94F889B2FA98F0BF8DA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(4).Lines
@@ -5275,7 +5275,7 @@ msgstr "ワタシのおまんこが脈打つ……"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",BDF9214F4D266A69032FE9921524969C"
 msgid "You have just become @WORLD_NAME@'s newest resident!"
-msgstr "アナタは@WORLD_NAME@の一番新しい住人になったわ！"
+msgstr "アナタは @WORLD_NAME@ の一番新しい住人になったわ！"
 
 #. Key:	BE3E92FA4D0B5FE720EA038B6A6FF27C
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_RL.Default__EmissaryBlessedInquiry02_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5303,7 +5303,7 @@ msgstr "ニーラが見ていないときに、ワタシをあのプッシー・
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",BEDA7D94498AC1A3091C29BABE2C94F7"
 msgid "Um... Falene said you could tell me how to catch @MONSTER_RACE@?"
-msgstr "えっと……あなたが@MONSTER_RACE@の捕まえ方を教えてくれるって、ファリーンが言ってたんだけど？"
+msgstr "えっと……あなたが @MONSTER_RACE@ の捕まえ方を教えてくれるって、ファリーンが言ってたんだけど？"
 
 #. Key:	BF4DCF6B4CBF1E3FAE0D139E494C7673
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.RaceName
@@ -5317,7 +5317,7 @@ msgstr "デーモン"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",BF7F7E1041AD5B8267C70694F83985F6"
 msgid "Meh... you're just another one of those who thinks I'm cute because I'm small!"
-msgstr "はぁ……アナタも、ワタシが小さいからカワイイ！ って思ううちの1人なんですか。"
+msgstr "はぁ……アナタも、ワタシが小さいからカワイイ！ って思ううちのひとりなんですか。"
 
 #. Key:	BFA3EA894BDCD8476E3C3E83125BF435
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(3).Lines
@@ -5331,7 +5331,7 @@ msgstr "しかも今、ワタシにはプレイに付き合ってくれる人間
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
-msgstr "ふしだら: 20%の確率で、子が近親交配の悪影響を無視する。"
+msgstr "ふしだら: 20% の確率で、子が近親交配の悪影響を無視する。"
 
 #. Key:	BFE1041943E9B477E3A7848FC8505D3E
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheMe.Default__RomyDefault01_BatheMe_C.SessionData.Lines(0).Lines
@@ -5352,7 +5352,7 @@ msgstr "トリーアイの体液。"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",C03BBCDD4AACD3CC387AAAB2A4FD00E9"
 msgid "Anyway, once you've built an enclosure you can catch @MONSTER_RACE@ of that type."
-msgstr "ともかく、小屋を建てさえすれば、それに対応したタイプの@MONSTER_RACE@を捕まえられます。"
+msgstr "ともかく、小屋を建てさえすれば、それに対応したタイプの @MONSTER_RACE@ を捕まえられます。"
 
 #. Key:	C0C2274D435835E82C7558B7D7771463
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(7).Lines
@@ -5366,7 +5366,7 @@ msgstr "これはもっとも誤解されていて、観測が難しい領域に
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",C156402F4738F87B9C9392A5443BE29F"
 msgid "You are unique in this world, for all other living things, myself included, are @MONSTER_RACE@. We are merely half human, crossed with... something else."
-msgstr "あなたは、この世界で特別な存在。他の生きとし生けるものは、私もふくめ、@MONSTER_RACE@ですから。私たちは半分人間、そして交ざり合った……別の何かと。"
+msgstr "あなたは、この世界で特別な存在。他の生きとし生けるものは、私もふくめ、@MONSTER_RACE@ ですから。私たちは半分人間、そして交ざり合った……別の何かと。"
 
 #. Key:	C18558714C7A7B697778D68CFD03FAF0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(4).Lines
@@ -5415,7 +5415,7 @@ msgstr "ワタシたちには感情がある、だからワタシたちを捕ま
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(4).Lines
 msgctxt ",C35F97ED47D151CAD06084864F0ED555"
 msgid "Doing this allows the spirit to experience pleasure from your deeds, and you get to experience pleasures beyond what your human body can achieve."
-msgstr "これにより、@MONSTER_RACE@の霊はそなたの行為から悦びを、そなたはその人間の身体では達せぬ快楽を、体験できる。"
+msgstr "これにより、@MONSTER_RACE@ の霊はそなたの行為から悦びを、そなたはその人間の身体では達せぬ快楽を、体験できる。"
 
 #. Key:	C45BFAF14EABF8D1BD3502825C5C1560
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
@@ -5499,7 +5499,7 @@ msgstr "いいよ！ アナタがイキそうなのを感じる……すべて�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(12).Lines
 msgctxt ",C720F2B64D81061E9D1CC7A3ACD4F0BB"
 msgid "Beware, some blessed ones might succumb to their desires and surprise you if you get close!"
-msgstr "でも気をつけてね。祝福された@MONSTER_RACE@の中には欲望に負けて、近づいたアナタを襲うやつもいるかもしれない！"
+msgstr "でも気をつけてね。祝福された @MONSTER_RACE@ の中には欲望に負けて、近づいたアナタを襲うやつもいるかもしれない！"
 
 #. Key:	C73CE27C41A91E73C54B58B65E56049E
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -5597,7 +5597,7 @@ msgstr "当然、彼女が現れるやいなや、ふたりで愛し合った…
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(1).Lines
 msgctxt ",CCFE0CB04C0DD4BC550FE6AF03BFABB3"
 msgid "Elves are part of the Sylvan race, a large @MONSTER_RACE@ family that spans all sorts! There's lots of different types of elves, but my kind are the cutest I think!"
-msgstr "エルフはシルヴァンの一種。シルヴァンは多くの種を含む、@MONSTER_RACE@の分類上の大きな科よ！エルフにも多くの違ったタイプがあるけど、ワタシの仲間が一番カワイイと思う！"
+msgstr "エルフはシルヴァンの一種。シルヴァンは多くの種を含む、@MONSTER_RACE@ の分類上の大きな科よ！エルフにも多くの違ったタイプがあるけど、ワタシの仲間が一番カワイイと思う！"
 
 #. Key:	CD24CE384C0548CF493A43A0F88CB7A2
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(0).LinesToMale
@@ -5611,7 +5611,7 @@ msgstr "存分に愉しむのです、人間よ。我、汝のしもべである
 #: /Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.Description
 msgctxt ",CD8C53FE4EAFB9508679088ACC31A4CD"
 msgid "The receiver bounces up and down while facing the giver."
-msgstr "受け手が、攻め手と向き合いながら、上下に動く。"
+msgstr "受け手が、攻め手と向き合いながら上下に動く。"
 
 #. Key:	CE27DDF94397A475B6331E9CAF6EB7C5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(3).LinesToMale
@@ -5625,7 +5625,7 @@ msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(23).LinesToFuta
 msgctxt ",CE3354BC4C98FE63B630758F10560253"
 msgid "Blessed @MONSTER_RACE@ like me have human-level intelligence. Sometimes even greater!"
-msgstr "ワタシのような祝福された@MONSTER_RACE@は、人間並みの知能を持っている。もっと賢いこともあるの！"
+msgstr "ワタシのような祝福された @MONSTER_RACE@ は、人間並みの知能を持っている。もっと賢いこともあるの！"
 
 #. Key:	CE3738E344825C4371847CB9F0E4445E
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_WhatCanBuild.Default__CassieDefault01_WhatCanBuild_C.SessionData.Lines(0).Lines
@@ -5695,14 +5695,14 @@ msgstr "官能の台地"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
-msgstr "ノーマル: 身長およそ1.8m。"
+msgstr "ノーマル（N）: 身長およそ 1.8 m。"
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
-msgstr "ハイブリッド: この個体は、2つの種族の交雑種です。"
+msgstr "ハイブリッド: この個体は、2 つの種族の交雑種です。"
 
 #. Key:	D168672B4C5B79B56A15E097C9217EBC
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R01.Default__FernDefault01_R01_C.SessionData.Lines(0).Lines
@@ -5723,7 +5723,7 @@ msgstr "ワタシも今まさに、その衝動と戦ってるの……"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(1).Lines
 msgctxt ",D1984E71418CEF4F3D39AC911B217790"
 msgid "Many aquatic @MONSTER_RACE@ inhabit our fair kingdom, but only Krakens have the might and will to rule."
-msgstr "多くの水棲@MONSTER_RACE@が、我らの清らかな王国に住んでいる。だが、クラーケンのみが、国を統治する力と意志を持つのだ。"
+msgstr "多くの水棲 @MONSTER_RACE@ が、我らの清らかな王国に住んでいる。だが、クラーケンのみが、国を統治する力と意志を持つのだ。"
 
 #. Key:	D1FC026043E82386A07099A46452AB0F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(13).Lines
@@ -5765,7 +5765,7 @@ msgstr "女神は彼女に微笑みかけ、彼女は女大祭司としてあり
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(18).LinesToFemale
 msgctxt ",D3E9009E43E0327FC24371950104BD21"
 msgid "*Sigh* As you can tell, we @MONSTER_RACE@ have extremely intense sexual desires."
-msgstr "（ため息）見てのとおり、ワタシたち@MONSTER_RACE@は、極めて激しい性的欲望を持ってるの。"
+msgstr "（ため息）見てのとおり、ワタシたち @MONSTER_RACE@ は、極めて激しい性的欲望を持ってるの。"
 
 #. Key:	D3EBB7904D4648D8930D5B98189AC73D
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Hybrid/Harvest/HybridHarvest.Default__HybridHarvest_C.Harvest.RaceName
@@ -5870,14 +5870,14 @@ msgstr "ワタシたちは人間が大好き、だってアナタたちは特別
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(0).Lines
 msgctxt ",D5F4BFF649C93B213245C0958C664D40"
 msgid "There are an infinite number of @MONSTER_RACE@ souls waiting in the Void to be born into this world."
-msgstr "数え切れぬ@MONSTER_RACE@の魂が虚空の中で、この世界に産まれ落ちるのを待っておる。"
+msgstr "数え切れぬ @MONSTER_RACE@ の魂が虚空の中で、この世界に産まれ落ちるのを待っておる。"
 
 #. Key:	D60B38ED43ABAC98BCB33FBB4B3477F4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",D60B38ED43ABAC98BCB33FBB4B3477F4"
 msgid "And I'm one of them! A blessed female Painted Elf to be exact!"
-msgstr "そしてワタシもその1人！ 厳密にいえば、祝福された女ペインテッド・エルフ！"
+msgstr "そしてワタシもそのひとり！ 厳密にいえば、祝福された女ペインテッド・エルフ！"
 
 #. Key:	D681E76840B85B19D8C08BBCF50268C8
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -5898,7 +5898,7 @@ msgstr "わたしの身体は、あなたの滋味あふれる母乳を待ちわ
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D7CBF3A849F90F40A1E899A00B974FBA"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "さて、@WORLD_NAME@には私が這ったことのない場所はありません。"
+msgstr "さて、@WORLD_NAME@ には私が這ったことのない場所はありません。"
 
 #. Key:	D7CD27D2485A136014BAEDA62F225167
 #. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.Description
@@ -5961,7 +5961,7 @@ msgstr "それ、本当にそっちの意味で言ってたりしますか？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(5).Lines
 msgctxt ",D9E7689541319CEB860F4A99964E97FE"
 msgid "Wild @MONSTER_RACE@ may be dumb, but they need love too!"
-msgstr "野性の@MONSTER_RACE@は言葉を知らないかもしれない、でも彼らも愛を欲しがってる！"
+msgstr "野性の @MONSTER_RACE@ は言葉を知らないかもしれない、でも彼らも愛を欲しがってる！"
 
 #. Key:	D9F77A0E43A8B000912D6AB5C30FD924
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -6003,14 +6003,14 @@ msgstr "精液飲んでいいよ！"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(6).Lines
 msgctxt ",DAC926244203A48C0547B89807D93FA8"
 msgid "@MONSTER_RACE@ on the other hand reproduce almost instantly."
-msgstr "一方で@MONSTER_RACE@は、ほとんどあっという間に生殖するの。"
+msgstr "一方で @MONSTER_RACE@ は、ほとんどあっという間に生殖するの。"
 
 #. Key:	DB00D91D4420A5D9D4F3FBB7DD1AC099
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",DB00D91D4420A5D9D4F3FBB7DD1AC099"
 msgid "I can help you harvest fluids from wild @MONSTER_RACE@."
-msgstr "わたしは、あなたが野性の@MONSTER_RACE@から液体を採取するのを、支援できます。"
+msgstr "わたしは、あなたが野性の @MONSTER_RACE@ から液体を採取するのを、支援できます。"
 
 #. Key:	DB15AC1342DDCD7D060351944CB369E4
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(2).Lines
@@ -6094,14 +6094,14 @@ msgstr "巨乳"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",DCBFA42D4FD9520CA7F586A84DCF3921"
 msgid "Make love with me @BREEDER_NAME@, let us writhe in pleasure before Her gaze."
-msgstr "わらわと愛し合おうぞ@BREEDER_NAME@、女神の御前で、快楽によがり狂おうではないか。"
+msgstr "わらわと愛し合おうぞ @BREEDER_NAME@、女神の御前で、快楽によがり狂おうではないか。"
 
 #. Key:	DCFCF2FF45351BEF9BAEACA9BE408F9A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(13).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(13).Lines
 msgctxt ",DCFCF2FF45351BEF9BAEACA9BE408F9A"
 msgid "If the wild @MONSTER_RACE@ loses interest in you, its low attention span will kick in and it will wander off."
-msgstr "追いかけてきた野性の@MONSTER_RACE@がアナタへの興味をなくすと、彼らの飽きっぽさが作用してどこかへ行ってしまうわ。"
+msgstr "追いかけてきた野性の @MONSTER_RACE@ がアナタへの興味をなくすと、彼らの飽きっぽさが作用してどこかへ行ってしまうわ。"
 
 #. Key:	DD3959194243B910FF07BC8D7CA651AB
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(0).Lines
@@ -6129,7 +6129,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",DDC7B99042CEA89C790895990EB876BE"
 msgid "Most @MONSTER_RACE@ are wild, that is they roam by instict and are as animals."
-msgstr "ほとんどの@MONSTER_RACE@は野性、つまり本能によってうろついて、動物のよう。"
+msgstr "ほとんどの @MONSTER_RACE@ は野性、つまり本能によってうろついて、動物のよう。"
 
 #. Key:	DDC88AD7412D1B9E7696ED8213C21E27
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(3).Lines
@@ -6248,7 +6248,7 @@ msgstr "……"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",E1AA64794D412D85279E1C928CB75EFF"
 msgid "What are wild @MONSTER_RACE@?"
-msgstr "野性の@MONSTER_RACE@って？"
+msgstr "野性の @MONSTER_RACE@ って？"
 
 #. Key:	E1E308E24203BE20934F4FBC8BEC61C7
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -6290,7 +6290,7 @@ msgstr "……"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(0).Lines
 msgctxt ",E267B04149B1C5C63B246BB9B347927F"
 msgid "Oh she did, did she? Hmph. Well then. The first thing you need to do is find Cassie and contract her to build enclosures for @MONSTER_RACE@. She should be pretty easy to find - she's the Neko that wears a 'tool belt' and not much else."
-msgstr "あっ、彼女が言ったんですか、言ったんですね？ ふむ。それでは。アナタが最初にすべきなのは、キャシーを探して@MONSTER_RACE@の小屋を注文することです。キャシーは簡単に見つかるはずです――彼女はネコで、“道具ベルト”を付けていますが、あとはほとんど何も着てません。"
+msgstr "あっ、彼女が言ったんですか、言ったんですね？ ふむ。それでは。アナタが最初にすべきなのは、キャシーを探して @MONSTER_RACE@ の小屋を注文することです。キャシーは簡単に見つかるはずです――彼女はネコで、“道具ベルト”を付けていますが、あとはほとんど何も着てません。"
 
 #. Key:	E27A479A496E7D5504357E85E45466FC
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(0).Lines
@@ -6374,7 +6374,7 @@ msgstr "我らの愛によってのみ、そなたは女神の寵愛を受け、
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Accept.Default__EmissaryRaiseTraitLvl_Accept_C.SessionData.Lines(0).Lines
 msgctxt ",E63E125C4A07D646D1BFD48E816B5B37"
 msgid "A wise choice human, for the Goddess has further endowed wild @MONSTER_RACE@."
-msgstr "賢き選択なり、人間よ。女神は更に多くのものを、野性のネフェリムに授けました。"
+msgstr "賢き選択なり、人間よ。女神は更に多くのものを、野性の @MONSTER_RACE@ に授けました。"
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
@@ -6388,7 +6388,7 @@ msgstr "非標準体型"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(2).Lines
 msgctxt ",E6AE999D442B37DD898ED3B14ADA261A"
 msgid "Wild elves aren't as common as other @MONSTER_RACE@, Painted Elves even less so."
-msgstr "野性のエルフは他の@MONSTER_RACE@ほどありふれてはいない、ペインテッド・エルフはさらに少ないの。"
+msgstr "野性のエルフは他の @MONSTER_RACE@ ほどありふれてはいない、ペインテッド・エルフはさらに少ないの。"
 
 #. Key:	E6EFAF84489D0FE3730843AEC3483A12
 #. SourceLocation:	/Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.DisplayName
@@ -6437,7 +6437,7 @@ msgstr "ドラゴンを管理する"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
 msgctxt ",E9306878425673698C22F9AA8CD2A8CC"
 msgid "We love to breed with all other @MONSTER_RACE@."
-msgstr "ワタシたちはあらゆる@MONSTER_RACE@と交配するのが大好き。"
+msgstr "ワタシたちはあらゆる @MONSTER_RACE@ と交配するのが大好き。"
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
@@ -6584,7 +6584,7 @@ msgstr "誘惑者: 魅力によって、交配時の経験値が一定の割合�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",F010E1B74164FC7DBBA07E8F73124FEF"
 msgid "What does the Goddess do with my @MONSTER_RACE@?"
-msgstr "女神は@MONSTER_RACE@をどうするの？"
+msgstr "女神は @MONSTER_RACE@ をどうするの？"
 
 #. Key:	F018F7BF46C60F9708C3828E74D271BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(10).Lines
@@ -6619,7 +6619,7 @@ msgstr "1秒ごとにどんどん濡れていく……"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",F12F82174560F4F28E10D3A06B282D0A"
 msgid "Different @MONSTER_RACE@ can be found in various places but they're generally around the Avatars of the Goddess. That's what those statues floating in the sky are called."
-msgstr "様々な@MONSTER_RACE@が各地で見つけられますが、彼らは通常、女神の化身像の周辺にいます。それが、空に浮かんでいるあれらの像の呼び名です。"
+msgstr "様々な @MONSTER_RACE@ が各地で見つけられますが、彼らは通常、女神の化身像の周辺にいます。それが、空に浮かんでいるあれらの像の呼び名です。"
 
 #. Key:	F13E7CAC4E86FD0C4B9F639D0F536883
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(0).LinesToMale
@@ -6640,7 +6640,7 @@ msgstr "そうだ、おぉぉ……貴方の種をすべて渡すのだ。はぁ
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
-msgstr "スモール: 身長およそ1.5m。"
+msgstr "スモール（S）: 身長およそ 1.5 m。"
 
 #. Key:	F1EF1BEA4E4AF008C65539ADC6740F61
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
@@ -6654,7 +6654,7 @@ msgstr "なんでご主人って呼んだの？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",F20F724C47A982D41C8EE29F4756992A"
 msgid "So @MONSTER_RACE@ are really horny..."
-msgstr "じゃあ@MONSTER_RACE@ってすごくいやらしいんだ……"
+msgstr "じゃあ @MONSTER_RACE@ ってすごくいやらしいんだ……"
 
 #. Key:	F267FA90451165F036048A9D768C4718
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(8).Lines
@@ -6675,7 +6675,7 @@ msgstr "ブロッサム、ごしゅずんをたしゅける！ ブロッサム�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(10).Lines
 msgctxt ",F39F0EAF49B80BDC208978900604CC74"
 msgid "But be warned, wild @MONSTER_RACE@ have no control over their desires and will surprise you with sex!"
-msgstr "けど注意すること。野性の@MONSTER_RACE@はその欲望を制御することができないから、アナタにいきなり手を出してセックスするわ！"
+msgstr "けど注意すること。野性の @MONSTER_RACE@ はその欲望を制御することができないから、アナタにいきなり手を出してセックスするわ！"
 
 #. Key:	F3F4124041D97034B836478BD7FE0BF9
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.Description
@@ -6759,14 +6759,14 @@ msgstr "（喘ぎ声）"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(20).LinesToMale
 msgctxt ",F75595714B06DF676D20B5B79FB8C222"
 msgid "Since you're a breeder, it's your job to catch and mate as many @MONSTER_RACE@ as possible!"
-msgstr "なぜならアナタはブリーダーで、アナタのお仕事は@MONSTER_RACE@を可能な限り捕まえて交尾させることだから！"
+msgstr "なぜならアナタはブリーダーで、アナタのお仕事は @MONSTER_RACE@ を可能な限り捕まえて交尾させることだから！"
 
 #. Key:	F79308E4449E12AB211CF78CC8200DA9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(21).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(21).LinesToMale
 msgctxt ",F79308E4449E12AB211CF78CC8200DA9"
 msgid "@MONSTER_RACE@ you catch won't be blessed like me!"
-msgstr "アナタが捕まえる@MONSTER_RACE@は、ワタシのように祝福されてはいないわ！"
+msgstr "アナタが捕まえる @MONSTER_RACE@ は、ワタシのように祝福されてはいないわ！"
 
 #. Key:	F7A6401147093A75B20588870BFA39C7
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -6815,7 +6815,7 @@ msgstr "ごしゅずん？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(17).Lines
 msgctxt ",F9C66FA74BAA102FE1238A952823D3D9"
 msgid "I wish I could remember my own birth and childhood, it would make this a lot easier. Hell, I wish I could remember how I got here, some 300 years ago. Hehe I lost count."
-msgstr "ワタシが生まれたときのこと、子供のころのことを思い出せたらなぁ。そしたら、この話はもっと簡単になるのに。あーあ、どうやってここへ来たのか思い出せたら。300年ぐらい前になるのかな。へへ、年数をかぞえきれなくなっちゃって。"
+msgstr "ワタシが生まれたときのこと、子供のころのことを思い出せたらなぁ。そしたら、この話はもっと簡単になるのに。あーあ、どうやってここへ来たのか思い出せたら。300 年ぐらい前になるのかな。へへ、年数をかぞえきれなくなっちゃって。"
 
 #. Key:	F9EF68BC4CE831DD669546BF6213C846
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartButterButt.Default__CassieDefault01_Meow_StartButterButt_C.SessionData.Lines(0).Lines
@@ -6836,7 +6836,7 @@ msgstr "巨尻"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
-msgstr "不潔: 交配相手が20%の確率で汚れ、魅力が50%低下する。"
+msgstr "不潔: 交配相手が 20% の確率で汚れ、魅力が 50% 低下する。"
 
 #. Key:	FA2C70284FBA2B074235FD87FF6B8D64
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(1).Lines
@@ -6913,7 +6913,7 @@ msgstr "妊娠はアナタが考えているようなものじゃないわ！"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(5).Lines
 msgctxt ",FBB64BA447C689B390DF64875A9061E9"
 msgid "Despite over 4,000 years traversing the Void, I have yet to find our fabled birthplace."
-msgstr "4,000年以上にわたる虚空についての考察にもかかわらず、伝説として語り継がれる我々の出生地を、私はまだ発見していないのです。"
+msgstr "4,000 年以上にわたる虚空についての考察にもかかわらず、伝説として語り継がれる我々の出生地を、私はまだ発見していないのです。"
 
 #. Key:	FC2E4BC244CE7A4471B402A207DCB5C4
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -7018,7 +7018,7 @@ msgstr "うぅぅぅ、人の子よ、いいぞ……私の柔らかく肉付い
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 msgctxt ",FEEAD6AA4B91EE463E366FBDCB397167"
 msgid "Even a drylander such as yourself can probably guess what purpose my two front tentacles serve."
-msgstr "貴方のような乾いた地の民でも、私の前面にある2本の触腕がどういう目的で使われるのか、きっと察しがつくだろう。"
+msgstr "貴方のような乾いた地の民でも、私の前面にある 2 本の触腕がどういう目的で使われるのか、きっと察しがつくだろう。"
 
 #. Key:	FF0D5A0E4AD29A5B9CCF59942CB94FFA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(0).Lines
@@ -7081,14 +7081,14 @@ msgstr "スピリットが足りない。"
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:328
 msgctxt "ASexyBreedingSystem,IncestMessage"
 msgid "This might not turn out well..."
-msgstr ""
+msgstr "これは良い結果にはならないでしょう……"
 
 #. Key:	ReleasedOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:447
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:447
 msgctxt "ASexyBreedingSystem,ReleasedOffspring"
 msgid "Released offspring into the wild."
-msgstr ""
+msgstr "子を野に放った。"
 
 #. Key:	BadSettingsMessage
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:1225
@@ -7102,35 +7102,35 @@ msgstr "メスの人間的及びエキゾチックな派生種の両方が無効
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2042
 msgctxt "ASexyCharacterSystem,SpiritForm"
 msgid "Spirit form has been saved."
-msgstr ""
+msgstr "スピリット・フォームはセーブされた。"
 
 #. Key:	NoFuta
 #. SourceLocation:	Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
 #: Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
 msgctxt "ASexyDialogueSystem,NoFuta"
 msgid "Futa is disabled."
-msgstr "ふたなりが無効になりました。"
+msgstr "ふたなりが無効になった。"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Game/SexyGameMode.cpp:329
 #: Source/Radiant/Public/Game/SexyGameMode.cpp:329
 msgctxt "ASexyGameMode,SpiritForm"
 msgid "Spirit form has been unlocked."
-msgstr ""
+msgstr "スピリット・フォームが解放された。"
 
 #. Key:	MoreFavor
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:415
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:415
 msgctxt "ASexyMerchantSystem,MoreFavor"
 msgid "Favor from the Goddess is required."
-msgstr ""
+msgstr "女神の御恵みが必要です。"
 
 #. Key:	MoreLust
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:406
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:406
 msgctxt "ASexyMerchantSystem,MoreLust"
 msgid "Lust is required."
-msgstr ""
+msgstr "性欲が必要です。"
 
 #. Key:	FernThanks
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:972
@@ -7144,14 +7144,14 @@ msgstr "ファーンがピカピカを 150 くれた。"
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1005
 msgctxt "ASexyMonsterSystem,LearnedPosition"
 msgid "New sex position learned."
-msgstr ""
+msgstr "新たな体位を学んだ。"
 
 #. Key:	NoFutaScene
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1108
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1108
 msgctxt "ASexyMonsterSystem,NoFutaScene"
 msgid "Futa scene skipped, sex postion learned."
-msgstr ""
+msgstr "ふたなりのシーンをスキップし、体位を学んだ。"
 
 #. Key:	Breaks
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:191
@@ -7249,7 +7249,7 @@ msgstr "肉欲の砂漠"
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:649
 msgctxt "ASexyRoamingSystem,BoringCum"
 msgid "She wanted more..."
-msgstr "彼女はもっと欲しがっている……"
+msgstr "彼女はもっと欲しがった……"
 
 #. Key:	CatchSuccess
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:823
@@ -7263,7 +7263,7 @@ msgstr "野生のネフェリムを捕まえた。"
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:645
 msgctxt "ASexyRoamingSystem,LikedCum"
 msgid "She loves how you taste!"
-msgstr ""
+msgstr "彼女はあなたの味わいがお気に入りだ！"
 
 #. Key:	RBJStart
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:591
@@ -7298,7 +7298,7 @@ msgstr "あなたは、すでにそこに居ます。"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:200
 msgctxt "ASexyWorldSystem,TaskRefresh"
 msgid "New breeding requests have arrived."
-msgstr ""
+msgstr "新しい交配依頼が届いています。"
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:157
@@ -7319,7 +7319,7 @@ msgstr "説明"
 #: Source/Radiant/Public/UI/Components/SexyBarnActionDetails.cpp:33
 msgctxt "BarnActionDetails,HarvestDesc"
 msgid "Select an action and then press Start."
-msgstr ""
+msgstr "行動を選択し、スタートをクリックしてください。"
 
 #. Key:	NewOffspring
 #. SourceLocation:	Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:134
@@ -7347,14 +7347,14 @@ msgstr "スキップ"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:101
 msgctxt "BreedingSession,BreedButtonTooltip"
 msgid "Skip the rest of the scene, offspring may still be produced."
-msgstr "残りのシーンをスキップする。その場合も、子供が産まれる可能性はある。"
+msgstr "残りのシーンをスキップする。その場合も、交配で子供が産まれる可能性はある。"
 
 #. Key:	DebugTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:186
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:186
 msgctxt "BreedingSession,DebugTitle"
 msgid "Debug"
-msgstr ""
+msgstr "デバッグ"
 
 #. Key:	IKBelly
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:369
@@ -7466,35 +7466,35 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:438
 msgctxt "BreedingSession,Prop"
 msgid "Prop"
-msgstr ""
+msgstr "小道具"
 
 #. Key:	SaveGiverTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:179
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:179
 msgctxt "BreedingSession,SaveGiverTitle"
 msgid "Save Giver"
-msgstr ""
+msgstr "攻め手のセーブ"
 
 #. Key:	SaveReceiverTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:193
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:193
 msgctxt "BreedingSession,SaveReceiverTitle"
 msgid "Save Receiver"
-msgstr ""
+msgstr "受け手のセーブ"
 
 #. Key:	SemenPool
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:450
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:450
 msgctxt "BreedingSession,SemenPool"
 msgid "Semen Pool"
-msgstr ""
+msgstr "精液プール"
 
 #. Key:	SkipButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:109
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:109
 msgctxt "BreedingSession,SkipButtonTooltip"
 msgid "Proceed to the next phase of this scene."
-msgstr ""
+msgstr "このシーンの次の段階へ進む。"
 
 #. Key:	SpeedTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:31
@@ -7515,7 +7515,7 @@ msgstr "開始"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:64
 msgctxt "BreedingSetup,BreedButtonTooltip"
 msgid "Start a breeding scene with the currently selected mates and options."
-msgstr ""
+msgstr "現在選択されているつがいとオプションで、交配シーンを開始する。"
 
 #. Key:	GiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:72
@@ -7536,7 +7536,7 @@ msgstr "クイック"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:56
 msgctxt "BreedingSetup,QuickButtonTooltip"
 msgid "Breed this pair without starting a scene."
-msgstr ""
+msgstr "交配シーンを流さずに、この組み合わせで交配する。"
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:128
@@ -7550,7 +7550,7 @@ msgstr "受け手の選択"
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:175
 msgctxt "BreedingSystem,ImpossibleCombo"
 msgid "Impossible breeding combination."
-msgstr ""
+msgstr "不可能な交配の組み合わせです。"
 
 #. Key:	NoFemaleGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:171
@@ -7578,7 +7578,7 @@ msgstr "受け手は女性かふたなりである必要があります。"
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
 msgctxt "BreedingSystem,NoOffspring"
 msgid "No offspring this time..."
-msgstr ""
+msgstr "今回は子ができなかった……"
 
 #. Key:	NoReceiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:163
@@ -7592,7 +7592,7 @@ msgstr "受け手を選択してください。"
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:591
 msgctxt "BreedingSystem,NoRoomOffspring"
 msgid "Not enough space for offspring, it was released into the wild."
-msgstr ""
+msgstr "十分なスペースがないため、子は野に放たれました。"
 
 #. Key:	NoSexPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
@@ -7746,7 +7746,7 @@ msgstr "妊娠"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
 msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "子の召喚までの進行度。\n妊娠中、ミルクの生産量は2倍になる。"
+msgstr "子の召喚までの進行度。\n妊娠中、ミルクの生産量は 2 倍になる。"
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -7872,7 +7872,7 @@ msgstr "次のレベルまでの進行度。"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
 msgctxt "CharacterEditor,AdditionalMaterial"
 msgid "Additional Material"
-msgstr ""
+msgstr "追加マテリアル"
 
 #. Key:	AmbientEffects
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:487
@@ -7977,7 +7977,7 @@ msgstr "キャンセル"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 msgctxt "CharacterEditor,ChangeSexTooltip"
 msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
-msgstr "このキャラクターの性別を変更する。\n警告: 現在のキャラクターの外観を上書きします。"
+msgstr "このキャラクターの性別を変更する。\n警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
@@ -7991,7 +7991,7 @@ msgstr "現在のポーズを変更する。"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:311
 msgctxt "CharacterEditor,ChooseTraitTooltip"
 msgid "Preview an appearance altering trait."
-msgstr ""
+msgstr "特性を変更した姿をプレビューする。"
 
 #. Key:	CopyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:216
@@ -8012,7 +8012,7 @@ msgstr "細部"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 msgctxt "CharacterEditor,ExoticTooltip"
 msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr ""
+msgstr "このキャラクターに「エキゾチック」の特性を（存在すれば）与え、獣人の姿にする。\n警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	EyebrowMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:404
@@ -8096,28 +8096,28 @@ msgstr "髪"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 msgctxt "CharacterEditor,HominalTooltip"
 msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr ""
+msgstr "このキャラクターに「人間的」の特性を（存在すれば）与え、人間的な姿にする。\n警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:98
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:98
 msgctxt "CharacterEditor,LeaveButton"
 msgid "Leave"
-msgstr ""
+msgstr "やめる"
 
 #. Key:	LeaveButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:99
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:99
 msgctxt "CharacterEditor,LeaveButtonTooltip"
 msgid "Stop editing your spirit form."
-msgstr ""
+msgstr "スピリット・フォームの編集をやめる。"
 
 #. Key:	LoadUsrPresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
 msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
-msgstr "セーブしたプリセットをロードする。\n警告: 現在のキャラクターの外観を上書きします。"
+msgstr "セーブしたプリセットをロードする。\n警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:366
@@ -8152,14 +8152,14 @@ msgstr "爪"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:81
 msgctxt "CharacterEditor,NextButton"
 msgid "Next"
-msgstr ""
+msgstr "次へ"
 
 #. Key:	NextButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:82
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:82
 msgctxt "CharacterEditor,NextButtonTooltip"
 msgid "Continue to the next screen."
-msgstr ""
+msgstr "次の画面に進む。"
 
 #. Key:	NippleMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:409
@@ -8173,21 +8173,21 @@ msgstr "乳首"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
 msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
-msgstr "クリップボードから貼り付ける。\n警告: 現在のキャラクターの外観を上書きします。また、派生種が違う場合、ひどい見た目になるかもしれません。"
+msgstr "クリップボードから貼り付ける。\n警告: 現在のキャラクターの姿を上書きします。また、派生種が違う場合、ひどい見た目になるかもしれません。"
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
 msgctxt "CharacterEditor,PresetNameTitle"
 msgid "Save Preset"
-msgstr ""
+msgstr "プリセットのセーブ"
 
 #. Key:	RandomBodyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:186
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:186
 msgctxt "CharacterEditor,RandomBodyTooltip"
 msgid "Generate a random body shape for this variant."
-msgstr ""
+msgstr "この派生でランダムに体形を生成する。"
 
 #. Key:	RenameTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:325
@@ -8201,21 +8201,21 @@ msgstr "キャラクターの名前を変える。"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:529
 msgctxt "CharacterEditor,SaveButton"
 msgid "Save"
-msgstr ""
+msgstr "セーブ"
 
 #. Key:	SavePresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:196
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:196
 msgctxt "CharacterEditor,SavePresetTooltip"
 msgid "Save current appearance as a preset."
-msgstr ""
+msgstr "現在の姿をプリセットとしてセーブする。"
 
 #. Key:	SaveSpiritTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:118
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:118
 msgctxt "CharacterEditor,SaveSpiritTooltip"
 msgid "Save this as your spirit form."
-msgstr ""
+msgstr "この姿をスピリット・フォームとしてセーブする。"
 
 #. Key:	ShapeWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:336
@@ -8243,7 +8243,7 @@ msgstr "下着以外のすべての衣服のオン/オフを切り替える。"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:165
 msgctxt "CharacterEditor,ToggleLinkedMode"
 msgid "Toggle linking of similar or mirrored values."
-msgstr ""
+msgstr "類似する、もしくは反対側にあたる数値の同期機能をオン/オフする。"
 
 #. Key:	ToggleUnderwearTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:285
@@ -8278,7 +8278,7 @@ msgstr "トップス"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 msgctxt "CharacterEditor,VariantTooltip"
 msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
-msgstr ""
+msgstr "このキャラクターの派生種を変更する。\n警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	ErrorSavingPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2428
@@ -8341,14 +8341,14 @@ msgstr "ゲームを終了しますか？"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:107
 msgctxt "ConfirmationBox,FulfillConfirm"
 msgid "The selected Nephelym will be given away."
-msgstr ""
+msgstr "選択したネフェリムを譲り渡します。"
 
 #. Key:	FulfillConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:106
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:106
 msgctxt "ConfirmationBox,FulfillConfirmTitle"
 msgid "Fulfill Task?"
-msgstr ""
+msgstr "依頼を達成しますか？"
 
 #. Key:	NewGameConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:83
@@ -8369,7 +8369,7 @@ msgstr "新しいゲームを始めますか？"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:87
 msgctxt "ConfirmationBox,OverwriteGameConfirm"
 msgid "This will permanently overwrite the data in this slot."
-msgstr ""
+msgstr "このスロットのデータを完全に上書きします。"
 
 #. Key:	OverwriteGameConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:86
@@ -8383,14 +8383,14 @@ msgstr "セーブデータを上書きしますか？"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:103
 msgctxt "ConfirmationBox,ReleaseConfirm"
 msgid "It will permanently leave your ranch and frolic once more."
-msgstr ""
+msgstr "このネフェリムはあなたの牧場から永遠に去り、野で再びはしゃぎ回ります。"
 
 #. Key:	ReleaseConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 msgctxt "ConfirmationBox,ReleaseConfirmTitle"
 msgid "Release this Nephelym?"
-msgstr ""
+msgstr "このネフェリムを放しますか？"
 
 #. Key:	ReturnMainConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:95
@@ -8411,7 +8411,7 @@ msgstr "メインメニューに戻りますか？"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:91
 msgctxt "ConfirmationBox,SleepConfirm"
 msgid "Sleep for the rest of the day and awake with new-found lust."
-msgstr "今日の残りは寝て過ごし、新たに滾った性欲とともに起きます。"
+msgstr "今日の残りは眠って過ごし、新たに滾った性欲とともに起床します。"
 
 #. Key:	SleepConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:90
@@ -8432,7 +8432,7 @@ msgstr "確認"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:899
 msgctxt "ConfirmTradeBox,BatheMonsterMessage"
 msgid "Bathing will remove the grungy trait."
-msgstr ""
+msgstr "入浴で「不潔」の特性を取り除きます。"
 
 #. Key:	BuyUpgradeMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:890
@@ -8460,7 +8460,7 @@ msgstr "決定"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:556
 msgctxt "ConfirmTradeBox,FinalPrice"
 msgid "Final Price:"
-msgstr ""
+msgstr "最終価格:"
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyDialogueMenu.cpp:62
@@ -8481,7 +8481,7 @@ msgstr "スキップ"
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:116
 msgctxt "GameOverlay,ExitButton"
 msgid "Exit"
-msgstr ""
+msgstr "終了"
 
 #. Key:	LoadButton
 #. SourceLocation:	Source/Radiant/Public/UI/SexyGameOverlay.cpp:95
@@ -8523,7 +8523,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyHarvestContainerGrid.cpp:25
 msgctxt "HarvestGrid,NotInterested"
 msgid "This merchant does not deal in petty fluids."
-msgstr ""
+msgstr "店主はわずかな量の液体では取引きしません。"
 
 #. Key:	BuyMilkTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:421
@@ -8607,14 +8607,14 @@ msgstr "118 ml"
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:417
 msgctxt "HarvestWidget,UseMilkTooltip"
 msgid "Use 15 ml of milk in attempt to stimulate this wild Nephelym."
-msgstr ""
+msgstr "ミルクを 15 ml 使用して、この野性のネフェリムがその気になるよう試みる。"
 
 #. Key:	UseSemenTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:402
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:402
 msgctxt "HarvestWidget,UseSemenTooltip"
 msgid "Use 5 ml of semen in attempt to stimulate this wild Nephelym."
-msgstr ""
+msgstr "精液を 5 ml 使用して、この野性のネフェリムがその気になるよう試みる。"
 
 #. Key:	P
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:138
@@ -8796,7 +8796,7 @@ msgstr "このアイテムを使用した場合、意志力はこの修正値で
 #: Source/Radiant/Public/Items/SexyItemSystem.cpp:161
 msgctxt "ItemSystem,NotEnoughFluid"
 msgid "Not enough fluid."
-msgstr ""
+msgstr "液体が足りない。"
 
 #. Key:	Action
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:175
@@ -8838,7 +8838,7 @@ msgstr "ジャンプ"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:161
 msgctxt "Keybinds,Look"
 msgid "Camera Look"
-msgstr ""
+msgstr "カメラのルック"
 
 #. Key:	MoveBackward
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
@@ -8887,14 +8887,14 @@ msgstr "回転"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:147
 msgctxt "Keybinds,SingleTapDodge"
 msgid "One Tap Dodge"
-msgstr ""
+msgstr "ワンタップ回避"
 
 #. Key:	Slide
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:144
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:144
 msgctxt "Keybinds,Slide"
 msgid "Slide"
-msgstr ""
+msgstr "スライド"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:189
@@ -8950,7 +8950,7 @@ msgstr "下着のオン/オフ"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:157
 msgctxt "Keybinds,Turn"
 msgid "Camera Turn"
-msgstr ""
+msgstr "カメラのターン"
 
 #. Key:	UtilityMenu
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
@@ -8971,7 +8971,7 @@ msgstr "歩く"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:165
 msgctxt "Keybinds,Zoom"
 msgid "Camera Zoom"
-msgstr "カメラをズームする"
+msgstr "カメラのズーム"
 
 #. Key:	EmptySave
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyListedResource.cpp:171
@@ -9006,7 +9006,7 @@ msgstr "ゲームを読み込む"
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 msgctxt "MainMenu,Message"
 msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
-msgstr "このゲームは DerelictHelmsman 個人 によって制作・管理されています。\n検閲およびデジタル著作権管理（DRM）が履行されることは決してありません。あなたがこのゲームを楽しむなら、これを尊重してください。\nすべての私の支援者に、心からお礼申し上げます。あなたがたのサポートには、深く感謝致します。"
+msgstr "このゲームは DerelictHelmsman 個人 によって制作・管理されています。\n検閲およびデジタル著作権管理（DRM）が履行されることは決してありません。あなたがこのゲームを楽しむなら、これを尊重してください。\nすべての私の支援者に、心から御礼申し上げます。あなたがたのサポートには、深く感謝致します。"
 
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
@@ -9034,28 +9034,28 @@ msgstr "開始"
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:52
 msgctxt "ManageMonster,ActionTooltip"
 msgid "Perform the selected action, starting a scene if one exists."
-msgstr ""
+msgstr "選択した行動を行い、採取シーンを（存在すれば）開始する。"
 
 #. Key:	HarvestDev
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:557
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:557
 msgctxt "ManageMonster,HarvestDev"
 msgid "Harvest scene in development."
-msgstr ""
+msgstr "採取シーンは開発中です。"
 
 #. Key:	InvalidAction
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:359
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:359
 msgctxt "ManageMonster,InvalidAction"
 msgid "Select a harvest action."
-msgstr ""
+msgstr "採取行動を選択してください。"
 
 #. Key:	ManageWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:133
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:133
 msgctxt "ManageMonster,ManageWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "行動"
 
 #. Key:	QuickActionButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:44
@@ -9090,35 +9090,35 @@ msgstr "受け手"
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:271
 msgctxt "MerchantSystem,MerchantNoRoomMilk"
 msgid "This merchant cannot carry more of this race's milk."
-msgstr "店主はこの種族のミルクをこれ以上持てない。"
+msgstr "店主はこれ以上、この種族のミルクを持てません。"
 
 #. Key:	MerchantNoRoomSemen
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
 msgctxt "MerchantSystem,MerchantNoRoomSemen"
 msgid "This merchant cannot carry more of this race's semen."
-msgstr "店主はこれ以上、この種族の精液を持てない。"
+msgstr "店主はこれ以上、この種族の精液を持てません。"
 
 #. Key:	NoRoomMilk
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
 msgctxt "MerchantSystem,NoRoomMilk"
 msgid "You cannot carry more of this race's milk."
-msgstr "あなたはこれ以上、この種族のミルクを持てない。"
+msgstr "あなたはこれ以上、この種族のミルクを持てません。"
 
 #. Key:	NoRoomSemen
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
 msgctxt "MerchantSystem,NoRoomSemen"
 msgid "You cannot carry more of this race's semen."
-msgstr "あなたはこれ以上、この種族の精液を持てない。"
+msgstr "あなたはこれ以上、この種族の精液を持てません。"
 
 #. Key:	NewOffspringMessage
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:298
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:298
 msgctxt "MonsterSystem,NewOffspringMessage"
 msgid "New offspring were produced, check your barns."
-msgstr ""
+msgstr "新たな子が産まれました、厩舎を確認してみましょう。"
 
 #. Key:	AcceptButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:41
@@ -9132,14 +9132,14 @@ msgstr "承諾"
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:42
 msgctxt "Offspring,AcceptButtonTitleTooltip"
 msgid "Keep this offspring and add it to your ranch."
-msgstr ""
+msgstr "この子をこのまま、牧場に加える。"
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:50
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:50
 msgctxt "Offspring,ReceiverWindowTitle"
 msgid "Nephelym Offspring"
-msgstr ""
+msgstr "ネフェリムの子"
 
 #. Key:	ReleaseButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:27
@@ -9727,7 +9727,7 @@ msgstr "ウィンドウモード"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:908
 msgctxt "SexyTradeMenu,BuyPositionMessage"
 msgid "You will learn this sex position."
-msgstr ""
+msgstr "この体位を学びます。"
 
 #. Key:	CollapseGStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:121
@@ -9769,21 +9769,21 @@ msgstr "スピリット・フォーム"
 #: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:46
 msgctxt "SSexyCharacterGalleryControls,ExoticTooltip"
 msgid "Give this character its exotic trait if one exists."
-msgstr ""
+msgstr "このキャラクターに「エキゾチック」の特性を（存在すれば）与え、獣人の姿にする。"
 
 #. Key:	HominalTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:35
 #: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:35
 msgctxt "SSexyCharacterGalleryControls,HominalTooltip"
 msgid "Give this character its hominal trait if one exists."
-msgstr ""
+msgstr "このキャラクターに「人間的」の特性を（存在すれば）与え、人間的な姿にする。"
 
 #. Key:	UsrPresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:57
 msgctxt "SSexyCharacterGalleryControls,UsrPresetTooltip"
 msgid "Load a preset for this character."
-msgstr ""
+msgstr "このキャラクターに使用するプリセットをロードする。"
 
 #. Key:	None
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyDropList.cpp:82
@@ -9797,84 +9797,84 @@ msgstr "なし"
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:56
 msgctxt "SSexyGalleryMenu,BackButtonTitle"
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 #. Key:	BackButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:57
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:57
 msgctxt "SSexyGalleryMenu,BackButtonTooltip"
 msgid "Return to the creator."
-msgstr ""
+msgstr "クリエイター・モードに戻る。"
 
 #. Key:	GiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:72
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:72
 msgctxt "SSexyGalleryMenu,GiverWindowTitle"
 msgid "Select Giver"
-msgstr ""
+msgstr "攻め手の選択"
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:107
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:107
 msgctxt "SSexyGalleryMenu,ReceiverWindowTitle"
 msgid "Select Receiver"
-msgstr ""
+msgstr "受け手の選択"
 
 #. Key:	ViewButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:63
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:63
 msgctxt "SSexyGalleryMenu,ViewButtonTitle"
 msgid "View"
-msgstr ""
+msgstr "鑑賞する"
 
 #. Key:	ViewButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:64
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:64
 msgctxt "SSexyGalleryMenu,ViewButtonTooltip"
 msgid "View the sex scene for the currently selected mates and options."
-msgstr ""
+msgstr "現在選択されているつがいとオプションで、セックスシーンを鑑賞する。"
 
 #. Key:	ASOGMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:81
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:81
 msgctxt "SSexyGenericMenu,ASOGMessage"
 msgid "Special thanks to the following people:"
-msgstr ""
+msgstr "下記の人々に、心からの御礼を申し上げる。"
 
 #. Key:	ASOGWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:70
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:70
 msgctxt "SSexyGenericMenu,ASOGWindowTitle"
 msgid "Ancient Stone of Glory"
-msgstr ""
+msgstr "栄誉の古代石"
 
 #. Key:	FulfillButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:139
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:139
 msgctxt "SSexyGenericMenu,FulfillButton"
 msgid "Fulfill"
-msgstr ""
+msgstr "達成する"
 
 #. Key:	FulfillButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:140
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:140
 msgctxt "SSexyGenericMenu,FulfillButtonTooltip"
 msgid "Accept the reward for this task."
-msgstr ""
+msgstr "この依頼の報酬を受け取る。"
 
 #. Key:	TaskMonsterWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:149
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:149
 msgctxt "SSexyGenericMenu,TaskMonsterWindowTitle"
 msgid "Select Nephelym to Fulfill Task"
-msgstr ""
+msgstr "依頼を達成するネフェリムの選択"
 
 #. Key:	TaskWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:98
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:98
 msgctxt "SSexyGenericMenu,TaskWindowTitle"
 msgid "Breeding Tasks"
-msgstr ""
+msgstr "交配の依頼"
 
 #. Key:	TravelWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:55
@@ -9930,7 +9930,7 @@ msgstr "現在の絞り込みをリセットする。"
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:117
 msgctxt "SSexyResourceList,HarvestFilterTooltip"
 msgid "Filter by harvest ability."
-msgstr ""
+msgstr "生産能力で絞り込む。"
 
 #. Key:	RaceFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:75
@@ -10091,7 +10091,7 @@ msgstr "1,000,000 オーガシウム追加された。"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
 msgctxt "SSexySettingsMenu,CheatPortals"
 msgid "All pussy portals activated."
-msgstr ""
+msgstr "すべてのプッシー・ポータルが有効になった。"
 
 #. Key:	CheatRanch
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
@@ -10140,7 +10140,7 @@ msgstr "特性レベルが最大になった。"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:825
 msgctxt "SSexySettingsMenu,CreatorMode"
 msgid "Creator mode activated."
-msgstr ""
+msgstr "クリエイター・モードが有効になった。"
 
 #. Key:	DefaultKeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
@@ -10203,21 +10203,21 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
 msgctxt "SSexyTradeMenu,FavorTitle"
 msgid "Confirm Exchange"
-msgstr ""
+msgstr "取引きの確認"
 
 #. Key:	FinalFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
 msgctxt "SSexyTradeMenu,FinalFavor"
 msgid "Favor gained:"
-msgstr ""
+msgstr "獲得する御恵み:"
 
 #. Key:	PositionDescription
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
 msgctxt "SSexyTradeMenu,PositionDescription"
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #. Key:	PurchaseTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
@@ -10238,14 +10238,14 @@ msgstr "売却の確認"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
 msgctxt "SSexyTradeMenu,SellMonsterMessage"
 msgid "Ascend this one and gain favor?"
-msgstr ""
+msgstr "この個体を天に還し、御恵みを獲得しますか？"
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:152
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:152
 msgctxt "TaskBoard,Activate"
 msgid "Check Breeding Tasks"
-msgstr ""
+msgstr "交配の依頼を確認する"
 
 #. Key:	BuyFunds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
@@ -10259,7 +10259,7 @@ msgstr "彼女の所持金:"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
 msgctxt "TradeMenu,HarvestButton"
 msgid "Harvest"
-msgstr ""
+msgstr "生産物"
 
 #. Key:	ItemsButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
@@ -10280,14 +10280,14 @@ msgstr "あなたの所持金:"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
 msgctxt "TradeMenu,UpgradeDescription"
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #. Key:	HarvestButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
 msgctxt "UtilityMenu,HarvestButton"
 msgid "Harvest"
-msgstr "採取物"
+msgstr "生産物"
 
 #. Key:	InventoryWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
@@ -10301,7 +10301,7 @@ msgstr "牧場の在庫"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:327
 msgctxt "WorldAction,ActivateAction"
 msgid "Activate"
-msgstr ""
+msgstr "有効にする"
 
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:321
