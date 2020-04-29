@@ -10,8 +10,10 @@ There is a channel dedicated for discussing translations. Let me know in Discord
 https://discord.gg/6DpR6sb
 
 ### Stringfish の翻訳進行状況・予定
-（2020/04/18）  
-Ver.0.735の翻訳用POファイルをフォークしました。  
+（2020/04/30）  
+ローカルで、ver.0.735までのPawsmaati（旧Parvati）の全ダイアログを翻訳しました。  
+オンラインへの反映と、DerelictHelmsman 氏リポジトリ 4/28 更新分のマージは、しばらくお待ちください。
+
 UI 部分の文体は今のところ、基本的に常体を使い、ConfirmationBox 内の確認など所持金やアイテム・編集中データに影響を与える警告要素が強い部分のみ丁寧語で表記する方針です。  
 また可読性を確保するため、数字やアルファベット表記部分（現状では @ マクロが中心）の前後に半角スペースを挿入しました。  
 ただし、句読点や括弧などいわゆるヤクモノに隣接している場合、半角スペースは省略されます。  
