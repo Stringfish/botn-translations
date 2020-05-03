@@ -5,13 +5,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-04-28 21:26\n"
-"PO-Revision-Date: 2020-04-30 22:20\n"
+"PO-Revision-Date: 2020-05-04 00:02+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: Stringfish\n"
+"X-Generator: Poedit 2.3\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
@@ -550,7 +552,7 @@ msgstr "その美しい人間チンポを、このラミアの肢体に突き刺
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",12036FB64912193341380BA267A64971"
 msgid "Slide yourself in here with me, my body is silky and filled with sweet nectar. I will make you feel so good..."
-msgstr ""
+msgstr "あなた自身をここに挿入してください、わたしといっしょに。私の身体は滑らかで、甘い花蜜で満たされています。わたしは、あなたをとても気持ちよくさせます……"
 
 #. Key:	123F93684828FFF522F86B84110A5712
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -669,7 +671,7 @@ msgstr "人間たちが愛してくれて、ワタシたちの欲望を満たし
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",14E2045C4451D2597C51F4AAF56AE3B7"
 msgid "Remove your garments, for you must be nude."
-msgstr ""
+msgstr "衣を脱いでもらおうか。晒すべし、一糸まとわぬ裸体。"
 
 #. Key:	14F5C7E34772BFD4F5E7039EF72ACF9E
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(1).Lines
@@ -823,7 +825,7 @@ msgstr "どうやって @MONSTER_RACE@ を捕まえるのか知りたいなら�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(8).ResponseData.BreederPrompt
 msgctxt ",1B9EA938413881EEDE041F85884A4BC3"
 msgid "How do I learn sex positions?"
-msgstr ""
+msgstr "どうしたらセックスの体位を学べる？"
 
 #. Key:	1BD44FF4429194137A0C4CAF227F2CA1
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
@@ -844,7 +846,7 @@ msgstr "その種族を捕まえてきます。"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(2).Lines
 msgctxt ",1C97795346C0DCFF24FCF7965DB04AFF"
 msgid "They then mated with the natural creatures of the world. Yeah... the first thing the servants of heaven did was bang everything in sight."
-msgstr ""
+msgstr "それから女神たちは、この世界の自然界の生き物と交わった。そう……天界のしもべたちが最初にしたことは、視界に入ったあらゆるものとの交尾。"
 
 #. Key:	1C9CDC1147105A3D3F0A43BB6C94695C
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(2).Lines
@@ -907,7 +909,7 @@ msgstr "我が体勢に刮目せよ、そなたがどうすべきか学べよう
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",1E23F2524EB7DC68DC07EC92E709C65F"
 msgid "Slide yourself in here with me, my body is silky and filled with sweet nectar. I will make you feel so good..."
-msgstr ""
+msgstr "あなた自身をここに挿入してください、わたしといっしょに。私の身体は滑らかで、甘い花蜜で満たされています。わたしは、あなたをとても気持ちよくさせます……"
 
 #. Key:	1E3AD95641E1D41AAA9115A007EDC28A
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(2).Lines
@@ -970,7 +972,7 @@ msgstr "まだ捕まえておらぬのなら、メスのフォクセンを捕ま
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(5).Lines
 msgctxt ",201B358D4CE5E4D894910C97F98AA433"
 msgid "Keep this between us, but I think she is as old as the Great Conception itself."
-msgstr ""
+msgstr "これは内密に願いますが、彼女は「大いなる事始め」そのものと同じぐらい旧くから存在しているはずです。"
 
 #. Key:	202CB97A40D83492E9EFE18430F24A11
 #. SourceLocation:	/Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.DisplayName
@@ -1257,7 +1259,7 @@ msgstr "バター棒？ 本気で言ってるの？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(1).Lines
 msgctxt ",2AAA21F34762CDB90A4C749B986B1874"
 msgid "Of course I could go see for myself, but I am too lazy to climb the stairs!!!"
-msgstr ""
+msgstr "もちろん自分で会いに行けるんだけど、ワタシはあの階段を上るには、なまけ者すぎるの！！！"
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
@@ -1929,7 +1931,7 @@ msgstr "濡れてきちゃったわ、アタシを搾って人間ちゃん！ �
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",42094BD145964827266556B272FD2005"
 msgid "Slide yourself in here with me, my body is silky and filled with sweet nectar. I will make you feel so good..."
-msgstr ""
+msgstr "あなた自身をここに挿入してください、わたしといっしょに。私の身体は滑らかで、甘い花蜜で満たされています。わたしは、あなたをとても気持ちよくさせます……"
 
 #. Key:	4216C26A4EE0EF8A17937686F1FBEC4A
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -1964,7 +1966,7 @@ msgstr "そう、そのまま、人間ちゃん！ 濃厚でクリーミーっ�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(7).Lines
 msgctxt ",42E4526948669BCD5AFBD29DC9583D3C"
 msgid "Meh, I am an alchemist... I don't believe in this stuff! Go talk to high priestess Leylanna or that creepy Seraphim if you want to learn more about this myth!"
-msgstr "まー、ワタシは錬金術師なので……こういうモノは信じません！ 女大祭司のレイラナか、あの気味の悪いセラフィムに話を聞きに行って、この神話についてもっと知りたいなら！"
+msgstr "まー、ワタシは錬金術師なので……こういうモノは信じません！ この神話についてもっと知りたいなら、女大祭司のレイラナか、あの気味の悪いセラフィムに話を聞きに行って！"
 
 #. Key:	431393014FD2AE0F14B10994F1A6E951
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(5).Lines
@@ -1999,7 +2001,7 @@ msgstr "私のラミア・ボディはお気に召しましたか？"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(5).Lines
 msgctxt ",43D79A3F4EFECC071827CCAC96ED865A"
 msgid "She birthed offspring in their image and made them immortal. Those who believe call this the Great Conception."
-msgstr ""
+msgstr "女神は彼らに姿を似せた子を産み、この子らを不死の存在とした。信心深い者たちは、これを「大いなる事始め」と呼ぶの。"
 
 #. Key:	43F7A9D34F081E2EA25537A60B42DBA3
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -2195,7 +2197,7 @@ msgstr "そしてワタシもそのひとり！ 厳密にいえば、祝福さ�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(0).Lines
 msgctxt ",4954D9E748572866289FA785934950B8"
 msgid "Remove your garments, for you must be nude."
-msgstr ""
+msgstr "衣を脱いでもらおうか。晒すべし、一糸まとわぬ裸体。"
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
@@ -2216,7 +2218,7 @@ msgstr "……"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(1).Lines
 msgctxt ",4A730CFD4FE7937D823362B706A236A2"
 msgid "Her name is Pawsmaati, a blessed Neko in Sultry Plateau."
-msgstr ""
+msgstr "彼女の名はポースマーティ、官能の台地にいる祝福されたネコです。"
 
 #. Key:	4A786E0642F65E2541EAB4BB64AD2628
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
@@ -2300,7 +2302,7 @@ msgstr "おそらく女神のみが、そなたに答えをもたらすでしょ
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(12).Lines
 msgctxt ",4DA62EBE4FE5CCF8694322AA22E38C1D"
 msgid "We love creating new @MONSTER_RACE@, so that they too may experience the pleasures of this world."
-msgstr "ワタシたちは新しい @MONSTER_RACE@ を生むことが好き、そうすれば、彼らもこの世界の快感を経験できるから。"
+msgstr "ワタシたちは新しい @MONSTER_RACE@ を産むことが好き、そうすれば、彼らもこの世界の快感を経験できるから。"
 
 #. Key:	4DE4EDAD457F0C2715629B82E07D5D91
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07_RL.Default__CamillaDefault01_R07_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2517,7 +2519,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartLapDance.Default__ParvatiDefault01_StartLapDance_C.SessionData.Lines(0).Lines
 msgctxt ",53D49D34442BE0C5E4A971957D2298CD"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	5408EE8A4C4CAFF4A2B2F9B2F1F0B779
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2895,7 +2897,7 @@ msgstr "貴方には見当もつかないだろう。私がこの瞬間にも、
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(4).Lines
 msgctxt ",63185F8D44DB00B8514792BA4971889F"
 msgid "She will probably know more, she sleeps... I mean gets... around."
-msgstr ""
+msgstr "彼女はたぶん、もっとよく知っているはず。よく寝てるからね……つまり、彼女は広いの……「おつきあい」が。"
 
 #. Key:	6340E0A045F87C6E35C3348C97609B67
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(1).Lines
@@ -3315,7 +3317,7 @@ msgstr "ファーン、にんげんのおっぱい、ひつよう。おっきな
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(3).Lines
 msgctxt ",6F314EC947FA4FB92B59FFB3E0E4AC10"
 msgid "Talk to that super cute snake lady with the funny hat."
-msgstr ""
+msgstr "あのヘンテコな帽子をかぶった、超カワイイ蛇女さんと話しなさい。"
 
 #. Key:	6F4E36894BE6D32AB2BF92B2FB1F5697
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(1).Lines
@@ -4358,7 +4360,7 @@ msgstr "よく考えてみると、のど渇いてないや。"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke2.Default__LeylannaDefault01_BlueSmoke2_C.SessionData.Lines(0).Lines
 msgctxt ",8F007620423E7F8C613814916858A58C"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	8F1086D44A2F92032FB2109D420506BA
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(3).Lines
@@ -4666,7 +4668,7 @@ msgstr "すばしっこい"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",975E8DE7431AB39F97281DB7BD7DE314"
 msgid "Remove your garments, for you must be nude."
-msgstr ""
+msgstr "衣を脱いでもらおうか。晒すべし、一糸まとわぬ裸体。"
 
 #. Key:	97819B7A480CF2968256F1AD74021DAD
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(4).Lines
@@ -4848,7 +4850,7 @@ msgstr "これまで、理解を超えた @MONSTER_RACE@ の肉棒、肉壷を�
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(3).Lines
 msgctxt ",9E0F2A7F4F6510D820FB12BE4580D421"
 msgid "She is kind and loving, you will experience pleasures beyond comprehension... trust me."
-msgstr ""
+msgstr "彼女には思いやりと愛情の持ち主、あなたは理解を超越した快楽を体験するでしょう……本当ですよ。"
 
 #. Key:	9E15F19C4964C11243C2BE906C8DB6C9
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -5345,7 +5347,7 @@ msgstr "人間的"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",B11026CD462D3D9C5256F4A490A45911"
 msgid "Errrr, I can't stand it anymore, I'm going to milk you dry! I have never tasted human cum before!"
-msgstr "えぅぅぅ、もうガマンできない、アナタがカラッカラになるまで搾り取っちゃう！ ワタシ、今まで人間の精液を味わったことなかったの！"
+msgstr "えぇぇい、もうガマンできない、アナタがカラッカラになるまで搾り取っちゃう！ ワタシ、今まで人間の精液を味わったことなかったの！"
 
 #. Key:	B12A342547F0295A52457D814E45C485
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_AreYouBlessed.Default__EmissaryDefault01_AreYouBlessed_C.SessionData.Lines(0).Lines
@@ -5485,7 +5487,7 @@ msgstr "ウォーターフォール"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(0).Lines
 msgctxt ",B4EE3075417C568D59F3C0AC4A5049A3"
 msgid "I have heard legends of the Enlightened One somewhere in Sultry Plateau."
-msgstr ""
+msgstr "官能の台地のどこかにいる、「悟りを開きし者」の伝説を聞いたことがある。"
 
 #. Key:	B4EFBB67424526E49554149C5ADDE508
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -5499,7 +5501,7 @@ msgstr "あぁぁぁぁ、アナタのチンポ！ とうとう！"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(0).Lines
 msgctxt ",B5227FC24AE0F8318DF7DBAF9AC7553A"
 msgid "So you want to learn new sex positions I see..."
-msgstr ""
+msgstr "それでは、新たな性交体位を学びたいのですね。わかりました……"
 
 #. Key:	B5B8312540B0C71F1DDBCEADEF6C3E02
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(10).Lines
@@ -5842,7 +5844,7 @@ msgstr "これはもっとも誤解されていて、観測が難しい領域に
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(2).Lines
 msgctxt ",C1169E76415C88B42A1C1EAA53F38266"
 msgid "We have... uh... met before. Many times."
-msgstr ""
+msgstr "私は……あー……以前会ったことがあります。何度も。"
 
 #. Key:	C156402F4738F87B9C9392A5443BE29F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
@@ -5933,7 +5935,7 @@ msgstr "あぅぅ！ だれかさんが、おちんちんをしゃぶられた�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",C4A89EE6414BE3013E77CA81E8105E53"
 msgid "Remove your garments, for you must be nude."
-msgstr ""
+msgstr "衣を脱いでもらおうか。晒すべし、一糸まとわぬ裸体。"
 
 #. Key:	C4F4ECA34FB62457AF54C48B18A75686
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(2).Lines
@@ -6038,7 +6040,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(2).Lines
 msgctxt ",C93F66124DFE84936731BDBDEB0840B9"
 msgid "There is plenty of sex around Hedon to occupy my small attention span."
-msgstr ""
+msgstr "ヘドンではそこら中にセックスがあふれてて、ワタシの移り気な心を誘惑するんだもの。"
 
 #. Key:	C9B4EBAD46E07D79B09C1DBE7BE0F774
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(3).Lines
@@ -6339,7 +6341,7 @@ msgstr "愛を交わそう！"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(4).Lines
 msgctxt ",D5061B2C431228573CA43DB6C61F5511"
 msgid "Few @MONSTER_RACE@ are older than I, but Pawsmaati is an exception."
-msgstr ""
+msgstr "私よりも旧い @MONSTER_RACE@ はめったに居ないのですが、ポースマーティはその例外です。"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
@@ -7270,7 +7272,7 @@ msgstr "けど注意すること。野性の @MONSTER_RACE@ はその欲望を�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",F3CA61414720C714BBD4FB98C38684ED"
 msgid "How do I learn sex positions?"
-msgstr ""
+msgstr "どうしたらセックスの体位を学べる？"
 
 #. Key:	F3F4124041D97034B836478BD7FE0BF9
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.Description
