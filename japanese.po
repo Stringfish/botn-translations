@@ -5,15 +5,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-04-28 21:26\n"
-"PO-Revision-Date: 2020-05-04 00:02+0900\n"
+"PO-Revision-Date: 2020-05-08 00:24+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: Stringfish\n"
-"X-Generator: Poedit 2.3\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
@@ -433,7 +431,7 @@ msgstr "（ちゅぱっ） （ぺろっ）"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(4).Lines
 msgctxt ",0F2C916F409983084088D7B8C734556F"
 msgid "However, she must learn to restrain herself from inhaling so much of that blue smoke."
-msgstr ""
+msgstr "しかしながら、あの青い煙をあんなにも吸うのは控えるべきです。"
 
 #. Key:	0F3DB30048A1D95AFB32AEBCA67D8C96
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(1).LinesGrungy
@@ -461,7 +459,7 @@ msgstr "わたしたちが一緒に、あの娘を産み出したんですよ。
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(2).Lines
 msgctxt ",0FDE723F46BC47FD23DB75A6EDA9C79C"
 msgid "Ahhhh..."
-msgstr ""
+msgstr "ふあぁぁぁ……"
 
 #. Key:	1019EEE14B67704DE6DE0B9FD7D0D596
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(30).LinesToFuta
@@ -685,7 +683,7 @@ msgstr "私の長い生涯と終わりなき旅の最中に、人間と道を交
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(7).Lines
 msgctxt ",158D44FA46C00C7898EF1C99A9A99EA7"
 msgid "Claiming \"the spirits told me to make love with the golden angel\" or something similar."
-msgstr ""
+msgstr "「精霊たちが、金色の天使と愛を交わせと告げたのだ」などと主張しながら。"
 
 #. Key:	16049E004B001A3FEF8E25BEBE498398
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -860,7 +858,7 @@ msgstr "あるいは、祝福された者たちと性交に及んでも、精霊
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(7).Lines
 msgctxt ",1CCC14A74CE9A9AC038704B5BCC41068"
 msgid "Pleased with this, the Goddess created worlds for Her creations to reside in."
-msgstr ""
+msgstr "女神はこれに喜ばれると、被造物たちが棲むための世界をいくつも創造されました。"
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -1070,7 +1068,7 @@ msgstr "わたしたち、わたしのフラワー・ボディでとことん楽
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",22A642E14AB14A866F4A749782B623B0"
 msgid "Ahhh... yes. My desires are surging, won't you indulge in my body? I will try to be gentle."
-msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ。貴方よ、私の身体に溺れてみないか？ 優しく扱うように心掛けるぞ。"
+msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ。其方よ、私の身体に溺れてみないか？ 優しく扱うように心掛けるぞ。"
 
 #. Key:	22DBDC6341C9C5D8D427F0A18A87ED40
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.BovaurShed.ManageActionMessage
@@ -1119,7 +1117,7 @@ msgstr "クラーケンのおまんこを試してみたいなぁ……"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(5).Lines
 msgctxt ",23BDA20D4CE368D882C153A4AF960F3B"
 msgid "It makes her act... quite strange."
-msgstr ""
+msgstr "あれは彼女の行動を……完全におかしくしてしまいます。"
 
 #. Key:	23E7B88A464A51712A11B1A07FE361A3
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -1392,7 +1390,7 @@ msgstr "うわっ！ ウソでしょ！"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(4).Lines
 msgctxt ",2E8D7983446334A29BB4E0BCEFBBC092"
 msgid "Soon She realized something was missing, for the light had no meaning in the universe."
-msgstr ""
+msgstr "ほどなくして、何かが欠けていることに女神は気付かれました。宇宙において、光が意味をなさなかったからです。"
 
 #. Key:	2E926B8847D675F1C4CAAFAC2732930B
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(1).Lines
@@ -1420,7 +1418,7 @@ msgstr "もし売りたい @MONSTER_RACE@ のミルクがあるか、買いた�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(2).Lines
 msgctxt ",2F988E7B4E35BA65FB81488EC3339C51"
 msgid "First, She made love with Herself to bring forth light and the Seraphim, my kin, were born."
-msgstr ""
+msgstr "はじめに、女神は女神御自身と交わられました。そして光を生ぜしめられ、セラフィム──私の一族──が産まれました。"
 
 #. Key:	3002153B48BD52898AEAE78030617CF7
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(2).Lines
@@ -1448,7 +1446,7 @@ msgstr "彼らを責めることはできないと思うわ！"
 #: /Game/Breeding/Positions/LapDance.Default__LapDance_C.SessionData.Description
 msgctxt ",3075ABF441EF5686A57E81971B67D55E"
 msgid "The receiver bounces on the giver's lap while getting nice and close with her breasts."
-msgstr ""
+msgstr "受け手が攻め手の膝の上に跨がり、上下に動く。受け手の乳房と非常に近くなる。"
 
 #. Key:	30B0262C40D2D8527E2C8EA23D4D4B6D
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(1).LinesToMale
@@ -1546,7 +1544,7 @@ msgstr "あのデカパイはワタシの身体よりもデカイ！ なぜこ�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(10).Lines
 msgctxt ",3432E91146A4FE41E5BCC2825E37B64C"
 msgid "Ages later, the universe was filled with Seraphim and Demon alike."
-msgstr ""
+msgstr "時が経ち、宇宙はセラフィムとデーモンで満たされました。"
 
 #. Key:	34C104D84D1D1734B9408FA6B2BDA125
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_ButterStick.Default__CassieDefault01_Meow_ButterStick_C.SessionData.Lines(0).Lines
@@ -1588,7 +1586,7 @@ msgstr "おとなしくするのだぞ、人間……私は自分の欲望を抑
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(11).Lines
 msgctxt ",35BF63974E330C75B3359E8E1E99F0CB"
 msgid "However the demons grew weary of being governed by archangels, and decided to revolt."
-msgstr ""
+msgstr "しかし、デーモンたちはアークエンジェルによる管理にうんざりし始め、反抗することを決意したのです。"
 
 #. Key:	35CF617940B0723BA4795CA4E3D0FA22
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_StartLoveMakingT.Default__LeylannaDefault01_StartLoveMakingT_C.SessionData.Lines(0).Lines
@@ -1644,7 +1642,7 @@ msgstr "おおっ！ 人間！"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",37933117464CBF3120925D83C7A81935"
 msgid "Imagine how good my tentacles will feel between your labia... and I promise they will touch every corner."
-msgstr "想像してみるがいい、人の子よ。貴方の陰唇のあいだで私の触手たちが、どんなに気持ちいい感触を生むか……そして、触手は隅々まで撫で回すと、約束しよう。"
+msgstr "想像してみるがいい、人の子よ。其方の陰唇のあいだで私の触手たちが、どんなに気持ちいい感触を生むか……そして、触手は隅々まで撫で回すと、約束しよう。"
 
 #. Key:	37BE82A749B75C694B68B3856342C2A7
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(4).LinesToMale
@@ -1854,7 +1852,7 @@ msgstr "忌み子"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",3F053255484259108C0E28AFBD627175"
 msgid "You have no idea how much restraint I am putting forth at this moment..."
-msgstr "貴方には見当もつかないだろう。私がこの瞬間にも、どれほどの自制心を働かせているのか……"
+msgstr "其方には見当もつかないだろう。私がこの瞬間にも、どれほどの自制心を働かせているのか……"
 
 #. Key:	40100E704D14DC5D1B113F84C1BCE936
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(10).LinesToMale
@@ -1973,7 +1971,7 @@ msgstr "まー、ワタシは錬金術師なので……こういうモノは信
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(5).Lines
 msgctxt ",431393014FD2AE0F14B10994F1A6E951"
 msgid "A force was needed to contrast the light, and so the Goddess gave into Her most lustful desires and birthed the darkness."
-msgstr ""
+msgstr "光を引き立たせるには、力が必要でした。そして、女神は自らのもっとも淫らな欲望に屈し、闇を産み出されました。"
 
 #. Key:	437DBE7940749A6838FDA39FD90FF637
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2022,7 +2020,7 @@ msgstr "……"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(8).Lines
 msgctxt ",44ABED7740DE9FD12170D8B548E87A78"
 msgid "She assigned each world a special Seraphim, an archangel, to guide the evolution of life."
-msgstr ""
+msgstr "女神はそれぞれの世界に特別なセラフィム、アークエンジェルを割り当てられました。生命の進化を導くために。"
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
@@ -2183,7 +2181,7 @@ msgstr "@BREEDER_NAME@ よ。ずっと、あなたの到着を待っていまし
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(6).Lines
 msgctxt ",48F333E347A7091F18F946AADDC3C69D"
 msgid "Oh... you please this Kraken princess greatly human..."
-msgstr "おぉ……貴方はこのクラーケンの姫を、大いに満足させるぞ、人間よ。"
+msgstr "おぉ……其方はこのクラーケンの姫を、大いに満足させるぞ、人間よ。"
 
 #. Key:	4941188D4EE43A48ECE99F9361838C0C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(4).LinesToMale
@@ -2603,7 +2601,7 @@ msgstr "ああああ……この年を経た管理者を満足させてくれま
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(16).Lines
 msgctxt ",5629D6AE4A1B8ABE39599596DC46FC1C"
 msgid "She took pity on their creations and made love with them, an event that would come to be known as the Great Conception."
-msgstr ""
+msgstr "女神はデーモンの被造物たちを憐れみ、愛を持って彼らと交わられました。後に「大いなる事始め」として知られるようになる事象です。"
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
@@ -2694,7 +2692,7 @@ msgstr "新しいセックスの体位を指導して！"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(6).Lines
 msgctxt ",5AA8E62541EFA61D3ED30CAD3E1D0946"
 msgid "Demons crawled out of the darkness, and immediately started having sex with the Seraphim."
-msgstr ""
+msgstr "デーモンたちは闇から這い出でると、たちまちセラフィムと性交し始めました。"
 
 #. Key:	5ACEB47B4DC474437836D1BE5DF53CC7
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -2750,7 +2748,7 @@ msgstr "@MONSTER_RACE@ の起源はとても古くて解明されていない、
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(18).Lines
 msgctxt ",5D244F6542342816F374B582D37B9B98"
 msgid "Swearing to return again one day, the Goddess departed and faded from sight."
-msgstr ""
+msgstr "いつか再び戻ってくることを誓われると、女神は出立され、消え去ってしまったのです。"
 
 #. Key:	5E27E8A74A30D389BBB939B5142249BB
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -2841,7 +2839,7 @@ msgstr "そなたを大いに崇め敬うものもいる。そのものたちは
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",61341EBA4A04883698FF08BF81A229FB"
 msgid "What is the Great Conception?"
-msgstr ""
+msgstr "「大いなる事始め」って？"
 
 #. Key:	61DD0F8342D2EFAE9232248215EADFB4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
@@ -2876,7 +2874,7 @@ msgstr "なんでご主人様って呼んだの？"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(13).Lines
 msgctxt ",627219374671317BBA6148B048EA7B8F"
 msgid "Such creations roamed in weak forms purely by instinct, what you call animals."
-msgstr ""
+msgstr "それらの被造物は弱き姿をとり、完全に本能によって徘徊する、皆が動物と呼ぶものでした。"
 
 #. Key:	62DABAA04453893D6FCD5390D28CB19A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
@@ -2890,7 +2888,7 @@ msgstr "もうすぐわたしは満開となり、移動が不可能になりま
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",62FF5D604699246B05ECEDA19F98F1BA"
 msgid "You have no idea how much restraint I am putting forth at this moment..."
-msgstr "貴方には見当もつかないだろう。私がこの瞬間にも、どれほどの自制心を働かせているのか……"
+msgstr "其方には見当もつかないだろう。私がこの瞬間にも、どれほどの自制心を働かせているのか……"
 
 #. Key:	63185F8D44DB00B8514792BA4971889F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(4).Lines
@@ -2932,7 +2930,7 @@ msgstr "騎乗位"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(1).Lines
 msgctxt ",642A06E64C62D0AA35E17FB7181BDBD8"
 msgid "By inhaling it all day it grants me visions into worlds beyond."
-msgstr ""
+msgstr "これを一日中吸うことで、わらわはこの世ならざるビジョンを授かる。"
 
 #. Key:	644065F84B0F2E772BE21695810A2F0F
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.Description
@@ -3219,7 +3217,7 @@ msgstr "うあぁ……すっごい恥ずかしいしょや、自分の欲求を
 #: /Game/Breeding/Positions/LapDance.Default__LapDance_C.SessionData.PositionName
 msgctxt ",6D839EC343F5CB6DF39F048E74C3A3F6"
 msgid "Lap Dance"
-msgstr ""
+msgstr "対面座位"
 
 #. Key:	6DCC52994B8322D169A47299585B1FFA
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(3).Lines
@@ -3247,7 +3245,7 @@ msgstr "神話に謳われたもの……禁じられたもの……そう……
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",6E3ED9254DE919CFE39F24ACDABD6292"
 msgid "You have no idea how much restraint I am putting forth at this moment..."
-msgstr "貴方には見当もつかないだろう。私がこの瞬間にも、どれほどの自制心を働かせているのか……"
+msgstr "其方には見当もつかないだろう。私がこの瞬間にも、どれほどの自制心を働かせているのか……"
 
 #. Key:	6E5A40D849715A40BDC9ECBCE9E3F1C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(23).LinesToMale
@@ -3296,7 +3294,7 @@ msgstr "わぁ！ ちっこくてめんこい人間でないかい！ アタシ�
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",6F1214E04CFF55C4F15CF6B9593AE091"
 msgid "Ahhh... yes. My desires are surging, won't you indulge in my body? I will try to be gentle."
-msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ。貴方よ、私の身体に溺れてみないか？ 痛くしないようにやってみるから。"
+msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ。其方よ、私の身体に溺れてみないか？ 痛くしないようにやってみるから。"
 
 #. Key:	6F1DCF64442949FA9CD221911F8540AD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(2).LinesToMale
@@ -3366,7 +3364,7 @@ msgstr "そうだ、わらわをその陽物で楽しませろ。さすれば、
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(0).Lines
 msgctxt ",70A96E9D4322ED35C13DF78AF12A5931"
 msgid "It allows me to commune with the spirits."
-msgstr ""
+msgstr "この煙によって、わらわは精霊たちと交感できるのだ。"
 
 #. Key:	70B4299E404BAC657357D7AD12E3DF68
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(16).LinesToFuta
@@ -3471,7 +3469,7 @@ msgstr "絶頂峰"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(0).Lines
 msgctxt ",73B062844EF9F666A3FC88A79A97D47A"
 msgid "The Goddess in Her infinite wisdom became filled with desire after eons of lonliness."
-msgstr ""
+msgstr "計り知れぬ叡智を宿した女神は、永劫の孤独のなかで欲望を強く抱くようになられました。"
 
 #. Key:	73B3AE3C43F892A09044CD8CAABBE3B3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -3492,7 +3490,7 @@ msgstr "あぁ、ご主人様。わたしにたくさん飲ませてください
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",73C9D0AC49FFC3AEB6CFA59DB5E4FB92"
 msgid "That blue smoke smells... nice..."
-msgstr ""
+msgstr "その青い煙……いい匂い……"
 
 #. Key:	73F68F1D4C449AE1E1ECBCB61358B27E
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(2).Lines
@@ -3646,7 +3644,7 @@ msgstr "ただアナタを見るだけで、燃えたぎる欲望がワタシを
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(6).Lines
 msgctxt ",78C065C7473E103C41FCDA893D7F14FF"
 msgid "Frequently, she will wander over here naked with a glazed look in her eye."
-msgstr ""
+msgstr "彼女はしばしば、うつろな眼差しをして裸でふらふらとここまで歩いてきます。"
 
 #. Key:	78CE278740CEF8CBD44C7699C20FEA54
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(1).Lines
@@ -3870,7 +3868,7 @@ msgstr "なぜ祝福された @MONSTER_RACE@ とそうじゃない @MONSTER_RACE
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(6).Lines
 msgctxt ",83C8B41F462880323A7E26B8AE678AA1"
 msgid "Yes, ohh... feed my voluptuous body all of your seed. Ahhhhh..."
-msgstr "そうだ、おぉぉ……この妖艶な身体に、貴方の種をすべて注ぐのだ。はぁぁぁぁぁ……"
+msgstr "そうだ、おぉぉ……この妖艶な身体に、其方の種をすべて注ぐのだ。はぁぁぁぁぁ……"
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
@@ -3989,14 +3987,14 @@ msgstr "ほら見ろ、アタシ発情しちゃったし。"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke2.Default__LeylannaDefault01_BlueSmoke2_C.SessionData.Lines(2).Lines
 msgctxt ",859B4BA447F1B280EC046E90944CED54"
 msgid "Oh... so beautiful... ahhhhhhh."
-msgstr ""
+msgstr "おぉぅ……とても美しいのう……ふあぁぁぁぁぁぁ。"
 
 #. Key:	85EBB13040FCB54F971A719C5A67F240
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(8).Lines
 msgctxt ",85EBB13040FCB54F971A719C5A67F240"
 msgid "She will then play with my breasts and pussy for hours, begging me to return the favor."
-msgstr ""
+msgstr "それから、私の乳房と性器を何時間も弄ぶと、彼女の行為に報いるよう私に懇願するのです。"
 
 #. Key:	85F4F7D540B5915CFE03BCB33A1C34E7
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -4283,7 +4281,7 @@ msgstr "ハイブリッドの体液。"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(3).Lines
 msgctxt ",8CB5ACBF46F02BEA48B084A15F2AD8C2"
 msgid "Once the Seraphim had started propagating, the Goddess ordered them to spread their light across the empty expanse."
-msgstr ""
+msgstr "ひとたびセラフィムが繁殖を始めると、女神はセラフィムたちに命ぜられました。彼女らの光を、からっぽの空間に広めよと。"
 
 #. Key:	8CD67FB74B2E43F406AB5B932B717B19
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(2).LinesToMale
@@ -4696,7 +4694,7 @@ msgstr "わたしの滑らかな身体の中に沈み込んでください、あ
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(3).Lines
 msgctxt ",97C48C5D4FCF938DF123EA94C35A3858"
 msgid "Feel my soft girthy tentacles embrace you... oh... yes."
-msgstr "感じろ、柔らかく太い我が触手が貴方を抱くのを……おぉ……そうだ。"
+msgstr "感じろ、柔らかく太い我が触手が其方を抱くのを……おぉ……そうだ。"
 
 #. Key:	97DE1E2D44F75CDC8B07A3ACE527EFC4
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(1).Lines
@@ -5074,7 +5072,7 @@ msgstr "ワタシよ！"
 #: /Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",A6DD5AA2419F165755885E8ED44BB09B"
 msgid "You are lucky, for today you have crossed paths with the Kraken princess of Formuria."
-msgstr "貴方は幸運だぞ。今日、フォーミュリアのクラーケンの姫と、道を交えたのだからな。"
+msgstr "其方は幸運だぞ。今日、フォーミュリアのクラーケンの姫と、道を交えたのだからな。"
 
 #. Key:	A6EE239344DA6CC08AFE6E8689A1996F
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(1).Lines
@@ -5137,7 +5135,7 @@ msgstr "そう、ワタシはペインテッド・エルフよ！"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(0).Lines
 msgctxt ",A90E87E3497D9E41C08BE1AB25DF9AEE"
 msgid "If thou must indulge your desires, seek the Enlightened One in Sultry Plateau."
-msgstr ""
+msgstr "汝、その欲望満たさんとするなれば、官能の台地の「悟りを開きし者」を訪ねよ。"
 
 #. Key:	A91A80914B126F3C3F262D93E88AEA71
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -5172,7 +5170,7 @@ msgstr "わたしの美しい花を見てください、咲きましたよ！ �
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(14).Lines
 msgctxt ",AA08081E4A0AF7A81D4B99B1527E6970"
 msgid "The demons took advantage of this and started using them as breeding toys."
-msgstr ""
+msgstr "デーモンたちはこの事を利用し、その生き物を交配用玩具として使い始めました。"
 
 #. Key:	AA16BE3B4732F407329ED6B450557C71
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
@@ -5669,7 +5667,7 @@ msgstr "この背の高いセクシーボディをどんなに羨んでるか、
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(1).Lines
 msgctxt ",BAEE9CCB4074E077BFF0FBAE275D41CD"
 msgid "From the Void, she created this universe and began to indulge in creation."
-msgstr ""
+msgstr "女神は虚空からこの宇宙を創り出され、創造をおこなうことに没頭され始めます。"
 
 #. Key:	BB0E7B2D4F49CAAB00A884BE87ED9F44
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(7).Lines
@@ -5746,7 +5744,7 @@ msgstr "ワタシのおまんこが脈打つ……"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke2.Default__LeylannaDefault01_BlueSmoke2_C.SessionData.Lines(1).Lines
 msgctxt ",BD6CCEB440D9DEC7D0A7988EC78DC07B"
 msgid "Ahhhh..."
-msgstr ""
+msgstr "ふあぁぁぁ……"
 
 #. Key:	BDF9214F4D266A69032FE9921524969C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -5907,7 +5905,7 @@ msgstr "これにより、@MONSTER_RACE@ の霊はそなたの行為から悦び
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(7).ResponseData.BreederPrompt
 msgctxt ",C36C759941B23E33ABE38E9C98E4A1E3"
 msgid "Lap Dance!"
-msgstr ""
+msgstr "対面座位！"
 
 #. Key:	C45BFAF14EABF8D1BD3502825C5C1560
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
@@ -6033,7 +6031,7 @@ msgstr "……"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(1).Lines
 msgctxt ",C831296B46D9E6D1B4ECA181BCD5520B"
 msgid "She will teach you how to position the body for optimal sexual experience."
-msgstr ""
+msgstr "最適な性体験を得るにはどのような体勢をとればよいか、彼女は教えてくれるでしょう。"
 
 #. Key:	C93F66124DFE84936731BDBDEB0840B9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(2).Lines
@@ -6131,7 +6129,7 @@ msgstr "受け手が、攻め手と向き合いながら上下に動く。"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",CE27DDF94397A475B6331E9CAF6EB7C5"
 msgid "Ahhh... yes. My desires are surging, won't you indulge in my body? I will try to be gentle."
-msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ。貴方よ、私の身体に溺れてみないか？ 痛くしないようにやってみるから。"
+msgstr "はぁぁぁ……いいだろう。欲望が押し寄せてくるのだ。其方よ、私の身体に溺れてみないか？ 痛くしないようにやってみるから。"
 
 #. Key:	CE3354BC4C98FE63B630758F10560253
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(23).LinesToFuta
@@ -6327,7 +6325,7 @@ msgstr "あぁぁ……うぁ……とってもおいしい。"
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(4).Lines
 msgctxt ",D4BAFDEE4340A6062B18808C4CB9ABF1"
 msgid "Soon... ahhh... you will be covered and impregnated by sticky Kraken pleasure..."
-msgstr "そろそろ……はぁぁぁ……貴方はクラーケンのドロドロした悦びをぶち撒けられ、膣出しされるのだ……"
+msgstr "そろそろ……はぁぁぁ……其方はクラーケンのドロドロした悦びをぶち撒けられ、膣出しされるのだ……"
 
 #. Key:	D4F1F3F04E4BCBC46FFF2E9AC9B301C0
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -6544,7 +6542,7 @@ msgstr "一方で @MONSTER_RACE@ は、ほとんどあっという間に生殖�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(9).Lines
 msgctxt ",DADDEBF642EA8FAF8F912C830249D0E6"
 msgid "@WORLD_NAME@ is my world."
-msgstr ""
+msgstr "@WORLD_NAME@ が、私の世界です。"
 
 #. Key:	DB00D91D4420A5D9D4F3FBB7DD1AC099
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(0).Lines
@@ -6901,7 +6899,7 @@ msgstr "でも本当にヤリたいのは、アナタたちとの交配。"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(17).Lines
 msgctxt ",E535E57A4387D4FB6EB39EA5A3988B61"
 msgid "Their offspring were restored to strong immortal forms, and the Goddess called all of Her creations the @MONSTER_RACE@."
-msgstr ""
+msgstr "生まれた子らは強き不死の姿を取り戻し、そして女神は自らの被造物すべてを、@MONSTER_RACE@ と名付けました。"
 
 #. Key:	E594716B40413B6747D21BA87B26EE43
 #. SourceLocation:	/Game/Breeding/Positions/Test4.Default__Test4_C.SessionData.PositionName
@@ -6964,14 +6962,14 @@ msgstr "ドラゴンの宝物庫"
 #: /Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.Description
 msgctxt ",E771BFFB4897C621A00726862D211233"
 msgid "The receiver bounces up and down while facing away from the giver."
-msgstr "受け手が、攻め手に背を向けながら、上下に動く。"
+msgstr "受け手が、攻め手に背を向けながら上下に動く。"
 
 #. Key:	E7BA70CA4CDE49CD26EE3A92475B70E2
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(12).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(12).Lines
 msgctxt ",E7BA70CA4CDE49CD26EE3A92475B70E2"
 msgid "They began creating lifeforms of their own, but lacked the power and wisdom of the Goddess."
-msgstr ""
+msgstr "デーモンたちは、彼ら自身の生命体を創り始めました。しかし、そこには女神の力と叡智が欠けていました。"
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
@@ -7146,7 +7144,7 @@ msgstr "ああああ……この年を経た管理者を満足させてくれま
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",EE4B752847129E59EA2F61BC21D14B8D"
 msgid "Who is the Enlightened One?"
-msgstr ""
+msgstr "「悟りを開きし者」って知ってる？"
 
 #. Key:	EE8FDFD64822DC7BFDD6C9A70419163D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -7195,7 +7193,7 @@ msgstr "最後になってしまいましたが、セラフィムは仮生息地
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(15).Lines
 msgctxt ",F06D080B472FAC8F39770EB5B3818956"
 msgid "Outraged, the Goddess Herself descended and cursed the demons for their sins."
-msgstr ""
+msgstr "女神は激昂され、御自ら地に降り立つと、デーモンたちをその罪で呪いました。"
 
 #. Key:	F091EDAA4504CD138BB740BD4D4EBCB6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(14).LinesToMale
@@ -7223,7 +7221,7 @@ msgstr "アナタのおいしい体液をワタシでムダにしないでくだ
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(4).Lines
 msgctxt ",F15CA5AC442824FB00747A8771A80403"
 msgid "Yes, ohh... give me all of your seed. Ahhhhh..."
-msgstr "そうだ、おぉぉ……貴方の種をすべて渡すのだ。はぁぁぁぁぁ……"
+msgstr "そうだ、おぉぉ……其方の種をすべて渡すのだ。はぁぁぁぁぁ……"
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
@@ -7300,7 +7298,7 @@ msgstr "オスのヴァルワーグを捕まえたら、わらわのところに
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_SmokeRL.Default__LeylannaDefault01_SmokeRL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",F4CADE7A441CE6B749B76B9F7EC26371"
 msgid "So it makes you high?"
-msgstr ""
+msgstr "それじゃあ、あなたはその煙でキマってるの？"
 
 #. Key:	F5276F72433DAADC3348C9937061AB06
 #. SourceLocation:	/Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.Description
@@ -7615,14 +7613,14 @@ msgstr "（のどを鳴らす音）"
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(0).Lines
 msgctxt ",FEE6416B44C40270EC8167ADD51EA060"
 msgid "Ohhh human yes... my soft fleshy groin awaits you."
-msgstr "うぅぅぅ、人の子よ、いいぞ……私の柔らかく肉付いた恥丘は、貴方を待っておる。"
+msgstr "うぅぅぅ、人の子よ、いいぞ……私の柔らかく肉付いた恥丘は、其方を待っておる。"
 
 #. Key:	FEEAD6AA4B91EE463E366FBDCB397167
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 msgctxt ",FEEAD6AA4B91EE463E366FBDCB397167"
 msgid "Even a drylander such as yourself can probably guess what purpose my two front tentacles serve."
-msgstr "貴方のような乾いた地の民でも、私の前面にある 2 本の触腕がどういう目的で使われるのか、きっと察しがつくだろう。"
+msgstr "其方のような乾いた地の民でも、私の前面にある 2 本の触腕がどういう目的で使われるのか、きっと察しがつくだろう。"
 
 #. Key:	FF0D5A0E4AD29A5B9CCF59942CB94FFA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(0).Lines
