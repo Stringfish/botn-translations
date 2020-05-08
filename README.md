@@ -10,9 +10,10 @@ There is a channel dedicated for discussing translations. Let me know in Discord
 https://discord.gg/6DpR6sb
 
 ### Stringfish の翻訳進行状況・予定
-（2020/05/04）  
-4/28 更新分のうち、FaleneとNeelaのダイアログを翻訳しました。  
-今後の翻訳優先度は、Emissary（SexPositions）→Emissary（Leylanna追加分）→Leylanna（BlueSmoke）→ Emissary（GreatConception）の予定です。
+（2020/05/08）  
+4/28 更新分をすべて翻訳しました。  
+今後は今週末予定との情報が出ているパブリックビルド 0.736 のリリースを待ち、新規テキストを（あれば）翻訳しつつ、訳の細かな修正をするつもりです。  
+当面の優先事項は三人称複数代名詞they/themの訳出見直し（可能な箇所でより女性的に）です。
 
 UI 部分の文体は今のところ、基本的に常体を使い、ConfirmationBox 内の確認など所持金やアイテム・編集中データに影響を与える警告要素が強い部分のみ丁寧語で表記する方針です。  
 また可読性を確保するため、数字やアルファベット表記部分（現状では @ マクロが中心）の前後に半角スペースを挿入しました。  
