@@ -4190,7 +4190,7 @@ msgstr "私の陰唇は、神聖で魔法を帯びます。我が唇の存在が
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(0).Lines
 msgctxt ",8A2E92A74C7DDAAAFC792FA98B65DD60"
 msgid "The Void is an infinite expanse that exists all around you, but it is unseen."
-msgstr "虚空とは、あなたの周囲にも存在する夢幻の空間です。しかし、見ることはかないません。"
+msgstr "虚空とは、あなたの周囲にも存在する無限の空間です。しかし、見ることはかないません。"
 
 #. Key:	8A5F2FCA4C02275D682FC2A405506B34
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(11).LinesToFemale
