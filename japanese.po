@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-05-13 22:38\n"
-"PO-Revision-Date: 2020-05-22 00:04+0900\n"
+"PO-Revision-Date: 2020-06-28 22:35+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -2608,7 +2608,7 @@ msgstr "女神はデーモンの被造物たちを憐れみ、愛を持って彼
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
 msgctxt ",566D4E2B458FC3277E49CB91D5CAB649"
 msgid "Then, the dark reaper of the daze will bring back to that body your awareness."
-msgstr "そうなった場合には、虚脱の暗き死霊が、その身体にあなたの意識を呼び戻すのです。"
+msgstr "そうなった場合には、虚脱の暗き死の使いが、その身体にあなたの意識を呼び戻すのです。"
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
@@ -4232,7 +4232,7 @@ msgstr "ワタシのやわらかエルフ・リップ、気持ちいい？ そ�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(3).Lines
 msgctxt ",8A7AA1664D50A6AD3F66CE8B9B57C01F"
 msgid "But beware, a toll will she require."
-msgstr "ですが、お気を付けを。対価を死霊は求めるでしょう。"
+msgstr "ですが、お気を付けを。対価を死の使いは求めるでしょう。"
 
 #. Key:	8AF6FC6641A12C2B4A5B90B25313D5E2
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -7767,7 +7767,7 @@ msgstr "{0} は気を失った……"
 #: Source/Radiant/Public/World/SexyDazeSystem.cpp:132
 msgctxt "ASexyDazeSystem,ReaperToll"
 msgid "The Reaper will have her toll..."
-msgstr "死霊は対価を要求する……"
+msgstr "死の使いは対価を要求する……"
 
 #. Key:	NoFuta
 #. SourceLocation:	Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
@@ -10994,7 +10994,7 @@ msgstr "有効にする"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:333
 msgctxt "WorldAction,ActivateDazeShrine"
 msgid "Commune with the Reaper"
-msgstr "死霊と交感する"
+msgstr "死の使いと交感する"
 
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:321
