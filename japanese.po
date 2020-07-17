@@ -743,8 +743,7 @@ msgstr "ワタシたちは正真正銘、根っからの快楽探求者なの！
 
 #. Key:	1276E5EB4781A0238A9705AC9FEE680E
 #. SourceLocation:	/Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1 [Script Bytecode]
-#: /Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1
-#: [Script Bytecode]
+#: /Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1 [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Void Sigil acquired."
 msgstr ""
@@ -3159,8 +3158,7 @@ msgstr ""
 
 #. Key:	4F4DD06E46CF5037488011B98E686823
 #. SourceLocation:	/Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil [Script Bytecode]
-#: /Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil
-#: [Script Bytecode]
+#: /Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil [Script Bytecode]
 msgctxt ",4F4DD06E46CF5037488011B98E686823"
 msgid "Her hand looks meant to hold something..."
 msgstr ""
@@ -3496,8 +3494,7 @@ msgstr ""
 
 #. Key:	5898A6AF49F601C7464B66A552A4AB69
 #. SourceLocation:	/Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1 [Script Bytecode]
-#: /Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1
-#: [Script Bytecode]
+#: /Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1 [Script Bytecode]
 msgctxt ",5898A6AF49F601C7464B66A552A4AB69"
 msgid "Place Sigil"
 msgstr ""
@@ -4701,8 +4698,7 @@ msgstr "変わったね！"
 
 #. Key:	750AE2DA411665A89B7126BAB42FC805
 #. SourceLocation:	/Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1 [Script Bytecode]
-#: /Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1
-#: [Script Bytecode]
+#: /Game/World/Events/EM_VoidSigil1.EM_VoidSigil1_C:ExecuteUbergraph_EM_VoidSigil1 [Script Bytecode]
 msgctxt ",750AE2DA411665A89B7126BAB42FC805"
 msgid "It's stuck in slime."
 msgstr ""
@@ -8587,8 +8583,7 @@ msgstr "あぁ、ご主人様……あなたは、わたしにはもったいな
 
 #. Key:	D97B07C846B387559712848EEE60F123
 #. SourceLocation:	/Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil [Script Bytecode]
-#: /Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil
-#: [Script Bytecode]
+#: /Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil [Script Bytecode]
 msgctxt ",D97B07C846B387559712848EEE60F123"
 msgid "The link to the Void is restored."
 msgstr ""
@@ -9344,8 +9339,7 @@ msgstr "そして、我こそがミルル、次期女王位継承者となる身
 
 #. Key:	EA7B39A44EB73DC1AAC766B207BF5F9A
 #. SourceLocation:	/Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil [Script Bytecode]
-#: /Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil
-#: [Script Bytecode]
+#: /Game/World/Events/EM_VoidSigil.EM_VoidSigil_C:ExecuteUbergraph_EM_VoidSigil [Script Bytecode]
 msgctxt ",EA7B39A44EB73DC1AAC766B207BF5F9A"
 msgid "Investigate"
 msgstr ""
