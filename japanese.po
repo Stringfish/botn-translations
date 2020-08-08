@@ -1,13 +1,13 @@
-﻿# japanese Japanese (Japan) translation.
+# japanese Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-07-27 20:47\n"
-"PO-Revision-Date: 2020-07-27 20:47\n"
+"PO-Revision-Date: 2020-08-08 11:20+0900\n"
 "Language-Team: \n"
-"Language: ja-JP\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -109,7 +109,7 @@ msgstr "おやおや、これはめったにない光景ですね。"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",022313C047D185193F98C48BE5852E62"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "こんなに小さな者が、クラーケンに突き入れる度胸を持っているのは稀だ。私の肉付いた身体が、其方を愉しませたのなら良いのだが。"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -193,7 +193,7 @@ msgstr "おぉぉ、そうです！ あぁぁぁ……古式ゆかしい私の�
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0468AC1040BB9A10D1960B833F9A8305"
 msgid "For that I am thankful."
-msgstr ""
+msgstr "その行いに対し、感謝を述べよう。"
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
@@ -298,7 +298,7 @@ msgstr "この世界は @MONSTER_RACE@――謎に満ちた半人半獣の混合
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",075A16DA4BA7F51C3A07099921F7F1B3"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "そなたには入浴が必要です。その身を我が乳房のあいだに委ねて、私に洗わせなさいな。"
 
 #. Key:	07B2E95342A617616201F19B87E3655A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -368,7 +368,7 @@ msgstr "ムラムラしてもうガマンできない！ そこ開きなさい�
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",099488164DB48F48395E94B86F3EE565"
 msgid "My lust is quickly regenerating, and I would gladly mate with you again."
-msgstr ""
+msgstr "我が性欲は、またどんどん溜まってきている。そして、ぜひ其方ともう一度交わりたいと思うぞ。"
 
 #. Key:	09C95B9C48668D0B269B88826710F912
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -410,7 +410,7 @@ msgstr "はぁぁぁ……とても良い心地です！"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",0B796FF84644C0154CA874BFDFA16D50"
 msgid "Let us spend the day together, for here in the warmth of this water we can sing again for hours."
-msgstr ""
+msgstr "今日は共に過ごしていただけませんか。だって、この湯の温かさに浸りながら、我らはさらに幾時間も唄えるでしょう。"
 
 #. Key:	0BB0A695454FD69DAA129F82F023EB23
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -494,7 +494,7 @@ msgstr "バタフライ"
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",0D3C4D8D4F6C01DE00A1B88BD745C860"
 msgid "A bath perhaps? Or maybe one of your wild ones made love with the dirt. I will wash them all."
-msgstr ""
+msgstr "よろしければ、入浴しますか？ それとも、そなたの野性のネフェリムが泥と愛し合いましたか。私が皆洗いましょう。"
 
 #. Key:	0D41FE0947E3B6D0F4FD10AF14FE68BE
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(5).Lines
@@ -3245,7 +3245,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",4E5BBE2D466F692CEB63ACA293C411A8"
 msgid "You have satisfied a kraken princess, and allowed me to release my lust."
-msgstr ""
+msgstr "其方はクラーケンの姫を満足させ、私の性欲を解き放たせた。"
 
 #. Key:	4E7910C949370E1A22F20886B7F19689
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3294,7 +3294,7 @@ msgstr "（ちゅぱっ） （ぺろっ）"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(0).LinesGrungy
 msgctxt ",4F37D08C43E11EDF706D07998D86692F"
 msgid "Oh you dirty dirty human... what have you done to yourself?"
-msgstr ""
+msgstr "あぁ、汚れに汚れた人の子よ……そなたは自分自身に何をなさったのです？"
 
 #. Key:	4F601DAA48F980A712CFA1A4888DDCBC
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -3588,7 +3588,7 @@ msgstr "女神はデーモンの被造物たちを憐れみ、愛を持って彼
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
 msgctxt ",566D4E2B458FC3277E49CB91D5CAB649"
 msgid "Then, the dark reaper of the daze will bring back to that body your awareness."
-msgstr "そうなった場合には、虚脱の暗き死霊が、その身体にあなたの意識を呼び戻すのです。"
+msgstr "そうなった場合には、虚脱の暗き刈り手が、その身体にあなたの意識を呼び戻すのです。"
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
@@ -3763,7 +3763,7 @@ msgstr "なんでふたなりにタマがないの？"
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",5B8BBC574B6A3FC58C5769B04B8923FE"
 msgid "What is with the locked dungeon?"
-msgstr ""
+msgstr "閉ざされたダンジョンってどうなってるの？"
 
 #. Key:	5BCD2C4F491787616684ECAD40FE34C6
 #. SourceLocation:	/Game/Dialogue/Reaper/Default/ReaperDefault01_RL.Default__ReaperDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -4736,7 +4736,7 @@ msgstr "さぁどの体位、おさらいしたい？"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",72676A264244C7A242C2688B7B60F6A5"
 msgid "Have you come to please this Kraken princess?"
-msgstr ""
+msgstr "其方は、このクラーケンの姫を愉しませようと参ったのか？"
 
 #. Key:	729B81554E3D9EF979C07FB7C419E3C5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -5093,7 +5093,7 @@ msgstr "潤沢"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",7BA3471A456AB33D0F6E1AB523E14EBC"
 msgid "Believe it or not, I held back and could have drenched you with more kraken cum."
-msgstr ""
+msgstr "信じてもらわずともよいが、私は加減したのだぞ。其方をもっとクラーケンの精液まみれにすることもできた。"
 
 #. Key:	7BA8039A45383C5B11EEA9AC428E3158
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(0).LinesToMale
@@ -5121,7 +5121,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(0).Lines
 msgctxt ",7C5554A44E14D8611780E99EAC37F747"
 msgid "I don't know how to access it, but beware."
-msgstr ""
+msgstr "どうすればあそこに入れるのか、私は存じ上げません。ですがお気を付けを。"
 
 #. Key:	7C5853BA4383F9B61021B3A6AD59FA09
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(3).Lines
@@ -5331,7 +5331,7 @@ msgstr "私はあなたのしもべ、私の身体はあなたのものです。
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",833370124F1D6AF95E5FC9844AB0DA75"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "こんなに小さな者が、クラーケンに突き入れる度胸を持っているのは稀だ。私の肉付いた身体が、其方を愉しませたのなら良いのだが。"
 
 #. Key:	8362C8D747AF6B672FEF0CB58B2B5B0C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(3).Lines
@@ -8166,7 +8166,7 @@ msgstr "フォーミュリアン"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",C5113B72490FFD8142C52EBDED0B4656"
 msgid "Oh the songs of pleasure we sang, how good they felt."
-msgstr ""
+msgstr "あぁ、我らが唄いし悦びの唄。どれほど心地よかったでしょう。"
 
 #. Key:	C52FEFD44780735A14B2A78C9F57D862
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -8243,7 +8243,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(1).Lines
 msgctxt ",C6B18EAC4E513704AB264E9A875521FB"
 msgid "A very sad song radiates from within..."
-msgstr ""
+msgstr "とても哀しい唄が、内側から発せられているのです……"
 
 #. Key:	C6D9B8644431D431610683A58FC57B84
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(6).LinesToMale
@@ -9573,7 +9573,7 @@ msgstr "はい！ いっしょに歌いましょう、人の子よ。"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",E5ED1DF6437395916BD42CBCD355E384"
 msgid "I hope my tentacles were not too much for you... yes they can deliver quite the load."
-msgstr ""
+msgstr "我が触手が、其方の手に余るものでなかったことを願う……うむ、触手は大量に射精できるのだ。"
 
 #. Key:	E5F734734AC1001F041105949672E015
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(11).Lines
@@ -9636,7 +9636,7 @@ msgstr "受け手が、攻め手に背を向けながら上下に動く。"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",E785DF8A4F91C040EC352CA7D80C247E"
 msgid "Waves of ecstasy still course through my body."
-msgstr ""
+msgstr "絶頂の波が、未だに我が身を駆け巡っています。"
 
 #. Key:	E786C6B44314BBD71D79DA9FE5AF0C96
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(3).Lines
@@ -10406,7 +10406,7 @@ msgstr "おぉぉぉ、いいぞ……はぁぁぁ……"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",FAF0FA2D4B10AE21D5D8D2A27EAE488D"
 msgid "Perhaps next time I will indulge myself and not go so easy on you..."
-msgstr ""
+msgstr "今度は、私は欲望の赴くままに楽しんで、其方にはあまり優しくないかもしれぬがな……"
 
 #. Key:	FB09A1964EDEBFF9F5E3839307040AEB
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchDefault01.Default__MonarchDefault01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -10742,7 +10742,7 @@ msgstr "{0} は気を失った……"
 #: Source/Radiant/Public/World/SexyDazeSystem.cpp:132
 msgctxt "ASexyDazeSystem,ReaperToll"
 msgid "The Reaper will have her toll..."
-msgstr "死霊は対価を要求する……"
+msgstr "刈り手は対価を要求する……"
 
 #. Key:	NoFuta
 #. SourceLocation:	Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:285
@@ -14095,7 +14095,7 @@ msgstr "有効にする"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:336
 msgctxt "WorldAction,ActivateDazeShrine"
 msgid "Commune with the Reaper"
-msgstr "死霊と交感する"
+msgstr "刈り手と交感する"
 
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:324
@@ -14131,4 +14131,3 @@ msgstr "話す"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "ポータルを通る"
-
