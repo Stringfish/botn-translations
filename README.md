@@ -10,8 +10,9 @@ There is a channel dedicated for discussing translations. Let me know in Discord
 https://discord.gg/6DpR6sb
 
 ### Stringfish の翻訳進行状況・予定
-（2020/06/28）  
-Ver.0.738用ファイルをフォークしました。
+（2020/07/18）  
+Falene、Neela、Camilla、Leylanna、Fern、Pawsmaati の Ver.0.738 追加分を翻訳しました。ローカルでは Romy も翻訳済みです。  
+追加テキストのニュアンスを汲むために Leylannaの役職 High Priestess の訳を変更（旧：女大祭司→新：高位の女神官）しました。
 
 UI 部分の文体は今のところ、基本的に常体を使い、ConfirmationBox 内の確認など所持金やアイテム・編集中データに影響を与える警告要素が強い部分のみ丁寧語で表記する方針です。  
 また可読性を確保するため、数字やアルファベット表記部分（現状では @ マクロが中心）の前後に半角スペースを挿入しました。  
