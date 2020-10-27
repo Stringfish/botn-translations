@@ -13,9 +13,9 @@ There is a channel dedicated for discussing translations. Let me know in Discord
 https://discord.gg/6DpR6sb
 
 ### Stringfish の翻訳進行状況・予定
-（2020/09/16）  
-0.738 & 0.740 Kybele、MegaSlime のログを翻訳しました。  
-Monarch、Autumn、Dragon Matriarch はもうしばらくお待ちください。
+（2020/10/28）  
+0.740 Monarch のログと TaskDescription、一部 0.742 分を含む UI を翻訳しました。  
+Autumn、Dragon Matriarch はもうしばらくお待ちください。次のパブリックビルドに間に合えばいいのですが…
 
 UI 部分の文体は今のところ、基本的に常体を使い、ConfirmationBox 内の確認など所持金やアイテム・編集中データに影響を与える警告要素が強い部分のみ丁寧語で表記する方針です。  
 また可読性を確保するため、数字やアルファベット表記部分（現状では @ マクロが中心）の前後に半角スペースを挿入しました。  
@@ -54,8 +54,8 @@ UI 部分の文体は今のところ、基本的に常体を使い、Confirmatio
 * Climax Peak：絶頂峰
 * Sultry Plateau：官能の台地
 * Moaning Crag：喘ぐ岩山
-* Sensual Sands：肉欲の砂漠
+* Lewd Desert：淫乱砂漠
 
 ### 一般動詞・名詞（特にシステムUI等で）
 * futa：ふたなり
-* breed：交配
+* breed：交配、育てる
