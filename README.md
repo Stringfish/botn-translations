@@ -13,10 +13,10 @@ There is a channel dedicated for discussing translations. Let me know in Discord
 https://discord.gg/6DpR6sb
 
 ### Stringfish の翻訳進行状況・予定
-（2020/11/01）  
-0.747 分を DerelictHelmsman 氏の Git からマージしました。  
-Autumn、Dragon Matriarch の翻訳は今回のパブリックビルドに間に合いませんでしたごめんなさい。  
-今後はおおむねゲート開放順で翻訳を行っていくと思います…
+（2020/11/19）  
+0.742 分の Autumn と Dragon Matriarch、Neela の 0.747 追加分を翻訳しました。また、Yasmine がローカルで翻訳済みです。  
+今後は Mega Slime 0.747 追加分→Queen Bee→Apopha Fesssi…で翻訳の予定です。  
+その後もおおむねゲート開放順で翻訳を行っていくと思います。
 
 UI 部分の文体は今のところ、基本的に常体を使い、ConfirmationBox 内の確認など所持金やアイテム・編集中データに影響を与える警告要素が強い部分のみ丁寧語で表記する方針です。  
 また可読性を確保するため、数字やアルファベット表記部分（現状では @ マクロが中心）の前後に半角スペースを挿入しました。  
