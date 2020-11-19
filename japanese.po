@@ -1,13 +1,13 @@
-﻿# japanese Japanese (Japan) translation.
+# japanese Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-10-31 17:28\n"
-"PO-Revision-Date: 2020-10-31 17:28\n"
+"PO-Revision-Date: 2020-11-19 21:38+0900\n"
 "Language-Team: \n"
-"Language: ja-JP\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -130,7 +130,7 @@ msgstr "こんなに小さな者が、クラーケンに突き入れる度胸を
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",026D19BC4A6B81E2694FF6B5E6EC3D9C"
 msgid "Eeek... big genitals!"
-msgstr ""
+msgstr "うわーっ……でっかいアソコ！"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -368,7 +368,7 @@ msgstr "この世界は @MONSTER_RACE@――謎に満ちた半人半獣の混合
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(3).Lines
 msgctxt ",07035EA54B778F47897F278270889BBF"
 msgid "Aww... it's so adorable watching them figure out how to reach the fruit on the high branches."
-msgstr ""
+msgstr "はぁぁ……とっても愛らしいわ。どうすれば高い枝の実に手が届くのか、あの子たちが考えるのを眺めるのは。"
 
 #. Key:	075A16DA4BA7F51C3A07099921F7F1B3
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
@@ -438,7 +438,7 @@ msgstr "キーストーンを手放してもらうために、彼女たちの望
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",0925499D4273278AA298A99B40C4550F"
 msgid "Believe me human, I have birthed many offspring."
-msgstr ""
+msgstr "つまりだな、人の子よ。我がたくさんの子を産んだのは事実だ。"
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
@@ -501,14 +501,14 @@ msgstr "もしかしたら……アナタは今まででイチバンの親友に
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
 msgctxt ",0AA608164C47369E28D0C6BFDB27289A"
 msgid "The most noble, mighty, and feared race beneath the waves we are!"
-msgstr "波の下でもっとも気高く、力強く、畏れられる種族、それが我らだ！"
+msgstr "波の下でもっとも気高く、力強く、畏れられる種族。それが我らだ！"
 
 #. Key:	0B1F283F4C4E0D0752DF53AB312D45F9
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(3).Lines
 msgctxt ",0B1F283F4C4E0D0752DF53AB312D45F9"
 msgid "I've heard about fertile Bovaur roaming in the south which produce vast quantities of breast milk."
-msgstr ""
+msgstr "南の地を歩き回る、豊満なボヴァウルたちの話を聞いたことがある。非常に多くの量の母乳を出すらしい。"
 
 #. Key:	0B2CFD3342EAE68FB552BF9F7876374B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(2).Lines
@@ -648,7 +648,7 @@ msgstr "よろしければ、入浴しますか？ それとも、そなたの�
 #: /Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(5).Lines
 msgctxt ",0D41FE0947E3B6D0F4FD10AF14FE68BE"
 msgid "For one of the @MONSTER_RACE@ race it is torture!"
-msgstr "これは @MONSTER_RACE@ に属する者にとって拷問なのだ！"
+msgstr "言わば、@MONSTER_RACE@ に属する者にとって拷問なのだ！"
 
 #. Key:	0DB9C395441D2A229D61EE963260C09C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.TitanCave.ManageActionMessage
@@ -1201,21 +1201,21 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",17A76DB943E2CB6F9ACC2A823244D892"
 msgid "Now I want to mate! I've been slumbering for many days, and I am extremely horny."
-msgstr ""
+msgstr "今、我は交尾がしたいぞ！ 数日の間まどろんでいて、我は大いに欲情している。"
 
 #. Key:	17D6A70C4116B743F6CB26ADEB18DFD0
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",17D6A70C4116B743F6CB26ADEB18DFD0"
 msgid "It's been so long since I have tasted warm cum."
-msgstr "あったかい精液を味わってからずいぶん経つなぁ。"
+msgstr "あったかい精液を味わってから結構経つなぁ。"
 
 #. Key:	186FDC7F49586189532EC29D0F8296D3
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL3.Default__DMDefault_RL3_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL3.Default__DMDefault_RL3_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",186FDC7F49586189532EC29D0F8296D3"
 msgid "It's presently grasslands and trees..."
-msgstr ""
+msgstr "今も草原が広がって、木々が生い茂ってるよ……"
 
 #. Key:	18CAD01243ECA034DDADA1A0880C715D
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(2).Lines
@@ -1383,14 +1383,14 @@ msgstr "一日でいっぱい興奮して、眠くなってきちゃった。"
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",1C71641945A1D7E57E40EEB16FB66E75"
 msgid "The lucky Titan will not expect such a massive load!"
-msgstr ""
+msgstr "そしてその幸運なタイタンは、まさかそんなに大量に射精されるとは思ってなかろう！"
 
 #. Key:	1C771B6F4DD1FF210888A5BB37418D44
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",1C771B6F4DD1FF210888A5BB37418D44"
 msgid "Many of them, but like all wild ones, they frequently phase in and out of the Void."
-msgstr ""
+msgstr "多くはそうだ。だが、すべての野性のネフェリムがそうであるように、あやつらもしばしば虚空に入ったり出たりしている。"
 
 #. Key:	1C97795346C0DCFF24FCF7965DB04AFF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(2).Lines
@@ -1425,7 +1425,7 @@ msgstr "女神はこれに喜ばれると、被造物たちが棲むための世
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(0).Lines
 msgctxt ",1CE3D3C14381A71E21FE5C9262A5AB20"
 msgid "Once every 1200 years, the Tree of Bliss will produce a fruit."
-msgstr ""
+msgstr "1,200 年に一度、「至福の樹」が実を付ける。"
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -1698,7 +1698,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",20D5FBB14DDFF45AA9B224862543CAFD"
 msgid "Sweet and juicy... oh!"
-msgstr ""
+msgstr "甘くてジューシー……おおっ！"
 
 #. Key:	20FEDBA24B5C623E162B85A3D6ACF514
 #. SourceLocation:	/Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.DisplayName
@@ -1740,7 +1740,7 @@ msgstr "このフラワー・ボディはすごいです。あなたもこの身
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",213C826F44FC31430F08EE8F97663F9A"
 msgid "Go play with the wild dragons, I'm sure they would love to get to know you better."
-msgstr ""
+msgstr "野性のドラゴンたちと戯れるがよい。きっと、あやつらはお主のことをもっと良く知りたいと思っているぞ。"
 
 #. Key:	214776AF4C822D0B66293DB4BC1D955C
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiDefault03_RL_F.Default__FesssiDefault03_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1761,7 +1761,7 @@ msgstr "どスケベ: 交配時に消費する性欲が 35% 減少する。"
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",219DB5F74ED7CB5AAC90FA94BF883682"
 msgid "How interesting... *yawn*"
-msgstr ""
+msgstr "なんとも興味ぶかい……（あくび）"
 
 #. Key:	21A08FF347BC7DE708B258BAD0F4BEF3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
@@ -1957,7 +1957,7 @@ msgstr "禁欲的: 性欲の最大値が20%上昇する。"
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",2501139743DDD3B68A226FB25573A87A"
 msgid "Yum... can I have the keystone now?"
-msgstr ""
+msgstr "おいしそうだね……今度こそキーストーン、もらってもいいかな？"
 
 #. Key:	25085F2F407D8D979CA1B39E030426E5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1999,7 +1999,7 @@ msgstr "あなた、ここから急いで去る必要はないのでしょう？
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(5).Lines
 msgctxt ",25A665DA43117878012D26AE56A39F23"
 msgid "Maybe if you see my fat ass younger sister, she could tell you more."
-msgstr ""
+msgstr "もし私のデカ尻な妹と出会うことがあれば、もっと詳しくあなたに話してくれるかもしれません。"
 
 #. Key:	25D626114231ECB08961C6AB69737AE1
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(1).Lines
@@ -2048,7 +2048,7 @@ msgstr "私をあなたの好きなようにして！"
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",26DAA5B74F8BBB68C15E26ADBB255431"
 msgid "It's true what they say about humans, you really can please us like nothing else."
-msgstr ""
+msgstr "ホントだったんだねぇ、人間についての噂。間違いなく、アタシたちに例えようがないぐらいの悦びをくれるって。"
 
 #. Key:	26DCB9EA476437386094CA87FFE3E422
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R02.Default__EmissaryBlessedInquiry01_R02_C.SessionData.Lines(0).Lines
@@ -2125,7 +2125,7 @@ msgstr "おわかりでしょうに……寂しいのですよ、ポータルの
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",2811094D446D211B1E656D8729FC40AD"
 msgid "Indeed, so much newfound energy!"
-msgstr ""
+msgstr "いかにも、新たな精力が満ちあふれている！"
 
 #. Key:	28327C5645A9138AE8E04488402E4848
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(2).Lines
@@ -2139,7 +2139,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",286C68074B4BC23284A19AB99A24049A"
 msgid "A chance to make a cherry with a human..."
-msgstr ""
+msgstr "人間とチェリーを作るチャンス……"
 
 #. Key:	288DF95142A24F16C989F78DB564A8B0
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_Orc.FailMessage
@@ -2286,7 +2286,7 @@ msgstr "ドラゴンの体液。"
 #: /Game/Dialogue/Autumn/Default/DryadDefault01.Default__DryadDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2C4B1039457C01738B40D6AC73FC0E41"
 msgid "Oh how good it feels to make each one..."
-msgstr ""
+msgstr "はぁ、良いのよねぇ。ひとつひとつ実を作るときの感覚は……"
 
 #. Key:	2C6E28494FB2D15A239584A77B01FA67
 #. SourceLocation:	/Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.DisplayName
@@ -2300,7 +2300,7 @@ msgstr "フォクセン・ハウス"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(5).Lines
 msgctxt ",2C85485F41A9CB181E6BF3A7AFBAD94C"
 msgid "Perhaps a little too much... they sure get chubby. Aww... but look how cute they are!"
-msgstr ""
+msgstr "ま、ちょーっと好きすぎるかもね……あの子たちどう見ても太ってるし。むぅぅ……けどあの子たちカワイイでしょ！"
 
 #. Key:	2CBC22E04FC3D2621685D7A54A4B69A8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(0).Lines
@@ -2349,7 +2349,7 @@ msgstr "人間のおまんこの味、まさにワタシが夢見てたとおり
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 msgctxt ",2D7FF6A641C8DE1EC57F84A825BA2219"
 msgid "To think I can mate with one... ah... yesss."
-msgstr ""
+msgstr "我がその一人と交尾できるとは……あぁ……よし、うむ。"
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
@@ -2440,7 +2440,7 @@ msgstr "ファーン、にんげんのおっぱい、ひつよう。おっきな
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault01.Default__DMDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2EDA99CC46CBEB3206A527B95F55FAB9"
 msgid "Go away human, this is my comfy spot and you can't have it."
-msgstr ""
+msgstr "立ち去れ、人の子よ。ここは心地よい我の場所で、お主の場所にはならん。"
 
 #. Key:	2EF1966C455529B6A75289AD5EF81C2E
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -2461,7 +2461,7 @@ msgstr "そなたの身体を我に預けよ。さすれば我ら励めるだろ
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(7).Lines
 msgctxt ",2F11F20945669A4E95B79EA1B7856C2A"
 msgid "A dryad's power reaches its peak at the moment of orgasm."
-msgstr ""
+msgstr "ドリアードの力が最大になるのは、絶頂に達するとき。"
 
 #. Key:	2F5513164D00080A441C1292E501C786
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(4).Lines
@@ -2503,7 +2503,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(7).Lines
 msgctxt ",2FC584B146298BF0F75983AB7F59C5E1"
 msgid "Don't look at me like that, a dryad needs a break once in awhile!"
-msgstr ""
+msgstr "そんな目で見ないでちょうだい、ドリアードにはときどき息抜きが必要なのさ！"
 
 #. Key:	2FFC051448D7AD3EA274FF8D334EE641
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex02.Default__MegaSlimeHadSex02_C.SessionData.Lines(1).Lines
@@ -2545,7 +2545,7 @@ msgstr "受け手が攻め手の膝の上に跨がり、上下に動く。女性
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(1).Lines
 msgctxt ",307B12694EA9D8B0251B9D86E3760DB8"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	308622B94E5A8BC25F1160888147CB16
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(4).Lines
@@ -2594,7 +2594,7 @@ msgstr "私の陰唇は、神聖で魔法を帯びます。我が唇の存在が
 #: /Game/Dialogue/DragonMatriarch/Default/DMLame.Default__DMLame_C.SessionData.Lines(0).Lines
 msgctxt ",30B4EDAF4D579766E7CE6082217D4CAC"
 msgid "*Yawwwwwwn*"
-msgstr ""
+msgstr "（大きなあくび）"
 
 #. Key:	3101A3934639560426484AA6C6AAE3A1
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(0).Lines
@@ -2776,7 +2776,7 @@ msgstr "うぅぅぅ……ニャ……今キャシーは悲しい。"
 #: /Game/Dialogue/DragonMatriarch/Default/DMSoBeIt.Default__DMSoBeIt_C.SessionData.Lines(0).Lines
 msgctxt ",350B5B304D18A9FD50E44AA8A979877B"
 msgid "Ahhh... so be it!"
-msgstr ""
+msgstr "あぁぁぁ……もうどうとでもなれ！"
 
 #. Key:	3526724A47197988348500AADC4A0504
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2937,7 +2937,7 @@ msgstr "この世界で小さいってことが、どんなことかわかりま
 #: /Game/Dialogue/DragonMatriarch/Default/DMTaskFulfilled.Default__DMTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",3815589C483262ECB1EA19B8C0F8DABA"
 msgid "You gave me so much milk, and I consumed all of it!"
-msgstr ""
+msgstr "お主はずいぶんと多くのミルクをくれたが、すべて飲み干してしまったぞ！"
 
 #. Key:	382D95F84EE60493751368AE5D1FFE56
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -2993,14 +2993,14 @@ msgstr "……"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(9).Lines
 msgctxt ",38BCD1174242BC7366EC2D967B472DE1"
 msgid "You can tell how hard I came by the size of the fruit. The larger ones were oh so fun to make."
-msgstr ""
+msgstr "実をこの大きさにするのがどれだけ大変かわかるでしょ。さらに大きなやつとなると、おぉ、作るのがすっごく愉しいんだ。"
 
 #. Key:	38CC526548FEE9E798647C9C32B75ECE
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(4).Lines
 msgctxt ",38CC526548FEE9E798647C9C32B75ECE"
 msgid "I decided to use my dryad power to produce fruit for them, and they love it."
-msgstr ""
+msgstr "決めたんだ、アタシのドリアードの力を使って、あの子たちのために果実を実らせようってね。そして、あの子たちはこれが好きなんだ。"
 
 #. Key:	38F493C44D198004851E1399B9B3A835
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToMale(1).LinesToMale
@@ -3077,7 +3077,7 @@ msgstr "ニャ！ すっごい良かったじゃん……"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(2).Lines
 msgctxt ",3A46F38444516EB07B8D84BC38A2B77C"
 msgid "Sure we made a giant fruit, but you lack the lust I require to feed these cows."
-msgstr ""
+msgstr "見ての通り、アタシたちは巨大な実を作ったわね。けどアンタの性欲じゃ、この牛たちに食べさせるために必要な分には足りないんだ。"
 
 #. Key:	3A5C7D5342118BA87B8C6595C9B5D200
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(7).Lines
@@ -3203,7 +3203,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",3C6949B84E9BE02327C5408DC7F1D673"
 msgid "I can help you make a cherry!"
-msgstr ""
+msgstr "あなたがチェリー作るの手伝えるよ！"
 
 #. Key:	3C944B624D25292479528987C3078CBF
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(7).Lines
@@ -3294,7 +3294,7 @@ msgstr "あぁぁぁ！ 彼女は退屈な任務にぴったりの玩具だ。�
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL.Default__DMDefault_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",3E509CE6430904677DC8DBB0A19336D8"
 msgid "Can't you nap somewhere else?"
-msgstr ""
+msgstr "どこか他の場所でうたた寝できないの？"
 
 #. Key:	3E5797444DCB450E19730E9C8CB6A4FB
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -3392,7 +3392,7 @@ msgstr "むぅ……"
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp_RL.Default__DryadCherryHelp_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",3FA017C943E38117C9C5C1B911067136"
 msgid "Let's make a fruit!"
-msgstr ""
+msgstr "さぁ、実を作ろう！"
 
 #. Key:	3FF7BD1544456D7735C2D2AA0DCBAA1A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -3490,7 +3490,7 @@ msgstr "ほとんどのクラーケンはふたなり、我らの悦びと潜在
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",415BAAD3485DF4862A1042A34A209E90"
 msgid "Perhaps a quick flight up to Climax Peak is in order, there's bound to be a dumb Titan lumbering about."
-msgstr ""
+msgstr "まぁ、ひとっ飛びして絶頂峰まで行くのが良いかもしれぬな。のろまなタイタンが、足音を響かせながら闊歩しておろう。"
 
 #. Key:	4163AB5147C585FA2B2677AB39C31FC2
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcAkabekoCheck.Default__OrcAkabekoCheck_C.SessionData.Lines(1).Lines
@@ -3602,7 +3602,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(1).Lines
 msgctxt ",433691C34A0864415618B78808993A0E"
 msgid "For hundreds of years I have come to this rock to rest, it's quite comfortable."
-msgstr ""
+msgstr "我はもう何百年も、この岩に憩いに来ている。ここは本当に心地がよい。"
 
 #. Key:	434F3EDD4D71E19F342B9FB4B2780A63
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(0).Lines
@@ -3630,7 +3630,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(0).Lines
 msgctxt ",436AE5954AEC637113E3E1A30DFDE1C5"
 msgid "Nah."
-msgstr ""
+msgstr "できん。"
 
 #. Key:	437DBE7940749A6838FDA39FD90FF637
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3784,7 +3784,7 @@ msgstr "我が母は偉大なクラーケン、美しく妖艶な海の乙女。
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",46745F5D451EF7EB89BFE58F57B364E3"
 msgid "Look at the size of it!"
-msgstr ""
+msgstr "見なよ、この実の大きさ！"
 
 #. Key:	46C09FA14157EC1F3D6608BB30F25A60
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(3).Lines
@@ -4239,7 +4239,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(2).Lines
 msgctxt ",4EBD4351412C922E0D1B4DAE8A11ABC7"
 msgid "It's not uncommon for a single Ayrshire to eat ten bosom cherries in a single day."
-msgstr ""
+msgstr "エアーシャーひとりが、1 日で おっぱいチェリーを 10 個食べることも珍しくないんだ。"
 
 #. Key:	4F17407F4C735CA48643138A59606A3C
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(2).Lines
@@ -4260,7 +4260,7 @@ msgstr "（ちゅぱっ） （ぺろっ）"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",4F3471C54B27DDD9BC7D5F8A12D1E871"
 msgid "Soft and plump, with many a bump."
-msgstr ""
+msgstr "柔らかくってぱっつぱつ、そんでもってぶっつぶつ。"
 
 #. Key:	4F37D08C43E11EDF706D07998D86692F
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(0).LinesGrungy
@@ -4624,7 +4624,7 @@ msgstr "ああああ……この年を経た管理者を満足させてくれま
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(6).Lines
 msgctxt ",562919BA4DDFB552659A82ABD2D238A1"
 msgid "Her name is Apopha Fesssi. Come to think of it... I haven't seen her in years."
-msgstr ""
+msgstr "妹の名はアポファ・フェッシです。そういえば……もう何年も妹に会っていませんね。"
 
 #. Key:	5629D6AE4A1B8ABE39599596DC46FC1C
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(16).Lines
@@ -4659,7 +4659,7 @@ msgstr "なぜ女神は、あのような無価値な生命体を創る必要を
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",577526BD4B68AFD89F753E8F9023A937"
 msgid "Somehow your little cock made me feel amazing."
-msgstr ""
+msgstr "どういうわけか、お主のちっちゃな男根は我を最高の気分にさせたぞ。"
 
 #. Key:	57759F684D98A4E1D01E469878BF79D9
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(2).Lines
@@ -4967,7 +4967,7 @@ msgstr "人間のメスとは違って、@MONSTER_RACE@ のメスの乳房は常
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",5F4FDDD7441D663752F3D78544042EEA"
 msgid "I'm getting wet just thinking about your thick cock seeding me."
-msgstr ""
+msgstr "濡れてきちゃうわ、ただアンタの太い男根がアタシに種付けするのを考えるだけで。"
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
@@ -5065,7 +5065,7 @@ msgstr "「大いなる事始め」って？"
 #: /Game/Dialogue/DragonMatriarch/Default/DMTaskFulfilled.Default__DMTaskFulfilled_C.SessionData.Lines(0).Lines
 msgctxt ",613E368A449069B472AC11842731C6AB"
 msgid "Ahhh so sweet and creamy! I haven't felt this good in decades."
-msgstr ""
+msgstr "はあぁぁ、とても甘くて濃厚だ！ こんなに清々しい気分になるのは数十年ぶりだ。"
 
 #. Key:	61A8146D43CCAA9D468CCC9D2CB22F42
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(4).Lines
@@ -5212,7 +5212,7 @@ msgstr "そだねぇ。あそこにだれか入ってから、もうわからな
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",63B540744119014025598C8555237076"
 msgid "Humans... I can understand why the world is obsessed with you now."
-msgstr ""
+msgstr "人間か……今、理解できた。この世界がお主に夢中になっている理由がな。"
 
 #. Key:	63B6296840BB64E725E7219F715EEAB1
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -5366,7 +5366,7 @@ msgstr "不潔"
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(4).Lines
 msgctxt ",660193204E5DEA727DEC1C858BA2467E"
 msgid "Legends say, when a blessed dragon consumes the milk she will be granted new vigor."
-msgstr ""
+msgstr "そして伝説にはこうある。祝福されしドラゴンがボヴァウルの乳をぐいと飲めば、その者に新たな活力が与えられると。"
 
 #. Key:	664C0BE948989DEEE1185793CB1EEE77
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -5401,7 +5401,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",66E2EA9044A750BB60AD308B87FE3071"
 msgid "They eat the bossom cherries faster than I can make them."
-msgstr ""
+msgstr "あの子たちは、アタシが作るよりも速くおっぱいチェリーを食べちまう。"
 
 #. Key:	66E8E5AB4E2D126AFBE3A7858C3E70EF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_PussyPortals.Default__NeelaDefault01_PussyPortals_C.SessionData.Lines(0).Lines
@@ -5548,7 +5548,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(6).Lines
 msgctxt ",69736B6847FFEF0E503D5B911CB4FE32"
 msgid "I may or may not take advantage of cute sleeping cows..."
-msgstr ""
+msgstr "で、アタシは眠ってるカワイイ牛ちゃんで愉しんだり愉しまなかったり……"
 
 #. Key:	697AC02A4A47BBBD70150ABE216F79E9
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(1).Lines
@@ -5709,7 +5709,7 @@ msgstr "ウォーターフォール！"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(4).Lines
 msgctxt ",6D1F8DD440DBF92518A5E6833EB831FA"
 msgid "I've heard legends of the daughters of the queen bee in Hivelands."
-msgstr ""
+msgstr "言い伝えを聞いたことがあるんだ。蜜溜まりの地に住む女王蜂の娘たちの話だ。"
 
 #. Key:	6D4E481742B09428791263B3A820281E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(4).Lines
@@ -5765,7 +5765,7 @@ msgstr "もしここから立ち去らぬなら、お前は私に馬乗りにな
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",6DFA50D843F564F540771EAD2DCC848B"
 msgid "Just don't tell her if you see her! If you do, you will feel the wrath of my fat cock again!"
-msgstr "女族長に会っても、このことは絶対話すなよ！ もし話したらお前はふたたび、我が太き槍の怒りを感じることになる！"
+msgstr "女族長に会っても、このことは絶対話すなよ！ もし話したらお前はふたたび、我が太き槍の怒りを体感することになる！"
 
 #. Key:	6DFC948B4585FAC19AED8692ED4B45F2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_F.Default__LeylannaDefault01_RechargeSpiritForm_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5828,7 +5828,7 @@ msgstr "え、ちょっと……ワタシ、あっ……"
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",6EB1D4054ABCE1E3818FC39FB5A8415A"
 msgid "Somehow you took a cock larger than you and still made it feel amazing."
-msgstr ""
+msgstr "どういうわけか、お主は自分よりも大きな男根を受け入れたうえに、最高の感触だった。"
 
 #. Key:	6ED67799423B871587B12E8DEC3D1BE1
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(0).Lines
@@ -5898,7 +5898,7 @@ msgstr "わたしの美しい花を見てください、咲きましたよ！ �
 #: /Game/Dialogue/DragonMatriarch/Default/DMGrasslandsTrees.Default__DMGrasslandsTrees_C.SessionData.Lines(0).Lines
 msgctxt ",6FBC636D494A40330AAEBDBCD6886299"
 msgid "What do you know human!"
-msgstr ""
+msgstr "人の子よ、今なんと申した！"
 
 #. Key:	6FD7E94044B57DA992A79BA4422CF69C
 #. SourceLocation:	/Game/Dialogue/Yasmine/Default/YasmineDefault01_RL.Default__YasmineDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -5926,7 +5926,7 @@ msgstr "神殿のダンジョンってどうなってるの？"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",703D9D7D4CD9D794DDE1929CCE0E5D1C"
 msgid "Bring it on dragon."
-msgstr ""
+msgstr "ばっちこい、ドラゴン。"
 
 #. Key:	703E8E554AE59D97908541A592216732
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcFixOwnGate.Default__OrcFixOwnGate_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -5968,7 +5968,7 @@ msgstr "ワタシたちは、ムダになる精液を新しい命に変えてる
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_T.Default__DMDefault_RL5_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",709579B446D8D4D2C2F3EE98857ED27A"
 msgid "Bring it on dragon."
-msgstr ""
+msgstr "ばっちこい、ドラゴン。"
 
 #. Key:	709C1A4748A9B0773A823DB8EB5B31E0
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeHadSex01.Default__BeeHadSex01_C.SessionData.Lines(2).Lines
@@ -6094,7 +6094,7 @@ msgstr "さぁどの体位、おさらいしたい？"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",725969164426D429929F949920B9A0BD"
 msgid "Delicious bosom cherries for all of my lovely dairies."
-msgstr ""
+msgstr "おいしいおっぱいチェリー、かわいいアタシのモーモーちゃんたちにー。"
 
 #. Key:	72676A264244C7A242C2688B7B60F6A5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
@@ -6437,7 +6437,7 @@ msgstr "そして……お前は我が太き馬ちんぽをよく受け入れた
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_Kybele.FailMessage
 msgctxt ",7A0924884575833B8154E88AE733B3E4"
 msgid "Kybele fiercely guards this keystone."
-msgstr "キュベレーはキーストーンを厳重に守っている。"
+msgstr "キュベレーがキーストーンを厳重に見張っている。"
 
 #. Key:	7A22D0874255FC1001174C8C01466911
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(3).Lines
@@ -6535,14 +6535,14 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",7BF991CE424A23FC457D0E9B71CACEBE"
 msgid "Is this a dream? Humans aren't supposed to exist."
-msgstr ""
+msgstr "これは夢か？ 人間は存在しないはずだが。"
 
 #. Key:	7C125E5D4D9517525ACC16A414D5C0E1
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",7C125E5D4D9517525ACC16A414D5C0E1"
 msgid "I didn't notice I had a visitor. A human visitor... how interesting."
-msgstr ""
+msgstr "お客が居たなんて気付かなかったよ。人間の客かぁ……面白いじゃないの。"
 
 #. Key:	7C3236894BBFE97A5B89BC84CF6B44F2
 #. SourceLocation:	/Game/Dialogue/Petra/Default/PetraDefault01.Default__PetraDefault01_C.SessionData.Lines(0).Lines
@@ -6780,7 +6780,7 @@ msgstr "アナタってすごくやさしい！ ここまでワタシに親切�
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(0).Lines
 msgctxt ",80E41C3F423650528E6EDA8372C9D9E8"
 msgid "We are the masters of this mountain range."
-msgstr ""
+msgstr "我らは、この山岳一帯の支配者。"
 
 #. Key:	8103840A43F7351F6B263C98CC5A6335
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(2).Lines
@@ -7067,7 +7067,7 @@ msgstr "私の一番の武器は、我が槍。両脚の間にある、巨大な
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(4).Lines
 msgctxt ",85D697914BECD8CA4AD94DB4BE76C00A"
 msgid "Dragons are old, very old. We were the first to claim these mountains."
-msgstr ""
+msgstr "ドラゴンは旧い、とても旧い。我らが一番最初にこの山々を手に入れたのだ。"
 
 #. Key:	85E58BD244C80942385F1793A5D30333
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(6).Lines
@@ -7319,7 +7319,7 @@ msgstr "ダメ！"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(3).Lines
 msgctxt ",88DA748247D4C0C5CE3BEC9851A55E05"
 msgid "Our nature inclines us to plant roots and help life flourish. In my case, I saw so many cows wandering aimlessly here."
-msgstr ""
+msgstr "アタシたちの性分なんだ。地面に根を張らせて、生命が繁栄するのを助けたくなるのは。アタシの場合は、たくさんの牛たちがここであてどなく歩き回るのを見たのさ。"
 
 #. Key:	88E908134B3B56C2274F33974CFB4AE5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(0).LinesToMale
@@ -7354,7 +7354,7 @@ msgstr "人間とまぐわう機会と来れば、我が心臓はいずれも高
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",89B96FEA426FD3ECBA90259F724E6DF2"
 msgid "I'm getting wet just thinking about us rubbing our labia together."
-msgstr ""
+msgstr "濡れてきちゃうわ、ただアタシたちの陰裂を擦り合わせることを考えるだけで。"
 
 #. Key:	89C2CF4D4CB264FC19F1259B533341FD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -7620,7 +7620,7 @@ msgstr "フォクセンの体液。"
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",8E34225A44160F2F0BD6DD9EFC546B2E"
 msgid "Ohhhh... we should do it again."
-msgstr ""
+msgstr "ふぅぅぅぅ……もう 1 回やろうじゃないか。"
 
 #. Key:	8E5478244452BC05131C69AB8D675563
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_RL.Default__AmberMaeSuckJugs_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -7872,7 +7872,7 @@ msgstr "アタシの毛むくじゃらの手でも元に戻せるけどさ、ど
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(5).Lines
 msgctxt ",9309BD074F9B0FFE924A35B157A44C07"
 msgid "The thunderous clash of their fall sometimes even shakes the fruit loose."
-msgstr ""
+msgstr "あの子たちが落ちるときの響くような衝撃が、実を揺り落とすこともあるけど。"
 
 #. Key:	931A324E4A49D084F8210CA54C479750
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -7893,7 +7893,7 @@ msgstr "すごいね！"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",934029E9456E811CFA0084839F9BABE4"
 msgid "Sweet and juicy, but just a little squishy."
-msgstr ""
+msgstr "甘くてジューシー、でもほんのちょっとプニョプニョだしー。"
 
 #. Key:	93692542487EDBAE8A18A699EC9053E1
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -8208,7 +8208,7 @@ msgstr "わたしの滑らかな身体の中に沈み込んでください、あ
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(4).Lines
 msgctxt ",97B7D1BE4E385C8A6215AC8465CF6026"
 msgid "Your little body will be overwhelmed, and the next thing you know will be the sweet embrace of the Reaper."
-msgstr ""
+msgstr "お主の小さな身体は蹂躙されてしまうだろう。そして気付いたときには刈り手の優しい抱擁の中だ。"
 
 #. Key:	97B89613437939D3F62A4F9364D46263
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(5).Lines
@@ -8292,14 +8292,14 @@ msgstr "フォクセンを管理する"
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(2).Lines
 msgctxt ",9894566A4CC22E8EE536A59E367BF98A"
 msgid "*Yawn*"
-msgstr ""
+msgstr "（あくび）"
 
 #. Key:	9906C87647695E1D9105C3867D704EB0
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(3).Lines
 msgctxt ",9906C87647695E1D9105C3867D704EB0"
 msgid "I have taken the... heavy burden... upon myself of growing the dragon population."
-msgstr ""
+msgstr "我は……重責を背中に……負っている。ドラゴンを殖やさねばならぬ。"
 
 #. Key:	992B062D49B06DDE4398A58352D2F7DF
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySexF.Default__MonarchStartShySexF_C.SessionData.Lines(0).Lines
@@ -8460,7 +8460,7 @@ msgstr "我が瞑想するあいだ、ただひとつ期待したい、いたし
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",9C0628944A08387197D344B7CBC502FB"
 msgid "The dragon race will reign supreme over all of @WORLD_NAME@!"
-msgstr ""
+msgstr "ドラゴンの種は @WORLD_NAME@ 全土に繁栄し、君臨するであろう！"
 
 #. Key:	9C25CF834B78D0D105D4C98D2D869441
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiHadSex01.Default__FesssiHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -8495,7 +8495,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",9CA55551425FE9DE83AB5B9535E62AFC"
 msgid "Tell me about dryads!"
-msgstr ""
+msgstr "ドリアードについて教えて！"
 
 #. Key:	9CB6C5E14DD6C412AD7898B8D2120925
 #. SourceLocation:	/Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(8).TextEntries
@@ -8586,7 +8586,7 @@ msgstr "ヒュージ（H）: 身長およそ 3 m。"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(8).Lines
 msgctxt ",9ECDE7F64C28F7F9624081B927CA3030"
 msgid "Compared to other Alraunes, dryads are wise and mobile. We use our pleasure to help others."
-msgstr ""
+msgstr "他のアルラウネにくらべて、ドリアードは賢くてよく動く。アタシたちは自分たちの快楽を、他者を助けるために使うんだ。"
 
 #. Key:	9EEBDB0446F2AAFA8F605E8A3DE83534
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -8621,7 +8621,7 @@ msgstr "すばしっこい: 機敏さによって、行動時の性欲消費が�
 #: /Game/Dialogue/DragonMatriarch/Default/DMGrasslandsTrees.Default__DMGrasslandsTrees_C.SessionData.Lines(1).Lines
 msgctxt ",9F82F5BC4976131C6A3861A1CAF32EFA"
 msgid "Yeah... I suppose you're right though."
-msgstr ""
+msgstr "あぁ、うむ……たしかにお主の言う通りかもしれぬが。"
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
@@ -8880,7 +8880,7 @@ msgstr "玩具を持ってきてよかったなぁ！"
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",A5496AE246B786D1E975C6A2F4004B43"
 msgid "That useless titty pony failed again I see. She will feel my wrath."
-msgstr ""
+msgstr "あの役立たずのおっぱいポニーちゃんは、またしくじったようだな。あの女は我が怒りを体感することになろう。"
 
 #. Key:	A56B0F264A329DF192CE53B3DBA118EB
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiWantAss.Default__FesssiWantAss_C.SessionData.Lines(2).Lines
@@ -8901,7 +8901,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(0).Lines
 msgctxt ",A59547D94C2E8733CA14998734EBC002"
 msgid "Haha! You joke human, my genitals are too big for you."
-msgstr ""
+msgstr "ハッハ！ からかうでないぞ、人の子よ。我が性器はお主には大きすぎる。"
 
 #. Key:	A5B9250C4C49694C624437927A399459
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeHaveKeystone1.Default__BeeHaveKeystone1_C.SessionData.Lines(2).Lines
@@ -8929,7 +8929,7 @@ msgstr "つまり、ワタシよ！"
 #: /Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",A6DD5AA2419F165755885E8ED44BB09B"
 msgid "You are lucky, for today you have crossed paths with the Kraken princess of Formuria."
-msgstr "其方は幸運だぞ。今日、フォーミュリアのクラーケンの姫と、道を交えたのだからな。"
+msgstr "其方は幸運だぞ。今日、フォーミュリアのクラーケンの姫と道を交えたのだからな。"
 
 #. Key:	A6EE239344DA6CC08AFE6E8689A1996F
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(1).Lines
@@ -8971,7 +8971,7 @@ msgstr ""
 #: /Game/Dialogue/Monarch/Default/MonarchDefault01_RL.Default__MonarchDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",A794490B471FFA8A958C3BA3B3BFDB9C"
 msgid "How adorable, may I have the keystone now?"
-msgstr "カワイイなぁ。今度こそキーストーン、もらってもいいかな？"
+msgstr "カワイイねぇ。今度こそキーストーン、もらってもいいかな？"
 
 #. Key:	A7C8404E4B6C68006478148076380602
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(14).Lines
@@ -9055,7 +9055,7 @@ msgstr "スライム、スライム、スライム……ワタシは自分のス
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",A91571364DFC6A4FA3772D9FCBDB52AA"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "どれが我の子なのか、だれが分かるだろう。そして我も気になどせぬ。この女族長、繁殖を続けるのみよ。終わりの時までな。"
 
 #. Key:	A91A80914B126F3C3F262D93E88AEA71
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -9160,7 +9160,7 @@ msgstr "変わったね！"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(6).Lines
 msgctxt ",AA4B233A44217B671C811FA495E456B5"
 msgid "She can pollinate me all day, and together we will make amazing fruit."
-msgstr ""
+msgstr "蜂っ娘は私を一日中授粉させられる。ふたりで一緒に素晴らしい実を作るんだ。"
 
 #. Key:	AAD8CEA34AE6DE13A8683089046598D3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(6).Lines
@@ -9244,7 +9244,7 @@ msgstr "そういう態度だぞ、人間。お前は十分に私を不快にさ
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",AC4DD54E4585ECFF9E20A9806DEDCEE4"
 msgid "My apologies human, I was lost in thought. I'm always busy making fruit for the cows."
-msgstr ""
+msgstr "許してね人間ちゃん、考えごとしてたのよ。牛たちのために実をつけるのに忙しくってさぁ。"
 
 #. Key:	ACB6D0AB4FEF709BE8976DAF20A467D6
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(0).Lines
@@ -9300,7 +9300,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",AD8370D449B2058385D511BCC7D8B193"
 msgid "Bosom cherries?"
-msgstr ""
+msgstr "おっぱいチェリー？"
 
 #. Key:	ADE570A545B3D82C930945ACF5A2C3CE
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowTaskFulfilled.Default__WidowTaskFulfilled_C.SessionData.Lines(1).Lines
@@ -9349,7 +9349,7 @@ msgstr "セックスと冒険の世界が待ってるわ！"
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",AE940C0E4203F3605E98088D0827EA0B"
 msgid "Believe me human, I have sired many offspring."
-msgstr ""
+msgstr "つまりだな、人の子よ。我がたくさんの子を産ませたのは事実だ。"
 
 #. Key:	AE9DC6E246625CE553B669ADBD1EB570
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_F.Default__CassieDefault01_Meow_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -9405,7 +9405,7 @@ msgstr "多様化: 子が一定の確率で、召喚時にランダムな特性�
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",AFF40FDB49E0435621047691DD80B3DC"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "どれが我の子なのか、だれが分かるだろう。そして我も気になどせぬ。この女族長、産み続けるのみよ。終わりの時までな。"
 
 #. Key:	B00960644B62BA0C4CBBCD83C25D5855
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcHadSex01.Default__OrcHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -9419,7 +9419,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(2).Lines
 msgctxt ",B0133AC44E841D002819DB9289664369"
 msgid "However, they are mere simpletons that serve as my breeding stock!"
-msgstr ""
+msgstr "しかしながら、やつらは単なるデクの坊だ。我の種畜として世話になってはいるがな！"
 
 #. Key:	B071E1E04B9EA4D9C227C2935955161A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(0).Lines
@@ -9475,7 +9475,7 @@ msgstr "そのとおりです、@BREEDER_NAME@。"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL2.Default__DMDefault_RL2_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",B1435DF7419D2F4948DD9B9EFF8E628E"
 msgid "Are all of these wild dragons your children?"
-msgstr ""
+msgstr "この野性のドラゴンたちは、みんなあなたの子孫なの？"
 
 #. Key:	B146211A43E4F159EC3A0C85790314DD
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -9496,7 +9496,7 @@ msgstr "しばらく馬乗りで挿入れられてなかったからな、荒っ
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B17C429C4AE53B8CA98F5E8166D598D2"
 msgid "Come closer human..."
-msgstr ""
+msgstr "もっと近くに来なさい、人間ちゃん……"
 
 #. Key:	B18F6EA040A16FCFD95EB3894A067B79
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(5).Lines
@@ -9825,7 +9825,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(8).Lines
 msgctxt ",B79CA71847A95B814D43088A9A29BF45"
 msgid "Besides, when I make love with them it spares them from dealing with the Reaper, and my orgasm creates another bosom cherry."
-msgstr ""
+msgstr "それに、アタシと愛を結べばあの子たちは刈り手と取り引きしなくて済むし、アタシがイッたときにおっぱいチェリーがひとつ出来る。"
 
 #. Key:	B79CB910400AA9573644BCA03D3D9F51
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(15).Lines
@@ -9902,7 +9902,7 @@ msgstr "ほら、なに遠慮してるの？ 入りなよ！"
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",B825E1564FCBA4D960D238AFD10804AC"
 msgid "The lucky Titan's cock won't be able to keep up!"
-msgstr ""
+msgstr "そしてその幸運なタイタンの陽物は、長くは持たんだろう！"
 
 #. Key:	B8297A054AB04B137F3266B6480756F5
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(3).Lines
@@ -9923,7 +9923,7 @@ msgstr "なんてカワイイしゃべるシダ（fern）……"
 #: /Game/World/Architecture/CockblockGate/EM_CBGate.Default__EM_CBGate_C.ActivateMessage
 msgctxt ",B82BF1F5413587624AD2A6919AF2A0BA"
 msgid "Place Keystone"
-msgstr "キーストーンを置く"
+msgstr "キーストーンをハメる"
 
 #. Key:	B832AA994DBADAA17A15049B206652C5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(9).Lines
@@ -9958,7 +9958,7 @@ msgstr "受け手は高い位置で仰向けになり、攻め手は立ったま
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(2).Lines
 msgctxt ",B864A1D642255D8E7C1821AC53EC9231"
 msgid "*Yawn*"
-msgstr ""
+msgstr "（あくび）"
 
 #. Key:	B87369D344C73AFA3F04D49BC07D8BE3
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiTaskFulfilled.Default__FesssiTaskFulfilled_C.SessionData.Lines(2).Lines
@@ -10112,7 +10112,7 @@ msgstr "わたしたちの娘に名前をつけてやってください！"
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp_RL.Default__DryadCherryHelp_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",BC29BB8B478C65C2CBA0898E60299364"
 msgid "Uh, I only make babies not fruit."
-msgstr ""
+msgstr "あー、作るのは赤ちゃんだけです。実は作らないです。"
 
 #. Key:	BC33AF644FC93D01CDEF628CB3209014
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -10203,7 +10203,7 @@ msgstr "だがもし、性的な出会いのほうが私のもとへ来たのな
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(1).Lines
 msgctxt ",BDF0CA7D47EE073120067A9FCE686C17"
 msgid "They are for the Ayrshires that roam around here, and oh my can they eat!"
-msgstr ""
+msgstr "チェリーは、ここいらをうろついてるエアシャー種のためのもの。そしてあぁ、あの子たちはこの実を食べていいのさ！"
 
 #. Key:	BDF9214F4D266A69032FE9921524969C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -10343,14 +10343,14 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",C0073F7149266435A304ECAB73399664"
 msgid "Ahhh... you made me feel so good, I've never produced such a large fruit."
-msgstr ""
+msgstr "はぁぁぁ……アンタすごくいい感じだったわ。アタシ、こんな大きな実を付けたことなんてなかったよ。"
 
 #. Key:	C034823A4189F2EED2DFEBB7B3005286
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL4.Default__DMDefault_RL4_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL4.Default__DMDefault_RL4_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",C034823A4189F2EED2DFEBB7B3005286"
 msgid "Forget the Titan, how about some human?"
-msgstr ""
+msgstr "そのタイタンのことは忘れてさ、人間はいかがです？"
 
 #. Key:	C03BBCDD4AACD3CC387AAAB2A4FD00E9
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(1).Lines
@@ -10455,7 +10455,7 @@ msgstr "おおぉ……後悔はさせんぞ、人の子よ。"
 #: /Game/Dialogue/DragonMatriarch/Default/DMSoBeItT.Default__DMSoBeItT_C.SessionData.Lines(0).Lines
 msgctxt ",C31358424DDC04F9D0E9C2AFEADAFCE4"
 msgid "Ahhh... so be it!"
-msgstr ""
+msgstr "あぁぁぁ……もうどうとでもなれ！"
 
 #. Key:	C3445C514F78EFD7116EE28D6898079D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(5).Lines
@@ -10644,7 +10644,7 @@ msgstr "いいよ！ アナタがイキそうなのを感じる……すべて�
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Lines(0).Lines
 msgctxt ",C6E5F355439A82543536AA974313674B"
 msgid "It's yours now, I hope it serves you well."
-msgstr ""
+msgstr "それはもうアンタのものさ。そいつが上手く役に立つよう祈るよ。"
 
 #. Key:	C720F2B64D81061E9D1CC7A3ACD4F0BB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(12).Lines
@@ -10721,7 +10721,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",C91B08354F7D144D174BCB8A2C8384CF"
 msgid "Now if you don't mind, I'd love to get back to my nap."
-msgstr ""
+msgstr "さあ、お主さえよければ、我は仮眠に戻りたいのだがな。"
 
 #. Key:	C933962A4C5DD7F022D428AEE50FE2C0
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -10868,7 +10868,7 @@ msgstr "当然、彼女が現れるやいなや、ふたりで愛し合った…
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",CC453F864879B9206AA86C866817E4F7"
 msgid "Do come back... my deep dragon pussy yearns for more."
-msgstr ""
+msgstr "戻ってくるのだぞ……我が深きドラゴンの陰裂は、もっと欲しがっている。"
 
 #. Key:	CC8A60E34A4F302BEBD0CCB8D0F5B282
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiDefault03_RL_T.Default__FesssiDefault03_RL_T_C.ResponseData(3).ResponseData.BreederPrompt
@@ -10952,7 +10952,7 @@ msgstr "なんでも建てられるよ、アンタのアソコが欲しいやつ
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",CE38F80044474A7AE6C3A68384DE4350"
 msgid "You can have it if you help me with a little problem."
-msgstr ""
+msgstr "持ってってもいいよ。アタシのちょっとした悩みごとの解消を手伝ってくれたらね。"
 
 #. Key:	CE50C843466352316F4461BC2722C00E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
@@ -10980,7 +10980,7 @@ msgstr "えっと……あのー……教えを「忘れ」ちゃった。"
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(5).Lines
 msgctxt ",CE86D5D34609962D9883CD82312DAC88"
 msgid "Are you sure you can handle this human?"
-msgstr ""
+msgstr "本当にちゃんと上手くやれるんだな、人の子よ？"
 
 #. Key:	CEB5AB8346357320346305B899A9C7BB
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(3).Lines
@@ -11162,21 +11162,21 @@ msgstr "ワタシも今まさに、その衝動と戦ってるの……"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(0).Lines
 msgctxt ",D195ECC34D71382CA65FD091CD7680D5"
 msgid "It's the giant red fruit you see all over the pastures. Everyone was crafted with love by me."
-msgstr ""
+msgstr "巨大な赤い実だよ、この牧野のあちこちで見かけるでしょ。みんな、私の愛で作り上げられるんだ。"
 
 #. Key:	D1984E71418CEF4F3D39AC911B217790
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(1).Lines
 msgctxt ",D1984E71418CEF4F3D39AC911B217790"
 msgid "Many aquatic @MONSTER_RACE@ inhabit our fair kingdom, but only Krakens have the might and will to rule."
-msgstr "多くの水棲 @MONSTER_RACE@ が、我らの清らかな王国に住んでいる。だが、クラーケンのみが、国を統治する力と意志を持つのだ。"
+msgstr "多くの水棲 @MONSTER_RACE@ が、我らの清らかな王国に住んでいる。だがクラーケンのみが、国を統治する力と意志を持つのだ。"
 
 #. Key:	D1B21A3544F4242222944E97EA03E1BB
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",D1B21A3544F4242222944E97EA03E1BB"
 msgid "Do come back... my cock will be waiting."
-msgstr ""
+msgstr "戻ってくるのだぞ……我の男根が待っている。"
 
 #. Key:	D1E7FBF645BBEB29F682D5A4FAB6A2A5
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiWantTongue.Default__FesssiWantTongue_C.SessionData.Lines(0).Lines
@@ -11211,7 +11211,7 @@ msgstr "ごしゅずん、とりたくないとき……ファーンがとる。
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(2).Lines
 msgctxt ",D251615D4084E3BFFB18D4B26806806F"
 msgid "I admit, it is quite tempting. Humans were a myth until I met you."
-msgstr ""
+msgstr "わかった、正直に言おう。それはとてもそそられる話だよ。人間は神話だったのだからな、お主に会うまでは。"
 
 #. Key:	D2843C204C6DDAA26611B0B57F67BC41
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcBrashDumb.Default__OrcBrashDumb_C.SessionData.Lines(6).Lines
@@ -11246,7 +11246,7 @@ msgstr "その球なんだけど……"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL2.Default__DMDefault_RL2_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D3139F1545004EAAF227C0A0C62B74E9"
 msgid "Tell me about dragons!"
-msgstr ""
+msgstr "ドラゴンについて教えて！"
 
 #. Key:	D320A28645DC907082F6169F08223AA5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(0).Lines
@@ -11274,7 +11274,7 @@ msgstr "（ため息）見てのとおり、ワタシたち @MONSTER_RACE@ は�
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Lines(1).Lines
 msgctxt ",D3EBA5FE4F8C935CB40680BE9D7ED27E"
 msgid "I see I've been slacking off and let my roots overtake the gate to the cove."
-msgstr ""
+msgstr "どうやらアタシは管理を怠けてて、アタシの根っこが入り江への門を覆ってたみたいだね。"
 
 #. Key:	D3EBB7904D4648D8930D5B98189AC73D
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Hybrid/Harvest/HybridHarvest.Default__HybridHarvest_C.Harvest.RaceName
@@ -11323,7 +11323,7 @@ msgstr "そろそろ……はぁぁぁ……其方はクラーケンのドロド
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(5).Lines
 msgctxt ",D4E7C4CC40DA7F02F81C91A5CFBF13E8"
 msgid "Bring me Bovaur milk, and lots of it."
-msgstr ""
+msgstr "我にボヴァウルのミルクを持ってまいれ、たっぷりとだぞ。"
 
 #. Key:	D4F1F3F04E4BCBC46FFF2E9AC9B301C0
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -11344,7 +11344,7 @@ msgstr "私よりも旧い @MONSTER_RACE@ はめったに居ないのですが�
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",D52E88834BD47EFB47BD74839CEEB65D"
 msgid "Can I have that keystone?"
-msgstr ""
+msgstr "そのキーストーン、もらってもいい？"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
@@ -11414,7 +11414,7 @@ msgstr "数え切れぬ @MONSTER_RACE@ の魂が虚空の中で、この世界�
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(5).Lines
 msgctxt ",D5F8F9DC452D7E14F022B7A4C04B523C"
 msgid "If you can breed me a lovely honey bee, it would be a massive help."
-msgstr ""
+msgstr "もしアタシにステキな蜜蜂を育ててくれるなら、力強い助けになるだろう。"
 
 #. Key:	D60B38ED43ABAC98BCB33FBB4B3477F4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -11449,7 +11449,7 @@ msgstr "……"
 #: /Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(1).Lines
 msgctxt ",D6D627BB4317AEDB4A049A875CA79F63"
 msgid "We bring her nectar and please her sexually, and in return she let's us eat of her h-h-honey."
-msgstr "我々は女王に花蜜を届けたり、女王を性的な意味で悦ばせたりします。そして女王は見返りに、我々に許しをくださるのです。女王の、み、み、蜜を口にすることを。"
+msgstr "我々は花蜜を届けたり、女王を性的な意味で悦ばせたりします。そして女王は見返りに、我々に許しをくださるのです。女王の、み、み、蜜を口にすることを。"
 
 #. Key:	D6E5B72340D672B892908385DF8BC169
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -11463,7 +11463,7 @@ msgstr "ワタシの場合、あの上にある錬金術師ギルドが、新鮮
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(0).Lines
 msgctxt ",D6ECEFA141121C7CDA69A5BAC65087CE"
 msgid "Ah, you wish to have sex with the mighty Titans; I can respect that, for I have done it many times."
-msgstr ""
+msgstr "ははぁ、お主は力強きタイタンたちと交尾したいのだな。その気持ちは尊重できるぞ、我も何度も犯ったからな。"
 
 #. Key:	D720325F44DF14DB1473D0A78512EB8E
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -11484,7 +11484,7 @@ msgstr "油断しているときに馬乗りなられてデタラメに挿入さ
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb_RL.Default__MegaSlimeAboutOrb_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D76798CF4DCADF9AF42C6B88C36E27FB"
 msgid "This won't be easy..."
-msgstr "それはどうかなぁ……"
+msgstr "これは簡単にはいかなさそうだぞ……"
 
 #. Key:	D79654914AB8CE6E58B5A28BDCFB3EBC
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToMale(5).LinesToMale
@@ -11498,7 +11498,7 @@ msgstr "スライムは栄養たっぷりの媚薬、とっても強力なモノ
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",D7A6D67F4C7BFFA071AA8480399A5D41"
 msgid "I can't believe it!"
-msgstr ""
+msgstr "信じられん！"
 
 #. Key:	D7B87B2D4E7F9B733C981C804A0914C8
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -11554,7 +11554,7 @@ msgstr "うわぁ、とってもカワイイよ、おっぱいポニーちゃん
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(1).Lines
 msgctxt ",D839985345EFF273DA362C9BB07DA471"
 msgid "Don't be fooled by those Titans. They might seem like they own the place with their massive size and strength."
-msgstr ""
+msgstr "あんなタイタンたちに騙されるでないぞ。やつらはあの巨体と力で、この地を治めているように見えるかもしれぬ。"
 
 #. Key:	D857E31D47711B85E634029A4E3EB6E7
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Breaks.PlaceMessage
@@ -11638,7 +11638,7 @@ msgstr "あぁ、ご主人様……あなたは、わたしにはもったいな
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",D946784E4574F80408FA7D82B80E4EAC"
 msgid "I'm getting wet just thinking about your thick cock seeding me."
-msgstr ""
+msgstr "濡れてきちゃうわ、ただアンタの太い男根がアタシに種付けするのを考えるだけで。"
 
 #. Key:	D970772D478546EA5EFEA68C821EAC60
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcHadSex01.Default__OrcHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -11652,7 +11652,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(2).Lines
 msgctxt ",D98B804D4BEB2904234F77AB902776CD"
 msgid "Every dryad is blessed by the Goddess, there are no wild dryads."
-msgstr ""
+msgstr "どのドリアードもみんな女神に祝福されていて、野性のドリアードはいない。"
 
 #. Key:	D9AEE5314A7E8A6D9F57F6B9A6116A55
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -11988,7 +11988,7 @@ msgstr "オータムは満足した。"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",DE21C1784F767D32E852689C8D264665"
 msgid "It's been so long since I have given slime."
-msgstr "スライムを入れてあげてからずいぶん経つなぁ。"
+msgstr "スライムを入れてあげてから結構経つなぁ。"
 
 #. Key:	DE7B484C4224680737F160881A189942
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(2).Lines
@@ -12065,7 +12065,7 @@ msgstr "私の黄金色の肌は御意に叶いましたか、@BREEDER_NAME@？"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(1).Lines
 msgctxt ",E04E71634CD5DA9067A43C8F3AE1A4F3"
 msgid "After decades of growth, the fruit will fall off and a dryad will emerge."
-msgstr ""
+msgstr "そして数十年かけて成長したあと、実は落ち、ドリアードが現れるんだ。"
 
 #. Key:	E0699FC749A0DDDF3E385CA8D6F3E80E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
@@ -12100,7 +12100,7 @@ msgstr "そういうわけで、私たちは気が付くといつもセックス
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(6).Lines
 msgctxt ",E0CB0262419C2D4379873799FB2844BC"
 msgid "I guess I do spoil them..."
-msgstr ""
+msgstr "アタシ、甘やかしすぎてあの子たちをダメにしちゃうかな……"
 
 #. Key:	E0E93AA54E36B2C3F876CEBE1F52C2FC
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(4).Lines
@@ -12226,7 +12226,7 @@ msgstr "あぁ、アンタの手すごくいいんだわ。アタシのアソコ
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(5).Lines
 msgctxt ",E2F13B714EEE6046C9069A8F6F71DA0B"
 msgid "Why I remember when this area was just grasslands and trees!"
-msgstr ""
+msgstr "そうとも、我は憶えているぞ。この地にただ草原が広がり、木々が生い茂っていたあの頃を！"
 
 #. Key:	E32B21044CA4F23C751CD4AC2F814FC7
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcFixOwnGate.Default__OrcFixOwnGate_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -12261,7 +12261,7 @@ msgstr "うーん……なんか思ってたのと違う！"
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(1).Lines
 msgctxt ",E41A1FB14C3203DC5709BD9DDA4C90B4"
 msgid "Perhaps we can strike a bargain."
-msgstr ""
+msgstr "ひょっとすると、我らは取り引きできるやもしれぬな。"
 
 #. Key:	E44DC681421F83D23915B6BCE7AF12EF
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(0).Lines
@@ -12331,7 +12331,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL2.Default__DMDefault_RL2_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",E4C07523420122C952973D869A7F228C"
 msgid "Now that you have so much energy..."
-msgstr ""
+msgstr "それじゃ今、あなたは精力がみなぎってるんだ……"
 
 #. Key:	E4D00AF649A1E7AC5659FFA04BB04427
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(0).Lines
@@ -12387,7 +12387,7 @@ msgstr "テスト 4"
 #: /Game/Dialogue/Autumn/Default/DryadTaskFulfilled.Default__DryadTaskFulfilled_C.SessionData.Lines(0).Lines
 msgctxt ",E5B424C34D393C3602C0EA8AF2AB1F9E"
 msgid "What a sweet little honey bee."
-msgstr ""
+msgstr "なんとかわいらしい蜜蜂だろう。"
 
 #. Key:	E5B7F2E2469864C41253FC892250ED92
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_Start.Default__RomyDefault01_YourMusic_Start_C.SessionData.Lines(0).Lines
@@ -12583,7 +12583,7 @@ msgstr "そうなんですよ……一度ここにヒルを持ってきたこと
 #: /Game/Dialogue/DragonMatriarch/Default/DMTaskFulfilled.Default__DMTaskFulfilled_C.SessionData.Lines(2).Lines
 msgctxt ",E90C40EC48C37A3A560F8083C83692A7"
 msgid "Perhaps I should do this from now on instead of wasting days slumbering."
-msgstr ""
+msgstr "どうやら、昼日中にまどろむぐらいなら、これを飲んでる方がいいのかもしれぬな。"
 
 #. Key:	E91EF4164FCD12832A52B095A8557B4A
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DragonHoard.ManageActionMessage
@@ -12618,7 +12618,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMNap_RL.Default__DMNap_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",E9A374BB46F94E4B206A549D48B4D6FD"
 msgid "But I must go to Climax Peak."
-msgstr ""
+msgstr "でも絶頂峰に行かなきゃならないんです。"
 
 #. Key:	E9AB731F47E3F6759C9BEA90AA3E32CB
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(0).Lines
@@ -12653,7 +12653,7 @@ msgstr "ふぇっ……そ、そ、そんな……うわっ。"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(2).Lines
 msgctxt ",EA5FEF4E48F8E04291135AA9D42A6CE4"
 msgid "It is I, Mirru, who will be next in line to become queen, for all of my siblings are of low birth."
-msgstr "そして、我こそがミルル、次期女王位継承者となる身だ。他のきょうだいは序列が低いのでな。"
+msgstr "そして我こそが、ミルル。次期女王位継承者となる身だ。他のきょうだいは序列が低いのでな。"
 
 #. Key:	EAB6EBE14AAB0E16FF7079998969A562
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -12737,7 +12737,7 @@ msgstr "巨根: 遺伝的に、大きな男性器を持つ。"
 #: /Game/Dialogue/Autumn/Default/DryadDefault01.Default__DryadDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",EC505AF645F08A603F4BDF98F4F09BAC"
 msgid "So many bosom cherries to make, the cows are always ready to eat them."
-msgstr ""
+msgstr "おっぱいチェリーをたくさん作らなきゃ。牛ちゃんたちはいつでもチェリーを食べる用意ができてるんだ。"
 
 #. Key:	EC6BFF394580DB5B2B148096C2994439
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
@@ -12751,7 +12751,7 @@ msgstr "なんでご主人様って呼んだの？"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL.Default__DMDefault_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",EC7903464D18A00937FD1CB94B22B7B8"
 msgid "Lame. I thought the Dragon Matriarch would be better!"
-msgstr ""
+msgstr "つまんないの。ドラゴンの女族長ってもっと話がわかると思ったのに。"
 
 #. Key:	EC7D97C640A2B4A5E3BFACACD27F84F8
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(2).Lines
@@ -12793,7 +12793,7 @@ msgstr "ワタシたち、液体を搾り取るための野性のネフェリム
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(0).Lines
 msgctxt ",ECE912E146D6A887F2F7C39091185320"
 msgid "Oh that old thing stuck in my roots?"
-msgstr ""
+msgstr "おや、あの古いヤツがアタシの根っこにハマってるって？"
 
 #. Key:	ECF633104DBC2948B9EE9FB8C499DCA5
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcHadSex01.Default__OrcHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -12891,7 +12891,7 @@ msgstr "この聖なる器がこんなかたちで触られるのは数千年ぶ
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(3).Lines
 msgctxt ",EF23DE3948A14D6E8E26C397EFF2D243"
 msgid "You're just jealous and want it for yourself!"
-msgstr ""
+msgstr "お主はただうらやましくて、自分自身のためにここが欲しいのだろう！"
 
 #. Key:	EF7904964EA5BDAA8F91D29F54021C40
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowSpiders.Default__WidowSpiders_C.SessionData.Lines(8).Lines
@@ -12905,7 +12905,7 @@ msgstr ""
 #: /Game/Dialogue/Autumn/Default/DryadStartMakeCherry.Default__DryadStartMakeCherry_C.SessionData.Lines(0).Lines
 msgctxt ",EF902B4F424735BE83B622865F58AED8"
 msgid "Climb up here with me..."
-msgstr ""
+msgstr "ここに登ってきて、アタシといっしょに……"
 
 #. Key:	EFEE39A441DF6F79110B608104881B11
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(7).Lines
@@ -12926,7 +12926,7 @@ msgstr "わわっ……このフォクセン、は、は、速いです！"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_T.Default__DMDefault_RL5_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",EFFEEA9A4CC82094FD20CABC0AF432BB"
 msgid "Eeek... big genitals!"
-msgstr ""
+msgstr "うわーっ……でっかいアソコ！"
 
 #. Key:	F010E1B74164FC7DBBA07E8F73124FEF
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -12961,7 +12961,7 @@ msgstr "（ちゅぱっ） （ぺろっ）"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(4).Lines
 msgctxt ",F04A18AC479B4181D244928A4D159C06"
 msgid "Most of the time they fall, and then immediately sleep from over exertion."
-msgstr ""
+msgstr "ほとんどの場合あの子たちは落っこちて、それからすぐ眠っちまうのさ。頑張り過ぎでね。"
 
 #. Key:	F05FD1324ABB81C7141ED7A41A996723
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(7).Lines
@@ -12989,7 +12989,7 @@ msgstr "1秒ごとにどんどん濡れていく……"
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",F0A3AEEB4B43B9230E0996961D788CD4"
 msgid "I am the Dragon Matriarch of Virgin Breaks, and you have awoken me from my slumber."
-msgstr ""
+msgstr "我は破瓜の崩落地に棲まうドラゴンの女族長、そしてお主は我をまどろみから目覚めさせた。"
 
 #. Key:	F0AE51CA47FD221A60043B81E2DB05FB
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -13052,7 +13052,7 @@ msgstr "スモール（S）: 身長およそ 1.5 m。"
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",F1DF0EFD4196365D249B2EBDA93F7F85"
 msgid "*Yawn*"
-msgstr ""
+msgstr "（あくび）"
 
 #. Key:	F1E5410345C530DA657424BD124E30D9
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -13304,14 +13304,14 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",F7C4336C4CE85A985EE8819488AD2853"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "どれが我の子なのか、だれが分かるだろう。そして我も気になどせぬ。この女族長、産み続けるのみよ。終わりの時までな。"
 
 #. Key:	F80CC71F49A124229467EC98902D86F9
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(4).Lines
 msgctxt ",F80CC71F49A124229467EC98902D86F9"
 msgid "Count yourself fortunate, in case you haven't noticed the challenge present for a centuar to please herself."
-msgstr "自分自身を幸運だと思えよ。お前は気付いていないようだが、ひとりのケンタウルスの前に立っているのは、これで自分を慰めてみろという挑発だ。"
+msgstr "自分自身を幸運だと思えよ。お前は気付いてないかもしれんが、今ひとりのケンタウルスの前に立っているのは、これで自分を慰めてみろという挑戦状だぞ。"
 
 #. Key:	F84550BD45785F99DC5ACC9F2C125EDF
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -13430,7 +13430,7 @@ msgstr "とにかく、クラーケンの身体が、その交尾相手に途方
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault01.Default__DMDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",FA986E53459F35B9F05FE5909E9153CE"
 msgid "*Yawn*"
-msgstr ""
+msgstr "（あくび）"
 
 #. Key:	FAA596EC4B5291C8FF02FC9966C3C4B6
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01.Default__MegaSlimeDefault01_C.SessionData.Lines(1).Lines
@@ -13549,7 +13549,7 @@ msgstr "4,000 年以上にわたる虚空についての考察にもかかわら
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",FBC59E69493451F2A30A66818584F9BC"
 msgid "Ohhh how I've waited for this."
-msgstr ""
+msgstr "はぁぁん、アタシがどんなにこれを待ったか。"
 
 #. Key:	FBDDB80F480F00F6DF7E1BA03EC927F6
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowTaskFullfilled2.Default__WidowTaskFullfilled2_C.SessionData.Lines(2).Lines
@@ -13633,7 +13633,7 @@ msgstr "どスケベ"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Lines(2).Lines
 msgctxt ",FD45A2EF441A8E608939FF9788710118"
 msgid "There, they will no longer block your path."
-msgstr ""
+msgstr "そら、根っこはもうアンタの道をジャマしないはずだ。"
 
 #. Key:	FD4609F340081E569544E6914EAA6434
 #. SourceLocation:	/Game/Dialogue/Yasmine/Default/YasmineDefault02.Default__YasmineDefault02_C.SessionData.Lines(0).Lines
@@ -13717,7 +13717,7 @@ msgstr "伝説によると、美しい天使たちが天界の尖塔の周りを
 #: /Game/Dialogue/Autumn/Default/DryadTaskFulfilled.Default__DryadTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",FDF4297C47FFAC2C90A1C8A5AC503A21"
 msgid "She knows how to please, and her delicious honey has increased my fruit production."
-msgstr ""
+msgstr "あの娘は悦ばせる術を知っているし、彼女の美味い蜜はアタシの実の生産量を増やしてるよ。"
 
 #. Key:	FE11832245764B482A5550B347EB143E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(25).LinesToMale
@@ -14130,14 +14130,14 @@ msgstr "あなたは、すでにそこに居ます。"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:528
 msgctxt "ASexyWorldSystem,DMMilkMateTask"
 msgid "Quench my thirst for creamy Bovaur breast milk, and perhaps it will restore my energy."
-msgstr ""
+msgstr "我が渇きを癒してくれ、濃厚なボヴァウルの母乳が飲みたいのだ。さすれば、我の精力が戻るやもしれぬ。"
 
 #. Key:	DMMilkTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:527
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:527
 msgctxt "ASexyWorldSystem,DMMilkTaskReward"
 msgid "The Dragon Matriarch wishes to speak with you."
-msgstr "ドラゴンの女族長があなたと話したがっています。"
+msgstr "ドラゴンの女族長があなたと話したがっている。"
 
 #. Key:	DMMilkTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:526
@@ -14172,14 +14172,14 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:518
 msgctxt "ASexyWorldSystem,DryadMateTask"
 msgid "If you would, breed me a lusty little honey bee. She can \"pollinate\" me all day, and I can produce more bosom cherries for my adorable cows."
-msgstr ""
+msgstr "もしアンタさえよければ、性欲旺盛でかわいらしい蜜蜂を育ててくれないか。蜜蜂はアタシを一日中「授粉」させられるし、そしたらおっぱいチェリーをもっと作れるんだ、アタシの愛らしい牛ちゃんたちにさ。"
 
 #. Key:	DryadMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:516
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:516
 msgctxt "ASexyWorldSystem,DryadMateTaskReward"
 msgid "Autumn wishes to speak with you."
-msgstr "オータムがあなたと話したがっています。"
+msgstr "オータムがあなたと話したがっている。"
 
 #. Key:	DryadMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:515
@@ -14214,21 +14214,21 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:406
 msgctxt "ASexyWorldSystem,KybeleMateTaskF"
 msgid "Bring to me a Vulwarg with a large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her strong body."
-msgstr ""
+msgstr "私にヴァルワーグを連れてきてくれ、デカくてやわらかいケツのだぞ！ その肉のクッションを味わいながら我がチンポを深く突き入れ、私の精子で強靭な肉体に種付けしたいのだ。"
 
 #. Key:	KybeleMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:403
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:403
 msgctxt "ASexyWorldSystem,KybeleMateTaskReward"
 msgid "Kybele wishes to speak with you."
-msgstr "キュベレーがあなたと話したがっています。"
+msgstr "キュベレーがあなたと話したがっている。"
 
 #. Key:	KybeleMateTaskT
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:409
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:409
 msgctxt "ASexyWorldSystem,KybeleMateTaskT"
 msgid "Bring to me a Vulwarg with a large fat dick! I wish feel like I'm being mounted by a mighty stallion."
-msgstr ""
+msgstr "私にヴァルワーグを連れてきてくれ、デカくて太いチンポのだぞ！ 力強い種馬に馬乗りで挿入されるような感覚を味わいたいのだ。"
 
 #. Key:	KybeleMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:402
@@ -14256,7 +14256,7 @@ msgstr "あの……どうかかわいいフォクセンを、そ、そ、育て
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:468
 msgctxt "ASexyWorldSystem,MonarchMateTaskReward"
 msgid "Monarch wishes to speak with you."
-msgstr "モナークがあなたと話したがっています。"
+msgstr "モナークがあなたと話したがっている。"
 
 #. Key:	MonarchMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:467
@@ -14346,21 +14346,21 @@ msgstr "新しい交配依頼が届いています。"
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:367
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:367
 msgctxt "ASexyWorldSystem,TraitRequirement"
-msgid "{0}\n{1}\n{2}"
+msgid " {0}\n {1}\n {2}"
 msgstr ""
 
 #. Key:	TraitRequirementFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 msgctxt "ASexyWorldSystem,TraitRequirementFluid"
-msgid "{0} {1}\n{2}ml\n"
-msgstr "{0} {1}\n{2}ml\n"
+msgid " {0} {1}\n {2}ml\n"
+msgstr " {0} {1}\n {2}ml\n"
 
 #. Key:	TraitRequirementStat
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:364
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:364
 msgctxt "ASexyWorldSystem,TraitRequirementStat"
-msgid "{0}\n{1}\n{2}{3}"
+msgid " {0}\n {1}\n {2}{3}"
 msgstr ""
 
 #. Key:	WidowElf
@@ -14829,8 +14829,8 @@ msgstr "妊娠"
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "子の召喚までの進行度。\n妊娠中、ミルクの生産量は 2 倍になる。"
+msgid " Progress toward summoning offspring.\n Milk production is doubled during pregnancy."
+msgstr " 子の召喚までの進行度。\n 妊娠中、ミルクの生産量は 2 倍になる。"
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -15060,8 +15060,8 @@ msgstr "キャンセル"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
-msgstr "このキャラクターの性別を変更する。\n警告: 現在のキャラクターの姿を上書きします。"
+msgid " Change this character's sex.\n WARNING: This will overwrite the current appearance."
+msgstr " このキャラクターの性別を変更する。\n 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
@@ -15095,8 +15095,8 @@ msgstr "細部"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "このキャラクターに「エキゾチック」の特性を（存在すれば）与え、獣人の姿にする。\n警告: 現在のキャラクターの姿を上書きします。"
+msgid " Give this character its exotic trait if one exists.\n WARNING: This will overwrite the current appearance."
+msgstr " このキャラクターに「エキゾチック」の特性を（存在すれば）与え、獣人の姿にする。\n 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	EyebrowMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:404
@@ -15179,8 +15179,8 @@ msgstr "髪"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 msgctxt "CharacterEditor,HominalTooltip"
-msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "このキャラクターに「人間的」の特性を（存在すれば）与え、人間的な姿にする。\n警告: 現在のキャラクターの姿を上書きします。"
+msgid " Give this character its hominal trait if one exists.\n WARNING: This will overwrite the current appearance."
+msgstr " このキャラクターに「人間的」の特性を（存在すれば）与え、人間的な姿にする。\n 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:98
@@ -15200,8 +15200,8 @@ msgstr "スピリット・フォームの編集をやめる。"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
-msgstr "セーブしたプリセットをロードする。\n警告: 現在のキャラクターの姿を上書きします。"
+msgid " Load a saved preset.\n WARNING: This will overwrite the current appearance."
+msgstr " セーブしたプリセットをロードする。\n 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:366
@@ -15256,8 +15256,8 @@ msgstr "乳首"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
-msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
-msgstr "クリップボードから貼り付ける。\n警告: 現在のキャラクターの姿を上書きします。また、派生種が違う場合、ひどい見た目になるかもしれません。"
+msgid " Paste from clipboard.\n WARNING: This will overwrite the current appearance, and might look terrible on different variants."
+msgstr " クリップボードから貼り付ける。\n 警告: 現在のキャラクターの姿を上書きします。また、派生種が違う場合、ひどい見た目になるかもしれません。"
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
@@ -15361,8 +15361,8 @@ msgstr "トップス"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 msgctxt "CharacterEditor,VariantTooltip"
-msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
-msgstr "このキャラクターの派生種を変更する。\n警告: 現在のキャラクターの姿を上書きします。"
+msgid " Change this character's variant.\n WARNING: This will overwrite the current appearance."
+msgstr " このキャラクターの派生種を変更する。\n 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	ErrorSavingPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2441
@@ -16712,8 +16712,8 @@ msgstr "妊娠"
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 msgctxt "SettingsMenu,PregnancyHelp"
-msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr "メスのネフェリムが子を召喚するのに4日間必要となり、腹部はそれを反映して変化する。\n警告: この項目をゲームプレイ中にオフにした場合、現在適用されている妊娠状態は失われます。"
+msgid " Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\n WARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
+msgstr " メスのネフェリムが子を召喚するのに4日間必要となり、腹部はそれを反映して変化する。\n 警告: この項目をゲームプレイ中にオフにした場合、現在適用されている妊娠状態は失われます。"
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -17442,4 +17442,3 @@ msgstr "話す"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "ポータルを通る"
-
