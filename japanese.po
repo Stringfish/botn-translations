@@ -12342,8 +12342,7 @@ msgstr "善きかな、@BREEDER_NAME@。汝、我が世界の虚空との繋が�
 
 #. Key:	E4F530D54D663ADF27773EB024081B52
 #. SourceLocation:	/Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
-#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script
-#: Bytecode]
+#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
 msgctxt ",E4F530D54D663ADF27773EB024081B52"
 msgid "Beautiful Pearl acquired."
 msgstr ""
