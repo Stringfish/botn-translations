@@ -25,8 +25,9 @@ UI 部分の文体は今のところ、基本的に常体を使い、Confirmatio
 ## 固有名詞・頻出単語 訳例
 
 ### 世界観
-* Nephelym：ネフェリム  
-（ファイル中は @MONSTER_RACE@ 表記）
+* Nephelym：ネフィリム  
+（ファイル中はおおむね @MONSTER_RACE@ 表記）  
+DerelictHelmsman 氏が、旧約聖書の Nephilim と同発音と明言。
 * wild Nephelym：野性のネフェリム  
 （ファイル中は 野性の@MONSTER_RACE@ 表記）
 * blessed Nephelym：祝福されたネフェリム  
