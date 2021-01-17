@@ -5,20 +5,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-10-31 17:28\n"
-"PO-Revision-Date: 2020-11-19 21:38+0900\n"
+"PO-Revision-Date: 2021-01-17 22:25+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: Stringfish\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 msgctxt ",0009BEE346934010A7F79C8CF23B20D5"
 msgid "This is my final form, and it feels so amazing. I smell beautiful too!"
-msgstr "これがわたしの最終形態、そしてとても素晴らしい気分です。かぐわしい香りもします！"
+msgstr "これがわたしの最後の形態、そしてとても素晴らしい気分です。かぐわしい香りもします！"
 
 #. Key:	00164C5345E544D784CC289035CEF701
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -99,7 +101,8 @@ msgstr "あぁ、それならば、そなたは多くの @MONSTER_RACE@ と同�
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
 msgstr "悦びの入り江"
@@ -116,7 +119,7 @@ msgstr "おやおや、これはめったにない光景ですね。"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",0207AC704D78649132718BBF7F0F0CA1"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂が花を求めてるんだ。"
 
 #. Key:	022313C047D185193F98C48BE5852E62
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
@@ -641,7 +644,7 @@ msgstr "バタフライ"
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",0D3C4D8D4F6C01DE00A1B88BD745C860"
 msgid "A bath perhaps? Or maybe one of your wild ones made love with the dirt. I will wash them all."
-msgstr "よろしければ、入浴しますか？ それとも、そなたの野性のネフェリムが泥と愛し合いましたか。私が皆洗いましょう。"
+msgstr "よろしければ、入浴しますか？ それとも、そなたの野性のネフィリムが泥と愛し合いましたか。私が皆洗いましょう。"
 
 #. Key:	0D41FE0947E3B6D0F4FD10AF14FE68BE
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(5).Lines
@@ -680,7 +683,8 @@ msgstr ""
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
 msgstr "色情狂"
@@ -701,7 +705,8 @@ msgstr "にゃあ……アタシの記憶では、だれもあそこには入っ
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.HelpText
 msgctxt ",0E6E1156457FB3513C060D979FF6B9AE"
 msgid "Sterile: Cannot produce offspring."
 msgstr "不妊: 子を作ることができない。"
@@ -711,7 +716,7 @@ msgstr "不妊: 子を作ることができない。"
 #: /Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.TypeDisplay
 msgctxt ",0EA04A8B485AD7C29BE98E893200A8E3"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	0EA2FCF24AF05A8FBEF98C9F2C767D3A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -732,7 +737,7 @@ msgstr "神殿の床の白濁から判断するに、とてもよろしかった
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.TypeDisplay
 msgctxt ",0EEEC9A34AD6162338FCA699384590D4"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	0F0B2E364C42C3D6BACC018A46DB5BE4
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -774,7 +779,7 @@ msgstr "我らには破壊的な過去もあったが、今日のクラーケン
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",0F62EE694ADB2071C7247C8AA042A065"
 msgid "I want you to have this pearl."
-msgstr ""
+msgstr "この真珠を貰ってほしい。"
 
 #. Key:	0FAF6E0B4308E0F116E3C3BC117672E3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(7).LinesToMale
@@ -907,7 +912,7 @@ msgstr "その美しい人間チンポを、このラミアの肢体に突き刺
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.PlaceMessage
 msgctxt ",11A9B90644E91677CD9DEFB4CC831C2C"
 msgid "Sultry Plateau is now accessible."
-msgstr "官能の台地への立ち入りが可能になった。"
+msgstr "熱情の台地への立ち入りが可能になった。"
 
 #. Key:	11B6FBE746EB52494E5B6E83052E0D98
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(4).Lines
@@ -953,7 +958,8 @@ msgstr "ワタシたちは正真正銘、根っからの快楽探求者なの！
 
 #. Key:	1276E5EB4781A0238A9705AC9FEE680E
 #. SourceLocation:	/Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
-#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
+#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone
+#: [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
 msgstr "キーストーンを手に入れた。"
@@ -1240,7 +1246,8 @@ msgstr "@MONSTER_RACE@ の精液が強力な物質なのは事実なの――た
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
 msgstr "高価: 価値が 35% 上昇する。"
@@ -1390,7 +1397,7 @@ msgstr "そしてその幸運なタイタンは、まさかそんなに大量に
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",1C771B6F4DD1FF210888A5BB37418D44"
 msgid "Many of them, but like all wild ones, they frequently phase in and out of the Void."
-msgstr "多くはそうだ。だが、すべての野性のネフェリムがそうであるように、あやつらもしばしば虚空に入ったり出たりしている。"
+msgstr "多くはそうだ。だが、すべての野性のネフィリムがそうであるように、あやつらもしばしば虚空に入ったり出たりしている。"
 
 #. Key:	1C97795346C0DCFF24FCF7965DB04AFF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(2).Lines
@@ -1632,7 +1639,8 @@ msgstr "アンタ……にゃあ……かわいそうなキャシーのこの手
 
 #. Key:	1FC53FEF4A2414ADEC40FA84C1B8848D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
 msgstr "おもいやり: 交配相手に 2 倍の経験値を与えるが、自分は半分しか受け取らない。"
@@ -1751,7 +1759,8 @@ msgstr ""
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
 msgstr "どスケベ: 交配時に消費する性欲が 35% 減少する。"
@@ -1947,7 +1956,8 @@ msgstr "ネコ・タワー"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.HelpText
 msgctxt ",249E987842C35A9986491A967E86BEC3"
 msgid "Stoic: Increases maximum lust by 20%."
 msgstr "禁欲的: 性欲の最大値が20%上昇する。"
@@ -2017,7 +2027,8 @@ msgstr "根っこがこの門を塞いでいる。"
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",2632B36446A9D5F9E018209CB73837B8"
 msgid "Massive Size"
 msgstr "マッシブサイズ"
@@ -2069,7 +2080,7 @@ msgstr "（顔を赤らめる）"
 #: /Game/Dialogue/Fern/DefaultP3/FernBeeFlowers3.Default__FernBeeFlowers3_C.SessionData.Lines(2).Lines
 msgctxt ",2754CCC847A38E21CD70C58BFAE0F514"
 msgid "The soil tells me a dyrad is not that far away... in Pleasure Pastures!"
-msgstr ""
+msgstr "土がわたしに語りかけます、ドリアードがそれほど遠くないところに居る……快楽の牧野です！"
 
 #. Key:	27565BD64B41A94885451F8607E68D2F
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Pastures.PlaceMessage
@@ -2164,7 +2175,8 @@ msgstr ""
 
 #. Key:	29A421FC41D83A2B9DCC669ECA1F708D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.HelpText
 msgctxt ",29A421FC41D83A2B9DCC669ECA1F708D"
 msgid "Buxom: Inherited a very large ass."
 msgstr "巨尻: 遺伝的に、非常に大きな尻を持つ。"
@@ -2199,7 +2211,8 @@ msgstr "もちろん自分で会いに行けるんだけど、ワタシはあの
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.HelpText
 msgctxt ",2ABC84814DE5DC3039A61BBA0723AF73"
 msgid "Tiny: Roughly 4ft in height."
 msgstr "タイニー（T）: 身長およそ 1.2 m。"
@@ -2223,7 +2236,7 @@ msgstr "精液飲んでいいよ！"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",2B4C510D4A32384C298984BDD667C93E"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂が花を求めてるんだ。"
 
 #. Key:	2B4CCE054929809171D1D88C30341FB2
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(3).Lines
@@ -2496,7 +2509,7 @@ msgstr "もしアンタが、今のアタシのこと大きな牛だと思って
 #: /Game/Dialogue/Yasmine/Default/YasmineDefault02_RL.Default__YasmineDefault02_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",2FA59C8A48A63BD0FE6D0289A8AF9587"
 msgid "This world gets stranger everyday..."
-msgstr ""
+msgstr "この世界は日ごとにヘンになってくな……"
 
 #. Key:	2FC584B146298BF0F75983AB7F59C5E1
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(7).Lines
@@ -2622,7 +2635,7 @@ msgstr "うぅ……はぁぁ……とても気持ちいいぞ。"
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(3).TextEntries
 msgctxt ",31D7D80147B2E3EC2048A689FD79BD27"
 msgid "Well I can certainly say the paper we use for writing these tasks is NOT tasty, meow! But you know what is tasty? Nephelym genitalia! Now bring me some! Meow, make it as big as possible... hmmm... I would say bigger than the whole town, but after what happened that one time... perhaps not. Just make it cute!  -Cassie"
-msgstr "うん、自信を持って言えるよ。アタシたちが依頼を書くのに使ってる紙、おいしくないね、ニャ！ でもアンタはおいしいモノ知ってるじゃんね？ ネフェリムのアソコだよ！ ほら、ちょっと連れてきなよ！ ニャ、できる限りデッカくてさ……むむむ……街全体よりもデカく、って言いたいとこだけど、あの時起きたことを考えると……それはナシかも。とにかく、かわいくしてよ！  -キャシー"
+msgstr "うん、自信を持って言えるよ。アタシたちが依頼を書くのに使ってる紙、おいしくないね、ニャ！ でもアンタはおいしいモノ知ってるじゃんね？ ネフィリムのアソコだよ！ ほら、ちょっと連れてきなよ！ ニャ、できる限りデッカくてさ……むむむ……街全体よりもデカく、って言いたいとこだけど、あの時起きたことを考えると……それはナシかも。とにかく、かわいくしてよ！  -キャシー"
 
 #. Key:	31E2065041FFF628ED41DEB3E33F080F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(3).Lines
@@ -3196,7 +3209,7 @@ msgstr "トリーアイの巣"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Message
 msgctxt ",3C6678BF441FA4DC09CD16B12864C86C"
 msgid "Beautiful Pearl was given away."
-msgstr ""
+msgstr "綺麗な真珠を譲った。"
 
 #. Key:	3C6949B84E9BE02327C5408DC7F1D673
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -3221,7 +3234,8 @@ msgstr ""
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.HelpText
 msgctxt ",3CA687014A0A2E686C1525BCF1F25CAE"
 msgid "Gaudy: Inherited an unusual vivid color scheme."
 msgstr "ケバケバしい: 遺伝的に、独特の鮮やかな配色を持つ。"
@@ -3242,7 +3256,8 @@ msgstr "歯向かうとどうなるかわかっただろう、このおっぱい
 
 #. Key:	3D4441784AF4D03AE277679928164F4E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3D4441784AF4D03AE277679928164F4E"
 msgid "Stoic"
 msgstr "禁欲的"
@@ -3280,7 +3295,7 @@ msgstr "えーっと……私の玩具をあなたに使ってもいいですか
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(1).Lines
 msgctxt ",3DE7C5E5483FE8321224F9A0BE1EE1E2"
 msgid "I will keep it forever as a token of our friendship!"
-msgstr ""
+msgstr "一生大事にするね、ワタシたちの友情のしるしとして！"
 
 #. Key:	3E483C5F491D4BAE82E56082A61D1FA0
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -3361,7 +3376,8 @@ msgstr "デーモンは、喘ぐ岩山の溶岩が好きです。"
 
 #. Key:	3EF6E0F646189B89DDE495A5A01F7FC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3EF6E0F646189B89DDE495A5A01F7FC3"
 msgid "Abomination"
 msgstr "忌み子"
@@ -3560,7 +3576,7 @@ msgstr "アナタが捕まえる @MONSTER_RACE@ は、ワタシのように祝�
 #: /Game/Dialogue/Yasmine/Default/YasminePearls.Default__YasminePearls_C.SessionData.Lines(1).Lines
 msgctxt ",4225207741108002DA6A24AE7B076E55"
 msgid "They are fun to make, and can sell for a decent chunk of orgasium."
-msgstr ""
+msgstr "真珠を作るのは楽しいし、それにいい値段で売れて結構な量のオーガシウムになるの。"
 
 #. Key:	424BF25644C67138FF6800BD56A2F0CF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(9).LinesToMale
@@ -3704,7 +3720,8 @@ msgstr "女神はそれぞれの世界に特別なセラフィム、アークエ
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",44BC09AE4BDFA439FBFD8BAABD7A96D0"
 msgid "Chubby"
 msgstr "ぽっちゃり"
@@ -3858,7 +3875,8 @@ msgstr "おっぱい飲んでいいよ！"
 
 #. Key:	47D73C824ADC81BC6CCF3D92213FA9A5
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",47D73C824ADC81BC6CCF3D92213FA9A5"
 msgid "Sterile"
 msgstr "不妊"
@@ -3889,11 +3907,12 @@ msgstr "ペインテッド・エルフについて教えて。"
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(6).TextEntries
 msgctxt ",480CD24248AA305AA580D7AE82BC3035"
 msgid "For once I would like someone to bathe me. If it is not too much trouble, breed me an elegant wild Nephelym with the sweetest music so that we may bathe together. I want to feel their hands rub my fins while we sulk in warm water and dive deeper into the pleasures of love.  -Romy"
-msgstr "今回については、私を入浴させる者を欲しています。もし差し支えなければ、私のために優雅な野性のネフェリムを育てていただけませんか、もっとも甘美なる音楽を添えて。我々が共に入浴できるように。私は、我々が湯の中で不機嫌になるあいだ、そのネフェリムの両手が私のヒレをなで擦るのを感じ、そして愛の愉悦へとより深く潜行していきたいのです。  -ロミィ"
+msgstr "今回については、私を入浴させる者を欲しています。もし差し支えなければ、私のために優雅な野性のネフィリムを育てていただけませんか、もっとも甘美なる音楽を添えて。我々が共に入浴できるように。私は、我々が湯の中で不機嫌になるあいだ、そのネフィリムの両手が私のヒレをなで擦るのを感じ、そして愛の愉悦へとより深く潜行していきたいのです。  -ロミィ"
 
 #. Key:	48107A45419D9511DA312F919A7866E8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",48107A45419D9511DA312F919A7866E8"
 msgid "Hedon Township"
 msgstr "ヘドンの街"
@@ -3970,7 +3989,8 @@ msgstr ""
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",49C9E46943998C63648E12A033938266"
 msgid "Debauched"
 msgstr "ふしだら"
@@ -3994,7 +4014,7 @@ msgstr "ふわぁ、すごく気持ちよかった！"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(1).Lines
 msgctxt ",4A730CFD4FE7937D823362B706A236A2"
 msgid "Her name is Pawsmaati, a blessed Neko in Sultry Plateau."
-msgstr "彼女の名はポースマーティ、官能の台地にいる祝福されたネコです。"
+msgstr "彼女の名はポースマーティ、熱情の台地にいる祝福されたネコです。"
 
 #. Key:	4A786E0642F65E2541EAB4BB64AD2628
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
@@ -4348,14 +4368,16 @@ msgstr "があぁ！ 海の姫ミルルは、そんなことをバラしたり�
 
 #. Key:	50B849704DFA728D7330279E30E472A8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.HelpText
 msgctxt ",50B849704DFA728D7330279E30E472A8"
 msgid "Large: Roughly 8ft in height."
 msgstr "ラージ（L）: 身長およそ 2.4 m。"
 
 #. Key:	50BBFEDE44CEF2DA10124AAE7DBF17B9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",50BBFEDE44CEF2DA10124AAE7DBF17B9"
 msgid "Slick"
 msgstr "ぬめぬめ"
@@ -4369,7 +4391,8 @@ msgstr "十分な精液が集まると、まぁだいたい水の中でだけど
 
 #. Key:	51444A264763D03D8B5051AEDAB55B5F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.HelpText
 msgctxt ",51444A264763D03D8B5051AEDAB55B5F"
 msgid "Abomination: This one was the product of incest."
 msgstr "忌み子: この個体は近親相姦の産物です。"
@@ -4411,7 +4434,8 @@ msgstr "……"
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5243F67240932D62D7FDFABA63222594"
 msgid "Hung"
 msgstr "巨根"
@@ -4565,7 +4589,8 @@ msgstr ""
 
 #. Key:	55894A674E5C647D1DC14EB1951CE50D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.HelpText
 msgctxt ",55894A674E5C647D1DC14EB1951CE50D"
 msgid "Sadistic: Reduces the loyalty of breeding partners, but gains twice as much XP."
 msgstr "サドっ気: 交配相手の忠誠心を下げるが、2倍の経験値を得る。"
@@ -4600,7 +4625,8 @@ msgstr "（あくび）"
 
 #. Key:	560FCF68432946FE1C6D7BA2F8088AB6
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",560FCF68432946FE1C6D7BA2F8088AB6"
 msgid "Virgin Breaks"
 msgstr "破瓜の崩落地"
@@ -4701,7 +4727,7 @@ msgstr "デーモンの淵"
 #: /Game/Dialogue/Fern/Default/FernBeeFlowers.Default__FernBeeFlowers_C.SessionData.Lines(1).Lines
 msgctxt ",58A8C4EA402471CFC5C6DF9121D86086"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	58BD8EB444FFAA62E1DB458F4B2C10DC
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadFatAssLamia.Default__DryadFatAssLamia_C.SessionData.Lines(0).Lines
@@ -4775,7 +4801,8 @@ msgstr "あああ……私のラミア舌があなたを気持ち良くさせま
 
 #. Key:	5A3E7C5348B9CE872B1AC68AF9AEF76B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.HelpText
 msgctxt ",5A3E7C5348B9CE872B1AC68AF9AEF76B"
 msgid "Slender: This one has less body fat."
 msgstr "ほっそり: この個体は、体脂肪がより少ない。"
@@ -4971,7 +4998,8 @@ msgstr "濡れてきちゃうわ、ただアンタの太い男根がアタシに
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5F71A084478332FD553228BF6DB08550"
 msgid "Huge Size"
 msgstr "ヒュージサイズ"
@@ -5191,7 +5219,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",63A38D02485080C06D6E03A71640D251"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂が花を求めてるんだ。"
 
 #. Key:	63A5E9734DC0420DD97A739128DEEF85
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -5261,7 +5289,7 @@ msgstr "ボヴァウルの体液。"
 #: /Game/World/Events/EM_Pearl.Default__EM_Pearl_C.ActivateMessage
 msgctxt ",6447F38E4E2E302612E297856123386E"
 msgid "Take Pearl"
-msgstr ""
+msgstr "真珠を取る"
 
 #. Key:	646A76464079BB23F12A50A6B8512B75
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(27).LinesToFemale
@@ -5310,7 +5338,7 @@ msgstr ""
 #: /Game/Dialogue/Yasmine/Default/YasmineDefault01.Default__YasmineDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",64D03AEC41B764C9BCFB0CAAED5A58DD"
 msgid "*Strange moans and squishy noises can be heard within.*"
-msgstr ""
+msgstr "（奇妙な喘ぎと、ぐちょぐちょした音が中から聞こえる）"
 
 #. Key:	64DDB04B426866024F9EFC98D34E99E5
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -5356,7 +5384,8 @@ msgstr "あぁ、ご主人様……あなたは、わたしにはもったいな
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "不潔"
@@ -5464,7 +5493,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",67B51FA5454DB188B081BFACCC583F71"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂が花を求めてるんだ。"
 
 #. Key:	67E8752E482B4F96EC745D8BB55B5F68
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartCowgirl.Default__ParvatiDefault01_StartCowgirl_C.SessionData.Lines(0).Lines
@@ -5517,7 +5546,8 @@ msgstr "おぉぉぅ、いいよぉ……にゃあ……あぁぁぁ……"
 
 #. Key:	6928C04F4EBC681B1BF676BB56435E32
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6928C04F4EBC681B1BF676BB56435E32"
 msgid "Charmer"
 msgstr "誘惑者"
@@ -5583,7 +5613,7 @@ msgstr "もしそれが、我らの交尾相手を何時間もぐるぐる巻き
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.TypeDisplay
 msgctxt ",6A26D99744982C7F05898A800D9AB807"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	6A4F7C15487175679D62FFA469639D1A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_F.Default__CassieDefault01_Meow_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5604,7 +5634,7 @@ msgstr "うぅぅぅ……でっかい人間チンポ、すっごいよぅ！"
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_QueenBee.FailMessage
 msgctxt ",6AADAD5D41D98C207B7FEB993604434A"
 msgid "It will not move."
-msgstr ""
+msgstr "動きそうにない。"
 
 #. Key:	6AD76D124EA5FF55B998D39AD1070F08
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Start.Default__AmberMaeSuckJugs_Start_C.SessionData.Lines(0).Lines
@@ -5692,7 +5722,8 @@ msgstr ""
 
 #. Key:	6D1431474F1C713E9D755F93772C653C
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
 msgstr "潤沢: 採取時に生産する体液が、50% 増える。"
@@ -5723,7 +5754,7 @@ msgstr "うあぁ……すっごい恥ずかしいしょや、自分の欲求を
 #: /Game/Dialogue/Fern/DefaultP2/FernBeeFlowers2.Default__FernBeeFlowers2_C.SessionData.Lines(0).Lines
 msgctxt ",6D4FCB5345397A3D9726C1AAA8B438D6"
 msgid "I am not powerful enough to control the plants in other lands."
-msgstr ""
+msgstr "わたしには、他所の土地の植物を制御するほどの力はないのです。"
 
 #. Key:	6D77CB43488C767A611292B40E89506D
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeGreeting01.Default__MegaSlimeGreeting01_C.SessionData.Lines(1).Lines
@@ -5884,7 +5915,7 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeGreeting01.Default__MegaSlimeGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",6FA3A5FA4FAB4D57D0E13D8815C6D5E7"
 msgid "My beloved orb!! It's so beautiful, I will cherish it always."
-msgstr "ワタシの愛しい球！！ とってもキレイ、だからずっと大切にするの。"
+msgstr "ワタシの大好きな球！！ とってもキレイ、だからずっと大切にするの。"
 
 #. Key:	6FB79F1B4245887D7C56A197959DA2A1
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -5905,11 +5936,12 @@ msgstr "人の子よ、今なんと申した！"
 #: /Game/Dialogue/Yasmine/Default/YasmineDefault01_RL.Default__YasmineDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",6FD7E94044B57DA992A79BA4422CF69C"
 msgid "You make pearls?"
-msgstr ""
+msgstr "あなたは真珠を作るの？"
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6FED048C4BF38E565F2ADC90DC3F4390"
 msgid "Kindhearted"
 msgstr "おもいやり"
@@ -6059,7 +6091,7 @@ msgstr "@MONSTER_RACE@ の生殖器は、人間の生殖器とほぼ同様に機
 #: /Game/Dialogue/Fern/DefaultP2/FernBeeFlowers2.Default__FernBeeFlowers2_C.SessionData.Lines(1).Lines
 msgctxt ",72107B4B47CB1F5DE578558788562BE0"
 msgid "Only a dryad would have such an ability."
-msgstr ""
+msgstr "おそらくドリアードだけでしょう、そのような能力を持っているのは。"
 
 #. Key:	7216159047B371957AA4BBB677FF8B34
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R04.Default__FernDefault03_R04_C.SessionData.Lines(1).Lines
@@ -6140,7 +6172,8 @@ msgstr "ああああ、いい！ そこを人間の種で満たして……お�
 
 #. Key:	73986546438B9C190B8B769537B05047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",73986546438B9C190B8B769537B05047"
 msgid "Climax Peak"
 msgstr "絶頂峰"
@@ -6227,7 +6260,7 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(2).Lines
 msgctxt ",748A7C25489A4B1CEC2B5D91B815FE8D"
 msgid "I want to give you something in return."
-msgstr ""
+msgstr "お返しに何かあげなきゃ。"
 
 #. Key:	74AA1A6D401AC350EC36AA9E8E34202A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -6259,7 +6292,8 @@ msgstr "絶頂峰への立ち入りが可能になった。"
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",752BA5D9498A3D0A3B274BA6E3AFDDAE"
 msgid "Lewd Desert"
 msgstr "淫乱砂漠"
@@ -6322,7 +6356,8 @@ msgstr "（とめどなく泣きじゃくっている）"
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
 msgstr "非標準体型: 遺伝的に、その派生種の標準と異なるサイズ。"
@@ -6353,7 +6388,7 @@ msgstr "そうだ、わらわをその舌で楽しませろ。さすれば、精
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(7).TextEntries
 msgctxt ",774EB8DD4A26316F99CA678113DB2B19"
 msgid "Wet! I am wet and horny, only you can help. This time I want something to suck on, so breed me an adorable Nephelym with all sorts of suckables. Yes, suckables, you heard it here first.  -Falene"
-msgstr "びしょびしょ！ ワタシ、びしょびしょでムラムラするの。ワタシを救えるのはアナタだけ。今回、ワタシは何かしゃぶるモノが欲しいの。だから、いろんなところがしゃぶりンゴな可愛いネフェリムを育ててよ。そう、しゃぶりンゴ。最新の言葉よ。  -ファリーン"
+msgstr "びしょびしょ！ ワタシ、びしょびしょでムラムラするの。ワタシを救えるのはアナタだけ。今回、ワタシは何かしゃぶるモノが欲しいの。だから、いろんなところがしゃぶりングな可愛いネフィリムを育ててよ。そう、しゃぶりング。最新の言葉よ。  -ファリーン"
 
 #. Key:	77D22B994A5CAE9D14BE2DA1F7D43473
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(7).Lines
@@ -6378,14 +6413,16 @@ msgstr "もちろん彼らを入浴させます、汚れていれば。幸い、
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",786684AF43E49B03AB1575A2054AC196"
 msgid "Large Size"
 msgstr "ラージサイズ"
 
 #. Key:	78B7319E49FA8E32267F09898482F929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",78B7319E49FA8E32267F09898482F929"
 msgid "Slender"
 msgstr "ほっそり"
@@ -6444,7 +6481,7 @@ msgstr "キュベレーがキーストーンを厳重に見張っている。"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(3).Lines
 msgctxt ",7A22D0874255FC1001174C8C01466911"
 msgid "My beloved orb wishes to move on, and I want you to take it."
-msgstr ""
+msgstr "ワタシの大好きな球は旅をしたがってる、だからアナタに持ってってほしいの。"
 
 #. Key:	7A37639548189268575986A48C480863
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(2).Lines
@@ -6493,7 +6530,7 @@ msgstr "特性レベルを上げて。"
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_DM.FailMessage
 msgctxt ",7AF5BE374EF5FF228013EAB5CEA00E2E"
 msgid "Don't touch this."
-msgstr "これに触れてはならない。"
+msgstr "これに触れるのはやめよう。"
 
 #. Key:	7B46D37346081D01CB0C9B8C6CAEE2DF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -6504,7 +6541,8 @@ msgstr "通りたいです、あなたのプッシー……ポータルを。"
 
 #. Key:	7B5F72194EE494B66BEC5CAD05253722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7B5F72194EE494B66BEC5CAD05253722"
 msgid "Juicy"
 msgstr "潤沢"
@@ -6658,7 +6696,8 @@ msgstr "感じなさい、ワタシの滑らかな舌がその肉茎を撫でる
 
 #. Key:	7E871257404E27C20903A3877220C69A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",7E871257404E27C20903A3877220C69A"
 msgid "Pleasure Pastures"
 msgstr "快楽の牧野"
@@ -6700,7 +6739,8 @@ msgstr "シルヴァンを管理する"
 
 #. Key:	7EF6E26243EE042D016B90AFA2F62AE7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
 msgstr "多様化"
@@ -6819,7 +6859,8 @@ msgstr "あれは古い神殿だよ。だって新しい方がイイ感じだと
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "牧場屋敷"
@@ -6850,7 +6891,7 @@ msgstr "背面駅弁"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",829C4F164806E6C664338C969BCB960E"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂が花を求めてるんだ。"
 
 #. Key:	8323A0B240DA89AE9385A6970E54FC26
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(3).Lines
@@ -6910,7 +6951,8 @@ msgstr "さて……汝、@MONSTER_RACE@ を差し出さんが為来たれりや
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",840B179B496FE7BBE7487EAE11227191"
 msgid "Lustwood"
 msgstr "色欲森"
@@ -6948,7 +6990,7 @@ msgstr "スピリット・フォームって？"
 #: /Game/Dialogue/Yasmine/Default/YasminePearls.Default__YasminePearls_C.SessionData.Lines(0).Lines
 msgctxt ",84A341BF4990E1976FD7BDBD84B9102F"
 msgid "Yeah!"
-msgstr ""
+msgstr "そうよ！"
 
 #. Key:	84B9634D4CF62651B1D08F9FBD40F8DD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(2).Lines
@@ -7022,14 +7064,16 @@ msgstr ""
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",854AE3F2484BF88BB14875815FEE38B4"
 msgid "Sadistic"
 msgstr "サドっ気"
 
 #. Key:	855B7EB248E6DF97FE4486BAE527851B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",855B7EB248E6DF97FE4486BAE527851B"
 msgid "Small Size"
 msgstr "スモールサイズ"
@@ -7144,7 +7188,7 @@ msgstr "あるいは……アナタが先手を打って、好き放題するこ
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(0).Lines
 msgctxt ",86BA29A64B876404EC611EBF5E4E3F55"
 msgid "Wow! It's so beautiful."
-msgstr ""
+msgstr "わぁ！ すっごくキレイ。"
 
 #. Key:	86C230E147542961EF516C854DF91DDB
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
@@ -7421,7 +7465,8 @@ msgstr "汝の肉体ひとたびその限度を超えれば、気を失わん。
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
 msgstr "多産: 繁殖力によって、繰り返しの交配による妊娠チャンスが2倍になる。"
@@ -7435,7 +7480,8 @@ msgstr "きょうだいたちは故郷に留まり、母上に奉仕し悦ばせ
 
 #. Key:	8B77D0FA4239D5EB678BAE8CDE396838
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8B77D0FA4239D5EB678BAE8CDE396838"
 msgid "Hedonist"
 msgstr "快楽主義者"
@@ -7452,7 +7498,7 @@ msgstr "あなたの液体は、わたしをこんなに立派に育てました
 #: /Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.TypeDisplay
 msgctxt ",8B99E6244548DDC5BAF8798C9395ED84"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	8BADB4BC4F48C251A1FDE2BA89B03B22
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcBrashDumb.Default__OrcBrashDumb_C.SessionData.Lines(4).Lines
@@ -7694,7 +7740,8 @@ msgstr "虚空にありながらも、彼らはそなたを敬愛しておるの
 
 #. Key:	8FFFE80A49114390AEF4A190D3F0A48F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
 msgstr "多産"
@@ -7725,7 +7772,7 @@ msgstr "わたしの身体は、あなたの滋味あふれる母乳を待ちわ
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(5).TextEntries
 msgctxt ",906D8350484725AED7108C8EB418C5AF"
 msgid "This one isn't for me, but the beautiful golden angel Emissary. She doesn't seem interested when I try to please her... and oh have I tried. I want to get her something really special, bring me the most lusty Nephelym you can breed. When you do, I will let it make love with Emissary until she cums. If she doesn't, I definitely will while watching.  -Leylanna"
-msgstr "今回はわらわのためではなく、あの美しき金色の天使、御使いのためだ。どうも彼女は、わらわが悦ばせようとしても興味を持ってくれないのだ……あぁ、悦ばせようとしているのに。わらわは彼女に本当に特別なものを与えたい。そなたが育てられる、もっとも淫らなネフェリムを連れてまいれ。そうしたら、そやつに御使いと愛を交わさせるのだ、彼女が達するまでのう。もし御使いが達しなくても、見入っているあいだに間違いなくわらわが達する。  -レイラナ"
+msgstr "今回はわらわのためではなく、あの美しき金色の天使、御使いのためだ。どうも彼女は、わらわが悦ばせようとしても興味を持ってくれないのだ……あぁ、悦ばせようとしているのに。わらわは彼女に本当に特別なものを与えたい。そなたが育てられる、もっとも淫らなネフィリムを連れてまいれ。そうしたら、そやつに御使いと愛を交わさせるのだ、彼女が達するまでのう。もし御使いが達しなくても、見入っているあいだに間違いなくわらわが達する。  -レイラナ"
 
 #. Key:	907E7C35462D4EC3BC72C5B05C7ABDB9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(2).LinesGrungy
@@ -7743,7 +7790,8 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 
 #. Key:	90BF47A74AF19E981D455BAB280C9D02
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
 msgstr "快楽主義者: 本来なら交配相手に与えられる分の経験値を得る。"
@@ -7809,7 +7857,7 @@ msgstr "……"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(1).Lines
 msgctxt ",91C04C0641057656CC61A48472D8954C"
 msgid "I need human cum to grow into my final form. Your dick will slide all the way down my throat as I suck every drop."
-msgstr "わたしは、最終形態に成長するために人間の精液が必要です。ひとしずくも残さず舐めつくしますから、あなたのチンポを、わたしののどの奥まで突き入れてくださいませんか。"
+msgstr "わたしは、最後の形態に成長するために人間の精液が必要です。ひとしずくも残さず舐めつくしますから、あなたのチンポを、わたしののどの奥まで突き入れてくださいませんか。"
 
 #. Key:	91EBB0754C1505A5258A0CB3E6CE0D71
 #. SourceLocation:	/Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(0).Lines
@@ -7820,7 +7868,8 @@ msgstr ""
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
 msgstr "人間的: 遺伝的に、より人間の特徴を持つ。"
@@ -7928,7 +7977,7 @@ msgstr "衣服を脱ぎ、その身を委ねよ快楽に。"
 #: /Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.TypeDisplay
 msgctxt ",93965A5D468FD50976A359A6DC4ABD45"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	939FC3974789211249F6CB84A4A9FCB8
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeDefault02_RL.Default__BeeDefault02_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -7981,7 +8030,8 @@ msgstr "精液飲んでいいよ！"
 
 #. Key:	94451EBE42500C5CEC2E988DDD887046
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
 msgstr "色情狂: セックス時に獲得する忠誠心が 2 倍に増加する。"
@@ -8058,7 +8108,8 @@ msgstr "ハーピィの体液。"
 
 #. Key:	95781B414AAF336B071430A39FC2F698
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",95781B414AAF336B071430A39FC2F698"
 msgid "Esoteric Glade"
 msgstr "林間の秘所"
@@ -8117,7 +8168,7 @@ msgstr "どうやって @MONSTER_RACE@ を捕まえるのか知りたいなら�
 #: /Game/Dialogue/Fern/DefaultP3/FernBeeFlowers3.Default__FernBeeFlowers3_C.SessionData.Lines(0).Lines
 msgctxt ",9697386D4E5433DC67FA228576AC58B4"
 msgid "Even in my current form, I am not powerful enough to control the plants in other lands."
-msgstr ""
+msgstr "現在の私の形態でも、他所の土地の植物を制御するほどの力はないのです。"
 
 #. Key:	96BF4241443E0334BA81569BD0CAB916
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(1).Lines
@@ -8163,7 +8214,8 @@ msgstr "すべてのフォクセン派生を捕獲・飼育できるようにな
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "すばしっこい"
@@ -8229,7 +8281,7 @@ msgstr "感じろ、柔らかく太い我が触手が其方を抱くのを……
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(1).Lines
 msgctxt ",97DE1E2D44F75CDC8B07A3ACE527EFC4"
 msgid "I need human cum to grow into my final form. Your dick will slide all the way down my throat as I suck every drop."
-msgstr "わたしは、最終形態に成長するために人間の精液が必要です。ひとしずくも残さず舐めつくしますから、あなたのチンポを、わたしののどの奥まで突き入れてくださいませんか。"
+msgstr "わたしは、最後の形態に成長するために人間の精液が必要です。ひとしずくも残さず舐めつくしますから、あなたのチンポを、わたしののどの奥まで突き入れてくださいませんか。"
 
 #. Key:	97E28C894118E126ABF5B3B0124EB241
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeDefault02_RL.Default__BeeDefault02_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -8348,7 +8400,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernBeeFlowers.Default__FernBeeFlowers_C.SessionData.Lines(2).Lines
 msgctxt ",99E0E26846BB80B4206E7DB11488DCC4"
 msgid "Fern don't know... not powerful enough."
-msgstr ""
+msgstr "ファーンわかんない……そんな、ぱわふるーじゃない。"
 
 #. Key:	99F080324D7FD127AB659FB7CC382C5A
 #. SourceLocation:	/Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(5).Lines
@@ -8488,7 +8540,7 @@ msgstr "一番早い手段は、@MONSTER_RACE@ を押し倒してセックスす
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(0).Lines
 msgctxt ",9C7CF64D42692442A687709D5C22BB3D"
 msgid "The pearl you gave me is wonderful, I love it."
-msgstr ""
+msgstr "アナタがくれた真珠、ステキだね。大スキになっちゃった。"
 
 #. Key:	9CA55551425FE9DE83AB5B9535E62AFC
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -8502,7 +8554,7 @@ msgstr "ドリアードについて教えて！"
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(8).TextEntries
 msgctxt ",9CB6C5E14DD6C412AD7898B8D2120925"
 msgid "Having fins makes moving on dry land challenging. Would you breed me a loveable Nephelym that can fetch things around town? I suppose it doesn't HAVE to be attractive... though if you could... just in case.  -Romy"
-msgstr "ヒレを持つことは、乾いた地での行動を挑戦的なものにします。私に、街中を周ってあれこれ運ぶことができる、愛らしいネフェリムを育ててはくれませんか？ 今回のネフェリムは、魅力的でなくてもよいと思うのですが……もちろん、そなたが承知してくださればですよ……念のため。  -ロミィ"
+msgstr "ヒレを持つことは、乾いた地での行動を挑戦的なものにします。私に、街中を周ってあれこれ運ぶことができる、愛らしいネフィリムを育ててはくれませんか？ 今回のネフィリムは、魅力的でなくてもよいと思うのですが……もちろん、そなたが承知してくださればですよ……念のため。  -ロミィ"
 
 #. Key:	9D593DC94FAA9CCF2CB35CBA7EA06A73
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(2).LinesToMale
@@ -8576,7 +8628,8 @@ msgstr ""
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
 msgstr "ヒュージ（H）: 身長およそ 3 m。"
@@ -8611,7 +8664,8 @@ msgstr "アタシ、またもう 1 回出して欲しくなっちゃったよ…
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
 msgstr "すばしっこい: 機敏さによって、行動時の性欲消費が一定の割合で減少する。"
@@ -8625,7 +8679,8 @@ msgstr "あぁ、うむ……たしかにお主の言う通りかもしれぬが
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "マッシブ（M）: 身長およそ 4.5 m。"
@@ -8642,7 +8697,7 @@ msgstr "そういう態度だぞ、人間。お前は十分に私を不快にさ
 #: /Game/Dialogue/Fern/Default/FernBeeFlowers.Default__FernBeeFlowers_C.SessionData.Lines(0).Lines
 msgctxt ",9F8F75924886323A16353D90FDCB1B1C"
 msgid "Queen Bee?"
-msgstr ""
+msgstr "ファーンわかんない……そんな、ぱわふるーじゃない。"
 
 #. Key:	9F98C71B4D9DFE442CACEAAB6F21EB92
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeGreeting01.Default__MegaSlimeGreeting01_C.SessionData.Lines(5).Lines
@@ -8761,7 +8816,7 @@ msgstr ""
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.TypeDisplay
 msgctxt ",A257204E40613ED62BA7D982059BC6E7"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	A2DA50B44D0A24E096AF488F787D4928
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(28).LinesToFemale
@@ -8849,7 +8904,8 @@ msgstr ""
 
 #. Key:	A4C22B3045E8159B66E47CB636E23172
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
 msgstr "養育家"
@@ -8985,7 +9041,7 @@ msgstr "ワタシの推測では、つがいの片方が人間の場合、子の
 #: /Game/Dialogue/Monarch/Default/MonarchTaskFulfilled.Default__MonarchTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",A7E400D84D8F2911F46A3BA5FBA020A8"
 msgid "My nectar collection has grown considerably, and the wild ones around here can't keep up."
-msgstr "花蜜の採集もとってもはかどりましたし、周りの野性のネフェリムたちは速さに追いつけません。"
+msgstr "花蜜の採集もとってもはかどりましたし、周りの野性のネフィリムたちは速さに追いつけません。"
 
 #. Key:	A7F13B9A43B11BD74FA2CB95A0F30AC2
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -9041,7 +9097,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(0).Lines
 msgctxt ",A90E87E3497D9E41C08BE1AB25DF9AEE"
 msgid "If thou must indulge your desires, seek the Enlightened One in Sultry Plateau."
-msgstr "汝、その欲望満たさんとするなれば、官能の台地の「悟りを開きし者」を訪ねよ。"
+msgstr "汝、その欲望満たさんとするなれば、熱情の台地の「悟りを開きし者」を訪ねよ。"
 
 #. Key:	A913B249494A32A6AF263BAE0962E781
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01.Default__MegaSlimeDefault01_C.SessionData.Lines(0).Lines
@@ -9395,7 +9451,8 @@ msgstr "あっ、ひょっとしてその棒をワタシのキラキラなエル
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
 msgstr "多様化: 子が一定の確率で、召喚時にランダムな特性を発現する。"
@@ -9430,7 +9487,8 @@ msgstr "野性の @MONSTER_RACE@ は、アナタが捕まえて交配させる�
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
 msgstr "人間的"
@@ -9535,7 +9593,8 @@ msgstr "我らが互いを悦ばせる時、女神もまた悦びを分かち合
 
 #. Key:	B20F5D9040267E77436A9B94B5F68150
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B20F5D9040267E77436A9B94B5F68150"
 msgid "Gaudy"
 msgstr "ケバケバしい"
@@ -9619,7 +9678,8 @@ msgstr "ファーン、にんげんのせーえき、ひつよう。おっきな
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B3953BA1451F630DE2CF019EB4CB6A69"
 msgid "Valuable"
 msgstr "高価"
@@ -9685,7 +9745,7 @@ msgstr "ウォーターフォール"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(0).Lines
 msgctxt ",B4EE3075417C568D59F3C0AC4A5049A3"
 msgid "I have heard legends of the Enlightened One somewhere in Sultry Plateau."
-msgstr "官能の台地のどこかにいる、「悟りを開きし者」の伝説を聞いたことがある。"
+msgstr "熱情の台地のどこかにいる、「悟りを開きし者」の伝説を聞いたことがある。"
 
 #. Key:	B4EFBB67424526E49554149C5ADDE508
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -9741,14 +9801,14 @@ msgstr "両方？"
 #: /Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(2).Lines
 msgctxt ",B5F3B5B2436545B9AAC067B451FA7563"
 msgid "Her beautiful breasts make so much honey, she has an army of bee daughters to milk her."
-msgstr "女王の麗しい乳房はとても多くの蜜を出します。女王には、乳を絞る大勢の蜂娘がいるんですよ。"
+msgstr "女王の麗しい乳房はとても多くの蜂蜜を出します。女王には、乳を絞る大勢の蜂娘がいるんですよ。"
 
 #. Key:	B5FEFBB64D1BFCA1A84984AD156AFD02
 #. SourceLocation:	/Game/Dialogue/Yasmine/Default/YasminePearls.Default__YasminePearls_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Yasmine/Default/YasminePearls.Default__YasminePearls_C.SessionData.Lines(2).Lines
 msgctxt ",B5FEFBB64D1BFCA1A84984AD156AFD02"
 msgid "What else should a clam do?"
-msgstr ""
+msgstr "他に二枚貝がするべきことってある？"
 
 #. Key:	B601DE914360E4E4962B9BAE17334C67
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Decline.Default__EmissaryRaiseTraitLvl_Decline_C.SessionData.Lines(0).Lines
@@ -9818,7 +9878,7 @@ msgstr "本当の疑問は、そなたこそどうやってここに来たのか
 #: /Game/Dialogue/Fern/DefaultP3/FernBeeFlowers3.Default__FernBeeFlowers3_C.SessionData.Lines(1).Lines
 msgctxt ",B79398FF462643C6AD3C78BBEBD9E244"
 msgid "Only a dryad would be able to do such a thing."
-msgstr ""
+msgstr "おそらくドリアードだけでしょう、そのようなことが可能なのは。"
 
 #. Key:	B79CA71847A95B814D43088A9A29BF45
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(8).Lines
@@ -9850,7 +9910,8 @@ msgstr "うわぁ、人間さん。こんなちみっこを、どうしても愛
 
 #. Key:	B7AB851641C9ABEE4A178B9DFFD50B0B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "ハイブリッド"
@@ -9871,7 +9932,8 @@ msgstr "今一度、わらわと愛し合おうぞ@BREEDER_NAME@。女神の御�
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.HelpText
 msgctxt ",B7DDB984480E5280CB46B69238C0654E"
 msgid "Chubby: This one has more body fat."
 msgstr "ぽっちゃり: この個体は、体脂肪をより多くたくわえている。"
@@ -10312,7 +10374,8 @@ msgstr "しかも今、ワタシにはプレイに付き合ってくれる人間
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
 msgstr "ふしだら: 20% の確率で、子が近親交配の悪影響を無視する。"
@@ -10336,7 +10399,7 @@ msgstr "トリーアイの体液。"
 #: /Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(3).Lines
 msgctxt ",BFE69EFF42781D385F73FFB257B3F5C6"
 msgid "Wait, you're human?!"
-msgstr ""
+msgstr "待った、あなた人間？！"
 
 #. Key:	C0073F7149266435A304ECAB73399664
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(1).Lines
@@ -10669,7 +10732,8 @@ msgstr "スピリット・フォームを回復させて。"
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C7BA93A840AB5FA97F357E802955A851"
 msgid "Exotic"
 msgstr "エキゾチック"
@@ -10686,7 +10750,7 @@ msgstr ""
 #: /Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(0).Lines
 msgctxt ",C80F35DE492B934FC30FBE82A653139B"
 msgid "Ah shooooot, my pearl went and rolled away again."
-msgstr ""
+msgstr "あー、やっちゃったー。また私の真珠が転がってちゃった。"
 
 #. Key:	C831296B46D9E6D1B4ECA181BCD5520B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(1).Lines
@@ -10760,7 +10824,8 @@ msgstr "その瞬間より前の記憶がそなたにないことを、私は知
 
 #. Key:	C9DFA1EB40C3BF78D4B015AC82833310
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C9DFA1EB40C3BF78D4B015AC82833310"
 msgid "Normal Size"
 msgstr "ノーマルサイズ"
@@ -10777,7 +10842,7 @@ msgstr ""
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.TypeDisplay
 msgctxt ",CA7FAE6645EB660782FB59BB2F359378"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	CA8A7F834A44AD0FFD7433BCE63D2DF7
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.RaceName
@@ -10805,7 +10870,7 @@ msgstr "しばらく馬乗りで挿入れられてなかったからな、荒っ
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",CADDB09246D63E86CBE17C8852675D4B"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂が花を求めてるんだ。"
 
 #. Key:	CADF79DB4BDC5031DE5FA79A12695348
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(7).Lines
@@ -10956,7 +11021,8 @@ msgstr "持ってってもいいよ。アタシのちょっとした悩みごと
 
 #. Key:	CE50C843466352316F4461BC2722C00E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
 msgstr "養育家: 子が20%高い能力値になる。"
@@ -11008,7 +11074,7 @@ msgstr "そのはち切れそうなご主人様のチンポを、わたしの唇
 #: /Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(2).Lines
 msgctxt ",CECD706A47419BAE65A5B3979BEFCA77"
 msgid "Oh well... I suppose you can have it. I'm going to make a better one!"
-msgstr ""
+msgstr "ま、いいか……ねぇ、それ持ってってもいいよ。私はもっと良いやつを作るからさ！"
 
 #. Key:	CEE2CED74492461582B4EB8D5D2CB4B6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(11).Lines
@@ -11078,7 +11144,7 @@ msgstr "もっと！ もっと！"
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(1).TextEntries
 msgctxt ",D039FDFA4AB60D6ABD3384AEF3348588"
 msgid "It's study time! And by that I mean bring me the most well-endowed Nephelym you can breed. As much as I would like to say this study is about furthering the endless endeavor that is science, no I am horny as hell and want you to fix it! Sure, sex twenty times a day is fun and all, but it's not enough. This one will be for... personal alone time at night. Humans can't possibly understand! The desires don't ever stop!!  -Falene"
-msgstr "研究の時間よ！ ワタシが言ってるのはつまり、あなたが育てられる一番ドスケベボディなネフェリムが欲しいってこと。この研究は絶え間ない努力を、すなわち科学を進歩させるためのもの、って言いたいんだけどね。そうじゃないの、ワタシはめっちゃムラムラしてて、アナタになんとかして欲しいの！ そうね、日に 20 回のセックスはそりゃ楽しいけど、物足りないじゃない。今回の依頼はそう……夜のひとりの時間用になるかな。人間さんたちはまったく理解できないでしょうね！ 欲望は止まることを知らないの！！  -ファリーン"
+msgstr "研究の時間よ！ ワタシが言ってるのはつまり、あなたが育てられる一番ドスケベボディなネフィリムが欲しいってこと。この研究は絶え間ない努力を、すなわち科学を進歩させるためのもの、って言いたいんだけどね。そうじゃないの、ワタシはめっちゃムラムラしてて、アナタになんとかして欲しいの！ そうね、日に 20 回のセックスはそりゃ楽しいけど、物足りないじゃない。今回の依頼はそう……夜のひとりの時間用になるかな。人間さんたちはまったく理解できないでしょうね！ 欲望は止まることを知らないの！！  -ファリーン"
 
 #. Key:	D03FE11A4B475C76629C24AF0C738457
 #. SourceLocation:	/Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.DisplayName
@@ -11096,10 +11162,11 @@ msgstr "ケンタウルスは長いあいだ溜めていると、攻撃的にな
 
 #. Key:	D066439244AFE855B06F90AB1A4A0829
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
-msgstr "官能の台地"
+msgstr "熱情の台地"
 
 #. Key:	D0AFE2FE43D96C0225B202A9DF9DC0CB
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -11124,14 +11191,16 @@ msgstr "歯向かうとどうなるかわかっただろう、このおっぱい
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
 msgstr "ノーマル（N）: 身長およそ 1.8 m。"
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
 msgstr "ハイブリッド: この個体は、2 つの種族の交雑種です。"
@@ -11295,7 +11364,7 @@ msgstr "攻め手の下半身を高くし、受け手はその上でバランス
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(1).Lines
 msgctxt ",D456D54240773E6C7DA921A0B4BDBA16"
 msgid "I need human milk to grow into my final form. Your soft breasts will be emptied as I suck every drop."
-msgstr "わたしは、最終形態に成長するために人間の母乳が必要です。ひとしずくも残さず舐めつくしますから、あなたの柔らかい乳房を、からっぽにしてもかまいませんか。"
+msgstr "わたしは、最後の形態に成長するために人間の母乳が必要です。ひとしずくも残さず舐めつくしますから、あなたの柔らかい乳房を、からっぽにしてもかまいませんか。"
 
 #. Key:	D48D138B4D55F9A604E2E0AFFACE1674
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -11348,7 +11417,8 @@ msgstr "そのキーストーン、もらってもいい？"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
 msgstr "筋肉質: 力強さによって、交配相手が交配時に与えられる経験値が一定の割合で増加する。"
@@ -11449,7 +11519,7 @@ msgstr "……"
 #: /Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(1).Lines
 msgctxt ",D6D627BB4317AEDB4A049A875CA79F63"
 msgid "We bring her nectar and please her sexually, and in return she let's us eat of her h-h-honey."
-msgstr "我々は花蜜を届けたり、女王を性的な意味で悦ばせたりします。そして女王は見返りに、我々に許しをくださるのです。女王の、み、み、蜜を口にすることを。"
+msgstr "我々は花蜜を届けたり、女王を性的な意味で悦ばせたりします。そして女王は見返りに、我々に許しをくださるのです。女王の、は、は、蜂蜜を口にすることを。"
 
 #. Key:	D6E5B72340D672B892908385DF8BC169
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -11621,7 +11691,8 @@ msgstr "アタシのミルク、おいしかったかい？ おかわりはい�
 
 #. Key:	D913C6254D30AA08E8B01787AE3D1B68
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
 msgstr "蜜溜まりの地"
@@ -11708,7 +11779,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",DA05F5A447D7B5F1C5C75E8A35B95C21"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂が花を求めてるんだ。"
 
 #. Key:	DA1107CD4D4DED76EFB5A3BAE5A1C4D0
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_StartLoveMakingF.Default__LeylannaDefault01_StartLoveMakingF_C.SessionData.Lines(0).Lines
@@ -11901,7 +11972,8 @@ msgstr "おとなしくするのだぞ、人間……私は自分の欲望を抑
 
 #. Key:	DC956C0949E5CA05486F1583CEACA3ED
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",DC956C0949E5CA05486F1583CEACA3ED"
 msgid "Busty"
 msgstr "巨乳"
@@ -12044,7 +12116,7 @@ msgstr "その訛りはどうしたの？"
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.TypeDisplay
 msgctxt ",DFC4AEBB489C5D9B74E6F79CC91F1DB0"
 msgid "Nephelym Barn"
-msgstr "ネフェリムの厩舎"
+msgstr "ネフィリムの厩舎"
 
 #. Key:	E01ADC7A41DCC8C65CA87E9C9561359D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(0).Lines
@@ -12160,7 +12232,8 @@ msgstr "あの新しい神殿が建ってしまうと、あそこの扉は封じ
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
 msgstr "ぬめぬめ: 遺伝的に、ぬめぬめした油性肌を持つ。"
@@ -12342,10 +12415,11 @@ msgstr "善きかな、@BREEDER_NAME@。汝、我が世界の虚空との繋が�
 
 #. Key:	E4F530D54D663ADF27773EB024081B52
 #. SourceLocation:	/Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
-#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
+#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script
+#: Bytecode]
 msgctxt ",E4F530D54D663ADF27773EB024081B52"
 msgid "Beautiful Pearl acquired."
-msgstr ""
+msgstr "綺麗な真珠を手に入れた。"
 
 #. Key:	E5058E9246E1827F928D6681023A71A0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(10).LinesToFemale
@@ -12440,7 +12514,8 @@ msgstr "賢き選択なり、人間よ。女神は更に多くのものを、野
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E663A2A8494081C671EA74A317740FAD"
 msgid "Atypical"
 msgstr "非標準体型"
@@ -12538,7 +12613,8 @@ msgstr "好色の聖窟への立ち入りが可能になった。"
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
 msgstr "エキゾチック: 遺伝的に、より獣人の特徴をもつ。"
@@ -12559,7 +12635,8 @@ msgstr ""
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
 msgstr "筋肉質"
@@ -12601,7 +12678,8 @@ msgstr "ワタシたちはあらゆる @MONSTER_RACE@ と交配するのが大�
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",E95C5DA945F5D8A92099E9892F4615A7"
 msgid "Amorous Hallows"
 msgstr "好色の聖窟"
@@ -12727,7 +12805,8 @@ msgstr "えぇ、そうですね。私はあなたの利用を承認できます
 
 #. Key:	EC01A5624439E2DDB75614A1656451DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EC01A5624439E2DDB75614A1656451DD"
 msgid "Hung: Inherited a larger dick."
 msgstr "巨根: 遺伝的に、大きな男性器を持つ。"
@@ -12786,7 +12865,7 @@ msgstr "感じなさい、ワタシの舌を。アナタのヒダを撫でるの
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(0).TextEntries
 msgctxt ",ECE1ACB84FCF8F8A06C64385D7909E98"
 msgid "We need another wild one to extract fluids from! You may think such a thing would be easy, but Falene and I go through... many fluids. Don't ask! Besides, I'm too small to do any real fluid harvesting remember?! That's what big human breeders are for. AND YES IN CASE YOU WERE WONDERING, I PINNED THIS ON THE BOARD MYSELF... using a box. I don't need any help from tall folk!!  -Camilla"
-msgstr "ワタシたち、液体を搾り取るための野性のネフェリムがもうひとり必要なんです！ そんなの簡単でしょ、なんて思うかもしれませんけど、ファリーンとワタシは……たくさんの液体を調査で使うので。質問は禁止！ それにワタシは小さすぎるんですよ、実際にちゃんと液体を採取するには。忘れてなかったですよね？！ そのために大きい人間のブリーダーがいるんですよ。あーはいはい、アナタが不思議に思ったらいけないので書いときまーすーけーどー、ワタシはこれを掲示板に自分で張ーりーまーしーたーかーらー……箱を使って。背の高い方々の助けなんてまったくいりません！！  -カミラ"
+msgstr "ワタシたち、液体を搾り取るための野性のネフィリムがもうひとり必要なんです！ そんなの簡単でしょ、なんて思うかもしれませんけど、ファリーンとワタシは……たくさんの液体を調査で使うので。質問は禁止！ それにワタシは小さすぎるんですよ、実際にちゃんと液体を採取するには。忘れてなかったですよね？！ そのために大きい人間のブリーダーがいるんですよ。あーはいはい、アナタが不思議に思ったらいけないので書いときまーすーけーどー、ワタシはこれを掲示板に自分で張ーりーまーしーたーかーらー……箱を使って。背の高い方々の助けなんてまったくいりません！！  -カミラ"
 
 #. Key:	ECE912E146D6A887F2F7C39091185320
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(0).Lines
@@ -12849,7 +12928,7 @@ msgstr "ファーンのお口、ちっちゃ……ああああ……ちっちゃ
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(10).TextEntries
 msgctxt ",EDFF0F6F4588A69F5A1D5EA8DB0A78AA"
 msgid "Falene and I are attempting to extract the magical essense from wild Nephelym, so that we might better understand what makes some of us blessed. We can't remember being born, so this is an ancient puzzle that you can help with. Whatever you can make, we can take!  -Camilla"
-msgstr "ファリーンとワタシは、野性のネフェリムから魔法のエッセンスを抽出しようと試行錯誤しています。そうすることで、もっと良く理解できる可能性があるからです、何がワタシたちの一部を祝福された個体にするのかが。ワタシたちは、生まれてくるときのことを思い出せません。ですから、これは太古からの難題であり、アナタが力添えできるものなのです。アナタが育てられるモノなら、ワタシたちなんでも受け取れます！  -カミラ"
+msgstr "ファリーンとワタシは、野性のネフィリムから魔法のエッセンスを抽出しようと試行錯誤しています。そうすることで、もっと良く理解できる可能性があるからです、何がワタシたちの一部を祝福された個体にするのかが。ワタシたちは、生まれてくるときのことを思い出せません。ですから、これは太古からの難題であり、アナタが力添えできるものなのです。アナタが育てられるモノなら、ワタシたちなんでも受け取れます！  -カミラ"
 
 #. Key:	EE11DC6C4F3DE85807004E93DB73A0B2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -12874,7 +12953,8 @@ msgstr "あぁ、ご主人様。わたしにたくさん飲ませてください
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
 msgstr "誘惑者: 魅力によって、交配時の経験値が一定の割合で増加する。"
@@ -13042,7 +13122,8 @@ msgstr ""
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
 msgstr "スモール（S）: 身長およそ 1.5 m。"
@@ -13185,7 +13266,7 @@ msgstr "すべてのスターフォールン派生を捕獲・飼育できるよ
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(1).Lines
 msgctxt ",F539C90E493265602920739266B04C87"
 msgid "Are you sure you want to give this to me? Oh... I don't know what to say."
-msgstr ""
+msgstr "ホントにこれ貰っちゃっていいの？ あぁ……なんて言ったらいいかわからない。"
 
 #. Key:	F5C8C3C7475F573785E31C934B9F38B9
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleRideYou.Default__KybeleRideYou_C.SessionData.Lines(1).Lines
@@ -13392,14 +13473,16 @@ msgstr "にゃああ！！！ キャシーはアンタをネコ精子でいっ�
 
 #. Key:	FA099D00490628CE02692F98F8341539
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FA099D00490628CE02692F98F8341539"
 msgid "Buxom"
 msgstr "巨尻"
 
 #. Key:	FA16663A4C4765BC8F4CBC80FF774B75
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
 msgstr "不潔: 交配相手が 20% の確率で汚れ、魅力が 50% 低下する。"
@@ -13612,7 +13695,7 @@ msgstr "私の玩具が気持ち良かったならいいんですけど。私た
 #: /Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(1).Lines
 msgctxt ",FCFE3B3D4F76E0D8BBC19BBF1F504CC6"
 msgid "It happens every time I open, you think I would have learned by now."
-msgstr ""
+msgstr "いつもこうなるのよ、殻を開くときは。いいかげんに学習してもいい頃よね。"
 
 #. Key:	FD102648460B4847C187CA85C454705B
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeMoreHoney.Default__BeeMoreHoney_C.SessionData.Lines(1).Lines
@@ -13623,7 +13706,8 @@ msgstr ""
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FD257CB04C6B3AB420244298D2C33047"
 msgid "Hornball"
 msgstr "どスケベ"
@@ -13640,7 +13724,7 @@ msgstr "そら、根っこはもうアンタの道をジャマしないはずだ
 #: /Game/Dialogue/Yasmine/Default/YasmineDefault02.Default__YasmineDefault02_C.SessionData.Lines(0).Lines
 msgctxt ",FD4609F340081E569544E6914EAA6434"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	FD467EAE4829745CF23D4BA9D511E423
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(2).Lines
@@ -13672,7 +13756,8 @@ msgstr "信じられないかもしれないけど、ワタシはもっと大き
 
 #. Key:	FD8011CC4C321FCEC4C41F88F97FDCD1
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
 msgstr "喘ぐ岩山"
@@ -13700,7 +13785,8 @@ msgstr "食べるためじゃありません、ヒルはワタシの小さな身
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FDBDE7714A97FE255B38A0BACEC479DB"
 msgid "Tiny Size"
 msgstr "タイニーサイズ"
@@ -13819,7 +13905,8 @@ msgstr "あっ、ワタシったらバカね、まだ自己紹介してないじ
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "巨乳: 遺伝的に、非常に大きな乳房を持つ。"
@@ -13836,7 +13923,7 @@ msgstr ""
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:230
 msgctxt "ASexyBreederCharacter,SpiritFormActivate"
 msgid "A Nephelym spirit has merged with {0}."
-msgstr "ネフェリムの精霊が、{0} とひとつになった。"
+msgstr "ネフィリムの精霊が、{0} とひとつになった。"
 
 #. Key:	SpiritFormDeactivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:236
@@ -14032,7 +14119,7 @@ msgstr "牧場屋敷"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:188
 msgctxt "ASexyOverworldInterface,Jungle"
 msgid "Sultry Plateau"
-msgstr "官能の台地"
+msgstr "熱情の台地"
 
 #. Key:	Lustwood
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:164
@@ -14067,7 +14154,7 @@ msgstr "彼女はもっと欲しがった……"
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:685
 msgctxt "ASexyRoamingSystem,BreederBoringCum"
 msgid "The wild one wanted more..."
-msgstr "野性のネフェリムは物足りないようだ……"
+msgstr "野性のネフィリムは物足りないようだ……"
 
 #. Key:	BreederClimaxedFirst
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:690
@@ -14081,14 +14168,14 @@ msgstr "{0} が先に達した……"
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:679
 msgctxt "ASexyRoamingSystem,BreederLikedCum"
 msgid "The wild one is pleased!"
-msgstr "野性のネフェリムは悦んでいる！"
+msgstr "野性のネフィリムは悦んでいる！"
 
 #. Key:	CatchSuccess
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:863
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:863
 msgctxt "ASexyRoamingSystem,CatchSuccess"
 msgid "The wild one has been captured."
-msgstr "野性のネフェリムを捕まえた。"
+msgstr "野性のネフィリムを捕まえた。"
 
 #. Key:	LikedCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:680
@@ -14116,7 +14203,7 @@ msgstr "サプライズ・セックス！"
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:691
 msgctxt "ASexyRoamingSystem,SurpriseSexSuccess"
 msgid "The wild one has climaxed first!"
-msgstr "野性のネフェリムが先に達した！"
+msgstr "野性のネフィリムが先に達した！"
 
 #. Key:	SameShrine
 #. SourceLocation:	Source/Radiant/Public/World/Travel/SexyTravelSystem.cpp:146
@@ -14346,21 +14433,31 @@ msgstr "新しい交配依頼が届いています。"
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:367
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:367
 msgctxt "ASexyWorldSystem,TraitRequirement"
-msgid " {0}\n {1}\n {2}"
+msgid ""
+" {0}\n"
+" {1}\n"
+" {2}"
 msgstr ""
 
 #. Key:	TraitRequirementFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 msgctxt "ASexyWorldSystem,TraitRequirementFluid"
-msgid " {0} {1}\n {2}ml\n"
-msgstr " {0} {1}\n {2}ml\n"
+msgid ""
+" {0} {1}\n"
+" {2}ml\n"
+msgstr ""
+" {0} {1}\n"
+" {2}ml\n"
 
 #. Key:	TraitRequirementStat
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:364
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:364
 msgctxt "ASexyWorldSystem,TraitRequirementStat"
-msgid " {0}\n {1}\n {2}{3}"
+msgid ""
+" {0}\n"
+" {1}\n"
+" {2}{3}"
 msgstr ""
 
 #. Key:	WidowElf
@@ -14829,8 +14926,12 @@ msgstr "妊娠"
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid " Progress toward summoning offspring.\n Milk production is doubled during pregnancy."
-msgstr " 子の召喚までの進行度。\n 妊娠中、ミルクの生産量は 2 倍になる。"
+msgid ""
+" Progress toward summoning offspring.\n"
+" Milk production is doubled during pregnancy."
+msgstr ""
+" 子の召喚までの進行度。\n"
+" 妊娠中、ミルクの生産量は 2 倍になる。"
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -15060,8 +15161,12 @@ msgstr "キャンセル"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid " Change this character's sex.\n WARNING: This will overwrite the current appearance."
-msgstr " このキャラクターの性別を変更する。\n 警告: 現在のキャラクターの姿を上書きします。"
+msgid ""
+" Change this character's sex.\n"
+" WARNING: This will overwrite the current appearance."
+msgstr ""
+" このキャラクターの性別を変更する。\n"
+" 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
@@ -15095,8 +15200,12 @@ msgstr "細部"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid " Give this character its exotic trait if one exists.\n WARNING: This will overwrite the current appearance."
-msgstr " このキャラクターに「エキゾチック」の特性を（存在すれば）与え、獣人の姿にする。\n 警告: 現在のキャラクターの姿を上書きします。"
+msgid ""
+" Give this character its exotic trait if one exists.\n"
+" WARNING: This will overwrite the current appearance."
+msgstr ""
+" このキャラクターに「エキゾチック」の特性を（存在すれば）与え、獣人の姿にする。\n"
+" 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	EyebrowMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:404
@@ -15179,8 +15288,12 @@ msgstr "髪"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 msgctxt "CharacterEditor,HominalTooltip"
-msgid " Give this character its hominal trait if one exists.\n WARNING: This will overwrite the current appearance."
-msgstr " このキャラクターに「人間的」の特性を（存在すれば）与え、人間的な姿にする。\n 警告: 現在のキャラクターの姿を上書きします。"
+msgid ""
+" Give this character its hominal trait if one exists.\n"
+" WARNING: This will overwrite the current appearance."
+msgstr ""
+" このキャラクターに「人間的」の特性を（存在すれば）与え、人間的な姿にする。\n"
+" 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:98
@@ -15200,8 +15313,12 @@ msgstr "スピリット・フォームの編集をやめる。"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid " Load a saved preset.\n WARNING: This will overwrite the current appearance."
-msgstr " セーブしたプリセットをロードする。\n 警告: 現在のキャラクターの姿を上書きします。"
+msgid ""
+" Load a saved preset.\n"
+" WARNING: This will overwrite the current appearance."
+msgstr ""
+" セーブしたプリセットをロードする。\n"
+" 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:366
@@ -15256,8 +15373,12 @@ msgstr "乳首"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
-msgid " Paste from clipboard.\n WARNING: This will overwrite the current appearance, and might look terrible on different variants."
-msgstr " クリップボードから貼り付ける。\n 警告: 現在のキャラクターの姿を上書きします。また、派生種が違う場合、ひどい見た目になるかもしれません。"
+msgid ""
+" Paste from clipboard.\n"
+" WARNING: This will overwrite the current appearance, and might look terrible on different variants."
+msgstr ""
+" クリップボードから貼り付ける。\n"
+" 警告: 現在のキャラクターの姿を上書きします。また、派生種が違う場合、ひどい見た目になるかもしれません。"
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
@@ -15361,8 +15482,12 @@ msgstr "トップス"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 msgctxt "CharacterEditor,VariantTooltip"
-msgid " Change this character's variant.\n WARNING: This will overwrite the current appearance."
-msgstr " このキャラクターの派生種を変更する。\n 警告: 現在のキャラクターの姿を上書きします。"
+msgid ""
+" Change this character's variant.\n"
+" WARNING: This will overwrite the current appearance."
+msgstr ""
+" このキャラクターの派生種を変更する。\n"
+" 警告: 現在のキャラクターの姿を上書きします。"
 
 #. Key:	ErrorSavingPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2441
@@ -15425,7 +15550,7 @@ msgstr "ゲームを終了しますか？"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:107
 msgctxt "ConfirmationBox,FulfillConfirm"
 msgid "The selected Nephelym will be given away."
-msgstr "選択したネフェリムを譲り渡します。"
+msgstr "選択したネフィリムを譲り渡します。"
 
 #. Key:	FulfillConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:106
@@ -15474,14 +15599,14 @@ msgstr "セーブデータを上書きしますか？"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:103
 msgctxt "ConfirmationBox,ReleaseConfirm"
 msgid "It will permanently leave your ranch and frolic once more."
-msgstr "このネフェリムはあなたの牧場から永遠に去り、野で再びはしゃぎ回ります。"
+msgstr "このネフィリムはあなたの牧場から永遠に去り、野で再びはしゃぎ回ります。"
 
 #. Key:	ReleaseConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 msgctxt "ConfirmationBox,ReleaseConfirmTitle"
 msgid "Release this Nephelym?"
-msgstr "このネフェリムを放しますか？"
+msgstr "このネフィリムを放しますか？"
 
 #. Key:	ReturnMainConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:95
@@ -15698,14 +15823,14 @@ msgstr "118 ml"
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:419
 msgctxt "HarvestWidget,UseMilkTooltip"
 msgid "Use 15 ml of milk in attempt to stimulate this wild Nephelym."
-msgstr "ミルクを 15 ml 使用して、この野性のネフェリムがその気になるよう試みる。"
+msgstr "ミルクを 15 ml 使用して、この野性のネフィリムがその気になるよう試みる。"
 
 #. Key:	UseSemenTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:404
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:404
 msgctxt "HarvestWidget,UseSemenTooltip"
 msgid "Use 5 ml of semen in attempt to stimulate this wild Nephelym."
-msgstr "精液を 5 ml 使用して、この野性のネフェリムがその気になるよう試みる。"
+msgstr "精液を 5 ml 使用して、この野性のネフィリムがその気になるよう試みる。"
 
 #. Key:	P
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:138
@@ -16223,7 +16348,7 @@ msgstr "この子をこのまま、牧場に加える。"
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:50
 msgctxt "Offspring,ReceiverWindowTitle"
 msgid "Nephelym Offspring"
-msgstr "ネフェリムの子"
+msgstr "ネフィリムの子"
 
 #. Key:	ReleaseButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:27
@@ -16489,7 +16614,7 @@ msgstr "身体の混成"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyCompositionHelp"
 msgid "Makes all wild Nephelym bodies random, and allows you to change them via items."
-msgstr "すべての野性のネフェリムの身体をランダム生成にし、アイテムによって身体を変化させることを可能にする。"
+msgstr "すべての野性のネフィリムの身体をランダム生成にし、アイテムによって身体を変化させることを可能にする。"
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
@@ -16580,7 +16705,7 @@ msgstr "エキゾチックなメス"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
 msgctxt "SettingsMenu,FeralFemalesHelp"
 msgid "Female and futa Nephelym can have a trait that alters their appearance to be more monster than human. Males are always exotic."
-msgstr "メスとふたなりのネフェリムが、人間的ではない獣人の姿になる特性を許可する。オスは常にエキゾチックとなる。"
+msgstr "メスとふたなりのネフィリムが、人間的ではない獣人の姿になる特性を許可する。オスは常にエキゾチックとなる。"
 
 #. Key:	Futanari
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
@@ -16594,7 +16719,7 @@ msgstr "ふたなり"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
 msgctxt "SettingsMenu,FutanariHelp"
 msgid "Female Nephelym and NPCs can have a fully functional dick."
-msgstr "メスのネフェリムとNPCが、完全に機能する男性器を持つことがある。"
+msgstr "メスのネフィリムとNPCが、完全に機能する男性器を持つことがある。"
 
 #. Key:	GameplayTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:54
@@ -16622,7 +16747,7 @@ msgstr "人間的なメス"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
 msgctxt "SettingsMenu,HominalFemalesHelp"
 msgid "Female and futa Nephelym can have a trait that alters their appearance to be more human than monster."
-msgstr "メスとふたなりのネフェリムが、獣人ではない人間的な姿になる特性を許可する。"
+msgstr "メスとふたなりのネフィリムが、獣人ではない人間的な姿になる特性を許可する。"
 
 #. Key:	KeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
@@ -16657,7 +16782,7 @@ msgstr "すべてのオスをふたなりに"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 msgctxt "SettingsMenu,MalesFutasHelp"
 msgid "With the exception of the male breeder, all male Nephelym will be replaced with futas."
-msgstr "すべてのオスのネフェリムがふたなりに置き換わる。男性ブリーダーは例外となる。"
+msgstr "すべてのオスのネフィリムがふたなりに置き換わる。男性ブリーダーは例外となる。"
 
 #. Key:	MasterVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
@@ -16712,8 +16837,12 @@ msgstr "妊娠"
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 msgctxt "SettingsMenu,PregnancyHelp"
-msgid " Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\n WARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr " メスのネフェリムが子を召喚するのに4日間必要となり、腹部はそれを反映して変化する。\n 警告: この項目をゲームプレイ中にオフにした場合、現在適用されている妊娠状態は失われます。"
+msgid ""
+" Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\n"
+" WARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
+msgstr ""
+" メスのネフィリムが子を召喚するのに4日間必要となり、腹部はそれを反映して変化する。\n"
+" 警告: この項目をゲームプレイ中にオフにした場合、現在適用されている妊娠状態は失われます。"
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -16958,7 +17087,7 @@ msgstr "特別な依頼"
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:183
 msgctxt "SSexyGenericMenu,TaskMonsterWindowTitle"
 msgid "Select Nephelym to Fulfill Task"
-msgstr "依頼を達成するネフェリムの選択"
+msgstr "依頼を達成するネフィリムの選択"
 
 #. Key:	TaskWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:100
@@ -16993,14 +17122,14 @@ msgstr "キーを押してください"
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:126
 msgctxt "SSexyMonsterMenu,CollapseStats"
 msgid "Hide detailed stats for selected Nephelym."
-msgstr "選択したネフェリムの能力値詳細を隠す。"
+msgstr "選択したネフィリムの能力値詳細を隠す。"
 
 #. Key:	ExpandStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
 msgctxt "SSexyMonsterMenu,ExpandStats"
 msgid "View detailed stats for selected Nephelym."
-msgstr "選択したネフェリムの能力値詳細を見る。"
+msgstr "選択したネフィリムの能力値詳細を見る。"
 
 #. Key:	ManageWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
@@ -17070,21 +17199,21 @@ msgstr "捕獲する"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
 msgctxt "SSexyRoamerMenu,CatchButtonTooltip"
 msgid "Add this wild Nephelym to your collection."
-msgstr "この野性のネフェリムをコレクションに加える。"
+msgstr "この野性のネフィリムをコレクションに加える。"
 
 #. Key:	CollapseStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 msgctxt "SSexyRoamerMenu,CollapseStats"
 msgid "Hide detailed stats for this wild Nephelym."
-msgstr "この野性のネフェリムの能力値詳細を隠す。"
+msgstr "この野性のネフィリムの能力値詳細を隠す。"
 
 #. Key:	ExpandStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 msgctxt "SSexyRoamerMenu,ExpandStats"
 msgid "View detailed stats for this wild Nephelym."
-msgstr "この野性のネフェリムの能力値詳細を見る。"
+msgstr "この野性のネフィリムの能力値詳細を見る。"
 
 #. Key:	ItemWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
@@ -17105,14 +17234,14 @@ msgstr "立ち去る"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
 msgctxt "SSexyRoamerMenu,LeaveButtonTooltip"
 msgid "Leave this wild Nephelym alone."
-msgstr "この野性のネフェリムを放っておく。"
+msgstr "この野性のネフィリムを放っておく。"
 
 #. Key:	Nephelym
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 msgctxt "SSexyRoamerMenu,Nephelym"
 msgid "Nephelym:"
-msgstr "ネフェリム:"
+msgstr "ネフィリム:"
 
 #. Key:	RBJ
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
