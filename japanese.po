@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-10-31 17:28\n"
-"PO-Revision-Date: 2021-01-19 01:01+0900\n"
+"PO-Revision-Date: 2021-01-19 01:33+0900\n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +55,7 @@ msgstr "このちっこい革の道具ベルトじゃ、アタシのバター棒
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",00D1AE354BA8FEC1FB7DB5A02D3F12AA"
 msgid "Ahh... oh! Ahem."
-msgstr ""
+msgstr "あぁぁ……んンッ！ オホン。"
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -10076,7 +10076,7 @@ msgstr ""
 #: /Game/Dialogue/QueenBee/Default/BeeAboutBees.Default__BeeAboutBees_C.SessionData.Lines(1).Lines
 msgctxt ",B92677C94581B16A61827CA24E811637"
 msgid "To harvest it, a queen will produce worker bee daughters who then mix the nectar with their breast milk."
-msgstr ""
+msgstr "花蜜の収穫のために、女王は働き蜂の娘を産みます。そしてその娘たちは、花蜜と自らの母乳を混ぜ合わせます。"
 
 #. Key:	B98DBFC944D984D0B00D708EE1B9AB94
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -10328,7 +10328,7 @@ msgstr "あなたが @MONSTER_RACE@ の捕まえ方を教えてくれるって�
 #: /Game/Dialogue/QueenBee/Default/BeeTaskFulfilled.Default__BeeTaskFulfilled_C.SessionData.Lines(3).Lines
 msgctxt ",BF0DF5C24AC9872B58BA689D790CE436"
 msgid "The keystone now belongs to you."
-msgstr ""
+msgstr "キーストーンの所有権はもう、そなたのものです。"
 
 #. Key:	BF4DCF6B4CBF1E3FAE0D139E494C7673
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.RaceName
@@ -10462,7 +10462,7 @@ msgstr ""
 #: /Game/Dialogue/QueenBee/Default/BeeDefault01_RL.Default__BeeDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",C129394C4F9E7B6D0EF3EF87678D5D3B"
 msgid "If I must..."
-msgstr ""
+msgstr "それがお望みとあらば……"
 
 #. Key:	C156402F4738F87B9C9392A5443BE29F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
@@ -10764,7 +10764,7 @@ msgstr "最適な性体験を得るにはどのような体勢をとればよい
 #: /Game/Dialogue/QueenBee/Default/BeeMasturbate.Default__BeeMasturbate_C.SessionData.Lines(4).Lines
 msgctxt ",C8F56B5143EC7D77BCE3D483F91BD832"
 msgid "Of course we do... we must. Ahhh..."
-msgstr ""
+msgstr "もちろん皆してますよ……するに決まってます。はぁぁン……"
 
 #. Key:	C905E77348FA5208DABFD693A69EEBA4
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiIdiots.Default__FesssiIdiots_C.SessionData.Lines(5).Lines
@@ -10778,7 +10778,7 @@ msgstr ""
 #: /Game/Dialogue/QueenBee/Default/BeeMasturbate.Default__BeeMasturbate_C.SessionData.Lines(0).Lines
 msgctxt ",C90FBEEB4770B7951F9099B01096A1B0"
 msgid "What... ahhh... a silly thing to ask... ohhh."
-msgstr ""
+msgstr "なんと……あはぁぁ……愚かな質問でしょう……んんんンッ。"
 
 #. Key:	C91B08354F7D144D174BCB8A2C8384CF
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(5).Lines
@@ -10982,7 +10982,7 @@ msgstr ""
 #: /Game/Dialogue/QueenBee/Default/BeeAboutBees.Default__BeeAboutBees_C.SessionData.Lines(2).Lines
 msgctxt ",CDEBE2FD40DC775E9639A299E9BF3B83"
 msgid "When consumed by the queen, the mixture will cause her breasts to grow and make honey. Only the queen's breasts can produce honey."
-msgstr ""
+msgstr "この混合物を女王が摂取すると、乳房が成長して蜂蜜を生成するようになります。女王の乳房のみが、蜂蜜を出せるのです。"
 
 #. Key:	CDF29C5A40823CB4D1E542912EBC57B8
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcTribeSucks.Default__OrcTribeSucks_C.SessionData.Lines(0).Lines
@@ -11053,7 +11053,7 @@ msgstr "本当にちゃんと上手くやれるんだな、人の子よ？"
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",CEB5AB8346357320346305B899A9C7BB"
 msgid "Long ago, large flowers grew here. The nectar they produced was worthy of the Goddess Herself."
-msgstr ""
+msgstr "大昔、ここには大きな花たちが咲き誇っていました。その花蜜は、女神の御心にかなうものでした。"
 
 #. Key:	CEC4092D45D0DBE6546A729EE34F0267
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
@@ -12397,7 +12397,7 @@ msgstr "1,000 年近く成長を続けてるよ……ひとりぼっちで……
 #: /Game/Dialogue/QueenBee/Default/BeeDefault02_RL.Default__BeeDefault02_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",E4BB37CF496E2ECB97F60B861C42188F"
 msgid "Tell me about bees."
-msgstr ""
+msgstr "ビーについて教えて。"
 
 #. Key:	E4C07523420122C952973D869A7F228C
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL2.Default__DMDefault_RL2_C.ResponseData(2).ResponseData.BreederPrompt
@@ -12525,7 +12525,7 @@ msgstr "非標準体型"
 #: /Game/Dialogue/QueenBee/Default/BeeMoreHoney.Default__BeeMoreHoney_C.SessionData.Lines(0).Lines
 msgctxt ",E6729AE74984F181641135921F97D449"
 msgid "Ahhh yes... I knew you wouldn't be able to resist."
-msgstr ""
+msgstr "はぁぁン、いいでしょう……そなたが我慢できないことはわかっていましたよ。"
 
 #. Key:	E69826E04F46B36F08DF61ADC6BE1350
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(0).Lines
@@ -12595,7 +12595,7 @@ msgstr "デーモンたちは、彼ら自身の生命体を創り始めました
 #: /Game/Dialogue/QueenBee/Default/BeeAboutBees.Default__BeeAboutBees_C.SessionData.Lines(3).Lines
 msgctxt ",E82ABEEB4DFDC274912B3E9EA8ECF8F2"
 msgid "At the end of each day, the worker bees will milk the queen and store the honey in jars and combs."
-msgstr ""
+msgstr "一日の終わりには、働き蜂たちが女王の乳を搾り、搾った蜂蜜を瓶と巣に蓄えます。"
 
 #. Key:	E82D05B04D7461ACFB177EBE4ED8C772
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.EM_OrcSwitch.Message
@@ -12844,7 +12844,7 @@ msgstr "長いあいだ閉められてたんだよ。"
 #: /Game/Dialogue/QueenBee/Default/BeeGreeting02.Default__BeeGreeting02_C.SessionData.Lines(0).Lines
 msgctxt ",EC82D74441832F387397BE94F0621215"
 msgid "Kneel before your queen... ahhh.... ohhh..."
-msgstr ""
+msgstr "女王の前にひざまずくのです……はあぁン……うぅぅン……"
 
 #. Key:	EC9757E141CD427BCC7326B974A16B82
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(4).Lines
@@ -13702,7 +13702,7 @@ msgstr "いつもこうなるのよ、殻を開くときは。いいかげんに
 #: /Game/Dialogue/QueenBee/Default/BeeMoreHoney.Default__BeeMoreHoney_C.SessionData.Lines(1).Lines
 msgctxt ",FD102648460B4847C187CA85C454705B"
 msgid "Kneel and suck human. Engorge yourself on my honey, for it pleases me greatly."
-msgstr ""
+msgstr "ひざまずき、しゃぶりなさい、人の子よ。私の蜂蜜でそなたを満たすのです。それが私の大きな悦びとなるのですから。"
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
