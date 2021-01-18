@@ -13,9 +13,8 @@ There is a channel dedicated for discussing translations. Let me know in Discord
 https://discord.gg/6DpR6sb
 
 ### Stringfish の翻訳進行状況・予定
-（2021/01/18）  
-Yasmine、Mega Slime 及び Fern の0.747追加分を更新しました。  
-ローカルでは Queen Bee の0.747追加分が翻訳済みです。リポジトリへの反映は少々お待ちください…  
+（2021/01/19）  
+Queen Bee 及び Autumn の0.747追加分の一部を更新しました。  
 今後は Autumn 0.747 追加分→Apopha Fesssi…で翻訳の予定です。  
 その後もおおむねゲート開放順で翻訳を行っていくと思います。
 
